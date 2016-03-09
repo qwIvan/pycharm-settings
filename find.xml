@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'android'" />
-    <option name="defaultScopeName" value="Project 'android'" />
-    <option name="SEARCH_SCOPE" value="Project 'android'" />
+    <option name="customScope" value="File '/home/ivan/haituke/platforms/android/libs/EZOpenSDK.jar'" />
+    <option name="defaultScopeName" value="File '/home/ivan/haituke/platforms/android/libs/EZOpenSDK.jar'" />
+    <option name="SEARCH_SCOPE" value="File '/home/ivan/haituke/platforms/android/libs/EZOpenSDK.jar'" />
   </component>
 </application>
