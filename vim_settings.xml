@@ -3,9 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1459221926269">
-        <mark key="'" line="395" column="8" />
-        <mark key="[" line="416" column="41" />
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1459222724366">
+        <mark key="'" line="439" column="8" />
+        <mark key="[" line="432" column="43" />
+        <mark key="]" line="432" column="43" />
+        <mark key="^" line="432" column="43" />
+        <mark key="." line="432" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -16,6 +19,9 @@
       <jump line="219" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="311" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="395" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="408" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="388" column="4" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="439" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
     </jumps>
     <registers>
       <register name="1" type="4">
@@ -55,6 +61,7 @@
         <entry>try</entry>
         <entry>probeDevi</entry>
       </history-search>
+      <history-cmd />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
