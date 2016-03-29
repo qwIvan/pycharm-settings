@@ -3,23 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1459244066841" />
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/res/layout/add_camera_by_series_number_page.xml" timestamp="1459243594205" />
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" timestamp="1459234708626">
-        <mark key="'" line="367" column="0" />
-      </file>
-      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/app/Dialog.java" timestamp="1459235590506">
-        <mark key="'" line="91" column="12" />
-      </file>
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/scan/main/CaptureActivity.java" timestamp="1459243439704">
-        <mark key="'" line="184" column="17" />
-      </file>
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1459244196782">
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1459266139697">
         <mark key="'" line="137" column="22" />
-        <mark key="[" line="1153" column="27" />
-        <mark key="]" line="1153" column="27" />
-        <mark key="^" line="1153" column="27" />
-        <mark key="." line="1153" column="27" />
+        <mark key="[" line="414" column="27" />
+        <mark key="]" line="602" column="17" />
+        <mark key="^" line="602" column="17" />
+        <mark key="." line="602" column="17" />
       </file>
       <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1459242138980">
         <mark key="'" line="123" column="39" />
@@ -33,10 +22,17 @@
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="8" />
       </file>
-      <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" timestamp="1459242179777" />
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/res/layout/capture_activity.xml" timestamp="1459243323612" />
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/widget/TextView.java" timestamp="1459235592502">
         <mark key="'" line="245" column="13" />
+      </file>
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" timestamp="1459234708626">
+        <mark key="'" line="367" column="0" />
+      </file>
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/app/Dialog.java" timestamp="1459235590506">
+        <mark key="'" line="91" column="12" />
+      </file>
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/scan/main/CaptureActivity.java" timestamp="1459243439704">
+        <mark key="'" line="184" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -132,10 +128,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>groovy_console_2</text>
       </register>
       <register name="-" type="4">
-        <text>TransferAPI.secureValidate</text>
+        <text>groovy_console_2</text>
       </register>
       <register name="/" type="4">
         <text>secureValidate</text>
@@ -143,32 +139,32 @@
       <register name="0" type="4">
         <text>g</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>groovy_console_2</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGgyYy55aW5nc2hpLmFuZHJvaWQuYXBpLlRyYW5zZmVyQVBJOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>TransferAPI.secureValidate</text>
-      </register>
       <register name="3" type="4">
-        <text>TransferAPI.</text>
+        <text>TransferAPI.secureValidate</text>
       </register>
       <register name="4" type="4">
-        <text>TransferAPI.secureValidate</text>
+        <text>TransferAPI.</text>
       </register>
       <register name="5" type="4">
-        <text>T</text>
+        <text>TransferAPI.secureValidate</text>
       </register>
       <register name="6" type="4">
-        <text>TransferAPI.openYSService</text>
+        <text>T</text>
       </register>
       <register name="7" type="4">
-        <text>TransferAPI.openYSServiceSmsCode</text>
+        <text>TransferAPI.openYSService</text>
       </register>
       <register name="8" type="4">
-        <text>TransferAPI</text>
+        <text>TransferAPI.openYSServiceSmsCode</text>
       </register>
       <register name="9" type="4">
-        <text>T</text>
+        <text>TransferAPI</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -203,6 +199,8 @@
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -249,6 +247,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
