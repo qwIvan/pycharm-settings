@@ -3,18 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1459222724366">
-        <mark key="'" line="439" column="8" />
-        <mark key="[" line="432" column="43" />
-        <mark key="]" line="432" column="43" />
-        <mark key="^" line="432" column="43" />
-        <mark key="." line="432" column="43" />
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1459236381147">
+        <mark key="'" line="870" column="49" />
+        <mark key="[" line="1153" column="27" />
+        <mark key="]" line="1153" column="27" />
+        <mark key="^" line="1153" column="27" />
+        <mark key="." line="1153" column="27" />
+      </file>
+      <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1459237817943">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="141" column="9" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/widget/TextView.java" timestamp="1459235592502">
+        <mark key="'" line="245" column="13" />
+      </file>
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" timestamp="1459234708626">
+        <mark key="'" line="367" column="0" />
+      </file>
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/app/Dialog.java" timestamp="1459235590506">
+        <mark key="'" line="91" column="12" />
       </file>
     </filemarks>
     <jumps>
       <jump line="244" column="5" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="151" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="300" column="26" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="393" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="219" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="311" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
@@ -22,46 +37,140 @@
       <jump line="408" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="388" column="4" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="439" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="417" column="24" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="442" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="539" column="24" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="639" column="4" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="482" column="20" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="409" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="27" column="23" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/util/LogUtil.class" />
+      <jump line="419" column="26" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="465" column="20" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="414" column="39" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="416" column="39" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="389" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="313" column="20" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="131" column="4" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="39" column="24" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="951" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="881" column="20" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="730" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="724" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="704" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="753" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="729" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="1144" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="1009" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="721" column="22" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="1011" column="22" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="371" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" />
+      <jump line="414" column="67" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" />
+      <jump line="415" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" />
+      <jump line="368" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" />
+      <jump line="367" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" />
+      <jump line="720" column="22" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="660" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="735" column="29" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="675" column="58" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="659" column="33" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="1155" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="1151" column="29" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="1157" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="1141" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="91" column="12" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/app/Dialog.java" />
+      <jump line="245" column="13" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/widget/TextView.java" />
+      <jump line="1103" column="21" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="1145" column="4" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="300" column="26" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="413" column="21" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="432" column="21" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="420" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="85" column="26" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/api/TransferAPI.java" />
+      <jump line="418" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="870" column="49" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="123" column="35" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="142" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="236" column="0" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">aW4g</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW4g</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">VmltIA==</text>
-      </register>
-      <register name="3" type="4">
-        <text>Emula</text>
-      </register>
-      <register name="4" type="4">
-        <text>MSG_QUERY_CAMERA_FAIL</text>
-      </register>
-      <register name="5" type="4">
-        <text>_CAMERA_FAIL</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGgyYy55aW5nc2hpLmFuZHJvaWQuYXBpLlRyYW5zZmVyQVBJOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW4g</text>
+        <text>TransferAPI.secureValidate</text>
       </register>
       <register name="/" type="4">
-        <text>probeDevi</text>
+        <text>secureValidate</text>
+      </register>
+      <register name="0" type="4">
+        <text>TransferAPI</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGgyYy55aW5nc2hpLmFuZHJvaWQuYXBpLlRyYW5zZmVyQVBJOwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>TransferAPI.secureValidate</text>
+      </register>
+      <register name="3" type="4">
+        <text>TransferAPI.</text>
+      </register>
+      <register name="4" type="4">
+        <text>TransferAPI.secureValidate</text>
+      </register>
+      <register name="5" type="4">
+        <text>T</text>
+      </register>
+      <register name="6" type="4">
+        <text>TransferAPI.openYSService</text>
+      </register>
+      <register name="7" type="4">
+        <text>TransferAPI.openYSServiceSmsCode</text>
+      </register>
+      <register name="8" type="4">
+        <text>TransferAPI</text>
+      </register>
+      <register name="9" type="4">
+        <text>T</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>probeDevi</last-search>
+      <last-search>secureValidate</last-search>
       <last-offset />
-      <last-pattern>probeDevi</last-pattern>
+      <last-pattern>secureValidate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry encoding="base64">XDxzZW5kTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxMb2dVdGlsXD4=</entry>
         <entry>try</entry>
         <entry>probeDevi</entry>
+        <entry>addD</entry>
+        <entry>TransferAPI</entry>
+        <entry>secureValidate</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>p</entry>
+        <entry>c</entry>
+        <entry>clo</entry>
+        <entry>split</entry>
+        <entry>vsplite</entry>
+        <entry>n</entry>
+        <entry>N</entry>
+        <entry>e!</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -77,10 +186,37 @@
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
