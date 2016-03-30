@@ -22,12 +22,12 @@
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1459304131662">
         <mark key="'" line="392" column="23" />
       </file>
-      <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1459304759219">
-        <mark key="'" line="226" column="21" />
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="265" column="33" />
-        <mark key="." line="265" column="33" />
-        <mark key="^" line="265" column="33" />
+      <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1459306123638">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="114" column="15" />
       </file>
       <file name="$USER_HOME$/haituke/platforms/android/build.gradle" timestamp="1459239585514">
         <mark key="'" line="0" column="1" />
@@ -51,47 +51,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="393" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="219" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="311" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="395" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="408" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="388" column="4" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="439" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="417" column="24" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="442" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="539" column="24" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="639" column="4" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="482" column="20" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="409" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="27" column="23" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/util/LogUtil.class" />
-      <jump line="419" column="26" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="465" column="20" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="414" column="39" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="416" column="39" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="389" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="313" column="20" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="131" column="4" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="39" column="24" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="951" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="881" column="20" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="730" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="724" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="704" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="753" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="729" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="1144" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="1009" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="721" column="22" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="1011" column="22" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="371" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" />
-      <jump line="414" column="67" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" />
-      <jump line="415" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" />
-      <jump line="368" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" />
-      <jump line="367" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" />
       <jump line="720" column="22" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="660" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="735" column="29" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
@@ -151,55 +110,96 @@
       <jump line="226" column="21" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
       <jump line="392" column="23" filename="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" />
       <jump line="1014" column="26" filename="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" />
+      <jump line="239" column="12" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="266" column="23" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="258" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="228" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="54" column="19" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="103" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="105" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="112" column="12" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="114" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="119" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="137" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="140" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="148" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="155" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="164" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="172" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="182" column="20" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="189" column="20" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="193" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="205" column="20" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="209" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="214" column="38" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="221" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="262" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="268" column="12" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="289" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="292" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="78" column="12" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="85" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="87" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="89" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="91" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="93" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="95" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="97" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="99" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="101" column="16" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="271" column="19" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxiYWNrQ29udGV4dC5zdWNjZXNzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>secureValidate</text>
+        <text>return fal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpTT05PYmplY3QganNvbiA9IG5ldyBKU09OT2JqZWN0KCk7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGpzb24ucHV0KCJzdWNjZXNzIix0cnVlKTsKICAgICAgICAgICAgICAgICAgICBqc29uLnB1dCgiZGV2aWNlSW5mbyIsZGV2aWNlSW5mbyk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgIGNhbGxiYWNrQ29udGV4dC5lcnJvcihlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjYWxsYmFja0NvbnRleHQuc3VjY2Vzcyhqc29uKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxiYWNrQ29udGV4dC5zdWNjZXNzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0K</text>
       </register>
       <register name="2" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqc29uLnB1dCgiZGV2aWNlSW5mbyIsZGV2aWNlSW5mbyk7Cg==</text>
+      <register name="3" type="4">
+        <text>false</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+      <register name="4" type="4">
+        <text>false</text>
       </register>
-      <register name="5" type="4">
-        <text>deviceInfo</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>deviceInfo</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBkZXZpY2VJbmZvID0gSlNPTi50b0pTT05TdHJpbmcoZGV2aWNlSW5mbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBtZXNzYWdlID0gSlNPTi50b0pTT05TdHJpbmcoZGV2aWNlSW5mbyk7Cg==</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHZvaWQgb25EZXZpY2VGb3VuZChEZXZpY2VJbmZvIGRldmljZUluZm8pIHsKICAgICAgICAgICAgICAgIGNhbGxiYWNrQ29udGV4dCwzCg==</text>
+      <register name="9" type="4">
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>secureValidate</last-search>
+      <last-search>return fal</last-search>
       <last-offset />
-      <last-pattern>secureValidate</last-pattern>
+      <last-pattern>return fal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -212,6 +212,9 @@
         <entry>addD</entry>
         <entry>TransferAPI</entry>
         <entry>secureValidate</entry>
+        <entry>return</entry>
+        <entry>return false</entry>
+        <entry>return fal</entry>
       </history-search>
       <history-cmd>
         <entry>p</entry>
