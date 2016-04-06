@@ -3,16 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1459910284552">
-        <mark key="'" line="1012" column="37" />
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiNetConfigActivity.java" timestamp="1459910901212">
+        <mark key="'" line="194" column="46" />
+      </file>
+      <file name="$USER_HOME$/haituke/platforms/android/platform_www/plugins/YingShi/yingshi.js" timestamp="1459302189732">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" timestamp="1459234708626">
+        <mark key="'" line="367" column="0" />
+      </file>
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/app/Dialog.java" timestamp="1459235590506">
+        <mark key="'" line="91" column="12" />
+      </file>
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/scan/main/CaptureActivity.java" timestamp="1459243439704">
+        <mark key="'" line="184" column="17" />
+      </file>
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiPrepareStepOneActivity.java" timestamp="1459910559813">
+        <mark key="'" line="110" column="42" />
+      </file>
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" timestamp="1459911070857">
+        <mark key="'" line="317" column="23" />
+      </file>
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1459910521231">
+        <mark key="'" line="281" column="69" />
         <mark key="[" line="168" column="45" />
       </file>
       <file name="$USER_HOME$/haituke/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1459307931085">
         <mark key="[" line="68" column="41" />
         <mark key="]" line="68" column="57" />
-      </file>
-      <file name="$USER_HOME$/haituke/platforms/android/platform_www/plugins/YingShi/yingshi.js" timestamp="1459302189732">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1459304131662">
         <mark key="'" line="392" column="23" />
@@ -35,41 +53,8 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/widget/TextView.java" timestamp="1459235592502">
         <mark key="'" line="245" column="13" />
       </file>
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZConstants.class" timestamp="1459234708626">
-        <mark key="'" line="367" column="0" />
-      </file>
-      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/app/Dialog.java" timestamp="1459235590506">
-        <mark key="'" line="91" column="12" />
-      </file>
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/scan/main/CaptureActivity.java" timestamp="1459243439704">
-        <mark key="'" line="184" column="17" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="26" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="432" column="21" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="420" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="85" column="26" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/api/TransferAPI.java" />
-      <jump line="418" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="142" column="8" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
-      <jump line="23" column="0" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
-      <jump line="0" column="1" filename="$USER_HOME$/haituke/platforms/android/build.gradle" />
-      <jump line="123" column="39" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
-      <jump line="177" column="32" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/scan/main/CaptureActivity.java" />
-      <jump line="130" column="0" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="870" column="49" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="184" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/scan/main/CaptureActivity.java" />
-      <jump line="272" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="426" column="14" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="407" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="936" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="413" column="20" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="436" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="459" column="10" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="470" column="23" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="642" column="23" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="661" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="949" column="5" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="214" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="190" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="137" column="22" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
@@ -145,7 +130,31 @@
       <jump line="1009" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="1011" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
       <jump line="950" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
-      <jump line="1012" column="37" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="1012" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="117" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="216" column="37" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="281" column="69" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="110" column="42" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiPrepareStepOneActivity.java" />
+      <jump line="67" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiNetConfigActivity.java" />
+      <jump line="205" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiNetConfigActivity.java" />
+      <jump line="307" column="51" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="310" column="10" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="194" column="46" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiNetConfigActivity.java" />
+      <jump line="311" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="359" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="313" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="535" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="314" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="554" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="895" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="581" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="319" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="805" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="323" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="571" column="12" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="1010" column="16" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="317" column="23" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
+      <jump line="873" column="17" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
