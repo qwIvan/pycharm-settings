@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" timestamp="1460351108784">
         <mark key="'" line="60" column="82" />
       </file>
-      <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/Qiang.java" timestamp="1460356859770">
+      <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/Qiang.java" timestamp="1460358756953">
         <mark key="'" line="14" column="41" />
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="42" />
-        <mark key="^" line="14" column="42" />
-        <mark key="." line="14" column="42" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="^" line="20" column="4" />
+        <mark key="." line="20" column="4" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/AndroidManifest.xml" timestamp="1460349242272">
         <mark key="'" line="34" column="47" />
@@ -67,41 +67,44 @@
       <jump line="149" column="12" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>}</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmFjY2Vzc2liaWxpdHlzZXJ2aWNlLkFjY2Vzc2liaWxpdHlTZXJ2aWNlIi8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIElCaW5kZXIgb25CaW5kKEludGVudCBpbnRlbnQpIHsKICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4KICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsKICAgIH0K</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIElCaW5kZXIgb25CaW5kKEludGVudCBpbnRlbnQpIHsKICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4KICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsKICAgIH0K</text>
+      <register name="1" type="4">
+        <text>}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIElCaW5kZXIgb25CaW5kKEludGVudCBpbnRlbnQpIHsKICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4KICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsKICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
         <text>&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpleHBvcnRlZD0iZmFsc2UiPjwvc2VydmljZT4K</text>
+      <register name="5" type="4">
+        <text>&quot;</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpleHBvcnRlZD0iZmFsc2UiPjwvc2VydmljZT4K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbmFibGVkPSJ0cnVlIgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>false</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBPYmplY3Qgc3lzdGVtU2VydmljZSA9IGdldFN5c3RlbVNlcnZpY2UoQ29udGV4dC5BQ0NFU1NJQklMSVRZX1NFUlZJQ0UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
-      </register>
-      <register name="-" type="4">
-        <text>&quot;</text>
       </register>
     </registers>
     <search>
