@@ -16,6 +16,9 @@
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" timestamp="1460351108784">
         <mark key="'" line="60" column="82" />
       </file>
+      <file name="/Dummy.txt" timestamp="1460362158226">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/Qiang.java" timestamp="1460360758245">
         <mark key="'" line="14" column="41" />
         <mark key="[" line="20" column="4" />
@@ -23,21 +26,28 @@
         <mark key="^" line="20" column="4" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/AndroidManifest.xml" timestamp="1460349242272">
-        <mark key="'" line="34" column="47" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="28" />
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/AndroidManifest.xml" timestamp="1460362188481">
+        <mark key="'" line="40" column="56" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="40" column="74" />
+      </file>
+      <file name="$USER_HOME$/LuckyMoney/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460362206076">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1460360456103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/LuckyMoney/app/src/main/AndroidManifest.xml" timestamp="1460348939110">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/LuckyMoney/app/src/main/AndroidManifest.xml" timestamp="1460362150626">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="67" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460352412923">
-        <mark key="[" line="6" column="41" />
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460362194491">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -56,7 +66,6 @@
       <jump line="109" column="16" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/AndroidManifest.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/AndroidManifest.xml" />
-      <jump line="40" column="47" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/AndroidManifest.xml" />
       <jump line="39" column="47" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/AndroidManifest.xml" />
       <jump line="34" column="47" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/AndroidManifest.xml" />
       <jump line="12" column="4" filename="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/MainActivity.java" />
@@ -68,43 +77,46 @@
       <jump line="14" column="41" filename="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/Qiang.java" />
       <jump line="60" column="82" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="149" column="12" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
+      <jump line="40" column="56" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/AndroidManifest.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/xml/accessible_service_config.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/LuckyMoney/app/src/main/res/xml/accessible_service_config.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6ZGVzY3JpcHRpb249IkBzdHJpbmcvYXBwX2Rlc2NyaXB0aW9uIgo=</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmFjY2Vzc2liaWxpdHlzZXJ2aWNlLkFjY2Vzc2liaWxpdHlTZXJ2aWNlIi8+CiAgICAgICAgICAgIDwvaW50ZW50LWZpbHRlcj4K</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGFjY2Vzc2liaWxpdHktc2VydmljZQogICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgYW5kcm9pZDpkZXNjcmlwdGlvbj0iQHN0cmluZy9hcHBfZGVzY3JpcHRpb24iCiAgICBhbmRyb2lkOmFjY2Vzc2liaWxpdHlFdmVudFR5cGVzPSJ0eXBlV2luZG93U3RhdGVDaGFuZ2VkfHR5cGVXaW5kb3dDb250ZW50Q2hhbmdlZHx0eXBlTm90aWZpY2F0aW9uU3RhdGVDaGFuZ2VkIgogICAgYW5kcm9pZDphY2Nlc3NpYmlsaXR5RmVlZGJhY2tUeXBlPSJmZWVkYmFja0FsbE1hc2siCiAgICBhbmRyb2lkOnBhY2thZ2VOYW1lcz0iY29tLnRlbmNlbnQubW0iCiAgICBhbmRyb2lkOm5vdGlmaWNhdGlvblRpbWVvdXQ9IjEwIgogICAgYW5kcm9pZDpzZXR0aW5nc0FjdGl2aXR5PSJ4eXoubW9ua2V5dG9uZy5ob25nYmFvLmFjdGl2aXRpZXMuU2V0dGluZ3NBY3Rpdml0eSIKICAgIGFuZHJvaWQ6YWNjZXNzaWJpbGl0eUZsYWdzPSJmbGFnRGVmYXVsdCIKICAgIGFuZHJvaWQ6Y2FuUmV0cmlldmVXaW5kb3dDb250ZW50PSJ0cnVlIi8+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6ZGVzY3JpcHRpb249IkBzdHJpbmcvYXBwX2Rlc2NyaXB0aW9uIgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>}</text>
+      <register name="2" type="2">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFByZWZlcmVuY2VTY3JlZW4geG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4KCjwvUHJlZmVyZW5jZVNjcmVlbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIElCaW5kZXIgb25CaW5kKEludGVudCBpbnRlbnQpIHsKICAgICAgICAvLyBUT0RPOiBSZXR1cm4gdGhlIGNvbW11bmljYXRpb24gY2hhbm5lbCB0byB0aGUgc2VydmljZS4KICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG1ldGEtZGF0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YWNjZXNzaWJpbGl0eUV2ZW50VHlwZXM9InR5cGVXaW5kb3dTdGF0ZUNoYW5nZWR8dHlwZVdpbmRvd0NvbnRlbnRDaGFuZ2VkfHR5cGVOb3RpZmljYXRpb25TdGF0ZUNoYW5nZWQiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmFjY2Vzc2liaWxpdHlGZWVkYmFja1R5cGU9ImZlZWRiYWNrQWxsTWFzayIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFja2FnZU5hbWVzPSJjb20udGVuY2VudC5tbSIvPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6YWMK</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFja2FnZU5hbWVzPSJjb20udGVuY2VudC5tbSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpleHBvcnRlZD0iZmFsc2UiPjwvc2VydmljZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDplbmFibGVkPSJ0cnVlIgo=</text>
+      <register name="8" type="4">
+        <text>}</text>
       </register>
       <register name="9" type="4">
-        <text>false</text>
+        <text>}</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
