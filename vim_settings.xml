@@ -21,26 +21,25 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiPrepareStepOneActivity.java" timestamp="1459910559813">
         <mark key="'" line="110" column="42" />
       </file>
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" timestamp="1459911070857">
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/AutoWifiConnectingActivity.java" timestamp="1459911753199">
         <mark key="'" line="317" column="23" />
       </file>
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1459910521231">
         <mark key="'" line="281" column="69" />
         <mark key="[" line="168" column="45" />
       </file>
-      <file name="$USER_HOME$/haituke/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1459307931085">
-        <mark key="[" line="68" column="41" />
-        <mark key="]" line="68" column="57" />
+      <file name="$USER_HOME$/haituke/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1459912298493">
+        <mark key="[" line="24" column="60" />
+        <mark key="]" line="24" column="66" />
+        <mark key="^" line="24" column="66" />
+        <mark key="." line="24" column="66" />
       </file>
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1459304131662">
         <mark key="'" line="392" column="23" />
       </file>
-      <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1459909591232">
-        <mark key="'" line="294" column="0" />
-        <mark key="[" line="79" column="8" />
-        <mark key="]" line="79" column="9" />
-        <mark key="." line="79" column="9" />
-        <mark key="^" line="79" column="9" />
+      <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1460342934369">
+        <mark key="'" line="298" column="0" />
+        <mark key="[" line="247" column="21" />
       </file>
       <file name="$USER_HOME$/haituke/platforms/android/build.gradle" timestamp="1459307518329">
         <mark key="'" line="0" column="1" />
@@ -158,10 +157,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>probe_device_info</text>
+        <text>deviceInfo.getSerialNo()</text>
       </register>
       <register name="/" type="4">
         <text>probe_device_info</text>
@@ -170,31 +169,31 @@
         <text>probe_device_info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text>probe_device_info</text>
+        <text>deviceInfo.getSerialNo()</text>
       </register>
       <register name="3" type="4">
-        <text>ACTION_PROBE_DEVICE_INFO</text>
+        <text>ssid</text>
       </register>
       <register name="4" type="4">
-        <text>error</text>
+        <text>final</text>
       </register>
-      <register name="5" type="4">
-        <text>stop fail</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0K</text>
+      <register name="6" type="4">
+        <text>probe_device_info</text>
+      </register>
+      <register name="7" type="4">
+        <text>ACTION_PROBE_DEVICE_INFO</text>
       </register>
       <register name="8" type="4">
-        <text>false</text>
+        <text>error</text>
       </register>
       <register name="9" type="4">
-        <text>false</text>
+        <text>stop fail</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -293,6 +292,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
