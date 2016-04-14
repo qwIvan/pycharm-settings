@@ -9,6 +9,13 @@
         <mark key="^" line="5" column="68" />
         <mark key="." line="5" column="68" />
       </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/platform_www/plugins/YingShi/yingshi.js" timestamp="1460627394171">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="63" column="83" />
+        <mark key="]" line="63" column="92" />
+        <mark key="^" line="63" column="92" />
+        <mark key="." line="63" column="92" />
+      </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/MainActivity.java" timestamp="1460349332031">
         <mark key="'" line="12" column="4" />
         <mark key="[" line="12" column="5" />
@@ -53,6 +60,10 @@
         <mark key="]" line="9" column="45" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1460626590751">
+        <mark key="[" line="303" column="58" />
+        <mark key="]" line="303" column="66" />
+      </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/activities/MainActivity.java" timestamp="1460367056240">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="17" column="0" />
@@ -87,6 +98,21 @@
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="40" />
       </file>
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1460626089108">
+        <mark key="'" line="303" column="18" />
+      </file>
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceTestActivity.java" timestamp="1460626219413">
+        <mark key="'" line="162" column="60" />
+        <mark key="[" line="162" column="60" />
+        <mark key="]" line="162" column="73" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1460627279186">
+        <mark key="'" line="121" column="33" />
+        <mark key="[" line="127" column="26" />
+        <mark key="]" line="127" column="27" />
+        <mark key="." line="127" column="27" />
+        <mark key="^" line="127" column="27" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" timestamp="1460364609126">
         <mark key="'" line="35" column="0" />
       </file>
@@ -105,6 +131,9 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceSelfTestActivity.java" timestamp="1460626160319">
+        <mark key="'" line="185" column="59" />
+      </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/Qiang.java" timestamp="1460364898907">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="0" column="0" />
@@ -121,7 +150,8 @@
         <mark key="]" line="35" column="18" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1460600110650">
+      <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1460626249239">
+        <mark key="'" line="226" column="21" />
         <mark key="[" line="248" column="0" />
         <mark key="]" line="248" column="0" />
         <mark key="." line="248" column="0" />
@@ -215,46 +245,55 @@
       <jump line="76" column="8" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="202" column="17" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="664" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
+      <jump line="296" column="0" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="162" column="60" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceTestActivity.java" />
+      <jump line="303" column="18" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" />
+      <jump line="185" column="59" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceSelfTestActivity.java" />
+      <jump line="226" column="21" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="122" column="19" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="123" column="43" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="120" column="33" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/platform_www/plugins/YingShi/yingshi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1.0.0</text>
+        <text>probe_device_info</text>
       </register>
       <register name="-" type="4">
-        <text>1.0.0</text>
+        <text>probe_device_info</text>
       </register>
       <register name="/" type="4">
         <text>ser</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGFjY2Vzc2liaWxpdHktc2VydmljZQogICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgYW5kcm9pZDpkZXNjcmlwdGlvbj0iQHN0cmluZy9hcHBfbmFtZSIKICAgIGFuZHJvaWQ6YWNjZXNzaWJpbGl0eUV2ZW50VHlwZXM9InR5cGVXaW5kb3dTdGF0ZUNoYW5nZWR8dHlwZVdpbmRvd0NvbnRlbnRDaGFuZ2VkfHR5cGVOb3RpZmljYXRpb25TdGF0ZUNoYW5nZWQiCiAgICBhbmRyb2lkOmFjY2Vzc2liaWxpdHlGZWVkYmFja1R5cGU9ImZlZWRiYWNrQWxsTWFzayIKICAgIGFuZHJvaWQ6cGFja2FnZU5hbWVzPSJjb20udGVuY2VudC5tbSIKICAgIGFuZHJvaWQ6bm90aWZpY2F0aW9uVGltZW91dD0iMTAiCiAgICBhbmRyb2lkOmFjY2Vzc2liaWxpdHlGbGFncz0iZmxhZ0RlZmF1bHQiCiAgICBhbmRyb2lkOmNhblJldHJpZXZlV2luZG93Q29udGVudD0idHJ1ZSIvPgo=</text>
+      <register name="0" type="4">
+        <text>&quot;YingShi&quot;, &quot;probe_device_info&quot;, [accessToken,deviceSerial,success_cb,err_cb]</text>
       </register>
       <register name="1" type="4">
-        <text>1.0.0</text>
+        <text>probe_device_info</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwCg==</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFByZWZlcmVuY2VTY3JlZW4geG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4KCjwvUHJlZmVyZW5jZVNjcmVlbj4K</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXZlbnQpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6c2V0dGluZ3NBY3Rpdml0eT0ieHl6Lm1vbmtleXRvbmcuaG9uZ2Jhby5hY3Rpdml0aWVzLlNldHRpbmdzQWN0aXZpdHkiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnN1cHBvcnRzUnRsPSJ0cnVlIiA+Cg==</text>
+      <register name="7" type="4">
+        <text>Integer.valueOf(args.getString(2));</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIgo=</text>
+      <register name="8" type="4">
+        <text>Base</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5hbmRyb2lkLnRvb2xzLmZkLnJ1bnRpbWUuQm9vdHN0cmFwQXBwbGljYXRpb24iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
