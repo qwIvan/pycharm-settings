@@ -9,12 +9,11 @@
         <mark key="^" line="5" column="68" />
         <mark key="." line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/platform_www/plugins/YingShi/yingshi.js" timestamp="1460627394171">
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/platform_www/plugins/YingShi/yingshi.js" timestamp="1460627658755">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="83" />
-        <mark key="]" line="63" column="92" />
-        <mark key="^" line="63" column="92" />
-        <mark key="." line="63" column="92" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/MainActivity.java" timestamp="1460349332031">
         <mark key="'" line="12" column="4" />
@@ -75,6 +74,12 @@
         <mark key="]" line="32" column="66" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1460628242716">
+        <mark key="[" line="65" column="1" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460367636575">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="0" />
@@ -106,12 +111,12 @@
         <mark key="[" line="162" column="60" />
         <mark key="]" line="162" column="73" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1460627279186">
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1460628417555">
         <mark key="'" line="121" column="33" />
-        <mark key="[" line="127" column="26" />
-        <mark key="]" line="127" column="27" />
-        <mark key="." line="127" column="27" />
-        <mark key="^" line="127" column="27" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="143" column="0" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" timestamp="1460364609126">
         <mark key="'" line="35" column="0" />
@@ -256,8 +261,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/platform_www/plugins/YingShi/yingshi.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>probe_device_info</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0cy5jYXB0dXJlX3BpY3R1cmUgPSBmdW5jdGlvbiAoYWNjZXNzVG9rZW4sZGV2aWNlU2VyaWFsLGNoYW5uZWxObyxzdWNjZXNzX2NiLGVycl9jYikgewogICAgZXhlYyhzdWNjZXNzX2NiLGVycl9jYiwgIllpbmdTaGkiLCAiY2FwdHVyZV9waWN0dXJlIiwgW2FjY2Vzc1Rva2VuLGRldmljZVNlcmlhbCxjaGFubmVsTm8sc3VjY2Vzc19jYixlcnJfY2JdKTsKfQo=</text>
       </register>
       <register name="-" type="4">
         <text>probe_device_info</text>
@@ -268,32 +273,34 @@
       <register name="0" type="4">
         <text>&quot;YingShi&quot;, &quot;probe_device_info&quot;, [accessToken,deviceSerial,success_cb,err_cb]</text>
       </register>
-      <register name="1" type="4">
-        <text>probe_device_info</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZXhwb3J0cy5jYXB0dXJlX3BpY3R1cmUgPSBmdW5jdGlvbiAoYWNjZXNzVG9rZW4sZGV2aWNlU2VyaWFsLGNoYW5uZWxObyxzdWNjZXNzX2NiLGVycl9jYikgewogICAgZXhlYyhzdWNjZXNzX2NiLGVycl9jYiwgIllpbmdTaGkiLCAiY2FwdHVyZV9waWN0dXJlIiwgW2FjY2Vzc1Rva2VuLGRldmljZVNlcmlhbCxjaGFubmVsTm8sc3VjY2Vzc19jYixlcnJfY2JdKTsKfQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>0</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>exports.capture_picture = function (accessToken,deviceSerial,channelNo,success_cb,err_cb) {
+    exec(success_cb,err_cb, &quot;YingShi&quot;, &quot;capture_picture&quot;, [accessToken,deviceSerial,channelNo,success_cb,err_cb]);
+}</text>
       </register>
       <register name="4" type="4">
-        <text>=</text>
+        <text>probe_device_info</text>
       </register>
       <register name="5" type="4">
+        <text>0</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="7" type="4">
-        <text>Integer.valueOf(args.getString(2));</text>
+        <text>=</text>
       </register>
       <register name="8" type="4">
-        <text>Base</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -343,6 +350,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
