@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" timestamp="1460367230028">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-      </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/gradle/wrapper/gradle-wrapper.properties" timestamp="1460364369867">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="68" />
@@ -21,12 +16,6 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1460368100777">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" timestamp="1460369447191">
-        <mark key="'" line="76" column="8" />
-      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/content/Context.java" timestamp="1460369180929">
         <mark key="'" line="291" column="20" />
       </file>
@@ -37,16 +26,57 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" timestamp="1460367381833">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/layout/activity_main.xml" timestamp="1460367314522">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
+        <mark key="'" line="664" column="8" />
+      </file>
+      <file name="$USER_HOME$/Qiang/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460368153689">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/activities/MainActivity.java" timestamp="1460367056240">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/LuckyMoney/app/src/main/AndroidManifest.xml" timestamp="1460368092381">
+        <mark key="'" line="3" column="1" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="32" column="66" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460367636575">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" timestamp="1460367230028">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1460368100777">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" timestamp="1460369447191">
+        <mark key="'" line="76" column="8" />
+      </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460368151289">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="44" />
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="40" />
-      </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" timestamp="1460367381833">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" timestamp="1460364609126">
         <mark key="'" line="35" column="0" />
@@ -66,14 +96,6 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/layout/activity_main.xml" timestamp="1460367314522">
-        <mark key="[" line="2" column="53" />
-        <mark key="]" line="2" column="53" />
-        <mark key="." line="2" column="53" />
-      </file>
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
-        <mark key="'" line="664" column="8" />
-      </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/Qiang.java" timestamp="1460364898907">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="0" column="0" />
@@ -90,21 +112,10 @@
         <mark key="]" line="35" column="18" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Qiang/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460368153689">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="45" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/activities/MainActivity.java" timestamp="1460367056240">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/LuckyMoney/app/src/main/AndroidManifest.xml" timestamp="1460368092381">
-        <mark key="'" line="3" column="1" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="32" column="66" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1460600110650">
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1460363236535">
         <mark key="[" line="0" column="0" />
@@ -114,12 +125,6 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460367636575">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -204,7 +209,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFByZWZlcmVuY2VTY3JlZW4geG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4KCjwvUHJlZmVyZW5jZVNjcmVlbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwCg==</text>
       </register>
       <register name="-" type="4">
         <text>tools:context=&quot;.MainActivity&quot;</text>
@@ -216,31 +221,31 @@
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGFjY2Vzc2liaWxpdHktc2VydmljZQogICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgYW5kcm9pZDpkZXNjcmlwdGlvbj0iQHN0cmluZy9hcHBfbmFtZSIKICAgIGFuZHJvaWQ6YWNjZXNzaWJpbGl0eUV2ZW50VHlwZXM9InR5cGVXaW5kb3dTdGF0ZUNoYW5nZWR8dHlwZVdpbmRvd0NvbnRlbnRDaGFuZ2VkfHR5cGVOb3RpZmljYXRpb25TdGF0ZUNoYW5nZWQiCiAgICBhbmRyb2lkOmFjY2Vzc2liaWxpdHlGZWVkYmFja1R5cGU9ImZlZWRiYWNrQWxsTWFzayIKICAgIGFuZHJvaWQ6cGFja2FnZU5hbWVzPSJjb20udGVuY2VudC5tbSIKICAgIGFuZHJvaWQ6bm90aWZpY2F0aW9uVGltZW91dD0iMTAiCiAgICBhbmRyb2lkOmFjY2Vzc2liaWxpdHlGbGFncz0iZmxhZ0RlZmF1bHQiCiAgICBhbmRyb2lkOmNhblJldHJpZXZlV2luZG93Q29udGVudD0idHJ1ZSIvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFByZWZlcmVuY2VTY3JlZW4geG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4KCjwvUHJlZmVyZW5jZVNjcmVlbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFByZWZlcmVuY2VTY3JlZW4geG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4KCjwvUHJlZmVyZW5jZVNjcmVlbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXZlbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6c2V0dGluZ3NBY3Rpdml0eT0ieHl6Lm1vbmtleXRvbmcuaG9uZ2Jhby5hY3Rpdml0aWVzLlNldHRpbmdzQWN0aXZpdHkiCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXZlbnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnN1cHBvcnRzUnRsPSJ0cnVlIiA+Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6c2V0dGluZ3NBY3Rpdml0eT0ieHl6Lm1vbmtleXRvbmcuaG9uZ2Jhby5hY3Rpdml0aWVzLlNldHRpbmdzQWN0aXZpdHkiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnN1cHBvcnRzUnRsPSJ0cnVlIiA+Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5hbmRyb2lkLnRvb2xzLmZkLnJ1bnRpbWUuQm9vdHN0cmFwQXBwbGljYXRpb24iCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>tools:context=&quot;.MainActivity&quot;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9ImZpbGxfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjBkcCIKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9tYWluX2FjdGlvbl9iYXJfcGxhY2Vob2xkZXIiIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50VG9wPSJ0cnVlIgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IiNkNjU2NDUiIGFuZHJvaWQ6bGF5b3V0X2FsaWduVG9wPSJAK2lkL3RleHRWaWV3Ii8+CiAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9ImZpbGxfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QXBwZWFyYW5jZT0iP2FuZHJvaWQ6YXR0ci90ZXh0QXBwZWFyYW5jZUxhcmdlIgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3RleHRWaWV3IiBhbmRyb2lkOmJhY2tncm91bmQ9IkBtaXBtYXAvYmdfYWN0aW9uX2JhciIgYW5kcm9pZDp0ZXh0PSLlvq7kv6HnuqLljIUiIGFuZHJvaWQ6dGV4dENvbG9yPSIjZmVlMWI0IgogICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbHxjZW50ZXJfaG9yaXpvbnRhbCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjZkcCIgYW5kcm9pZDphdXRvVGV4dD0iZmFsc2UiLz4KCiAgICA8SW1hZ2VWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI0NGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjQ0ZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaW1hZ2VWaWV3MiIKICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBtaXBtYXAvaWNfc2V0dGluZ3MiCiAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMTBkcCIKICAgICAgICAgICAgYW5kcm9pZDpvbkNsaWNrPSJvcGVuU2V0dGluZ3MiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUmlnaHQ9IkAraWQvdGV4dFZpZXciIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL21haW5fYWN0aW9uX2Jhcl9wbGFjZWhvbGRlciIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjZkcCIgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSI2ZHAiLz4KICAgIDxJbWFnZVZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaW1hZ2VWaWV3IiBhbmRyb2lkOnNyYz0iQG1pcG1hcC9vcGVuIgogICAgICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVySW5zaWRlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hYm92ZT0iQCtpZC90ZXh0VmlldzMiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2NlbnRlckhvcml6b250YWw9InRydWUiIGFuZHJvaWQ6b25DbGljaz0ib3BlbkdpdGh1YiIgYW5kcm9pZDpjbGlja2FibGU9InRydWUiCiAgICAvPgogICAgPFRleHRWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJmaWxsX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dEFwcGVhcmFuY2U9IkBhbmRyb2lkOnN0eWxlL1RleHRBcHBlYXJhbmNlLkRldmljZURlZmF1bHQuTWVkaXVtIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvYXBwX3ZlcnNpb24iCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdGV4dFZpZXczIgogICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIgYW5kcm9pZDpvbkNsaWNrPSJvcGVuR2l0aHViIgogICAgICAgICAgICBhbmRyb2lkOmNsaWNrYWJsZT0idHJ1ZSIgYW5kcm9pZDpsYXlvdXRfY2VudGVySW5QYXJlbnQ9InRydWUiIGFuZHJvaWQ6dGV4dENvbG9yPSIjYzVhNDVlIgogICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IjZkcCIgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSIxZHAiLz4KICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QXBwZWFyYW5jZT0iP2FuZHJvaWQ6YXR0ci90ZXh0QXBwZWFyYW5jZVNtYWxsIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9Iuafpeeci+acgOaWsOeJiOacrOWKn+iDveS7i+e7jSIKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90ZXh0VmlldzIiIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL3RleHRWaWV3MyIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySG9yaXpvbnRhbD0idHJ1ZSIgYW5kcm9pZDpjbGlja2FibGU9InRydWUiIGFuZHJvaWQ6b25DbGljaz0ib3BlbkdpdGh1YlJlbGVhc2VOb3RlcyIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIzZHAiIGFuZHJvaWQ6dGV4dENvbG9yPSIjOTk5OTk5Ii8+CiAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9ImZpbGxfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QXBwZWFyYW5jZT0iP2FuZHJvaWQ6YXR0ci90ZXh0QXBwZWFyYW5jZVNtYWxsIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9Imh0dHBzOi8vZ2l0aHViLmNvbS9nZWVlZWVlZWVlay9XZUNoYXRMdWNreU1vbmV5IgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2dpdGh1YiIgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXJfaG9yaXpvbnRhbCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySG9yaXpvbnRhbD0idHJ1ZSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iMjBkcCIgYW5kcm9pZDpsYXlvdXRfbWFyZ2luVG9wPSIyMGRwIgogICAgICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iIzUyNzJhZSIgYW5kcm9pZDpjbGlja2FibGU9InRydWUiIGFuZHJvaWQ6b25DbGljaz0ib3BlbkdpdGh1YiIvPgogICAgPEJ1dHRvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J1dHRvbl9hY2Nlc3NpYmxlIgogICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvc2VydmljZV9uYW1lIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjYwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6b25DbGljaz0ib25CdXR0b25DbGlja2VkIiBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudEJvdHRvbT0iZmFsc2UiCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iIzI0ZTJiMzc5IiBhbmRyb2lkOnRleHRDb2xvcj0iI2M1YTQ1ZSIKICAgICAgICAgICAgc3R5bGU9Ij9hbmRyb2lkOmF0dHIvYm9yZGVybGVzc0J1dHRvblN0eWxlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iMTZkcCIgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iMTZkcCIgYW5kcm9pZDpsYXlvdXRfYWJvdmU9IkAraWQvZ2l0aHViIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIyMGRwIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
