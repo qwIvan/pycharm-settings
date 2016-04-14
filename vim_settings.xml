@@ -31,10 +31,19 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1460601331483">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/layout/activity_main.xml" timestamp="1460367314522">
         <mark key="[" line="2" column="53" />
         <mark key="]" line="2" column="53" />
         <mark key="." line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/AndroidManifest.xml" timestamp="1460601284013">
+        <mark key="[" line="2" column="190" />
+        <mark key="]" line="2" column="190" />
+        <mark key="." line="2" column="190" />
+        <mark key="^" line="2" column="190" />
       </file>
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
         <mark key="'" line="664" column="8" />
@@ -208,11 +217,11 @@
       <jump line="664" column="8" filename="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwCg==</text>
+      <register name="&quot;" type="4">
+        <text>1.0.0</text>
       </register>
       <register name="-" type="4">
-        <text>tools:context=&quot;.MainActivity&quot;</text>
+        <text>1.0.0</text>
       </register>
       <register name="/" type="4">
         <text>ser</text>
@@ -220,32 +229,32 @@
       <register name="0" type="2">
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGFjY2Vzc2liaWxpdHktc2VydmljZQogICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgYW5kcm9pZDpkZXNjcmlwdGlvbj0iQHN0cmluZy9hcHBfbmFtZSIKICAgIGFuZHJvaWQ6YWNjZXNzaWJpbGl0eUV2ZW50VHlwZXM9InR5cGVXaW5kb3dTdGF0ZUNoYW5nZWR8dHlwZVdpbmRvd0NvbnRlbnRDaGFuZ2VkfHR5cGVOb3RpZmljYXRpb25TdGF0ZUNoYW5nZWQiCiAgICBhbmRyb2lkOmFjY2Vzc2liaWxpdHlGZWVkYmFja1R5cGU9ImZlZWRiYWNrQWxsTWFzayIKICAgIGFuZHJvaWQ6cGFja2FnZU5hbWVzPSJjb20udGVuY2VudC5tbSIKICAgIGFuZHJvaWQ6bm90aWZpY2F0aW9uVGltZW91dD0iMTAiCiAgICBhbmRyb2lkOmFjY2Vzc2liaWxpdHlGbGFncz0iZmxhZ0RlZmF1bHQiCiAgICBhbmRyb2lkOmNhblJldHJpZXZlV2luZG93Q29udGVudD0idHJ1ZSIvPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwCg==</text>
+      <register name="1" type="4">
+        <text>1.0.0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFByZWZlcmVuY2VTY3JlZW4geG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4KCjwvUHJlZmVyZW5jZVNjcmVlbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFByZWZlcmVuY2VTY3JlZW4geG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIj4KCjwvUHJlZmVyZW5jZVNjcmVlbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXZlbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6c2V0dGluZ3NBY3Rpdml0eT0ieHl6Lm1vbmtleXRvbmcuaG9uZ2Jhby5hY3Rpdml0aWVzLlNldHRpbmdzQWN0aXZpdHkiCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXZlbnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnN1cHBvcnRzUnRsPSJ0cnVlIiA+Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6c2V0dGluZ3NBY3Rpdml0eT0ieHl6Lm1vbmtleXRvbmcuaG9uZ2Jhby5hY3Rpdml0aWVzLlNldHRpbmdzQWN0aXZpdHkiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnN1cHBvcnRzUnRsPSJ0cnVlIiA+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5hbmRyb2lkLnRvb2xzLmZkLnJ1bnRpbWUuQm9vdHN0cmFwQXBwbGljYXRpb24iCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmFsbG93QmFja3VwPSJ0cnVlIgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>tools:context=&quot;.MainActivity&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5hbmRyb2lkLnRvb2xzLmZkLnJ1bnRpbWUuQm9vdHN0cmFwQXBwbGljYXRpb24iCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
