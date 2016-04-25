@@ -32,18 +32,8 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" timestamp="1460367381833">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1460738259235">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/layout/activity_main.xml" timestamp="1460367314522">
-        <mark key="[" line="2" column="53" />
-        <mark key="]" line="2" column="53" />
-        <mark key="." line="2" column="53" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/AndroidManifest.xml" timestamp="1460601284013">
         <mark key="[" line="2" column="190" />
@@ -54,19 +44,15 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
         <mark key="'" line="664" column="8" />
       </file>
-      <file name="$USER_HOME$/Qiang/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460368153689">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="45" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/MsgReceiver.java" timestamp="1461585934026">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="38" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1460626590751">
         <mark key="[" line="303" column="58" />
         <mark key="]" line="303" column="66" />
-      </file>
-      <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/activities/MainActivity.java" timestamp="1460367056240">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/AndroidManifest.xml" timestamp="1460368092381">
         <mark key="'" line="3" column="1" />
@@ -86,11 +72,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" timestamp="1460367230028">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-      </file>
       <file name="/Dummy.txt" timestamp="1460632468888">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,6 +83,18 @@
         <mark key="]" line="9" column="44" />
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" timestamp="1461584875128">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="43" />
+        <mark key="^" line="22" column="43" />
+        <mark key="." line="22" column="43" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/MsgReciver.java" timestamp="1461584893003">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1460626089108">
         <mark key="'" line="303" column="18" />
@@ -262,10 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0cy5jYXB0dXJlX3BpY3R1cmUgPSBmdW5jdGlvbiAoYWNjZXNzVG9rZW4sZGV2aWNlU2VyaWFsLGNoYW5uZWxObyxzdWNjZXNzX2NiLGVycl9jYikgewogICAgZXhlYyhzdWNjZXNzX2NiLGVycl9jYiwgIllpbmdTaGkiLCAiY2FwdHVyZV9waWN0dXJlIiwgW2FjY2Vzc1Rva2VuLGRldmljZVNlcmlhbCxjaGFubmVsTm8sc3VjY2Vzc19jYixlcnJfY2JdKTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>probe_device_info</text>
+        <text>Serializable</text>
       </register>
       <register name="/" type="4">
         <text>ser</text>
@@ -274,33 +267,31 @@
         <text>&quot;YingShi&quot;, &quot;probe_device_info&quot;, [accessToken,deviceSerial,success_cb,err_cb]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0cy5jYXB0dXJlX3BpY3R1cmUgPSBmdW5jdGlvbiAoYWNjZXNzVG9rZW4sZGV2aWNlU2VyaWFsLGNoYW5uZWxObyxzdWNjZXNzX2NiLGVycl9jYikgewogICAgZXhlYyhzdWNjZXNzX2NiLGVycl9jYiwgIllpbmdTaGkiLCAiY2FwdHVyZV9waWN0dXJlIiwgW2FjY2Vzc1Rva2VuLGRldmljZVNlcmlhbCxjaGFubmVsTm8sc3VjY2Vzc19jYixlcnJfY2JdKTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>exports.capture_picture = function (accessToken,deviceSerial,channelNo,success_cb,err_cb) {
-    exec(success_cb,err_cb, &quot;YingShi&quot;, &quot;capture_picture&quot;, [accessToken,deviceSerial,channelNo,success_cb,err_cb]);
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlOwppbXBvcnQgamF2YS50ZXh0LlNpbXBsZURhdGVGb3JtYXQ7CmltcG9ydCBqYXZhLnV0aWwuRGF0ZTsKaW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>probe_device_info</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlOwppbXBvcnQgYW5kcm9pZC50ZWxlcGhvbnkuU21zTWVzc2FnZTsK</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>Serializable</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBCdW5kbGUgYnVuZGxlID0gaW50ZW50LmdldEV4dHJhcygpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTbXNNZXNzYWdlIG1zZyA9IG51bGw7CiAgICAgICAgaWYgKG51bGwgIT0gYnVuZGxlKSB7CiAgICAgICAgICAgIE9iamVjdFtdIHNtc09iaiA9IChPYmplY3RbXSkgYnVuZGxlLmdldCgicGR1cyIpOwogICAgICAgICAgICBmb3IgKE9iamVjdCBvYmplY3QgOiBzbXNPYmopIHsKICAgICAgICAgICAgICAgIG1zZyA9IFNtc01lc3NhZ2UuY3JlYXRlRnJvbVBkdSgoYnl0ZVtdKSBvYmplY3QpOwogICAgICAgICAgICAgICAgRGF0ZSBkYXRlID0gbmV3IERhdGUobXNnLmdldFRpbWVzdGFtcE1pbGxpcygpKTsKICAgICAgICAgICAgICAgIFNpbXBsZURhdGVGb3JtYXQgZm9ybWF0ID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MiKTsKICAgICAgICAgICAgICAgIFN0cmluZyByZWNlaXZlVGltZSA9IGZvcm1hdC5mb3JtYXQoZGF0ZSk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm51bWJlcjoiICsgbXNnLmdldE9yaWdpbmF0aW5nQWRkcmVzcygpCiAgICAgICAgICAgICAgICAgICAgICAgICsgIiAgIGJvZHk6IiArIG1zZy5nZXREaXNwbGF5TWVzc2FnZUJvZHkoKSArICIgIHRpbWU6IgogICAgICAgICAgICAgICAgaWYgKG1zZy5nZXRPcmlnaW5hdGluZ0FkZHJlc3MoKS5lcXVhbHMoIjEwMDg2IikpIHsKCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKyBtc2cuZ2V0VGltZXN0YW1wTWlsbGlzKCkpOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
