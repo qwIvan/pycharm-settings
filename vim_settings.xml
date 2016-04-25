@@ -25,6 +25,12 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/content/Context.java" timestamp="1460369180929">
         <mark key="'" line="291" column="20" />
       </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/build.gradle" timestamp="1461589793476">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+      </file>
       <file name="$USER_HOME$/Qiang/app/src/main/java/com/github/qwivan/qiang/QiangService.java" timestamp="1460368961659">
         <mark key="'" line="11" column="46" />
         <mark key="[" line="7" column="26" />
@@ -32,8 +38,24 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" timestamp="1460367381833">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1460738259235">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/layout/activity_main.xml" timestamp="1460367314522">
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="2" column="53" />
+        <mark key="." line="2" column="53" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/SMSObserver.java" timestamp="1461587521074">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="48" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/AndroidManifest.xml" timestamp="1460601284013">
         <mark key="[" line="2" column="190" />
@@ -44,15 +66,24 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
         <mark key="'" line="664" column="8" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/MsgReceiver.java" timestamp="1461585934026">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="38" />
-        <mark key="^" line="14" column="38" />
-        <mark key="." line="14" column="38" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/MsgReceiver.java" timestamp="1461588836512">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Qiang/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460368153689">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1460626590751">
         <mark key="[" line="303" column="58" />
         <mark key="]" line="303" column="66" />
+      </file>
+      <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/activities/MainActivity.java" timestamp="1460367056240">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/AndroidManifest.xml" timestamp="1460368092381">
         <mark key="'" line="3" column="1" />
@@ -72,11 +103,23 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" timestamp="1460367230028">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+      </file>
       <file name="/Dummy.txt" timestamp="1460632468888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" timestamp="1460369447191">
         <mark key="'" line="76" column="8" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1461591332593">
+        <mark key="'" line="27" column="58" />
+        <mark key="[" line="27" column="64" />
+        <mark key="]" line="27" column="71" />
+        <mark key="^" line="27" column="71" />
+        <mark key="." line="27" column="71" />
       </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460368151289">
         <mark key="[" line="0" column="0" />
@@ -84,11 +127,12 @@
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" timestamp="1461584875128">
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="43" />
-        <mark key="^" line="22" column="43" />
-        <mark key="." line="22" column="43" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" timestamp="1461590849266">
+        <mark key="'" line="22" column="35" />
+        <mark key="[" line="7" column="76" />
+        <mark key="]" line="7" column="76" />
+        <mark key="^" line="7" column="76" />
+        <mark key="." line="7" column="76" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/MsgReciver.java" timestamp="1461584893003">
         <mark key="[" line="5" column="19" />
@@ -154,7 +198,24 @@
         <mark key="]" line="248" column="0" />
         <mark key="." line="248" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1460363236535">
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/MainActivity.java" timestamp="1461587895193">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/test/java/me/ivan/sms_notify/ExampleUnitTest.java" timestamp="1461591511703">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="61" />
+        <mark key="^" line="20" column="78" />
+        <mark key="." line="20" column="51" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/Activities/MainActivity.java" timestamp="1461588916793">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+      </file>
+      <file name="/fragment.java" timestamp="1461588896208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Qiang/app/src/main/AndroidManifest.xml" timestamp="1460368811436">
@@ -252,46 +313,49 @@
       <jump line="123" column="43" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
       <jump line="120" column="33" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
       <jump line="0" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/platform_www/plugins/YingShi/yingshi.js" />
+      <jump line="22" column="35" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" />
+      <jump line="38" column="31" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" />
+      <jump line="30" column="58" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>2967948168</text>
       </register>
       <register name="-" type="4">
-        <text>Serializable</text>
+        <text>984134096</text>
       </register>
       <register name="/" type="4">
         <text>ser</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;YingShi&quot;, &quot;probe_device_info&quot;, [accessToken,deviceSerial,success_cb,err_cb]</text>
+        <text>2967948168</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>984134096</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>k15k5k512g6j</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlOwppbXBvcnQgamF2YS50ZXh0LlNpbXBsZURhdGVGb3JtYXQ7CmltcG9ydCBqYXZhLnV0aWwuRGF0ZTsKaW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
+      <register name="3" type="4">
+        <text>984134096</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQnVuZGxlOwppbXBvcnQgYW5kcm9pZC50ZWxlcGhvbnkuU21zTWVzc2FnZTsK</text>
+      <register name="4" type="4">
+        <text>2967948168</text>
       </register>
       <register name="5" type="4">
-        <text>Serializable</text>
+        <text>&quot;k15k5k512g6j&quot;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCdW5kbGUgYnVuZGxlID0gaW50ZW50LmdldEV4dHJhcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTbXNNZXNzYWdlIG1zZyA9IG51bGw7CiAgICAgICAgaWYgKG51bGwgIT0gYnVuZGxlKSB7CiAgICAgICAgICAgIE9iamVjdFtdIHNtc09iaiA9IChPYmplY3RbXSkgYnVuZGxlLmdldCgicGR1cyIpOwogICAgICAgICAgICBmb3IgKE9iamVjdCBvYmplY3QgOiBzbXNPYmopIHsKICAgICAgICAgICAgICAgIG1zZyA9IFNtc01lc3NhZ2UuY3JlYXRlRnJvbVBkdSgoYnl0ZVtdKSBvYmplY3QpOwogICAgICAgICAgICAgICAgRGF0ZSBkYXRlID0gbmV3IERhdGUobXNnLmdldFRpbWVzdGFtcE1pbGxpcygpKTsKICAgICAgICAgICAgICAgIFNpbXBsZURhdGVGb3JtYXQgZm9ybWF0ID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MiKTsKICAgICAgICAgICAgICAgIFN0cmluZyByZWNlaXZlVGltZSA9IGZvcm1hdC5mb3JtYXQoZGF0ZSk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm51bWJlcjoiICsgbXNnLmdldE9yaWdpbmF0aW5nQWRkcmVzcygpCiAgICAgICAgICAgICAgICAgICAgICAgICsgIiAgIGJvZHk6IiArIG1zZy5nZXREaXNwbGF5TWVzc2FnZUJvZHkoKSArICIgIHRpbWU6IgogICAgICAgICAgICAgICAgaWYgKG1zZy5nZXRPcmlnaW5hdGluZ0FkZHJlc3MoKS5lcXVhbHMoIjEwMDg2IikpIHsKCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdG8gPSAiYUBhLmluZm8iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKyBtc2cuZ2V0VGltZXN0YW1wTWlsbGlzKCkpOwoK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgZnJvbSA9ICI5ODQxMzQwOTZAcXEuY29tIjsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>orm</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -310,6 +374,7 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry>%//properties/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -347,6 +412,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
