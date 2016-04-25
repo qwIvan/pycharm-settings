@@ -22,7 +22,7 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1460738259235">
+      <file name="/a.dummy" timestamp="1461600450908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/SettingsActivity.java" timestamp="1461596695121">
@@ -158,18 +158,18 @@
         <mark key="[" line="60" column="46" />
         <mark key="]" line="60" column="68" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1461597773911">
-        <mark key="'" line="33" column="8" />
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="53" column="26" />
-        <mark key="^" line="53" column="26" />
-        <mark key="." line="53" column="26" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1461600541356">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="29" column="22" />
+        <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" timestamp="1461591953829">
-        <mark key="'" line="24" column="35" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" timestamp="1461600279081">
+        <mark key="'" line="25" column="35" />
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="42" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/MsgReciver.java" timestamp="1461584893003">
         <mark key="[" line="5" column="19" />
@@ -348,7 +348,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQucHJlZmVyZW5jZS5QcmVmZXJlbmNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;&quot;+&quot;发来的短信&quot;+</text>
@@ -360,31 +360,31 @@
         <text encoding="base64">ICAgICAgICA8RWRpdFRleHRQcmVmZXJlbmNlCiAgICAgICAgICAgIGFuZHJvaWQ6a2V5PSJ0byIKICAgICAgICAgICAgYW5kcm9pZDp0aXRsZT0i5o6l5Y+X6ICFIgogICAgICAgICAgICBhbmRyb2lkOnN1bW1hcnk9IuS+izogdG9AcXEuY29tIi8+CiAgICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQucHJlZmVyZW5jZS5QcmVmZXJlbmNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;+&quot;发来的短信&quot;+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHRvOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2hhcmVkUHJlZmVyZW5jZXMgc2hhcmVkUHJlZmVyZW5jZXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2hlY2tCb3hQcmVmZXJlbmNlCiAgICAgICAgICAgIGFuZHJvaWQ6a2V5PSJ0bHMiCiAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9IuaYr+WQpuWKoOWvhiIKICAgICAgICAgICAgYW5kcm9pZDpkZWZhdWx0VmFsdWU9ImZhbHNlIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNoYXJlZFByZWZlcmVuY2VzID0gc2hhcmVkUHJlZmVyZW5jZXM7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text encoding="base64">ZmluYWwgCmZpbmFsIApmaW5hbCAKZmluYWwgCmZpbmFsIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8RWRpdFRleHRQcmVmZXJlbmNlCiAgICAgICAgICAgIGFuZHJvaWQ6a2V5PSJ0byIKICAgICAgICAgICAgYW5kcm9pZDp0aXRsZT0i5o6l5Y+X6ICFIgogICAgICAgICAgICBhbmRyb2lkOnN1bW1hcnk9IuS+izogdG9AcXEuY29tIi8+CgogICAgICAgIDxFZGl0VGV4dFByZWZlcmVuY2UKICAgICAgICAgICAgYW5kcm9pZDprZXk9InRvIgogICAgICAgICAgICBhbmRyb2lkOnRpdGxlPSLmjqXlj5fogIUiCiAgICAgICAgICAgIGFuZHJvaWQ6c3VtbWFyeT0i5L6LOiB0b0BxcS5jb20iLz4K</text>
+        <text encoding="base64">ICAgICAgICBzaGFyZWRQcmVmZXJlbmNlcyA9IFByZWZlcmVuY2VNYW5hZ2VyLmdldERlZmF1bHRTaGFyZWRQcmVmZXJlbmNlcyhjb250ZXh0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHRscyA9IHNoYXJlZFByZWZlcmVuY2VzLmdldEJvb2xlYW4oInRscyIsZmFsc2UpOwogICAgICAgIFN0cmluZyBob3N0ID0gc2hhcmVkUHJlZmVyZW5jZXMuZ2V0U3RyaW5nKCJob3N0Iiwic210cC5xcS5jb20iKTsKICAgICAgICBpbnQgcG9ydCA9IHNoYXJlZFByZWZlcmVuY2VzLmdldEludCgicG9ydCIsNTg3KTsKICAgICAgICBmaW5hbCBTdHJpbmcgZnJvbSA9IHNoYXJlZFByZWZlcmVuY2VzLmdldFN0cmluZygiZnJvbSIsICIiKTsKICAgICAgICBmaW5hbCBTdHJpbmcgcGFzc3dvcmQgPSBzaGFyZWRQcmVmZXJlbmNlcy5nZXRTdHJpbmcoInBhc3N3b3JkIiwgIiIpOwogICAgICAgIFN0cmluZyB0byA9IHNoYXJlZFByZWZlcmVuY2VzLmdldFN0cmluZygidG8iLCIiKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>例: to@qq.com</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQucHJlZmVyZW5jZS5QcmVmZXJlbmNlOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>接受者</text>
+        <text>&quot;&quot;+&quot;发来的短信&quot;+</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
