@@ -71,14 +71,16 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/receivers/MsgReceiver.java" timestamp="1461591925667">
+        <mark key="[" line="14" column="59" />
+      </file>
       <file name="$USER_HOME$/Qiang/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460368153689">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="45" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1460626590751">
-        <mark key="[" line="303" column="58" />
-        <mark key="]" line="303" column="66" />
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/content/SharedPreferences.java" timestamp="1461592302166">
+        <mark key="'" line="41" column="17" />
       </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/activities/MainActivity.java" timestamp="1460367056240">
         <mark key="[" line="9" column="0" />
@@ -103,23 +105,21 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" timestamp="1460367230028">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="32" />
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" timestamp="1461592512631">
+        <mark key="'" line="54" column="55" />
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="24" />
         <mark key="." line="2" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1460632468888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" timestamp="1460369447191">
-        <mark key="'" line="76" column="8" />
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" timestamp="1461592267203">
+        <mark key="'" line="45" column="12" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1461591332593">
-        <mark key="'" line="27" column="58" />
-        <mark key="[" line="27" column="64" />
-        <mark key="]" line="27" column="71" />
-        <mark key="^" line="27" column="71" />
-        <mark key="." line="27" column="71" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1461591873998">
+        <mark key="'" line="28" column="58" />
+        <mark key="[" line="17" column="39" />
       </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460368151289">
         <mark key="[" line="0" column="0" />
@@ -127,12 +127,11 @@
         <mark key="." line="3" column="40" />
         <mark key="^" line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" timestamp="1461590849266">
-        <mark key="'" line="22" column="35" />
-        <mark key="[" line="7" column="76" />
-        <mark key="]" line="7" column="76" />
-        <mark key="^" line="7" column="76" />
-        <mark key="." line="7" column="76" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" timestamp="1461591953829">
+        <mark key="'" line="24" column="35" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/MsgReciver.java" timestamp="1461584893003">
         <mark key="[" line="5" column="19" />
@@ -142,11 +141,6 @@
       </file>
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1460626089108">
         <mark key="'" line="303" column="18" />
-      </file>
-      <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceTestActivity.java" timestamp="1460626219413">
-        <mark key="'" line="162" column="60" />
-        <mark key="[" line="162" column="60" />
-        <mark key="]" line="162" column="73" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1460628417555">
         <mark key="'" line="121" column="33" />
@@ -203,11 +197,17 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/test/java/me/ivan/sms_notify/ExampleUnitTest.java" timestamp="1461591511703">
-        <mark key="[" line="20" column="51" />
-        <mark key="]" line="20" column="61" />
-        <mark key="^" line="20" column="78" />
-        <mark key="." line="20" column="51" />
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/SeekBarPreference.java" timestamp="1461592403738">
+        <mark key="'" line="19" column="29" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/test/java/me/ivan/sms_notify/ExampleUnitTest.java" timestamp="1461591908464">
+        <mark key="[" line="20" column="73" />
+        <mark key="]" line="20" column="73" />
+        <mark key="^" line="20" column="52" />
+        <mark key="." line="20" column="73" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/Activities/MainActivity.java" timestamp="1461588916793">
         <mark key="[" line="0" column="27" />
@@ -226,14 +226,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="17" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
-      <jump line="45" column="13" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
-      <jump line="54" column="56" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
-      <jump line="49" column="29" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
-      <jump line="145" column="20" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
       <jump line="126" column="8" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
       <jump line="135" column="8" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
-      <jump line="133" column="12" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
       <jump line="116" column="16" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
       <jump line="109" column="16" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/AndroidManifest.xml" />
@@ -249,7 +243,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/xml/accessible_service_config.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/LuckyMoney/app/src/main/res/xml/accessible_service_config.xml" />
       <jump line="13" column="4" filename="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/Qiang.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
       <jump line="331" column="20" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="68" column="17" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="34" column="46" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/AndroidManifest.xml" />
@@ -262,7 +255,6 @@
       <jump line="35" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
       <jump line="22" column="0" filename="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/Qiang.java" />
       <jump line="316" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
-      <jump line="43" column="13" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
       <jump line="19" column="29" filename="$USER_HOME$/LuckyMoney/app/src/main/AndroidManifest.xml" />
       <jump line="11" column="0" filename="$USER_HOME$/LuckyMoney/app/src/main/AndroidManifest.xml" />
       <jump line="16" column="44" filename="$USER_HOME$/LuckyMoney/app/src/main/AndroidManifest.xml" />
@@ -275,12 +267,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="347" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="54" column="13" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
-      <jump line="45" column="30" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="308" column="17" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="303" column="17" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="305" column="17" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
-      <jump line="309" column="46" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
-      <jump line="310" column="46" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="321" column="46" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="56" column="28" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="119" column="34" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
@@ -296,7 +285,6 @@
       <jump line="24" column="46" filename="$USER_HOME$/Qiang/app/src/main/AndroidManifest.xml" />
       <jump line="116" column="36" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="59" column="14" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
-      <jump line="60" column="82" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="93" column="32" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="61" column="81" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="123" column="20" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
@@ -315,47 +303,69 @@
       <jump line="0" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/platform_www/plugins/YingShi/yingshi.js" />
       <jump line="22" column="35" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" />
       <jump line="38" column="31" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" />
-      <jump line="30" column="58" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" />
+      <jump line="43" column="23" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
+      <jump line="61" column="17" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
+      <jump line="30" column="18" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" />
+      <jump line="50" column="25" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
+      <jump line="133" column="25" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
+      <jump line="147" column="37" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
+      <jump line="60" column="16" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
+      <jump line="309" column="47" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/SeekBarPreference.java" />
+      <jump line="150" column="27" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
+      <jump line="45" column="8" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/xml/general_preferences.xml" />
+      <jump line="368" column="50" filename="$USER_HOME$/android-sdk-linux/sources/android-21/android/content/SharedPreferences.java" />
+      <jump line="310" column="8" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
+      <jump line="45" column="12" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
+      <jump line="86" column="26" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/SeekBarPreference.java" />
+      <jump line="85" column="12" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/SeekBarPreference.java" />
+      <jump line="41" column="17" filename="$USER_HOME$/android-sdk-linux/sources/android-21/android/content/SharedPreferences.java" />
+      <jump line="43" column="27" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/SeekBarPreference.java" />
+      <jump line="45" column="32" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/SeekBarPreference.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/SeekBarPreference.java" />
+      <jump line="19" column="29" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/SeekBarPreference.java" />
+      <jump line="54" column="55" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2967948168</text>
+        <text>PreferenceManager</text>
       </register>
       <register name="-" type="4">
-        <text>984134096</text>
+        <text>as7692336</text>
       </register>
       <register name="/" type="4">
         <text>ser</text>
       </register>
       <register name="0" type="4">
-        <text>2967948168</text>
+        <text>PreferenceManager</text>
       </register>
-      <register name="1" type="4">
-        <text>984134096</text>
+      <register name="1" type="2">
+        <text encoding="base64">cGFja2FnZSB4eXoubW9ua2V5dG9uZy5ob25nYmFvLmFjdGl2aXRpZXM7CgppbXBvcnQgYW5kcm9pZC5jb250ZW50LkNvbnRleHQ7CmltcG9ydCBhbmRyb2lkLmNvbnRlbnQuU2hhcmVkUHJlZmVyZW5jZXM7CmltcG9ydCBhbmRyb2lkLnByZWZlcmVuY2UuRGlhbG9nUHJlZmVyZW5jZTsKaW1wb3J0IGFuZHJvaWQudXRpbC5BdHRyaWJ1dGVTZXQ7CmltcG9ydCBhbmRyb2lkLnZpZXcuVmlldzsKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LkVkaXRUZXh0OwppbXBvcnQgYW5kcm9pZC53aWRnZXQuU2Vla0JhcjsKaW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3OwppbXBvcnQgb3JnLnczYy5kb20uVGV4dDsKaW1wb3J0IHh5ei5tb25rZXl0b25nLmhvbmdiYW8uUjsKCi8qKgogKiBDcmVhdGVkIGJ5IFpob25neWkgb24gMi8zLzE2LgogKi8KcHVibGljIGNsYXNzIFNlZWtCYXJQcmVmZXJlbmNlIGV4dGVuZHMgRGlhbG9nUHJlZmVyZW5jZSB7CiAgICBwcml2YXRlIFNlZWtCYXIgc2Vla0JhcjsKICAgIHByaXZhdGUgVGV4dFZpZXcgdGV4dFZpZXc7CiAgICBwcml2YXRlIFN0cmluZyBoaW50VGV4dCwgcHJlZktpbmQ7CgogICAgcHVibGljIFNlZWtCYXJQcmVmZXJlbmNlKENvbnRleHQgY29udGV4dCwgQXR0cmlidXRlU2V0IGF0dHJzKSB7CiAgICAgICAgc3VwZXIoY29udGV4dCwgYXR0cnMpOwogICAgICAgIHNldERpYWxvZ0xheW91dFJlc291cmNlKFIubGF5b3V0LnByZWZlcmVuY2Vfc2Vla2Jhcik7CgogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYXR0cnMuZ2V0QXR0cmlidXRlQ291bnQoKTsgaSsrKSB7CiAgICAgICAgICAgIFN0cmluZyBhdHRyID0gYXR0cnMuZ2V0QXR0cmlidXRlTmFtZShpKTsKICAgICAgICAgICAgaWYgKGF0dHIuZXF1YWxzSWdub3JlQ2FzZSgicHJlZl9raW5kIikpIHsKICAgICAgICAgICAgICAgIHByZWZLaW5kID0gYXR0cnMuZ2V0QXR0cmlidXRlVmFsdWUoaSk7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBpZiAocHJlZktpbmQuZXF1YWxzKCJwcmVmX29wZW5fZGVsYXkiKSkgewogICAgICAgICAgICBoaW50VGV4dCA9ICLmi4blvIDnuqLljIUiOwogICAgICAgIH0gZWxzZSBpZiAocHJlZktpbmQuZXF1YWxzKCJwcmVmX2NvbW1lbnRfZGVsYXkiKSkgewogICAgICAgICAgICBoaW50VGV4dCA9ICLlj5HpgIHlm57lpI0o5pqC5LiN5pSv5oyB5bu25pe2KSI7CiAgICAgICAgfQogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25CaW5kRGlhbG9nVmlldyhWaWV3IHZpZXcpIHsKICAgICAgICBzdXBlci5vbkJpbmREaWFsb2dWaWV3KHZpZXcpOwoKICAgICAgICBTaGFyZWRQcmVmZXJlbmNlcyBwcmVmID0gZ2V0U2hhcmVkUHJlZmVyZW5jZXMoKTsKCiAgICAgICAgaW50IGRlbGF5ID0gcHJlZi5nZXRJbnQocHJlZktpbmQsIDApOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>k15k5k512g6j</text>
-      </register>
-      <register name="3" type="4">
-        <text>984134096</text>
-      </register>
-      <register name="4" type="4">
-        <text>2967948168</text>
-      </register>
-      <register name="5" type="4">
-        <text>&quot;k15k5k512g6j&quot;</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdG8gPSAiYUBhLmluZm8iOwo=</text>
+      <register name="3" type="4">
+        <text>as7692336</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgZnJvbSA9ICI5ODQxMzQwOTZAcXEuY29tIjsK</text>
+      <register name="4" type="4">
+        <text>,</text>
+      </register>
+      <register name="5" type="4">
+        <text>2967948168@qq.com</text>
+      </register>
+      <register name="6" type="4">
+        <text>as7692336</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4Lm1haWwuaW50ZXJuZXQuQWRkcmVzc0V4Y2VwdGlvbjtkZAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;What's up?&quot;</text>
       </register>
       <register name="9" type="4">
-        <text>orm</text>
+        <text>&quot;Hello&quot;</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -373,8 +383,8 @@
         <entry>ser</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>%//properties/g</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
