@@ -287,11 +287,11 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/telephony/SmsMessage.java" timestamp="1461598036044">
         <mark key="'" line="194" column="37" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/layout/activity_main.xml" timestamp="1461602666884">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="20" />
-        <mark key="." line="9" column="21" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/layout/activity_main.xml" timestamp="1461610179657">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="31" />
+        <mark key="^" line="29" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1461604388143">
         <mark key="[" line="0" column="0" />
@@ -400,11 +400,11 @@
       <jump line="21" column="38" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9hYm92ZT0iQCtpZC8iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>textView</text>
       </register>
       <register name="/" type="4">
         <text>pref_watch_notification</text>
@@ -412,32 +412,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZCgic210cCIscG9ydCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>-</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9hYm92ZT0iQCtpZC8iCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Ij4tPC8=</text>
+        <text>textView</text>
       </register>
-      <register name="3" type="4">
-        <text>SMS</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9InF3NzY5MjMzNkBxcS5jb20iCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">U01TLTwv</text>
+        <text>Large Text</text>
       </register>
       <register name="5" type="4">
-        <text>Notify</text>
+        <text>New Text</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">U01TLU5vdGlmeTw=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRBcHBlYXJhbmNlPSI/YnV0dG9uIgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>android</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTaXplPSJAYW5kcm9pIgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6c2hvd0FzQWN0aW9uPSJpZlJvb20iCg==</text>
+      <register name="8" type="4">
+        <text>New Button</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNob3dBc0FjdGlvbj0iaWZSb29tIgo=</text>
+      <register name="9" type="4">
+        <text>New Switch</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
