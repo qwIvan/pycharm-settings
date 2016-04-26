@@ -303,11 +303,12 @@
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" timestamp="1461635546022">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" timestamp="1461635663277">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="11" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/test/java/me/ivan/sms_notify/ExampleUnitTest.java" timestamp="1461608061008">
         <mark key="[" line="20" column="68" />
@@ -336,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="74" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/activities/MainActivity.java" />
       <jump line="7" column="4" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/xml/general_preferences.xml" />
       <jump line="9" column="29" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/xml/general_preferences.xml" />
       <jump line="5" column="22" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/xml/general_preferences.xml" />
@@ -436,6 +436,7 @@
       <jump line="3" column="61" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/values/styles.xml" />
       <jump line="15" column="13" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" />
       <jump line="18" column="13" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
