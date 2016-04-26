@@ -57,11 +57,11 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
         <mark key="'" line="664" column="8" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/receivers/MsgReceiver.java" timestamp="1461613032019">
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/receivers/MsgReceiver.java" timestamp="1461633927903">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Qiang/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460368153689">
         <mark key="[" line="0" column="0" />
@@ -221,11 +221,11 @@
         <mark key="." line="48" column="69" />
         <mark key="^" line="48" column="69" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/SettingActivity.java" timestamp="1461620227628">
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/SettingActivity.java" timestamp="1461633913344">
         <mark key="'" line="16" column="48" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" timestamp="1461633596848">
         <mark key="'" line="16" column="37" />
@@ -268,6 +268,11 @@
         <mark key="." line="21" column="37" />
         <mark key="^" line="21" column="37" />
       </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/local.properties" timestamp="1461633985566">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/PreferenceManager.java" timestamp="1461595848723">
         <mark key="'" line="45" column="13" />
       </file>
@@ -287,19 +292,18 @@
         <mark key="]" line="35" column="18" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Qiang/app/src/main/java/com/github/qwivan/qiang/Main2Activity.java" timestamp="1461604409665" />
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/xml/main_status.xml" timestamp="1461613088216">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="4" />
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/SMSNotifyApplication.java" timestamp="1461612565829">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/SMSNotifyApplication.java" timestamp="1461633947184">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" timestamp="1461618202663">
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" timestamp="1461633899598">
         <mark key="'" line="50" column="17" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -434,11 +438,11 @@
       <jump line="3" column="61" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/values/styles.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgPFByZWZlcmVuY2UKICAgICAgICAgICAgYW5kcm9pZDprZXk9InRlc3QiCiAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9Iua1i+ivlSIKICAgICAgICAgICAgYW5kcm9pZDpzdW1tYXJ5PSLlj5HpgIHkuIDlsIHmtYvor5Xpgq7ku7bliLDmjqXmlLbogIXpgq7nrrEiLz4K</text>
+      <register name="&quot;" type="4">
+        <text>Mon Apr 25 19:38:42 CST 2016</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Mon Apr 25 19:38:42 CST 2016</text>
       </register>
       <register name="/" type="4">
         <text>pref_watch_notification</text>
@@ -446,32 +450,32 @@
       <register name="0" type="4">
         <text>P</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgPFByZWZlcmVuY2UKICAgICAgICAgICAgYW5kcm9pZDprZXk9InRlc3QiCiAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9Iua1i+ivlSIKICAgICAgICAgICAgYW5kcm9pZDpzdW1tYXJ5PSLlj5HpgIHkuIDlsIHmtYvor5Xpgq7ku7bliLDmjqXmlLbogIXpgq7nrrEiLz4K</text>
+      <register name="1" type="4">
+        <text>Mon Apr 25 19:38:42 CST 2016</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">IG9uIDE2LTQtMjU=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZGVyLnNldE1lc3NhZ2UoIiIpCg==</text>
+      <register name="3" type="4">
+        <text>n</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBbGVydERpYWxvZy5CdWlsZGVyIGJ1aWxkZXIgPSBuZXcgQWxlcnREaWFsb2cuQnVpbGRlcih0aGlzKTsK</text>
+      <register name="4" type="4">
+        <text>o</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkRlc3Ryb3koKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIG9uRGVzdHJveSgpIHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IDE2LTQtMjU=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IG9uIDE2LTQtMjY=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25EZXN0cm95KCkgewogICAgICAgIHN1cGVyLm9uRGVzdHJveSgpOwogICAgICAgIEFsZXJ0RGlhbG9nLkJ1aWxkZXIgYnVpbGRlciA9IG5ldyBBbGVydERpYWxvZy5CdWlsZGVyKHRoaXMpOwogICAgICAgIGJ1aWxkZXIuc2V0TWVzc2FnZSgiIikKICAgIH0K</text>
+        <text encoding="base64">CiAgICAgICAgPFByZWZlcmVuY2UKICAgICAgICAgICAgYW5kcm9pZDprZXk9InRlc3QiCiAgICAgICAgICAgIGFuZHJvaWQ6dGl0bGU9Iua1i+ivlSIKICAgICAgICAgICAgYW5kcm9pZDpzdW1tYXJ5PSLlj5HpgIHkuIDlsIHmtYvor5Xpgq7ku7bliLDmjqXmlLbogIXpgq7nrrEiLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
