@@ -62,11 +62,12 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListRecyclerViewAdapter.java" timestamp="1462776752859">
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListRecyclerViewAdapter.java" timestamp="1462777521906">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="20" column="67" />
+        <mark key="]" line="25" column="21" />
+        <mark key="." line="25" column="21" />
+        <mark key="^" line="25" column="21" />
       </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/res/xml/accessible_service_config.xml" timestamp="1460368151289">
         <mark key="[" line="0" column="0" />
@@ -163,12 +164,12 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListFragment.java" timestamp="1462776347524">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListFragment.java" timestamp="1462777681615">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="83" column="25" />
+        <mark key="]" line="84" column="26" />
+        <mark key="." line="84" column="26" />
+        <mark key="^" line="84" column="26" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" timestamp="1462774393122" />
       <file name="/Dummy.txt" timestamp="1461612536233">
@@ -300,9 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="13" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="61" column="13" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="52" column="17" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
       <jump line="47" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
       <jump line="58" column="17" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
       <jump line="164" column="20" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
@@ -400,10 +398,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListRecyclerViewAdapter.java" />
       <jump line="8" column="7" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APList.java" />
       <jump line="74" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListFragment.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListFragment.java" />
+      <jump line="84" column="26" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListFragment.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgV2lmaU1hbmFnZXIgd2lmaU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>OnListFragmentInteractionListener</text>
@@ -415,31 +416,31 @@
         <text encoding="base64">ICAgIGFuZHJvaWQ6Zml0c1N5c3RlbVdpbmRvd3M9InRydWUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgV2lmaU1hbmFnZXIgd2lmaU1hbmFnZXI7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aWZpTWFuYWdlciA9IGl0ZW1zLjsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>OnListFragmentInteractionListener</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25DcmVhdGUoQE51bGxhYmxlIEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIHdpZmlNYW5hZ2VyID0gCiAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgV2lmaU1hbmFnZXIgd2lmaU1hbmFnZXI7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3aWZpTWFuYWdlciA9IGl0ZW1zLjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogc3BlY2lmaWVkIHtAbGluayBPbkxpc3RGcmFnbWVudEludGVyYWN0aW9uTGlzdGVuZXJ9LgogKiBUT0RPOiBSZXBsYWNlIHRoZSBpbXBsZW1lbnRhdGlvbiB3aXRoIGNvZGUgZm9yIHlvdXIgZGF0YSB0eXBlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIEEgZnJhZ21lbnQgcmVwcmVzZW50aW5nIGEgbGlzdCBvZiBJdGVtcy4KICogPHAvPgogKiBBY3Rpdml0aWVzIGNvbnRhaW5pbmcgdGhpcyBmcmFnbWVudCBNVVNUIGltcGxlbWVudCB0aGUge0BsaW5rIE9uTGlzdEZyYWdtZW50SW50ZXJhY3Rpb25MaXN0ZW5lcn0KICogaW50ZXJmYWNlLgogKi8K</text>
-      </register>
-      <register name="7" type="4">
+      <register name="6" type="4">
         <text>OnListFragmentInteractionListener</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IGlkOwo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICogc3BlY2lmaWVkIHtAbGluayBPbkxpc3RGcmFnbWVudEludGVyYWN0aW9uTGlzdGVuZXJ9LgogKiBUT0RPOiBSZXBsYWNlIHRoZSBpbXBsZW1lbnRhdGlvbiB3aXRoIGNvZGUgZm9yIHlvdXIgZGF0YSB0eXBlLgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGAK</text>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCiAqIEEgZnJhZ21lbnQgcmVwcmVzZW50aW5nIGEgbGlzdCBvZiBJdGVtcy4KICogPHAvPgogKiBBY3Rpdml0aWVzIGNvbnRhaW5pbmcgdGhpcyBmcmFnbWVudCBNVVNUIGltcGxlbWVudCB0aGUge0BsaW5rIE9uTGlzdEZyYWdtZW50SW50ZXJhY3Rpb25MaXN0ZW5lcn0KICogaW50ZXJmYWNlLgogKi8K</text>
+      </register>
+      <register name="9" type="4">
+        <text>OnListFragmentInteractionListener</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
