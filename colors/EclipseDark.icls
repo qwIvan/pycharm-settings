@@ -8,14 +8,6 @@
     <option name="EDITOR_FONT_NAME" value="文泉驿等宽微米黑" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono derivative Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="文泉驿等宽微米黑" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
