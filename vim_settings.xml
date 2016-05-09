@@ -1,9 +1,7 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks>
-      <mark key="M" line="31" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
-    </globalmarks>
+    <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/gradle/wrapper/gradle-wrapper.properties" timestamp="1460364369867">
         <mark key="[" line="5" column="68" />
@@ -11,8 +9,12 @@
         <mark key="^" line="5" column="68" />
         <mark key="." line="5" column="68" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/fragment_ap_list.xml" timestamp="1462524610587">
-        <mark key="'" line="12" column="30" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/fragment_ap_list.xml" timestamp="1462763671791">
+        <mark key="'" line="6" column="52" />
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Qiang/app/src/main/java/com/github/qwivan/qiang/QiangService.java" timestamp="1460368961659">
         <mark key="'" line="11" column="46" />
@@ -143,12 +145,15 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" timestamp="1462763011661">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="62" />
-        <mark key="." line="20" column="62" />
-        <mark key="^" line="20" column="62" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListFragment.java" timestamp="1462764564841">
+        <mark key="'" line="40" column="8" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" timestamp="1462764024061">
+        <mark key="'" line="32" column="57" />
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="34" column="51" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1461612536233">
         <mark key="[" line="0" column="0" />
@@ -181,6 +186,12 @@
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/Main2Activity.java" timestamp="1462524965545">
         <mark key="'" line="30" column="33" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/build.gradle" timestamp="1462763941542">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="42" />
+        <mark key="^" line="7" column="42" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/build.gradle" timestamp="1460364501706">
         <mark key="[" line="7" column="50" />
@@ -272,22 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="10" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="32" column="10" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="20" column="21" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="28" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="74" column="19" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="13" column="56" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/SMSNotifyApplication.java" />
-      <jump line="19" column="22" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="53" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/receivers/MsgReceiver.java" />
-      <jump line="85" column="21" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="24" column="17" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="57" column="45" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="14" column="40" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/layout/activity_main.xml" />
-      <jump line="107" column="16" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="14" column="37" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" />
       <jump line="93" column="24" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
       <jump line="33" column="9" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
       <jump line="78" column="15" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
@@ -347,7 +342,6 @@
       <jump line="50" column="17" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
       <jump line="11" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="7" column="23" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="15" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="505" column="29" filename="$USER_HOME$/android-sdk-linux/extras/android/m2repository/com/android/support/appcompat-v7/23.2.1/appcompat-v7-23.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" />
       <jump line="138" column="17" filename="$USER_HOME$/android-sdk-linux/extras/android/m2repository/com/android/support/appcompat-v7/23.2.1/appcompat-v7-23.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" />
@@ -356,78 +350,96 @@
       <jump line="46" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="29" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="40" column="12" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
-      <jump line="35" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="56" column="4" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="61" column="4" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="24" column="44" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="14" column="42" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="52" column="3" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="33" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="11" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
-      <jump line="32" column="4" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="2" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="23" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="19" column="12" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="3" column="4" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="31" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="66" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="7" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="37" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="36" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="70" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="58" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="67" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="69" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="18" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="48" column="47" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="47" column="12" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="4" column="4" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="5" column="52" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/fragment_ap_list.xml" />
+      <jump line="6" column="52" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/fragment_ap_list.xml" />
+      <jump line="35" column="6" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="32" column="57" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
+      <jump line="58" column="54" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListFragment.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListFragment.java" />
+      <jump line="40" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AppTheme.PopupOverlay</text>
+        <text>_ficonnection</text>
       </register>
       <register name="-" type="4">
-        <text>AppTheme.PopupOverlay</text>
+        <text>_ficonnection</text>
       </register>
       <register name="/" type="4">
-        <text>pref_watch_notification</text>
+        <text encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDwhLS08ZnJhZ21lbnQtLT4KICAgICAgICA8IS0tYW5kcm9pZDppZD0iQCtpZC9hcF9saXN0X2ZyYWdtZW50Ii0tPgogICAgICAgIDwhLS1hbmRyb2lkOm5hbWU9ImNvbS55dW56amlhLmlvdC53aWZpLkFQTGlzdEZyYWdtZW50Ii0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgogICAgICAgIDwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCItLT4KICAgICAgICA8IS0tdG9vbHM6bGF5b3V0PSJAbGF5b3V0L2ZyYWdtZW50X2FwX2xpc3QiIC8+LS0+Cg==</text>
+        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4KCiAgICAgICAgPGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LkFwcEJhckxheW91dAogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lLkFwcEJhck92ZXJsYXkiPgoKICAgICAgICAgICAgPGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuVG9vbGJhcgogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90b29sYmFyIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iP2F0dHIvYWN0aW9uQmFyU2l6ZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iP2F0dHIvY29sb3JQcmltYXJ5IgogICAgICAgICAgICAgICAgYXBwOnBvcHVwVGhlbWU9IkBzdHlsZS9BcHBUaGVtZS5Qb3B1cE92ZXJsYXkiIC8+CgogICAgICAgIDwvYW5kcm9pZC5zdXBwb3J0LmRlc2lnbi53aWRnZXQuQXBwQmFyTGF5b3V0PgoKICAgICAgICA8ZnJhZ21lbnQKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9hcF9saXN0X2ZyYWdtZW50IgogICAgICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS55dW56amlhLmlvdC53aWZpLkFQTGlzdEZyYWdtZW50IgogICAgICAgICAgICB0b29sczpsYXlvdXQ9IkBsYXlvdXQvZnJhZ21lbnRfYXBfbGlzdCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiIC8+CgogICAgPC9MaW5lYXJMYXlvdXQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>AppTheme.PopupOverlay</text>
+        <text>_ficonnection</text>
       </register>
-      <register name="2" type="4">
-        <text>wrap_content</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5BcHBCYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9BcHBUaGVtZS5BcHBCYXJPdmVybGF5Ij4KCiAgICAgICAgPGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuVG9vbGJhcgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Rvb2xiYXIiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iP2F0dHIvYWN0aW9uQmFyU2l6ZSIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YXR0ci9jb2xvclByaW1hcnkiCiAgICAgICAgICAgIGFwcDpwb3B1cFRoZW1lPSJAc3R5bGUvQXBwVGhlbWUuUG9wdXBPdmVybGF5IiAvPgoKICAgIDwvYW5kcm9pZC5zdXBwb3J0LmRlc2lnbi53aWRnZXQuQXBwQmFyTGF5b3V0PgoKICAgICAgICA8ZnJhZ21lbnQKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9hcF9saXN0X2ZyYWdtZW50IgogICAgICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS55dW56amlhLmlvdC53aWZpLkFQTGlzdEZyYWdtZW50IgogICAgICAgICAgICB0b29sczpsYXlvdXQ9IkBsYXlvdXQvZnJhZ21lbnRfYXBfbGlzdCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiIC8+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlL0FwcFRoZW1lLkFwcEJhck92ZXJsYXkiPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxhbmRyb2lkLnN1cHBvcnQuZGVzaWduLndpZGdldC5GbG9hdGluZ0FjdGlvbkJ1dHRvbgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZmFiIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iYm90dG9tfGVuZCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW49IkBkaW1lbi9mYWJfbWFyZ2luIgogICAgICAgIGFuZHJvaWQ6c3JjPSJAYW5kcm9pZDpkcmF3YWJsZS9pY19kaWFsb2dfZW1haWwiIC8+Cgo=</text>
       </register>
       <register name="4" type="4">
-        <text>android.support.design.widget.AppBarLayout</text>
+        <text>&quot;</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgIDxGcmFtZUxheW91dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbGVmdF9kcmF3ZXIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjMyNWRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9InN0YXJ0IgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iI0ZGRkZGRiIvPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxmcmFnbWVudAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYXBfbGlzdF9mcmFnbWVudCIKICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS55dW56amlhLmlvdC53aWZpLkFQTGlzdEZyYWdtZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiCiAgICAgICAgdG9vbHM6bGF5b3V0PSJAbGF5b3V0L2ZyYWdtZW50X2FwX2xpc3QiIC8+Cg==</text>
+      <register name="7" type="4">
+        <text>m</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGFuZHJvaWQuc3VwcG9ydC52NC53aWRnZXQuRHJhd2VyTGF5b3V0IGFuZHJvaWQ6aWQ9IkAraWQvZHJhd2VyX2xheW91dCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgogICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIj4KCiAgICA8TGluZWFyTGF5b3V0CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCI+CgogICAgICAgIDxhbmRyb2lkLnN1cHBvcnQudjcud2lkZ2V0LlRvb2xiYXIKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90b29sYmFyIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDptaW5IZWlnaHQ9Ij9hdHRyL2FjdGlvbkJhclNpemUiCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iP2F0dHIvY29sb3JQcmltYXJ5IgogICAgICAgICAgICBhcHA6dGhlbWU9IkBzdHlsZS9UaGVtZU92ZXJsYXkuQXBwQ29tcGF0LkRhcmsuQWN0aW9uQmFyIgogICAgICAgICAgICBhcHA6cG9wdXBUaGVtZT0iQHN0eWxlL1RoZW1lT3ZlcmxheS5BcHBDb21wYXQuTGlnaHQiLz4KCiAgICAgICAgPGZyYWdtZW50CiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYXBfbGlzdF9mcmFnbWVudCIKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJjb20ueXVuemppYS5pb3Qud2lmaS5BUExpc3RGcmFnbWVudCIKICAgICAgICAgICAgdG9vbHM6bGF5b3V0PSJAbGF5b3V0L2ZyYWdtZW50X2FwX2xpc3QiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IiAvPgoKICAgIDwvTGluZWFyTGF5b3V0PgoKICAgIDxGcmFtZUxheW91dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbGVmdF9kcmF3ZXIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjMyNWRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9InN0YXJ0IgogICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iI0ZGRkZGRiIvPgoKPC9hbmRyb2lkLnN1cHBvcnQudjQud2lkZ2V0LmRyYXdlcmxheW91dD4K</text>
+      <register name="8" type="4">
+        <text>e</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8RnJhbWVMYXlvdXQKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9jb250ZW50X2ZyYW1lIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIgLz4K</text>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>pref_watch_notification</last-search>
+      <last-search encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</last-search>
       <last-offset />
-      <last-pattern>pref_watch_notification</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>ser</entry>
         <entry>pref_watch_notification</entry>
+        <entry encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
@@ -481,6 +493,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
