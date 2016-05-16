@@ -29,9 +29,10 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
         <mark key="'" line="44" column="13" />
       </file>
-      <file name="$USER_HOME$/wifi/app/src/main/AndroidManifest.xml" timestamp="1463371451141">
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/wifi/app/src/main/AndroidManifest.xml" timestamp="1463381465431">
+        <mark key="]" line="5" column="73" />
+        <mark key="." line="5" column="73" />
+        <mark key="^" line="5" column="73" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/xml/main_menu.xml" timestamp="1461603034253">
         <mark key="[" line="0" column="0" />
@@ -39,10 +40,11 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/UDPService.java" timestamp="1463371670930">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/UDPService.java" timestamp="1463380897219">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="62" />
+        <mark key="." line="17" column="62" />
+        <mark key="^" line="17" column="62" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/SMSObserver.java" timestamp="1461587521074">
         <mark key="[" line="7" column="25" />
@@ -68,11 +70,12 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463371668067">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="36" column="51" />
-        <mark key="." line="33" column="73" />
-        <mark key="^" line="33" column="73" />
+      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463381237056">
+        <mark key="'" line="34" column="52" />
+        <mark key="[" line="31" column="42" />
+        <mark key="]" line="31" column="51" />
+        <mark key="." line="31" column="51" />
+        <mark key="^" line="31" column="51" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1460628242716">
         <mark key="[" line="65" column="1" />
@@ -139,10 +142,10 @@
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" timestamp="1462857010543">
         <mark key="'" line="1014" column="44" />
       </file>
-      <file name="$USER_HOME$/wifi/app/src/test/java/com/yunzjia/iot/wifi/ExampleUnitTest.java" timestamp="1463371732964">
-        <mark key="[" line="11" column="50" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
+      <file name="$USER_HOME$/wifi/app/src/test/java/com/yunzjia/iot/wifi/ExampleUnitTest.java" timestamp="1463380791245">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/fragments/GeneralSettingsFragment.java" timestamp="1461602641634">
@@ -206,6 +209,9 @@
         <mark key="]" line="84" column="26" />
         <mark key="." line="84" column="26" />
         <mark key="^" line="84" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1463380767778">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/AndroidManifest.xml" timestamp="1462776586362">
         <mark key="[" line="2" column="35" />
@@ -328,12 +334,14 @@
         <mark key="." line="29" column="31" />
         <mark key="^" line="29" column="31" />
       </file>
+      <file name="/fragment.java" timestamp="1462524810966">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
         <mark key="'" line="18" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="17" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/SettingActivity.java" />
       <jump line="16" column="48" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/SettingActivity.java" />
       <jump line="40" column="29" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/xml/default_settings.xml" />
       <jump line="26" column="44" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/xml/default_settings.xml" />
@@ -433,46 +441,47 @@
       <jump line="1014" column="44" filename="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" />
       <jump line="41" column="21" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/ResumeCallback.java" />
       <jump line="33" column="20" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CallbackContext.java" />
+      <jump line="31" column="52" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoNCwgMiArIDIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>123456789</text>
       </register>
       <register name="-" type="4">
-        <text>addition_isCorrect</text>
+        <text>123456789</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJbmV0QWRkcmVzcyBhZGRyZXNzID0gSW5ldEFkZHJlc3MuZ2V0QnlOYW1lKCIxOTIuMTY4LjAuNDMiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgcG9ydCA9IDEyNTgwOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ5dGVbXSBzZW5kQnl0ZXMgPSAiaG9tZTJjbG91ZFxuaGFpdHVrZTAyMCIuZ2V0Qnl0ZXMoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEYXRhZ3JhbVBhY2tldCBwYWNrZXQgPSBuZXcgRGF0YWdyYW1QYWNrZXQoc2VuZEJ5dGVzLCBzZW5kQnl0ZXMubGVuZ3RoLCBhZGRyZXNzLCBwb3J0KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEYXRhZ3JhbVNvY2tldCBjbGllbnQgPSBuZXcgRGF0YWdyYW1Tb2NrZXQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGllbnQuc2VuZChwYWNrZXQpOwo=</text>
+      <register name="0" type="4">
+        <text>(&quot;192.168.0.12&quot;,12580,&quot;home2cloud,haituke020&quot;)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoNCwgMiArIDIpOwo=</text>
+      <register name="1" type="4">
+        <text>123456789</text>
       </register>
       <register name="2" type="4">
-        <text>addition_isCorrect</text>
+        <text>rk3128</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUZQo=</text>
+      <register name="3" type="4">
+        <text>&quot;home2cloud\nhaituke020&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>&quot;192.168.0.12&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iIgo=</text>
+      <register name="7" type="4">
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>1&quot;);</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
