@@ -70,10 +70,12 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463386825986">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463388043810">
+        <mark key="'" line="91" column="18" />
+        <mark key="[" line="82" column="8" />
+        <mark key="]" line="82" column="18" />
+        <mark key="." line="82" column="18" />
+        <mark key="^" line="82" column="18" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1460628242716">
         <mark key="[" line="65" column="1" />
@@ -345,8 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
-      <jump line="67" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="69" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="18" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
       <jump line="48" column="47" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/activity_main.xml" />
@@ -445,46 +445,48 @@
       <jump line="25" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="44" column="23" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="71" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="91" column="18" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoa2V5Lmxlbmd0aCgpID4gMCAmJiBzc2lkLmxlbmd0aCgpID4gMCkgewogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoa2V5Lmxlbmd0aCgpIDw9IDApewogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoc3NpZC5sZW5ndGgoKSA8PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29ubmVjdGlvbkluZm8uKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>hide</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzeXN0ZW1TZXJ2aWNlID0gKFdpZmlNYW5hZ2VyKSBnZXRTeXN0ZW1TZXJ2aWNlKFdJRklfU0VSVklDRSk7Cg==</text>
+      <register name="0" type="4">
+        <text>(WifiManager) getSystemService(WIFI_SERVICE);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoa2V5Lmxlbmd0aCgpID4gMCAmJiBzc2lkLmxlbmd0aCgpID4gMCkgewogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoa2V5Lmxlbmd0aCgpIDw9IDApewogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoc3NpZC5sZW5ndGgoKSA8PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29ubmVjdGlvbkluZm8uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgV2lmaU1hbmFnZXIgc3lzdGVtU2VydmljZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEFzeW5jVGFzazxTdHJpbmcsIFZvaWQsIEJvb2xlYW4+KCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm90ZWN0ZWQgQm9vbGVhbiBkb0luQmFja2dyb3VuZChTdHJpbmcuLi4gcGFyYW1zKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFVEUFNlcnZpY2UoKS5zZW5kKHBhcmFtc1syXSwgSW50ZWdlci5wYXJzZUludChwYXJhbXNbM10pLCBwYXJhbXNbMF0gKyAnXG4nICsgcGFyYW1zWzFdKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvdGVjdGVkIHZvaWQgb25Qb3N0RXhlY3V0ZShCb29sZWFuIHN1Y2Nlc3MpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoc3VjY2VzcykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgIlVEUOWPkemAgeaIkOWKnyIsIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoTWFpbkFjdGl2aXR5LnRoaXMsICJVRFDlj5HpgIHlpLHotKUiLCBUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfS5leGVjdXRlKHNzaWQsIGtleSwgZHN0LCBTdHJpbmcudmFsdWVPZihwb3J0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeXN0ZW1TZXJ2aWNlID0gKFdpZmlNYW5hZ2VyKSBnZXRTeXN0ZW1TZXJ2aWNlKFdJRklfU0VSVklDRSk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoTWFpbkFjdGl2aXR5LnRoaXMsIuivt+i+k+WFpeW9k+WJjVdpRmnnmoTov57mjqXlr4bnoIEiLFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7Cg==</text>
+      <register name="5" type="4">
+        <text>systemService</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uSW5mbyA9IHN5c3RlbVNlcnZpY2UuZ2V0Q29ubmVjdGlvbkluZm8oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoTWFpbkFjdGl2aXR5LnRoaXMsIuaXoOazleiOt+WPluW9k+WJjVdpRmnnmoRTU0lEIixUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>Editable</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
