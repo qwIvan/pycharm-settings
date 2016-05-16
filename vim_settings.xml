@@ -70,12 +70,12 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463381237056">
-        <mark key="'" line="34" column="52" />
-        <mark key="[" line="31" column="42" />
-        <mark key="]" line="31" column="51" />
-        <mark key="." line="31" column="51" />
-        <mark key="^" line="31" column="51" />
+      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463382803827">
+        <mark key="'" line="31" column="43" />
+        <mark key="[" line="30" column="117" />
+        <mark key="]" line="31" column="43" />
+        <mark key="." line="31" column="43" />
+        <mark key="^" line="31" column="43" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1460628242716">
         <mark key="[" line="65" column="1" />
@@ -133,11 +133,19 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceSelfTestActivity.java" timestamp="1460626160319">
         <mark key="'" line="185" column="59" />
       </file>
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiManager.java" timestamp="1463382742979">
+        <mark key="'" line="1293" column="12" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/PreferenceScreen.java" timestamp="1461596526223">
         <mark key="'" line="85" column="19" />
       </file>
       <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1462856999115">
         <mark key="'" line="228" column="29" />
+      </file>
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" timestamp="1463382840435">
+        <mark key="'" line="70" column="21" />
+        <mark key="[" line="70" column="21" />
+        <mark key="]" line="70" column="29" />
       </file>
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" timestamp="1462857010543">
         <mark key="'" line="1014" column="44" />
@@ -172,12 +180,6 @@
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="4" />
-      </file>
-      <file name="$USER_HOME$/wifi/app/src/main/res/layout/activity_main.xml" timestamp="1463370041252">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="31" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build/generated/source/r/debug/xyz/monkeytong/hongbao/R.java" timestamp="1461596790069">
         <mark key="'" line="1683" column="32" />
@@ -334,7 +336,7 @@
         <mark key="." line="29" column="31" />
         <mark key="^" line="29" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1462524810966">
+      <file name="/fragment.java" timestamp="1463381760370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
@@ -342,17 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="48" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/SettingActivity.java" />
-      <jump line="40" column="29" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/xml/default_settings.xml" />
-      <jump line="26" column="44" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/xml/default_settings.xml" />
-      <jump line="16" column="37" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/AndroidManifest.xml" />
-      <jump line="3" column="61" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/values/styles.xml" />
-      <jump line="15" column="13" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" />
-      <jump line="18" column="13" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="18" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MainActivity.java" />
-      <jump line="10" column="26" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" />
-      <jump line="17" column="54" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MainActivity.java" />
       <jump line="16" column="37" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MainActivity.java" />
       <jump line="9" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MainActivity.java" />
       <jump line="33" column="23" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MainActivity.java" />
@@ -441,47 +432,58 @@
       <jump line="1014" column="44" filename="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" />
       <jump line="41" column="21" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/ResumeCallback.java" />
       <jump line="33" column="20" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CallbackContext.java" />
-      <jump line="31" column="52" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="5" column="73" filename="$USER_HOME$/wifi/app/src/main/AndroidManifest.xml" />
+      <jump line="51" column="46" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="26" column="12" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="24" column="15" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="35" column="59" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="318" column="29" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" />
+      <jump line="329" column="20" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" />
+      <jump line="29" column="100" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="1293" column="12" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiManager.java" />
+      <jump line="31" column="43" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="543" column="38" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" />
+      <jump line="70" column="21" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>123456789</text>
+        <text>mWifiSsid</text>
       </register>
       <register name="-" type="4">
-        <text>123456789</text>
+        <text>getBSSID()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>(&quot;192.168.0.12&quot;,12580,&quot;home2cloud,haituke020&quot;)</text>
+        <text>mWifiSsid</text>
       </register>
-      <register name="1" type="4">
-        <text>123456789</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29ubmVjdGlvbkluZm8K</text>
       </register>
-      <register name="2" type="4">
-        <text>rk3128</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHNzaWQgPSAoU3RyaW5nKSBjb25uZWN0aW9uSW5mbzsK</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;home2cloud\nhaituke020&quot;</text>
+        <text>getBSSID()</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;192.168.0.12&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc3NpZCA9ICgoV2lmaU1hbmFnZXIpIGdldFN5c3RlbVNlcnZpY2UoV0lGSV9TRVJWSUNFKSkuZ2V0Q29ubmVjdGlvbkluZm8oKS5nZXRCU1NJRCgpOwogICAgICAgICAgICAgICAgICAgIG5ldyBBc3luY1Rhc2s8U3RyaW5nLCBWb2lkLCBCb29sZWFuPigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgIHByb3RlY3RlZCBCb29sZWFuIGRvSW5CYWNrZ3JvdW5kKFN0cmluZy4uLiBwYXJhbXMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFVEUFNlcnZpY2UoKS5zZW5kKHBhcmFtc1syXSwgSW50ZWdlci5wYXJzZUludChwYXJhbXNbM10pLHBhcmFtc1swXSsnXG4nK3BhcmFtc1sxXSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICBwcm90ZWN0ZWQgdm9pZCBvblBvc3RFeGVjdXRlKEJvb2xlYW4gc3VjY2VzcykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHN1Y2Nlc3MpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgIlVEUOWPkemAgeaIkOWKnyIsIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KE1haW5BY3Rpdml0eS50aGlzLCAiVURQ5Y+R6YCB5aSx6LSlIiwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0uZXhlY3V0ZShzc2lkLGtleSxkc3QscG9ydCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0Lgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>,</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFZGl0YWJsZSB0ZXh0ID0gZWRpdF9rZXkuZ2V0VGV4dCgpOwogICAgICAgICAgICAgICAgICAgIFN0cmluZyA9IGR0ZXh0Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>viewById</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgPSB2aWV3QnlJZAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
