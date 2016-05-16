@@ -26,9 +26,6 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1462761493761">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
         <mark key="'" line="44" column="13" />
       </file>
@@ -61,6 +58,12 @@
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
         <mark key="'" line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463370588313">
+        <mark key="[" line="29" column="87" />
+        <mark key="]" line="31" column="47" />
+        <mark key="." line="31" column="47" />
+        <mark key="^" line="31" column="47" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1460628242716">
         <mark key="[" line="65" column="1" />
@@ -152,6 +155,12 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="4" />
       </file>
+      <file name="$USER_HOME$/wifi/app/src/main/res/layout/activity_main.xml" timestamp="1463370041252">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build/generated/source/r/debug/xyz/monkeytong/hongbao/R.java" timestamp="1461596790069">
         <mark key="'" line="1683" column="32" />
       </file>
@@ -182,9 +191,6 @@
         <mark key="]" line="84" column="26" />
         <mark key="." line="84" column="26" />
         <mark key="^" line="84" column="26" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1461612536233">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/AndroidManifest.xml" timestamp="1462776586362">
         <mark key="[" line="2" column="35" />
@@ -307,9 +313,6 @@
         <mark key="." line="29" column="31" />
         <mark key="^" line="29" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1462524810966">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
         <mark key="'" line="18" column="25" />
       </file>
@@ -418,10 +421,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IERhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text>OnListFragmentInteractionListener</text>
+        <text>button</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
@@ -430,31 +433,31 @@
         <text encoding="base64">ICAgIGFuZHJvaWQ6Zml0c1N5c3RlbVdpbmRvd3M9InRydWUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IERhdGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25DcmVhdGUoQE51bGxhYmxlIEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIHdpZmlNYW5hZ2VyID0gCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRGF0YWdyYW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgV2lmaU1hbmFnZXIgd2lmaU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aWZpTWFuYWdlciA9IGl0ZW1zLjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzeW5jVGFzazw+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>button</text>
       </register>
       <register name="6" type="4">
-        <text>OnListFragmentInteractionListener</text>
+        <text>New Button</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogc3BlY2lmaWVkIHtAbGluayBPbkxpc3RGcmFnbWVudEludGVyYWN0aW9uTGlzdGVuZXJ9LgogKiBUT0RPOiBSZXBsYWNlIHRoZSBpbXBsZW1lbnRhdGlvbiB3aXRoIGNvZGUgZm9yIHlvdXIgZGF0YSB0eXBlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEEgZnJhZ21lbnQgcmVwcmVzZW50aW5nIGEgbGlzdCBvZiBJdGVtcy4KICogPHAvPgogKiBBY3Rpdml0aWVzIGNvbnRhaW5pbmcgdGhpcyBmcmFnbWVudCBNVVNUIGltcGxlbWVudCB0aGUge0BsaW5rIE9uTGlzdEZyYWdtZW50SW50ZXJhY3Rpb25MaXN0ZW5lcn0KICogaW50ZXJmYWNlLgogKi8K</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25DcmVhdGUoQE51bGxhYmxlIEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIHdpZmlNYW5hZ2VyID0gCiAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>OnListFragmentInteractionListener</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgV2lmaU1hbmFnZXIgd2lmaU1hbmFnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
