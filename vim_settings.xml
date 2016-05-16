@@ -16,6 +16,9 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CallbackContext.java" timestamp="1463364291267">
+        <mark key="'" line="33" column="20" />
+      </file>
       <file name="$USER_HOME$/Qiang/app/src/main/java/com/github/qwivan/qiang/QiangService.java" timestamp="1460368961659">
         <mark key="'" line="11" column="46" />
         <mark key="[" line="7" column="26" />
@@ -259,6 +262,9 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/content/ContextWrapper.java" timestamp="1460369218121">
         <mark key="'" line="49" column="12" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/ResumeCallback.java" timestamp="1463364289603">
+        <mark key="'" line="41" column="21" />
+      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/xml/main_status.xml" timestamp="1461613088216">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="4" />
@@ -309,8 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="37" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/SettingActivity.java" />
-      <jump line="11" column="54" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/SettingActivity.java" />
       <jump line="18" column="17" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/SettingActivity.java" />
       <jump line="16" column="48" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/SettingActivity.java" />
       <jump line="40" column="29" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/xml/default_settings.xml" />
@@ -409,6 +413,8 @@
       <jump line="228" column="29" filename="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
       <jump line="392" column="30" filename="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" />
       <jump line="1014" column="44" filename="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" />
+      <jump line="41" column="21" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/ResumeCallback.java" />
+      <jump line="33" column="20" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CallbackContext.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
