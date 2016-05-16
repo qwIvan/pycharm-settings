@@ -29,11 +29,20 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
         <mark key="'" line="44" column="13" />
       </file>
+      <file name="$USER_HOME$/wifi/app/src/main/AndroidManifest.xml" timestamp="1463371451141">
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/xml/main_menu.xml" timestamp="1461603034253">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="7" />
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/UDPService.java" timestamp="1463371670930">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/SMSObserver.java" timestamp="1461587521074">
         <mark key="[" line="7" column="25" />
@@ -59,11 +68,11 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463370588313">
-        <mark key="[" line="29" column="87" />
-        <mark key="]" line="31" column="47" />
-        <mark key="." line="31" column="47" />
-        <mark key="^" line="31" column="47" />
+      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463371668067">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="36" column="51" />
+        <mark key="." line="33" column="73" />
+        <mark key="^" line="33" column="73" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1460628242716">
         <mark key="[" line="65" column="1" />
@@ -121,12 +130,6 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceSelfTestActivity.java" timestamp="1460626160319">
         <mark key="'" line="185" column="59" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_fi/MainActivity.java" timestamp="1462526214122">
-        <mark key="'" line="43" column="51" />
-        <mark key="[" line="43" column="0" />
-        <mark key="." line="10" column="96" />
-        <mark key="^" line="10" column="96" />
-      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/PreferenceScreen.java" timestamp="1461596526223">
         <mark key="'" line="85" column="19" />
       </file>
@@ -136,8 +139,20 @@
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" timestamp="1462857010543">
         <mark key="'" line="1014" column="44" />
       </file>
+      <file name="$USER_HOME$/wifi/app/src/test/java/com/yunzjia/iot/wifi/ExampleUnitTest.java" timestamp="1463371732964">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/fragments/GeneralSettingsFragment.java" timestamp="1461602641634">
         <mark key="'" line="22" column="28" />
+      </file>
+      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/service.java" timestamp="1463371621665">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/LuckyMoney/app/src/main/java/qwivan/github/com/luckymoney/MainActivity.java" timestamp="1460349332031">
         <mark key="'" line="12" column="4" />
@@ -421,43 +436,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IERhdGEK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoNCwgMiArIDIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>button</text>
+        <text>addition_isCorrect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6Zml0c1N5c3RlbVdpbmRvd3M9InRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBJbmV0QWRkcmVzcyBhZGRyZXNzID0gSW5ldEFkZHJlc3MuZ2V0QnlOYW1lKCIxOTIuMTY4LjAuNDMiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgcG9ydCA9IDEyNTgwOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ5dGVbXSBzZW5kQnl0ZXMgPSAiaG9tZTJjbG91ZFxuaGFpdHVrZTAyMCIuZ2V0Qnl0ZXMoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEYXRhZ3JhbVBhY2tldCBwYWNrZXQgPSBuZXcgRGF0YWdyYW1QYWNrZXQoc2VuZEJ5dGVzLCBzZW5kQnl0ZXMubGVuZ3RoLCBhZGRyZXNzLCBwb3J0KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEYXRhZ3JhbVNvY2tldCBjbGllbnQgPSBuZXcgRGF0YWdyYW1Tb2NrZXQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGllbnQuc2VuZChwYWNrZXQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IERhdGEK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoNCwgMiArIDIpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRGF0YWdyYW0K</text>
+      <register name="2" type="4">
+        <text>addition_isCorrect</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIEBUZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFzeW5jVGFzazw+Cg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>button</text>
-      </register>
-      <register name="6" type="4">
-        <text>New Button</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25DcmVhdGUoQE51bGxhYmxlIEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwogICAgICAgIHdpZmlNYW5hZ2VyID0gCiAgICB9Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJvb2xlYW4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgV2lmaU1hbmFnZXIgd2lmaU1hbmFnZXI7Cg==</text>
+      <register name="6" type="4">
+        <text>s</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxwZXJtaXNzaW9uIGFuZHJvaWQ6bmFtZT0iIgo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>1</text>
+      </register>
+      <register name="9" type="4">
+        <text>1&quot;);</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
