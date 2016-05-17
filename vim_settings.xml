@@ -68,12 +68,12 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463462754073">
-        <mark key="'" line="130" column="63" />
-        <mark key="[" line="130" column="48" />
-        <mark key="]" line="130" column="48" />
-        <mark key="." line="130" column="48" />
-        <mark key="^" line="130" column="48" />
+      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463464405469">
+        <mark key="'" line="137" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="83" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="151" column="15" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1460628242716">
         <mark key="[" line="65" column="1" />
@@ -134,8 +134,8 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceSelfTestActivity.java" timestamp="1460626160319">
         <mark key="'" line="185" column="59" />
       </file>
-      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiManager.java" timestamp="1463461264581">
-        <mark key="'" line="334" column="54" />
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiManager.java" timestamp="1463463768209">
+        <mark key="'" line="321" column="58" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/PreferenceScreen.java" timestamp="1461596526223">
         <mark key="'" line="85" column="19" />
@@ -219,8 +219,8 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/ConnectivityManager.java" timestamp="1463389197812">
-        <mark key="'" line="705" column="49" />
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/ConnectivityManager.java" timestamp="1463464220887">
+        <mark key="'" line="728" column="23" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListFragment.java" timestamp="1462777681615">
         <mark key="'" line="25" column="0" />
@@ -371,14 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="8" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" />
-      <jump line="154" column="8" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" />
-      <jump line="160" column="8" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" />
-      <jump line="209" column="8" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" />
-      <jump line="236" column="9" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" />
-      <jump line="247" column="9" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" />
-      <jump line="274" column="8" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" />
-      <jump line="31" column="39" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="28" column="12" filename="$USER_HOME$/wifi/app/src/main/res/layout/activity_main.xml" />
       <jump line="20" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="65" column="4" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
@@ -443,13 +435,10 @@
       <jump line="58" column="20" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="72" column="28" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="129" column="67" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="128" column="24" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="126" column="16" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="141" column="28" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="12" column="28" filename="$USER_HOME$/wifi/app/src/test/java/com/yunzjia/iot/wifi/ExampleUnitTest.java" />
       <jump line="13" column="30" filename="$USER_HOME$/wifi/app/src/main/res/values/strings.xml" />
-      <jump line="147" column="59" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="168" column="12" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="35" column="4" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="41" column="30" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
@@ -459,7 +448,6 @@
       <jump line="123" column="8" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="201" column="17" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="46" column="21" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="223" column="8" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/NetworkInfo.java" />
       <jump line="27" column="34" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/SupplicantState.java" />
       <jump line="345" column="4" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/NetworkInfo.java" />
@@ -471,10 +459,22 @@
       <jump line="42" column="30" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="130" column="63" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="334" column="54" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiManager.java" />
+      <jump line="147" column="16" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="129" column="94" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="126" column="20" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="321" column="58" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiManager.java" />
+      <jump line="722" column="29" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/ConnectivityManager.java" />
+      <jump line="222" column="53" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="223" column="45" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="728" column="23" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/ConnectivityManager.java" />
+      <jump line="224" column="36" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="54" column="13" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/Network.java" />
+      <jump line="151" column="15" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="137" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9nLmQoIkRldGFpbGVkU3RhdGUiLG5ldHdvcmtJbmZvLmdldERldGFpbGVkU3RhdGUoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -483,34 +483,34 @@
         <text>^\/\/.*$\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJuZXR3b3JrSW5mbyIsbmV0d29ya0luZm8uZ2V0U3RhdGUoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9nLmQoIkRldGFpbGVkU3RhdGUiLG5ldHdvcmtJbmZvLmdldERldGFpbGVkU3RhdGUoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9nLmQoIkRldGFpbGVkU3RhdGUiLG5ldHdvcmtJbmZvLmdldERldGFpbGVkU3RhdGUoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJ3aWZpSW5mbyIsd2lmaUluZm8uZ2V0U3VwcGxpY2FudFN0YXRlKCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKCJnZXRTdGF0ZSIsbmV0d29ya0luZm8uZ2V0U3RhdGUoKS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgIExvZy5kKCJEZXRhaWxlZFN0YXRlIixuZXR3b3JrSW5mby5nZXREZXRhaWxlZFN0YXRlKCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGl2aXR5TWFuYWdlcgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>n</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3aWZpTWFuYWdlcgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE5ldHdvcmsgbmV0d29yayA6IGNvbm5lY3Rpdml0eU1hbmFnZXIuZ2V0QWxsTmV0d29ya3MoKSkgewogICAgICAgICAgICBpZiAoY29ubmVjdGl2aXR5TWFuYWdlci5nZXROZXR3b3JrSW5mbyhuZXR3b3JrKS5nZXRUeXBlKCkgPT0gQ29ubmVjdGl2aXR5TWFuYWdlci5UWVBFX1dJRkkpIHsKCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
-      <register name="7" type="4">
-        <text>w</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV0d29yay5pbgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>o</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE5ldHdvcmsgbmV0d29yayA6IGNvbm5lY3Rpdml0eU1hbmFnZXIuZ2V0QWxsTmV0d29ya3MoKSkgewogICAgICAgICAgICBuZXR3b3JrLgogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
