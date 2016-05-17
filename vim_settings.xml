@@ -71,12 +71,12 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463469509635">
-        <mark key="'" line="214" column="8" />
-        <mark key="[" line="218" column="12" />
-        <mark key="]" line="218" column="55" />
-        <mark key="." line="218" column="55" />
-        <mark key="^" line="218" column="55" />
+      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463470890709">
+        <mark key="'" line="253" column="0" />
+        <mark key="[" line="243" column="12" />
+        <mark key="]" line="243" column="63" />
+        <mark key="." line="243" column="63" />
+        <mark key="^" line="243" column="63" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1460628242716">
         <mark key="[" line="65" column="1" />
@@ -374,17 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="36" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="36" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="121" column="17" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="29" column="8" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="38" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="47" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="58" column="17" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="164" column="20" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="26" column="4" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
       <jump line="40" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
       <jump line="128" column="17" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
       <jump line="59" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
@@ -469,51 +458,62 @@
       <jump line="151" column="15" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="137" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="234" column="85" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="218" column="42" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="54" column="13" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/Network.java" />
       <jump line="246" column="26" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="243" column="17" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="214" column="8" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="75" column="32" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="218" column="15" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="74" column="20" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="65" column="8" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="159" column="16" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="217" column="17" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="284" column="8" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="235" column="20" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="104" column="25" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="219" column="53" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="228" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="253" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBOZXR3b3JrSW5mby5EZXRhaWxlZFN0YXRlIGRldGFpbGVkU3RhdGU7CiAgICAgICAgaWYgKGRldGFpbGVkU3RhdGUgPT0gTmV0d29ya0luZm8uRGV0YWlsZWRTdGF0ZS5DT05ORUNURUQpIHsKICAgICAgICAgICAgdHZfc3NpZC5zZXRUZXh0KHNzaWQpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHR2X3NzaWQuc2V0VGV4dChkZXRhaWxlZFN0YXRlLm5hbWUoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWN0aXZlTmV0d29ya0luZm8uZ2V0VHlwZSgpID09IENvbm5lY3Rpdml0eU1hbmFnZXIuVFlQRV9XSUZJICYmIA==</text>
+        <text>net</text>
       </register>
       <register name="/" type="4">
         <text>^\/\/.*$\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc3NpZCA9IHNzaWQuc3Vic3RyaW5nKDEsIHNzaWQubGVuZ3RoKCktMik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzc2lkID0gd2lmaU1hbmFnZXIuZ2V0Q29ubmVjdGlvbkluZm8oKS5nZXRTU0lEKCk7Ci8vICAgICAgICAgICAgc3NpZCA9IHNzaWQuc3Vic3RyaW5nKDEsIHNzaWQubGVuZ3RoKCktMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBOZXR3b3JrSW5mby5EZXRhaWxlZFN0YXRlIGRldGFpbGVkU3RhdGU7CiAgICAgICAgaWYgKGRldGFpbGVkU3RhdGUgPT0gTmV0d29ya0luZm8uRGV0YWlsZWRTdGF0ZS5DT05ORUNURUQpIHsKICAgICAgICAgICAgdHZfc3NpZC5zZXRUZXh0KHNzaWQpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHR2X3NzaWQuc2V0VGV4dChkZXRhaWxlZFN0YXRlLm5hbWUoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBOZXR3b3JrSW5mby5EZXRhaWxlZFN0YXRlIGRldGFpbGVkU3RhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBOZXR3b3JrSW5mbyBuZXR3b3JrSW5mbyA9IGFjdGl2ZU5ldHdvcmtJbmZvOwogICAgICAgIG5ldHdvcmtJbmZvID0gY29ubmVjdGl2aXR5TWFuYWdlci5nZXRBY3RpdmVOZXR3b3JrSW5mbygpOwogICAgICAgIE5ldHdvcmtJbmZvLkRldGFpbGVkU3RhdGUgZGV0YWlsZWRTdGF0ZSA9IGRldGFpbGVkU3RhdGU7CiAgICAgICAgZGV0YWlsZWRTdGF0ZSA9IG5ldHdvcmtJbmZvLmdldERldGFpbGVkU3RhdGUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTmV0d29ya0luZm8uRGV0YWlsZWRTdGF0ZSBkZXRhaWxlZFN0YXRlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTmV0d29ya0luZm8uRGV0YWlsZWRTdGF0ZSBkZXRhaWxlZFN0YXRlOwogICAgcHJpdmF0ZSBOZXR3b3JrSW5mbyBhY3RpdmVOZXR3b3JrSW5mbzsKICAgIHByaXZhdGUgaW50IG5ldHdvcmtUeXBlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTmV0d29ya0luZm8gYWN0aXZlTmV0d29ya0luZm87Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobmV0d29ya1R5cGUgPT0gQ29ubmVjdGl2aXR5TWFuYWdlci5UWVBFX1dJRkkgJiYgZGV0YWlsZWRTdGF0ZSA9PSBOZXR3b3JrSW5mby5EZXRhaWxlZFN0YXRlLkNPTk5FQ1RFRCkgewogICAgICAgICAgICB0dl9zc2lkLnNldFRleHQoc3NpZCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdHZfc3NpZC5zZXRUZXh0KGRldGFpbGVkU3RhdGUubmFtZSgpKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">YWN0aXZlTmV0d29ya0luZm8uZ2V0VHlwZSgpID09IENvbm5lY3Rpdml0eU1hbmFnZXIuVFlQRV9XSUZJICYmIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChpbnRlbnQuZ2V0QWN0aW9uKCksIG5ldHdvcmtJbmZvLmdldERldGFpbGVkU3RhdGUoKS50b1N0cmluZygpKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlTmV0d29ya0luZm8uCg==</text>
+      <register name="6" type="4">
+        <text>net</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGl2aXR5TWFuYWdlci5nZXRBY3RpdmVOZXR3b3JrSW5mbygpLmdldAo=</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lmaU1hbmFnZXIuZ2V0Q29ubmVjdGlvbkluZm8oKS5nZXR3Cg==</text>
+      <register name="9" type="4">
+        <text>&quot;DetailedState&quot;</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
