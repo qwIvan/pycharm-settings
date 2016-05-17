@@ -71,12 +71,12 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463470890709">
-        <mark key="'" line="253" column="0" />
-        <mark key="[" line="243" column="12" />
-        <mark key="]" line="243" column="63" />
-        <mark key="." line="243" column="63" />
-        <mark key="^" line="243" column="63" />
+      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463472398890">
+        <mark key="'" line="224" column="55" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="0" />
+        <mark key="." line="249" column="0" />
+        <mark key="^" line="253" column="22" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1460628242716">
         <mark key="[" line="65" column="1" />
@@ -146,8 +146,8 @@
       <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1462856999115">
         <mark key="'" line="228" column="29" />
       </file>
-      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" timestamp="1463383039881">
-        <mark key="'" line="274" column="8" />
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" timestamp="1463470938561">
+        <mark key="'" line="458" column="0" />
         <mark key="[" line="70" column="21" />
         <mark key="]" line="70" column="29" />
       </file>
@@ -374,10 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="128" column="17" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="59" column="8" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="50" column="17" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
       <jump line="87" column="17" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="25" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="71" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
@@ -439,7 +435,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/NetworkInfo.java" />
       <jump line="27" column="34" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/SupplicantState.java" />
       <jump line="345" column="4" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/NetworkInfo.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/NetworkInfo.java" />
       <jump line="237" column="61" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="310" column="48" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiManager.java" />
       <jump line="314" column="24" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiManager.java" />
@@ -454,13 +449,11 @@
       <jump line="222" column="53" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="223" column="45" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="728" column="23" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/ConnectivityManager.java" />
-      <jump line="224" column="36" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="151" column="15" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="137" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="234" column="85" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="54" column="13" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/Network.java" />
       <jump line="246" column="26" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="243" column="17" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="214" column="8" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="75" column="32" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="218" column="15" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
@@ -474,46 +467,53 @@
       <jump line="219" column="53" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="228" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="253" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="458" column="0" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/NetworkInfo.java" />
+      <jump line="160" column="21" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="243" column="23" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="55" column="3" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="224" column="55" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="11" column="47" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/UDPService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEgKGNvbm5lY3Rpdml0eU1hbmFnZXIuZ2V0QWN0aXZlTmV0d29ya0luZm8oKS5nZXRUeXBlKCkgPT0gQ29ubmVjdGl2aXR5TWFuYWdlci5UWVBFX1dJRkkpKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigi54q25oCB5pyJ6Zeu6aKYIik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>net</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>^\/\/.*$\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzc2lkID0gd2lmaU1hbmFnZXIuZ2V0Q29ubmVjdGlvbkluZm8oKS5nZXRTU0lEKCk7Ci8vICAgICAgICAgICAgc3NpZCA9IHNzaWQuc3Vic3RyaW5nKDEsIHNzaWQubGVuZ3RoKCktMik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzc2lkID0gc3NpZC5zdWJzdHJpbmcoMSwgc3NpZC5sZW5ndGgoKS0yKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEgKGNvbm5lY3Rpdml0eU1hbmFnZXIuZ2V0QWN0aXZlTmV0d29ya0luZm8oKS5nZXRUeXBlKCkgPT0gQ29ubmVjdGl2aXR5TWFuYWdlci5UWVBFX1dJRkkpKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigi54q25oCB5pyJ6Zeu6aKYIik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBOZXR3b3JrSW5mbyBuZXR3b3JrSW5mbyA9IGFjdGl2ZU5ldHdvcmtJbmZvOwogICAgICAgIG5ldHdvcmtJbmZvID0gY29ubmVjdGl2aXR5TWFuYWdlci5nZXRBY3RpdmVOZXR3b3JrSW5mbygpOwogICAgICAgIE5ldHdvcmtJbmZvLkRldGFpbGVkU3RhdGUgZGV0YWlsZWRTdGF0ZSA9IGRldGFpbGVkU3RhdGU7CiAgICAgICAgZGV0YWlsZWRTdGF0ZSA9IG5ldHdvcmtJbmZvLmdldERldGFpbGVkU3RhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3NpZCA9IHNzaWQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTmV0d29ya0luZm8uRGV0YWlsZWRTdGF0ZSBkZXRhaWxlZFN0YXRlOwogICAgcHJpdmF0ZSBOZXR3b3JrSW5mbyBhY3RpdmVOZXR3b3JrSW5mbzsKICAgIHByaXZhdGUgaW50IG5ldHdvcmtUeXBlOwo=</text>
+      <register name="3" type="4">
+        <text>;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobmV0d29ya1R5cGUgPT0gQ29ubmVjdGl2aXR5TWFuYWdlci5UWVBFX1dJRkkgJiYgZGV0YWlsZWRTdGF0ZSA9PSBOZXR3b3JrSW5mby5EZXRhaWxlZFN0YXRlLkNPTk5FQ1RFRCkgewogICAgICAgICAgICB0dl9zc2lkLnNldFRleHQoc3NpZCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdHZfc3NpZC5zZXRUZXh0KGRldGFpbGVkU3RhdGUubmFtZSgpKTsKICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text>.substring(1, ssid.length()-2);</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChpbnRlbnQuZ2V0QWN0aW9uKCksIG5ldHdvcmtJbmZvLmdldERldGFpbGVkU3RhdGUoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>net</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0dl9zc2lkLnNldFRleHQoc3NpZCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>_</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>-</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;DetailedState&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -596,6 +596,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
