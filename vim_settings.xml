@@ -26,11 +26,16 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
+      <file name="/a.dummy" timestamp="1463465645392">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
         <mark key="'" line="44" column="13" />
       </file>
-      <file name="$USER_HOME$/wifi/app/src/main/AndroidManifest.xml" timestamp="1463390807240">
-        <mark key="[" line="6" column="74" />
+      <file name="$USER_HOME$/wifi/app/src/main/AndroidManifest.xml" timestamp="1463466160373">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/xml/main_menu.xml" timestamp="1461603034253">
         <mark key="[" line="0" column="0" />
@@ -68,12 +73,12 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463464405469">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="83" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="151" column="15" />
+      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" timestamp="1463466064008">
+        <mark key="'" line="218" column="42" />
+        <mark key="[" line="218" column="43" />
+        <mark key="]" line="218" column="47" />
+        <mark key="." line="218" column="47" />
+        <mark key="^" line="218" column="47" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1460628242716">
         <mark key="[" line="65" column="1" />
@@ -371,8 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="12" filename="$USER_HOME$/wifi/app/src/main/res/layout/activity_main.xml" />
-      <jump line="20" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="65" column="4" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="3" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="43" column="36" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
@@ -468,49 +471,51 @@
       <jump line="223" column="45" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="728" column="23" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/ConnectivityManager.java" />
       <jump line="224" column="36" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="54" column="13" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/Network.java" />
       <jump line="151" column="15" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="137" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="234" column="85" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="218" column="42" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
+      <jump line="54" column="13" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/Network.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9nLmQoIkRldGFpbGVkU3RhdGUiLG5ldHdvcmtJbmZvLmdldERldGFpbGVkU3RhdGUoKS50b1N0cmluZygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>android.permission.ACCESS_WIFI_STATE</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>android.permission.ACCESS_WIFI_STATE</text>
       </register>
       <register name="/" type="4">
         <text>^\/\/.*$\n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9nLmQoIkRldGFpbGVkU3RhdGUiLG5ldHdvcmtJbmZvLmdldERldGFpbGVkU3RhdGUoKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uQUNDRVNTX1dJRklfU1RBVEUiLz4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9nLmQoIkRldGFpbGVkU3RhdGUiLG5ldHdvcmtJbmZvLmdldERldGFpbGVkU3RhdGUoKS50b1N0cmluZygpKTsK</text>
+      <register name="1" type="4">
+        <text>android.permission.ACCESS_WIFI_STATE</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGl2aXR5TWFuYWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aWZpTWFuYWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGVsc2UgaWYgKCk=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgKE5ldHdvcmsgbmV0d29yayA6IGNvbm5lY3Rpdml0eU1hbmFnZXIuZ2V0QWxsTmV0d29ya3MoKSkgewogICAgICAgICAgICBpZiAoY29ubmVjdGl2aXR5TWFuYWdlci5nZXROZXR3b3JrSW5mbyhuZXR3b3JrKS5nZXRUeXBlKCkgPT0gQ29ubmVjdGl2aXR5TWFuYWdlci5UWVBFX1dJRkkpIHsKCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgTG9nLmQoIkRldGFpbGVkU3RhdGUiLG5ldHdvcmtJbmZvLmdldERldGFpbGVkU3RhdGUoKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV0d29yay5pbgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgKE5ldHdvcmsgbmV0d29yayA6IGNvbm5lY3Rpdml0eU1hbmFnZXIuZ2V0QWxsTmV0d29ya3MoKSkgewogICAgICAgICAgICBuZXR3b3JrLgogICAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGl2aXR5TWFuYWdlcgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB3aWZpTWFuYWdlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
