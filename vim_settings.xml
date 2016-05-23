@@ -89,8 +89,8 @@
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/layout/activity_preferences.xml" timestamp="1461603107077">
         <mark key="'" line="29" column="106" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" timestamp="1463815328032">
-        <mark key="'" line="32" column="13" />
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" timestamp="1463974248367">
+        <mark key="'" line="48" column="4" />
       </file>
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceSelfTestActivity.java" timestamp="1460626160319">
         <mark key="'" line="185" column="59" />
@@ -270,8 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="54" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiManager.java" />
-      <jump line="147" column="16" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="129" column="94" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="126" column="20" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="321" column="58" filename="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiManager.java" />
@@ -370,6 +368,8 @@
       <jump line="57" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" />
       <jump line="145" column="41" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
       <jump line="32" column="13" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" />
+      <jump line="48" column="4" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
