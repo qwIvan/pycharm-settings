@@ -20,14 +20,8 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1463469451990">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
         <mark key="'" line="44" column="13" />
-      </file>
-      <file name="$USER_HOME$/wifi/app/src/main/AndroidManifest.xml" timestamp="1463468025697">
-        <mark key="[" line="7" column="35" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/libs/fv_sipcore.jar!/com/sipphone/sdk/access/WebUserApi.class" timestamp="1463732237635">
         <mark key="'" line="281" column="0" />
@@ -38,11 +32,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/res/layout/login.xml" timestamp="1463988162741">
-        <mark key="[" line="41" column="35" />
-        <mark key="]" line="41" column="37" />
-        <mark key="^" line="41" column="37" />
-        <mark key="." line="41" column="37" />
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/res/layout/login.xml" timestamp="1463991432247">
+        <mark key="'" line="54" column="12" />
+        <mark key="[" line="42" column="7" />
+        <mark key="]" line="42" column="7" />
+        <mark key="^" line="42" column="7" />
+        <mark key="." line="42" column="7" />
       </file>
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
         <mark key="'" line="664" column="8" />
@@ -119,11 +114,6 @@
       <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1463725617288">
         <mark key="'" line="228" column="29" />
       </file>
-      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiInfo.java" timestamp="1463470938561">
-        <mark key="'" line="458" column="0" />
-        <mark key="[" line="70" column="21" />
-        <mark key="]" line="70" column="29" />
-      </file>
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" timestamp="1462857010543">
         <mark key="'" line="1014" column="44" />
       </file>
@@ -170,11 +160,6 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/values/styles.xml" timestamp="1461633604742">
         <mark key="'" line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/NetworkInfo.java" timestamp="1463459854955">
-        <mark key="'" line="345" column="4" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="33" column="20" />
-      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/ConnectivityManager.java" timestamp="1463464220887">
         <mark key="'" line="728" column="23" />
       </file>
@@ -194,9 +179,6 @@
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/content/Intent.java" timestamp="1463736355642">
         <mark key="'" line="637" column="31" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1463380767778">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1461635537577">
         <mark key="'" line="15" column="13" />
@@ -224,9 +206,6 @@
         <mark key="]" line="21" column="37" />
         <mark key="." line="21" column="37" />
         <mark key="^" line="21" column="37" />
-      </file>
-      <file name="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/WIFIChangeBroadcastReceiver.java" timestamp="1463391172991">
-        <mark key="[" line="7" column="40" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/PreferenceManager.java" timestamp="1461595848723">
         <mark key="'" line="45" column="13" />
@@ -274,17 +253,11 @@
         <mark key="." line="29" column="31" />
         <mark key="^" line="29" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1463381760370">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
         <mark key="'" line="18" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="51" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="218" column="22" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="219" column="22" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="220" column="45" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="105" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="83" column="54" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
@@ -382,6 +355,9 @@
       <jump line="1068" column="16" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
       <jump line="981" column="16" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
       <jump line="104" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
+      <jump line="61" column="7" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/res/layout/login.xml" />
+      <jump line="84" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/res/layout/login.xml" />
+      <jump line="54" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/res/layout/login.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
