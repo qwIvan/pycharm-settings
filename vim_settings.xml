@@ -42,6 +42,12 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
         <mark key="'" line="664" column="8" />
       </file>
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/res/layout/activity_main.xml" timestamp="1464073433249">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+      </file>
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1462857005863">
         <mark key="'" line="392" column="30" />
       </file>
@@ -65,9 +71,13 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" timestamp="1464072700188">
-        <mark key="'" line="42" column="68" />
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" timestamp="1464073465583">
+        <mark key="'" line="46" column="69" />
+        <mark key="[" line="42" column="68" />
         <mark key="m" line="39" column="5" />
+        <mark key="]" line="42" column="79" />
+        <mark key="." line="42" column="79" />
+        <mark key="^" line="42" column="79" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/SupplicantState.java" timestamp="1463459940719">
         <mark key="'" line="27" column="34" />
@@ -241,12 +251,6 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/AndroidManifest.xml" timestamp="1464062916469">
-        <mark key="'" line="39" column="58" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/telephony/SmsMessage.java" timestamp="1461598036044">
         <mark key="'" line="194" column="37" />
       </file>
@@ -257,13 +261,14 @@
         <mark key="." line="29" column="31" />
         <mark key="^" line="29" column="31" />
       </file>
+      <file name="/fragment.java" timestamp="1464073405494">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
         <mark key="'" line="18" column="25" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="32" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="290" column="14" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="30" column="21" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="150" column="8" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
@@ -314,7 +319,6 @@
       <jump line="57" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" />
       <jump line="56" column="32" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" />
       <jump line="41" column="35" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/LoginActivity.java" />
-      <jump line="46" column="68" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" />
       <jump line="1231" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
       <jump line="154" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
       <jump line="268" column="17" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
@@ -362,13 +366,16 @@
       <jump line="71" column="13" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
       <jump line="42" column="68" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" />
       <jump line="98" column="4" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
+      <jump line="14" column="44" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/res/layout/activity_main.xml" />
+      <jump line="46" column="69" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZnJlZXZpZXcuc3Bob25lZGVtbzsKCg==</text>
+      <register name="&quot;" type="4">
+        <text>SPhoneHome</text>
       </register>
       <register name="-" type="4">
-        <text>params[2]+'\n'+params[3]</text>
+        <text>SPhoneHome</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aWZpQ29uZmlndXJhdGlvblw+</text>
@@ -376,32 +383,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFVEUFNlcnZpY2UoKS5zZW5kKHBhcmFtc1swXSwgSW50ZWdlci5wYXJzZUludChwYXJhbXNbMV0pLCBwYXJhbXNbMl0rJ1xuJytwYXJhbXNbM10pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZnJlZXZpZXcuc3Bob25lZGVtbzsKCg==</text>
+      <register name="1" type="4">
+        <text>SPhoneHome</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBmaWxlcygnbGlicy9hbmRyb2lkLXN1cHBvcnQtdjQuamFyJykK</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZnJlZXZpZXcuc3Bob25lZGVtbzsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBmaWxlcygnbGlicy9nY20uamFyJykK</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSBmaWxlcygnbGlicy9hbmRyb2lkLXN1cHBvcnQtdjQuamFyJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZSBmaWxlcygnbGlicy9nY20uamFyJykK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDx1c2VzLXNkayBhbmRyb2lkOm1pblNka1ZlcnNpb249IjE0IiBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjIxIiAvPgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>params[2]+'\n'+params[3]</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgbmV0d29ya0lkID0gd2lmaU1hbmFnZXIuYWRkTmV0d29yayh3aWZpQ29uZmlndXJhdGlvbik7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
