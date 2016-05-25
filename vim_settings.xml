@@ -20,7 +20,7 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1464142995586">
+      <file name="/a.dummy" timestamp="1464160853324">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
@@ -28,6 +28,12 @@
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/libs/fv_sipcore.jar!/com/sipphone/sdk/access/WebUserApi.class" timestamp="1463732237635">
         <mark key="'" line="281" column="0" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" timestamp="1464160984175">
+        <mark key="'" line="136" column="4" />
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" timestamp="1464084374968">
         <mark key="'" line="149" column="34" />
@@ -166,12 +172,18 @@
         <mark key="." line="21" column="41" />
         <mark key="^" line="21" column="41" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/build.gradle" timestamp="1463997877222">
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/build.gradle" timestamp="1464160107996">
         <mark key="'" line="25" column="12" />
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="29" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="39" />
         <mark key="^" line="26" column="1" />
         <mark key="." line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" timestamp="1464160132925">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build/intermediates/res/merged/debug/values/values.xml" timestamp="1464160338191">
+        <mark key="'" line="248" column="71" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build/generated/source/r/debug/xyz/monkeytong/hongbao/R.java" timestamp="1461596790069">
         <mark key="'" line="1683" column="32" />
@@ -199,8 +211,10 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/content/Intent.java" timestamp="1463736355642">
         <mark key="'" line="637" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464142995571">
+      <file name="/Dummy.txt" timestamp="1464160859211">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1461635537577">
         <mark key="'" line="15" column="13" />
@@ -277,13 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="8" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="293" column="42" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="62" column="28" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="188" column="26" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="40" column="19" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="187" column="26" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
-      <jump line="12" column="59" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/UDPService.java" />
       <jump line="75" column="29" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="55" column="20" filename="$USER_HOME$/wifi/app/src/main/java/com/yunzjia/iot/wifi/MainActivity.java" />
       <jump line="41" column="63" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/AndroidManifest.xml" />
@@ -377,55 +384,62 @@
       <jump line="24" column="32" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" />
       <jump line="113" column="4" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
       <jump line="149" column="34" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="306" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="307" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" />
+      <jump line="136" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="245" column="94" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build/intermediates/res/merged/debug/values/values.xml" />
+      <jump line="248" column="71" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build/intermediates/res/merged/debug/values/values.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Kgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">T24gdmlkZW9fdGFsazog</text>
       </register>
       <register name="-" type="4">
-        <text>SPhoneHome</text>
+        <text encoding="base64">T24gdmlkZW9fdGFsazog</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aWZpQ29uZmlndXJhdGlvblw+</text>
+        <text>backgroun</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFVEUFNlcnZpY2UoKS5zZW5kKHBhcmFtc1swXSwgSW50ZWdlci5wYXJzZUludChwYXJhbXNbMV0pLCBwYXJhbXNbMl0rJ1xuJytwYXJhbXNbM10pOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjIzLjIuMScKICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvZnZfbW9kdWxlcy5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9mdl9zaXBjb3JlLmphcicpCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">T24gdmlkZW9fdGFsazog</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZXMoJ2xpYnMvZnZfbW9kdWxlcy5qYXInKQogICAgY29tcGlsZSBmaWxlcygnbGlicy9mdl9zaXBjb3JlLmphcicpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Kgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiMgTW9uZ28gRXhwbG9yZXIgcGx1Z2luOgouaWRlYS9tb25nb1NldHRpbmdzLnhtbA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiMgVXNlci1zcGVjaWZpYyBzdHVmZjoKLmlkZWEvd29ya3NwYWNlLnhtbAouaWRlYS90YXNrcy54bWwKLmlkZWEvZGljdGlvbmFyaWVzCi5pZGVhL3Zjcy54bWwKLmlkZWEvanNMaWJyYXJ5TWFwcGluZ3MueG1sCgojIFNlbnNpdGl2ZSBvciBoaWdoLWNodXJuIGZpbGVzOgouaWRlYS9kYXRhU291cmNlcy5pZHMKLmlkZWEvZGF0YVNvdXJjZXMueG1sCi5pZGVhL2RhdGFTb3VyY2VzLmxvY2FsLnhtbAouaWRlYS9zcWxEYXRhU291cmNlcy54bWwKLmlkZWEvZHluYW1pYy54bWwKLmlkZWEvdWlEZXNpZ25lci54bWwKCiMgR3JhZGxlOgouaWRlYS9ncmFkbGUueG1sCi5pZGVhL2xpYnJhcmllcw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ki5qYXIK</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">5bCG5Yig6ZmkIGFzc2V0cy93d3cvanMvb3RoZXJzL3l1bmJhLWpzLXNkay5qcwrlsIbliKDpmaQgYXNzZXRzL3d3dy9qcy9zZXJ2aWNlcy9wYXJrLnNlcnZpY2UuanMK5bCG5Yig6ZmkIGFzc2V0cy93d3cvbW9kdWxlcy9tYWluL3BhcmtpbmdMb3QvcGF5bWVudFJlY29yZC5odG1sCuWwhuWIoOmZpCBhc3NldHMvd3d3L21vZHVsZXMvbWFpbi9wYXJraW5nTG90L3BheW1lbnRSZWNvcmQuanMK5bCG5Yig6ZmkIGFzc2V0cy93d3cvcGx1Z2lucy9QYXltZW50LwrlsIbliKDpmaQgcGxhdGZvcm1fd3d3L3BsdWdpbnMvUGF5bWVudC8K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">5bCG5Yig6ZmkIHNyYy9jb20vaDJjL2hvbWVraXQvcGF5bWVudC8K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">5bCG5Yig6ZmkIGxpYnMvVVBQYXlBc3Npc3RFeC5qYXIK5bCG5Yig6ZmkIGxpYnMvVVBQYXlQbHVnaW5FeC5qYXIK5bCG5Yig6ZmkIGxpYnMvYWxpcGF5U0RLLTIwMTUwODE4LmphcgrlsIbliKDpmaQgbGlicy9hcm1lYWJpL2xpYmVudHJ5ZXguc28K5bCG5Yig6ZmkIGxpYnMvbGliYW1tc2RrLmphcgrlsIbliKDpmaQgbGlicy9saWJwaW5ncHAtMi4wLjYuamFyCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>SPhoneHome</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZnJlZXZpZXcuc3Bob25lZGVtbzsKCg==</text>
+        <text encoding="base64">5bCG5Yig6ZmkIGxpYnMvVVBQYXlBc3Npc3RFeC5qYXIK5bCG5Yig6ZmkIGxpYnMvVVBQYXlQbHVnaW5FeC5qYXIK5bCG5Yig6ZmkIGxpYnMvYWxpcGF5U0RLLTIwMTUwODE4LmphcgrlsIbliKDpmaQgbGlicy9hcm1lYWJpL2xpYmVudHJ5ZXguc28K5bCG5Yig6ZmkIGxpYnMvbGliYW1tc2RrLmphcgrlsIbliKDpmaQgbGlicy9saWJwaW5ncHAtMi4wLjYuamFyCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aWZpQ29uZmlndXJhdGlvblw+</last-search>
+      <last-search>backgroun</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aWZpQ29uZmlndXJhdGlvblw+</last-pattern>
+      <last-pattern>backgroun</last-pattern>
       <last-replace />
       <last-substitute>^\/\/.*$\n</last-substitute>
       <last-dir>1</last-dir>
@@ -441,6 +455,7 @@
         <entry>^\/\/.*$</entry>
         <entry>^\/\/.*$\n</entry>
         <entry encoding="base64">XDx3aWZpQ29uZmlndXJhdGlvblw+</entry>
+        <entry>backgroun</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
