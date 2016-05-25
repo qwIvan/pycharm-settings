@@ -20,6 +20,9 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
+      <file name="/a.dummy" timestamp="1464142995586">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
         <mark key="'" line="44" column="13" />
       </file>
@@ -64,8 +67,10 @@
         <mark key="." line="232" column="102" />
         <mark key="^" line="232" column="102" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/.gitignore" timestamp="1464142235172">
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/.gitignore" timestamp="1464142973435">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wifi/APListRecyclerViewAdapter.java" timestamp="1462778712928">
         <mark key="'" line="0" column="0" />
@@ -194,7 +199,7 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/content/Intent.java" timestamp="1463736355642">
         <mark key="'" line="637" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463998986431">
+      <file name="/Dummy.txt" timestamp="1464142995571">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1461635537577">
@@ -374,8 +379,8 @@
       <jump line="149" column="34" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SPhoneHome</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Kgo=</text>
       </register>
       <register name="-" type="4">
         <text>SPhoneHome</text>
@@ -386,32 +391,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3IFVEUFNlcnZpY2UoKS5zZW5kKHBhcmFtc1swXSwgSW50ZWdlci5wYXJzZUludChwYXJhbXNbMV0pLCBwYXJhbXNbMl0rJ1xuJytwYXJhbXNbM10pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>SPhoneHome</text>
+      <register name="1" type="2">
+        <text encoding="base64">Kgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZnJlZXZpZXcuc3Bob25lZGVtbzsKCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiMgTW9uZ28gRXhwbG9yZXIgcGx1Z2luOgouaWRlYS9tb25nb1NldHRpbmdzLnhtbA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBmaWxlcygnbGlicy9hbmRyb2lkLXN1cHBvcnQtdjQuamFyJykK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiMgVXNlci1zcGVjaWZpYyBzdHVmZjoKLmlkZWEvd29ya3NwYWNlLnhtbAouaWRlYS90YXNrcy54bWwKLmlkZWEvZGljdGlvbmFyaWVzCi5pZGVhL3Zjcy54bWwKLmlkZWEvanNMaWJyYXJ5TWFwcGluZ3MueG1sCgojIFNlbnNpdGl2ZSBvciBoaWdoLWNodXJuIGZpbGVzOgouaWRlYS9kYXRhU291cmNlcy5pZHMKLmlkZWEvZGF0YVNvdXJjZXMueG1sCi5pZGVhL2RhdGFTb3VyY2VzLmxvY2FsLnhtbAouaWRlYS9zcWxEYXRhU291cmNlcy54bWwKLmlkZWEvZHluYW1pYy54bWwKLmlkZWEvdWlEZXNpZ25lci54bWwKCiMgR3JhZGxlOgouaWRlYS9ncmFkbGUueG1sCi5pZGVhL2xpYnJhcmllcw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBmaWxlcygnbGlicy9nY20uamFyJykK</text>
+        <text encoding="base64">Ki5qYXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">5bCG5Yig6ZmkIGFzc2V0cy93d3cvanMvb3RoZXJzL3l1bmJhLWpzLXNkay5qcwrlsIbliKDpmaQgYXNzZXRzL3d3dy9qcy9zZXJ2aWNlcy9wYXJrLnNlcnZpY2UuanMK5bCG5Yig6ZmkIGFzc2V0cy93d3cvbW9kdWxlcy9tYWluL3BhcmtpbmdMb3QvcGF5bWVudFJlY29yZC5odG1sCuWwhuWIoOmZpCBhc3NldHMvd3d3L21vZHVsZXMvbWFpbi9wYXJraW5nTG90L3BheW1lbnRSZWNvcmQuanMK5bCG5Yig6ZmkIGFzc2V0cy93d3cvcGx1Z2lucy9QYXltZW50LwrlsIbliKDpmaQgcGxhdGZvcm1fd3d3L3BsdWdpbnMvUGF5bWVudC8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXNkayBhbmRyb2lkOm1pblNka1ZlcnNpb249IjE0IiBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjIxIiAvPgo=</text>
+        <text encoding="base64">5bCG5Yig6ZmkIHNyYy9jb20vaDJjL2hvbWVraXQvcGF5bWVudC8K</text>
       </register>
-      <register name="7" type="4">
-        <text>params[2]+'\n'+params[3]</text>
+      <register name="7" type="2">
+        <text encoding="base64">5bCG5Yig6ZmkIGxpYnMvVVBQYXlBc3Npc3RFeC5qYXIK5bCG5Yig6ZmkIGxpYnMvVVBQYXlQbHVnaW5FeC5qYXIK5bCG5Yig6ZmkIGxpYnMvYWxpcGF5U0RLLTIwMTUwODE4LmphcgrlsIbliKDpmaQgbGlicy9hcm1lYWJpL2xpYmVudHJ5ZXguc28K5bCG5Yig6ZmkIGxpYnMvbGliYW1tc2RrLmphcgrlsIbliKDpmaQgbGlicy9saWJwaW5ncHAtMi4wLjYuamFyCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>SPhoneHome</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uZnJlZXZpZXcuc3Bob25lZGVtbzsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
