@@ -86,14 +86,14 @@
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" timestamp="1460364609126">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/MainActivity.java" timestamp="1464574837285" />
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/layout/activity_preferences.xml" timestamp="1461603107077">
         <mark key="'" line="29" column="106" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" timestamp="1463974593441">
         <mark key="'" line="56" column="32" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" timestamp="1464579948361">
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" timestamp="1464591339931">
+        <mark key="'" line="305" column="20" />
         <mark key="[" line="158" column="20" />
         <mark key="]" line="158" column="20" />
         <mark key="." line="158" column="20" />
@@ -122,14 +122,13 @@
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/fragments/GeneralSettingsFragment.java" timestamp="1461602641634">
         <mark key="'" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" timestamp="1464580749045">
-        <mark key="'" line="41" column="73" />
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" timestamp="1464589659422">
+        <mark key="'" line="41" column="78" />
         <mark key="[" line="41" column="68" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="50" column="0" />
+        <mark key="]" line="41" column="79" />
+        <mark key="." line="41" column="79" />
+        <mark key="^" line="41" column="79" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallVideoFragment.java" timestamp="1464589489614" />
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/content/Context.java" timestamp="1460369180929">
         <mark key="'" line="291" column="20" />
       </file>
@@ -166,12 +165,12 @@
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" timestamp="1464163720065">
         <mark key="'" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" timestamp="1464580657933">
-        <mark key="'" line="80" column="27" />
-        <mark key="[" line="76" column="34" />
-        <mark key="]" line="76" column="34" />
-        <mark key="." line="76" column="34" />
-        <mark key="^" line="74" column="88" />
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" timestamp="1464590551846">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="73" column="88" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/content/Intent.java" timestamp="1463736355642">
         <mark key="'" line="637" column="31" />
@@ -244,29 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="24" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/LoginActivity.java" />
-      <jump line="32" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" />
-      <jump line="29" column="43" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="39" column="44" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="17" column="37" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="41" column="11" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" />
-      <jump line="105" column="60" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/LoginActivity.java" />
-      <jump line="50" column="26" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/LoginActivity.java" />
-      <jump line="23" column="38" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="40" column="41" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="122" column="36" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
-      <jump line="31" column="25" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="29" column="22" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" />
-      <jump line="32" column="34" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="33" column="84" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="51" column="27" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="42" column="59" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="7" column="13" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/OnCallInComeActivity.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/plugins/VideoTalk/videoTalk.js" />
-      <jump line="55" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="6" column="49" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/plugins/VideoTalk/videoTalk.js" />
       <jump line="57" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/LoginActivity.java" />
       <jump line="25" column="54" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/LoginActivity.java" />
       <jump line="60" column="26" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/res/layout/login.xml" />
@@ -297,12 +273,9 @@
       <jump line="104" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
       <jump line="159" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
       <jump line="103" column="37" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="41" column="73" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" />
       <jump line="808" column="16" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
       <jump line="781" column="24" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
       <jump line="700" column="16" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="112" column="36" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
-      <jump line="395" column="16" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
       <jump line="447" column="20" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
       <jump line="33" column="16" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
       <jump line="218" column="20" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
@@ -325,7 +298,6 @@
       <jump line="312" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="314" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="316" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
-      <jump line="544" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="543" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="920" column="53" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="286" column="10" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
@@ -344,13 +316,40 @@
       <jump line="1126" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="1128" column="26" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="80" column="27" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="41" column="78" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" />
+      <jump line="62" column="13" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="112" column="32" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="130" column="25" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
+      <jump line="90" column="32" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
+      <jump line="273" column="24" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
+      <jump line="308" column="24" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
+      <jump line="320" column="24" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
+      <jump line="392" column="20" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
+      <jump line="395" column="20" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
+      <jump line="430" column="20" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
+      <jump line="467" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
+      <jump line="200" column="16" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
+      <jump line="264" column="21" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="269" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="415" column="20" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="468" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="517" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="544" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="571" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="587" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="581" column="4" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="907" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="1364" column="29" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="1431" column="4" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
+      <jump line="305" column="20" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bWVudSwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkltYWdlVmlldzsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bWVudSwg</text>
+        <text>SPhoneHome</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
@@ -358,32 +357,32 @@
       <register name="0" type="2">
         <text encoding="base64">CTxzdHlsZSBuYW1lPSJmb250NSIgcGFyZW50PSJAYW5kcm9pZDpzdHlsZS9UZXh0QXBwZWFyYW5jZS5NZWRpdW0iPgoJCTxpdGVtIG5hbWU9ImFuZHJvaWQ6dGV4dENvbG9yIj5AY29sb3IvY29sb3JDPC9pdGVtPgoJCTxpdGVtIG5hbWU9ImFuZHJvaWQ6dGV4dFNpemUiPjI4c3A8L2l0ZW0+Cgk8L3N0eWxlPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bWVudSwg</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkltYWdlVmlldzsK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cm91dGVCbHVldG9vdGgsIA==</text>
+        <text>SPhoneHome</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">cm91dGVFYXJwaWVjZSwg</text>
+        <text>SPhoneHome.class);</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">cm91dGVTcGVha2VyLCA=</text>
+        <text encoding="base64">bWVudSwg</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Y29uZmVyZW5jZSwg</text>
+        <text encoding="base64">cm91dGVCbHVldG9vdGgsIA==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">dHJhbnNmZXIsIA==</text>
+        <text encoding="base64">cm91dGVFYXJwaWVjZSwg</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">YWRkQ2FsbCwg</text>
+        <text encoding="base64">cm91dGVTcGVha2VyLCA=</text>
       </register>
       <register name="8" type="4">
-        <text>addCall,</text>
+        <text encoding="base64">Y29uZmVyZW5jZSwg</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PA==</text>
+        <text encoding="base64">dHJhbnNmZXIsIA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
