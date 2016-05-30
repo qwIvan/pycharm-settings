@@ -69,12 +69,12 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1460626089108">
         <mark key="'" line="303" column="18" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" timestamp="1464579930784">
-        <mark key="'" line="94" column="32" />
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" timestamp="1464595865771">
+        <mark key="'" line="463" column="10" />
         <mark key="[" line="21" column="48" />
-        <mark key="]" line="21" column="49" />
-        <mark key="^" line="21" column="49" />
-        <mark key="." line="21" column="49" />
+        <mark key="]" line="21" column="48" />
+        <mark key="." line="21" column="48" />
+        <mark key="^" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values/styles.xml" timestamp="1464579846169">
         <mark key="[" line="47" column="0" />
@@ -92,14 +92,19 @@
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" timestamp="1463974593441">
         <mark key="'" line="56" column="32" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" timestamp="1464592742327">
-        <mark key="'" line="289" column="28" />
-        <mark key="[" line="158" column="20" />
-        <mark key="]" line="158" column="20" />
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" timestamp="1464595740409">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="467" column="16" />
         <mark key="." line="158" column="20" />
       </file>
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceSelfTestActivity.java" timestamp="1460626160319">
         <mark key="'" line="185" column="59" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1464595877806">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/libs/fv_sipcore.jar!/com/sipphone/sdk/access/WebApiConstants.class" timestamp="1463732161108">
         <mark key="'" line="85" column="8" />
@@ -119,10 +124,17 @@
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" timestamp="1462857010543">
         <mark key="'" line="1014" column="44" />
       </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values-zh-rCN/strings.xml" timestamp="1464595837224">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="59" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/fragments/GeneralSettingsFragment.java" timestamp="1461602641634">
         <mark key="'" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" timestamp="1464593856655">
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" timestamp="1464594746256">
+        <mark key="'" line="41" column="68" />
         <mark key="[" line="41" column="68" />
         <mark key="]" line="41" column="79" />
         <mark key="." line="41" column="79" />
@@ -165,8 +177,13 @@
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" timestamp="1464163720065">
         <mark key="'" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" timestamp="1464593598880">
-        <mark key="'" line="511" column="33" />
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" timestamp="1464595832660">
+        <mark key="'" line="92" column="18" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="61" />
+      </file>
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" timestamp="1464595904713">
+        <mark key="'" line="62" column="13" />
         <mark key="[" line="487" column="70" />
         <mark key="]" line="511" column="33" />
         <mark key="." line="511" column="33" />
@@ -244,41 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="19" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/AndroidManifest.xml" />
-      <jump line="84" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/AndroidManifest.xml" />
-      <jump line="27" column="16" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/MainActivity.java" />
-      <jump line="15" column="39" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/MainActivity.java" />
-      <jump line="18" column="28" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/res/layout/activity_main.xml" />
-      <jump line="98" column="71" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/LoginActivity.java" />
-      <jump line="209" column="23" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="279" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="141" column="34" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="136" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="169" column="20" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="132" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="151" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="577" column="4" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="104" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="159" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="103" column="37" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="808" column="16" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="781" column="24" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="700" column="16" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" />
-      <jump line="447" column="20" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
-      <jump line="33" column="16" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
-      <jump line="218" column="20" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
-      <jump line="34" column="83" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="9" column="54" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
-      <jump line="2" column="11" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values/color.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/colors.xml" />
-      <jump line="82" column="25" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="107" column="25" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="335" column="14" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="333" column="18" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="287" column="17" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="339" column="13" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="94" column="32" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="298" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="302" column="8" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
@@ -305,8 +287,6 @@
       <jump line="1126" column="12" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="1128" column="26" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="80" column="27" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
-      <jump line="41" column="78" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" />
-      <jump line="62" column="13" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="112" column="32" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="130" column="25" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
       <jump line="90" column="32" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
@@ -344,68 +324,99 @@
       <jump line="65" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="510" column="33" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="42" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallVideoFragment.java" />
+      <jump line="41" column="68" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values-zh-rCN/strings.xml" />
+      <jump line="121" column="18" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" />
+      <jump line="131" column="38" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" />
+      <jump line="132" column="53" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" />
+      <jump line="133" column="59" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" />
+      <jump line="136" column="42" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" />
+      <jump line="139" column="52" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" />
+      <jump line="93" column="18" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" />
+      <jump line="134" column="18" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" />
+      <jump line="147" column="4" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" />
+      <jump line="239" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="446" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="25" column="12" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="291" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="63" column="28" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="237" column="22" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="214" column="21" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="187" column="18" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="150" column="22" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="104" column="26" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="82" column="25" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="49" column="21" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="34" column="17" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="31" column="13" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="188" column="18" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="465" column="32" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="13" column="31" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="450" column="31" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="467" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="193" column="52" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="92" column="18" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values-zh/strings.xml" />
+      <jump line="463" column="10" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="62" column="13" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SPhoneHome</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC53aWRnZXQuRHJhd2VyTGF5b3V0Owo=</text>
       </register>
       <register name="-" type="4">
         <text>SPhoneHome</text>
       </register>
       <register name="/" type="4">
-        <text>accept_call</text>
+        <text encoding="base64">XDxSZWxhdGl2ZUxheW91dFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxzdHlsZSBuYW1lPSJmb250NSIgcGFyZW50PSJAYW5kcm9pZDpzdHlsZS9UZXh0QXBwZWFyYW5jZS5NZWRpdW0iPgoJCTxpdGVtIG5hbWU9ImFuZHJvaWQ6dGV4dENvbG9yIj5AY29sb3IvY29sb3JDPC9pdGVtPgoJCTxpdGVtIG5hbWU9ImFuZHJvaWQ6dGV4dFNpemUiPjI4c3A8L2l0ZW0+Cgk8L3N0eWxlPgo=</text>
+        <text encoding="base64">CTxzdHJpbmcgbmFtZT0iY29udGVudF9kZXNjcmlwdGlvbl9udW1wYWQiPk51bXBhZDwvc3RyaW5nPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>SPhoneHome</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC53aWRnZXQuRHJhd2VyTGF5b3V0Owo=</text>
       </register>
       <register name="2" type="4">
-        <text>SPhoneHome</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFJlbGF0aXZlTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIHhtbG5zOnRvb2xzPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS90b29scyIKICAgIGFuZHJvaWQ6aWQ9IkAraWQvdG9wTGF5b3V0IgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4KICAgIDwhLS0gU0lQ6LSm5Y+35rOo5YaM54q25oCB5qCPIC0tPgoJPCEtLTxmcmFnbWVudC0tPgoJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL3N0YXR1cyItLT4KCQk8IS0tYW5kcm9pZDpuYW1lPSJjb20uZnJlZXZpZXcuc3Bob25lZGVtby5TdGF0dXNGcmFnbWVudCItLT4KCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzNWRwIi0tPgoJCTwhLS10b29sczpsYXlvdXQ9IkBsYXlvdXQvc3RhdHVzIiAvPi0tPgoJPGFuZHJvaWQuc3VwcG9ydC52NC53aWRnZXQuRHJhd2VyTGF5b3V0CgkgICAgYW5kcm9pZDppZD0iQCtpZC9zaWRlX21lbnUiCgkJYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKCQlhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIvPgoJCTwhLS1hbmRyb2lkOmxheW91dF9iZWxvdz0iQGlkL3N0YXR1cyI+LS0+CgkJPCEtLSDmir3lsYnlr7zoiKrkuLvkvZPpg6jliIbluIPlsYDvvIzmraPluLjmmL7npLrkuo7lsY/luZXkuIrnmoTlhoXlrrnvvIzov5nph4zmmK/pgJror51VSeeVjOmdoiAtLT4KCQk8UmVsYXRpdmVMYXlvdXQKCQkgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKCQkJYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLz4KCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAaWQvc3RhdHVzIj4tLT4KCQkJPCEtLSDlrprkuYnkuIDkuKpGcmFnbWVudOWuueWZqO+8jOeUqOS6juijhei9veS4jeWQjOeahEZyYWdtZW5057uE5Lu2IO+8jAoJCQkJ5aaCVmlkZW9GcmFnbWVudOaIlkF1ZGlvRnJhZ21lbnQtLT4KCQkJPExpbmVhckxheW91dAoJCQkJYW5kcm9pZDppZD0iQCtpZC9mcmFnbWVudENvbnRhaW5lciIKCQkJCWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCgkJCQlhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKCQkJCWFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiIC8+CgoJCQk8RnJhbWVMYXlvdXQKCQkJICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCgkJCQlhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIKCQkJCWFuZHJvaWQ6bGF5b3V0X2Fib3ZlPSJAK2lkL21lbnUiPgoJCQkJPCEtLTxSZWxhdGl2ZUxheW91dC0tPgoJCQkJICAgIDwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCI+LS0+CgkJCQkJPCEtLSZsdDshJm5kYXNoOyBjb25mZXJlbmNlIOWPguS4juiAheWIl+ihqO+8jOWcqOmdnmNvbmZlcmVuY2XmqKHlvI/kuIvmmK/pmpDol4/nmoQgJm5kYXNoOyZndDstLT4KCQkJCQk8IS0tPExpbmVhckxheW91dC0tPgoJCQkJCQk8IS0tYW5kcm9pZDppZD0iQCtpZC9jb25mZXJlbmNlX2xpc3QiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9ncmF2aXR5PSJ0b3AiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFRvcD0idHJ1ZSItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIj4tLT4KCQkJCQk8IS0tPC9MaW5lYXJMYXlvdXQ+LS0+CgkJCQkJPCEtLS0tPgoJCQkJCTwhLS08UmVsYXRpdmVMYXlvdXQtLT4KCQkJCQkgICAgPCEtLWFuZHJvaWQ6aWQ9IkAraWQvYWN0aXZlX2NhbGwiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnZpc2liaWxpdHk9InZpc2libGUiPi0tPgoJCQkJCQk8IS0tJmx0OyEmbmRhc2g7IOW9k+WJjea0u+WKqOeahENBTEzop4blm77vvIzmmL7npLrlkbzlj6vogIXnmoTlp5PlkI3lkozpgJror53ml7bpl7QgJm5kYXNoOyZndDstLT4KCQkJCQkJPCEtLTxMaW5lYXJMYXlvdXQtLT4KCQkJCQkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL2FjdGl2ZV9jYWxsX2luZm8iLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JIIi0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6YWxwaGE9IjAuOCItLT4KCQkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iODBkcCItLT4KCQkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9jZW50ZXJIb3Jpem9udGFsPSJ0cnVlIi0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4tLT4KCQkJCQkJCTwhLS0mbHQ7ISZuZGFzaDsg5pi+56S66IGU57O75Lq655qE5ZCN5a2XICZuZGFzaDsmZ3Q7LS0+CgkJCQkJCQk8IS0tPFRleHRWaWV3LS0+CgkJCQkJCQkJPCEtLWFuZHJvaWQ6aWQ9IkAraWQvY3VycmVudF9jb250YWN0X25hbWUiLS0+CgkJCQkJCQkJPCEtLXN0eWxlPSJAc3R5bGUvZm9udDUiLS0+CgkJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQkJCTwhLS1hbmRyb2lkOnBhZGRpbmdUb3A9IjVkcCItLT4KCQkJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRUb3A9InRydWUiLS0+CgkJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIvPi0tPgoJCQkJCQkJPCEtLSZsdDshJm5kYXNoOyDmmL7npLrpgJror53ml7bpl7QgJm5kYXNoOyZndDstLT4KCQkJCQkJCTwhLS08Q2hyb25vbWV0ZXItLT4KCQkJCQkJCQk8IS0tYW5kcm9pZDppZD0iQCtpZC9jdXJyZW50X2NhbGxfdGltZXIiLS0+CgkJCQkJCQkJPCEtLXN0eWxlPSJAc3R5bGUvZm9udDIiLS0+CgkJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9iZWxvdz0iQGlkL2N1cnJlbnRfY29udGFjdF9uYW1lIi0tPgoJCQkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXIiLz4tLT4KCQkJCQkJPCEtLTwvTGluZWFyTGF5b3V0Pi0tPgoJCQkJCQk8IS0tJmx0OyEmbmRhc2g7IOWRvOWPq+iAheeahOWbvueJh+S/oeaBr++8jOi/meS4quaYr+WcqOa3u+WKoOiBlOezu+S6uuaYr+iuvuWumueahOWbvueJhyAmbmRhc2g7Jmd0Oy0tPgoJCQkJCQk8IS0tPFJlbGF0aXZlTGF5b3V0LS0+CgkJCQkJCQk8IS0tYW5kcm9pZDppZD0iQCtpZC9hdmF0YXJfbGF5b3V0Ii0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfYmVsb3c9IkBpZC9hY3RpdmVfY2FsbF9pbmZvIi0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X21hcmdpbj0iNWRwIi0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6cGFkZGluZ1RvcD0iMTBkcCItLT4KCQkJCQkJCTwhLS1hbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl9ob3Jpem9udGFsIj4tLT4KCQkJCQkJCTwhLS08SW1hZ2VWaWV3LS0+CgkJCQkJCQkJPCEtLWFuZHJvaWQ6aWQ9IkAraWQvY29udGFjdF9waWN0dXJlIi0tPgoJCQkJCQkJCTwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2F2YXRhciItLT4KCQkJCQkJCQk8IS0tYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249IkBzdHJpbmcvY29udGVudF9kZXNjcmlwdGlvbl9jb250YWN0X3BpY3R1cmUiLS0+CgkJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIyMDBkcCItLT4KCQkJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIyMDBkcCItLT4KCQkJCQkJCQk8IS0tYW5kcm9pZDphZGp1c3RWaWV3Qm91bmRzPSJ0cnVlIi8+LS0+CgkJCQkJCQk8IS0tPEltYWdlVmlldy0tPgoJCQkJCQkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL21hc2siLS0+CgkJCQkJCQkJPCEtLWFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvYXZhdGFyX21hc2tfYm9yZGVyIi0tPgoJCQkJCQkJCTwhLS1hbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iQHN0cmluZy9jb250ZW50X2Rlc2NyaXB0aW9uX2NvbnRhY3RfcGljdHVyZSItLT4KCQkJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjIwMGRwIi0tPgoJCQkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IjIwMGRwIi0tPgoJCQkJCQkJCTwhLS1hbmRyb2lkOmFkanVzdFZpZXdCb3VuZHM9InRydWUiLz4tLT4KCQkJCQkJPCEtLTwvUmVsYXRpdmVMYXlvdXQ+LS0+CgkJCQkJCTwhLS0mbHQ7ISZuZGFzaDsg5a+556uv5aSE5LqO5pqC5YGc5pe277yM5pi+56S655qE5o+Q56S65L+h5oGv5ZKM5Zu+54mH77yM5qCH6K+G5a+556uv5aSE5LqO5pqC5YGc6YCa6K+d54q25oCBLS0+CgkJCQkJCTwhLS3ov5nkuKrop4blm77mmK/pmpDol4/nmoTvvIzlvZPpgJror53lpITkuo7mmoLlgZznirbmgIHml7bvvIzmiY3mmL7npLrlh7rmnaUgJm5kYXNoOyZndDstLT4KCQkJCQkJPCEtLTxMaW5lYXJMYXlvdXQtLT4KCQkJCQkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL3JlbW90ZV9wYXVzZSItLT4KCQkJCQkJCTwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvckMiLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDphbHBoYT0iMC45Ii0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIj4tLT4KCQkJCQkJCTwhLS08SW1hZ2VWaWV3LS0+CgkJCQkJCQkJPCEtLWFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvd2FpdGluZ190aW1lIi0tPgoJCQkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KCQkJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIi8+LS0+CgkJCQkJCQk8IS0tPFRleHRWaWV3LS0+CgkJCQkJCQkJPCEtLWFuZHJvaWQ6dGV4dD0iQHN0cmluZy9jYWxsX3BhdXNlZF9ieV9yZW1vdGUiLS0+CgkJCQkJCQkJPCEtLXN0eWxlPSJAc3R5bGUvZm9udDE2Ii0tPgoJCQkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KCQkJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIi8+LS0+CgkJCQkJCTwhLS08L0xpbmVhckxheW91dD4tLT4KCQkJCQkJPCEtLS0tPgoJCQkJCQk8IS0tJmx0OyEmbmRhc2g7IOaaguWBnOmAmuivneaMiemSriAmbmRhc2g7Jmd0Oy0tPgoJCQkJCQk8IS0tPEltYWdlVmlldy0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6aWQ9IkAraWQvcGF1c2UiLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9wYXVzZV9iaWdfZGVmYXVsdCItLT4KCQkJCQkJCTwhLS1hbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iQHN0cmluZy9jb250ZW50X2Rlc2NyaXB0aW9uX3BhdXNlIi0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI4MGRwIi0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iODBkcCItLT4KCQkJCQkJCTwhLS1hbmRyb2lkOnBhZGRpbmc9IjEwZHAiLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfYmVsb3c9IkAraWQvYWN0aXZlX2NhbGxfaW5mbyItLT4KCQkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIi8+LS0+CgkJCQkJCTwhLS0mbHQ7ISZuZGFzaDsg6KeG6aKR6YCa6K+d5pe277yM5YmN572u5ZKM5ZCO572u5pGE5YOP5aS05YiH5o2i5oyJ6ZKuICZuZGFzaDsmZ3Q7LS0+CgkJCQkJCTwhLS08SW1hZ2VWaWV3LS0+CgkJCQkJCQk8IS0tYW5kcm9pZDppZD0iQCtpZC9zd2l0Y2hDYW1lcmEiLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9zd2l0Y2hfY2FtZXJhIi0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI4MGRwIi0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iODBkcCItLT4KCQkJCQkJCTwhLS1hbmRyb2lkOnBhZGRpbmc9IjEwZHAiLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249IkBzdHJpbmcvY29udGVudF9kZXNjcmlwdGlvbl9zd2l0Y2hfY2FtZXJhIi0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6dmlzaWJpbGl0eT0iaW52aXNpYmxlIi0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL2FjdGl2ZV9jYWxsX2luZm8iLS0+CgkJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRMZWZ0PSJ0cnVlIi8+LS0+CgkJCQkJPCEtLTwvUmVsYXRpdmVMYXlvdXQ+LS0+CgkJCQkJPCEtLSZsdDshJm5kYXNoOyDlkbzlj6vliJfooajvvIxsaW5waG9uZeaUr+aMgeWQjOaXtuWkmuS4quWRvOWFpe+8jOW9k+acieWkmuS4quWRvOWFpeaXtu+8jOi/meS4quWIl+ihqOeUqOS6juaYvuekuuaJgOacieeahOWRvOWFpS0tPgoJCQkJCTwhLS3lj6rmnInkuIDkuKrlkbzlhaXml7bvvIzkuI3mmL7npLrliJfooaggJm5kYXNoOyZndDstLT4KCQkJCQk8IS0tPExpbmVhckxheW91dC0tPgoJCQkJCQk8IS0tYW5kcm9pZDppZD0iQCtpZC9jYWxsc19saXN0Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JIIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9ncmF2aXR5PSJib3R0b20iLS0+CgkJCQkJCTwhLS1hbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCI+LS0+CgkJCQkJPCEtLTwvTGluZWFyTGF5b3V0Pi0tPgoJCQkJCTwhLS0tLT4KCQkJCQk8IS0tJmx0OyEmbmRhc2g7IOW9k+WJjeayoeacieWRvOWPq+inhuWbvu+8jOavlOWmguWNleacuumAmuivneaXtueCueWHu+S6huaaguWBnOmUru+8jOWwseS8muWHuueOsOi/meS4queVjOmdou+8jOaPkOekuuW9k+WJjS0tPgoJCQkJCTwhLS3msqHmnIkg5aSE5LqO6YCa6K+d54q25oCBICZuZGFzaDsmZ3Q7LS0+CgkJCQkJPCEtLTxMaW5lYXJMYXlvdXQtLT4KCQkJCQkJPCEtLWFuZHJvaWQ6aWQ9IkAraWQvbm9fY3VycmVudF9jYWxsIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JDIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9hYm92ZT0iQGlkL2NhbGxzX2xpc3QiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6dmlzaWJpbGl0eT0iaW52aXNpYmxlIj4tLT4KCQkJCQkJPCEtLTxJbWFnZVZpZXctLT4KCQkJCQkJCTwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3dhaXRpbmdfdGltZSItLT4KCQkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIvPi0tPgoJCQkJCQk8IS0tPFRleHRWaWV3LS0+CgkJCQkJCQk8IS0tYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL25vX2N1cnJlbnRfY2FsbCItLT4KCQkJCQkJCTwhLS1zdHlsZT0iQHN0eWxlL2ZvbnQxNiItLT4KCQkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciIvPi0tPgoJCQkJCTwhLS08L0xpbmVhckxheW91dD4tLT4KCQkJCQk8IS0tLS0+CgkJCQk8IS0tPC9SZWxhdGl2ZUxheW91dD4gLS0+CgkJCTwhLS08L0ZyYW1lTGF5b3V0Pi0tPgoJCSAgICA8IS0tJmx0OyEmbmRhc2g7IOmAmuivneaXtuWAmeaLqOWPt+mUruebmOe7hOS7tu+8jOeCueWHu+mUruebmOaMiemSruaXtu+8jOaJjeaYvuekuiAmbmRhc2g7Jmd0Oy0tPgoJCQk8IS0tPGNvbS5mcmVldmlldy5zcGhvbmVkZW1vLnVpLk51bXBhZC0tPgoJCQkJPCEtLWFuZHJvaWQ6aWQ9IkAraWQvbnVtcGFkIi0tPgoJCQkJPCEtLWFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2NvbG9yRiItLT4KCQkJCTwhLS1hbmRyb2lkOmNvbnRlbnREZXNjcmlwdGlvbj0iQHN0cmluZy9jb250ZW50X2Rlc2NyaXB0aW9uX251bXBhZCItLT4KCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50Ii0tPgoJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJPCEtLWFuZHJvaWQ6dmlzaWJpbGl0eT0iZ29uZSItLT4KCQkJCTwhLS1hbmRyb2lkOmxheW91dF9tYXJnaW49IjEwZHAiLS0+CgkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfYWJvdmU9IkBpZC9tZW51Ii0tPgoJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2NlbnRlckhvcml6b250YWw9InRydWUiLS0+CgkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfY2VudGVyVmVydGljYWw9InRydWUiLz4tLT4KCQkJPCEtLSZsdDshJm5kYXNoOyDlupXpg6jnmoTlt6XlhbfmoI/op4blm77lrprkuYkgJm5kYXNoOyZndDstLT4KCQkJPCEtLTxMaW5lYXJMYXlvdXQgLS0+CgkJCSAgICA8IS0tYW5kcm9pZDppZD0iQCtpZC9tZW51Ii0tPgoJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiLS0+CgkJCQk8IS0tYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiPi0tPgoJCQkJCQkJCTwhLS0mbHQ7ISZuZGFzaDsg56ys5LiA5bGC6YCa6K+d5Yqf6IO96YCJ6aG55oyJ6ZKu6I+c5Y2V6KeG5Zu+5biD5bGA77yM5aaC6KeG6aKR44CB5oms5aOw5Zmo44CBTUlD5Y+K5ZG85Y+r6L2s56e7562J5Yqf6IO9ICZuZGFzaDsmZ3Q7LS0+CgkJCQk8IS0tPExpbmVhckxheW91dC0tPgoJCQkJCTwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvckYiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjBkcCItLT4KCQkJCQk8IS0tYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCI+LS0+CgkJCQkJPCEtLTxSZWxhdGl2ZUxheW91dC0tPgoJCQkJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnV0dG9uX2JhY2tncm91bmQiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiPi0tPgoJCQkJCTwhLS0mbHQ7ISZuZGFzaDsg6KeG6aKR6YCa6K+d5oyJ6ZKu5Zu+5qCHICZuZGFzaDsmZ3Q7LS0+CgkJCQkJPCEtLTxJbWFnZVZpZXctLT4KCQkJCQkJPCEtLWFuZHJvaWQ6aWQ9IkAraWQvdmlkZW8iLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2NhbWVyYV9kZWZhdWx0Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnV0dG9uX2JhY2tncm91bmQiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnBhZGRpbmc9IjIyZHAiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4tLT4KCQkJCQk8IS0tJmx0OyEmbmRhc2g7IOWIh+aNouinhumikemAmuivne+8jOmcgOimgeS4gOauteaXtumXtO+8jOi/meS4quaYr+etieW+hVByb2dyZXNzQmFyICZuZGFzaDsmZ3Q7LS0+CgkJCQkJPCEtLTxQcm9ncmVzc0Jhci0tPgoJCQkJCQk8IS0tYW5kcm9pZDppZD0iQCtpZC92aWRlb19pbl9wcm9ncmVzcyItLT4KCQkJCQkJPCEtLXN0eWxlPSI/YW5kcm9pZDphdHRyL3Byb2dyZXNzQmFyU3R5bGUiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9jZW50ZXJIb3Jpem9udGFsPSJ0cnVlIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfY2VudGVyVmVydGljYWw9InRydWUiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLz4tLT4KCgkJCQkJPCEtLTwvUmVsYXRpdmVMYXlvdXQ+LS0+CgkJCQkJPCEtLSZsdDshJm5kYXNoOyBNSUPmjInpkq7lm77moIcgJm5kYXNoOyZndDstLT4KCQkJCQk8IS0tPEltYWdlVmlldy0tPgoJCQkJCQk8IS0tYW5kcm9pZDppZD0iQCtpZC9taWNybyItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvbWljcm9fZGVmYXVsdCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2J1dHRvbl9iYWNrZ3JvdW5kIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpwYWRkaW5nPSIxNWRwIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIiAvPi0tPgoJCQkJCTwhLS0mbHQ7ISZuZGFzaDsgU3BlYWtlcuaMiemSruWbvuaghyAmbmRhc2g7Jmd0Oy0tPgoJCQkJCTwhLS08SW1hZ2VWaWV3LS0+CgkJCQkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL3NwZWFrZXIiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3NwZWFrZXJfZGVmYXVsdCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2J1dHRvbl9iYWNrZ3JvdW5kIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpwYWRkaW5nPSIxOGRwIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIiAvPi0tPgoJCQkJCTwhLS08SW1hZ2VWaWV3LS0+CgkJCQkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL3VubG9jayItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvZm9vdGVyX2tleWNhc2UiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9idXR0b25fYmFja2dyb3VuZCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6cGFkZGluZz0iMThkcCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIgLz4tLT4KCQkJCQk8IS0tJmx0OyEmbmRhc2g7IEF1ZGlvIHJvdXRl5oyJ6ZKu5Zu+5qCHIO+8jOi/meS4quWlveWDj+aYr+WSjOiTneeJmeiAs+acuuebuOWFs+eahOWbvuaghyZuZGFzaDsmZ3Q7LS0+CgkJCQkJPCEtLTxJbWFnZVZpZXctLT4KCQkJCQkJPCEtLWFuZHJvaWQ6aWQ9IkAraWQvYXVkaW9fcm91dGUiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3JvdXRlc19kZWZhdWx0Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnV0dG9uX2JhY2tncm91bmQiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnBhZGRpbmc9IjIwZHAiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiLz4tLT4KCQkJCQk8IS0tJmx0OyEmbmRhc2g7IOmAmuivneWFtuS7lumAiemhueaMiemSruWbvuaghyAmbmRhc2g7Jmd0Oy0tPgoJCQkJCTwhLS08SW1hZ2VWaWV3LS0+CgkJCQkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL29wdGlvbnMiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL29wdGlvbnNfZGVmYXVsdCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL2J1dHRvbl9iYWNrZ3JvdW5kIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpwYWRkaW5nPSIxOGRwIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIiAvPi0tPgoJCQkJPCEtLTwvTGluZWFyTGF5b3V0Pi0tPgoJCQkJPCEtLS0tPgoJCQkJPCEtLSZsdDshJm5kYXNoOyDnrKzkuozmrKHlt6XlhbfmoI/op4blm77luIPlsYDvvIzljIXmi6zplK7nm5jjgIHmjILmlq3jgIFTSVDmlofmnKzmtojmga/lm77moIfmjInpkq4gJm5kYXNoOyZndDstLT4KCQkJCTwhLS08TGluZWFyTGF5b3V0LS0+CgkJCQkJPCEtLWFuZHJvaWQ6aWQ9IkAraWQvbWFpbl9iYXIiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjBkcCItLT4KCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfYWxpZ25QYXJlbnRCb3R0b209InRydWUiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2dyYXZpdHk9ImNlbnRlciItLT4KCQkJCQk8IS0tYW5kcm9pZDpvcmllbnRhdGlvbj0iaG9yaXpvbnRhbCIgPi0tPgoKCQkJCQk8IS0tPEltYWdlVmlldy0tPgoJCQkJCQk8IS0tYW5kcm9pZDppZD0iQCtpZC9kaWFsZXIiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2Zvb3Rlcl9kaWFsZXIiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvckMiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnBhZGRpbmc9IjE4ZHAiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiIC8+LS0+CgoJCQkJCTwhLS08SW1hZ2VWaWV3LS0+CgkJCQkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL2hhbmdfdXAiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2NhbGxfaGFuZ3VwIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvaGFuZ3VwIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIwLjUiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnBhZGRpbmc9IjE1ZHAiLz4tLT4KCQkJCQk8IS0tLS0+CgkJCQkJPCEtLTxJbWFnZVZpZXcgLS0+CgkJCQkJICAgIDwhLS1hbmRyb2lkOmlkPSJAK2lkL2FjY2VwdF9jYWxsIi0tPgoJCQkJCSAgICA8IS0tYW5kcm9pZDpzcmM9IkBkcmF3YWJsZS9jYWxsX2F1ZGlvX3N0YXJ0Ii0tPgoJCQkJCSAgICA8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvY2FsbCItLT4KCQkJCQkgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CgkJCQkJICAgIDwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KCQkJCQkgICAgPCEtLWFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMC41Ii0tPgoJCQkJCSAgICA8IS0tYW5kcm9pZDpwYWRkaW5nPSIxNWRwIi8+LS0+CgoJCQkJCTwhLS08SW1hZ2VWaWV3LS0+CgkJCQkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL2NoYXQiLS0+CgkJCQkJCTwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2Zvb3Rlcl9jaGF0Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JDIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDpwYWRkaW5nPSIxOGRwIi0tPgoJCQkJCQk8IS0tYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIi8+LS0+CgkJCQk8IS0tPC9MaW5lYXJMYXlvdXQ+LS0+CgkJCSAgICA8IS0tLS0+CgkJCTwhLS08L0xpbmVhckxheW91dD4tLT4KCQkJPCEtLS0tPgoJCQk8IS0tJmx0OyEmbmRhc2g7IOS4gOe7hOmakOiXj+eahOeKtuaAgeaPkOekuuWPiuWKn+iDveaMiemSruWbvuagh++8jOWPquaciei/m+WFpeebuOWFs+eahOWKn+iDveaJjeS8muaYvuekuu+8jOavlOWmguWIh+aNouWIsOiTneeJmeiAs+acui0tPgoJCQk8IS0tYWRkIENhbGzlip/og73pobkgJm5kYXNoOyZndDstLT4KCQkJPCEtLTxMaW5lYXJMYXlvdXQtLT4KCQkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL21lbnVfYm90dG9tIi0tPgoJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CgkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI2MGRwIi0tPgoJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2Fib3ZlPSJAaWQvbWVudSItLT4KCQkJCTwhLS1hbmRyb2lkOm9yaWVudGF0aW9uPSJob3Jpem9udGFsIiA+LS0+CgoJCQkJPCEtLTxUZXh0Vmlldy0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KCQkJCQk8IS0tYW5kcm9pZDp2aXNpYmlsaXR5PSJpbnZpc2libGUiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMC41Ii8+LS0+CgoJCQkJPCEtLTxUZXh0Vmlldy0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KCQkJCQk8IS0tYW5kcm9pZDp2aXNpYmlsaXR5PSJpbnZpc2libGUiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMC41Ii8+LS0+CgoJCQkJPCEtLTxJbWFnZVZpZXctLT4KCQkJCQk8IS0tYW5kcm9pZDppZD0iQCtpZC9yb3V0ZV9ibHVldG9vdGgiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvcm91dGVfYmx1ZXRvb3RoIi0tPgoJCQkJCTwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9idXR0b25fYmFja2dyb3VuZCItLT4KCQkJCQk8IS0tYW5kcm9pZDpwYWRkaW5nPSIyMGRwIi0tPgoJCQkJCTwhLS1hbmRyb2lkOnZpc2liaWxpdHk9ImludmlzaWJsZSItLT4KCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMC41IiAvPi0tPgoKCQkJCTwhLS08SW1hZ2VWaWV3LS0+CgkJCQkJPCEtLWFuZHJvaWQ6aWQ9IkAraWQvYWRkX2NhbGwiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvb3B0aW9uc19hZGRfY2FsbCItLT4KCQkJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnV0dG9uX2JhY2tncm91bmQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6cGFkZGluZz0iMjBkcCItLT4KCQkJCQk8IS0tYW5kcm9pZDp2aXNpYmlsaXR5PSJpbnZpc2libGUiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93ZWlnaHQ9IjAuNSIgLz4tLT4KCQkJPCEtLTwvTGluZWFyTGF5b3V0Pi0tPgoJCQk8IS0tLS0+CgkJCTwhLS08TGluZWFyTGF5b3V0LS0+CgkJCQk8IS0tYW5kcm9pZDppZD0iQCtpZC9tZW51X21pZGRsZSItLT4KCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjBkcCItLT4KCQkJCTwhLS1hbmRyb2lkOmxheW91dF9hYm92ZT0iQGlkL21lbnVfYm90dG9tIi0tPgoJCQkJPCEtLWFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiID4tLT4KCQkJCTwhLS08VGV4dFZpZXctLT4KCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6dmlzaWJpbGl0eT0iaW52aXNpYmxlIi0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93ZWlnaHQ9IjAuNSIvPi0tPgoJCQkJPCEtLTxUZXh0Vmlldy0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KCQkJCQk8IS0tYW5kcm9pZDp2aXNpYmlsaXR5PSJpbnZpc2libGUiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMC41Ii8+LS0+CgkJCQk8IS0tPEltYWdlVmlldy0tPgoJCQkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL3JvdXRlX2VhcnBpZWNlIi0tPgoJCQkJCTwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL3JvdXRlX2VhcnBpZWNlIi0tPgoJCQkJCTwhLS1hbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9idXR0b25fYmFja2dyb3VuZCItLT4KCQkJCQk8IS0tYW5kcm9pZDpwYWRkaW5nPSIyMGRwIi0tPgoJCQkJCTwhLS1hbmRyb2lkOnZpc2liaWxpdHk9ImludmlzaWJsZSItLT4KCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMC41Ii8+LS0+CgkJCQk8IS0tPEltYWdlVmlldy0tPgoJCQkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL3RyYW5zZmVyIi0tPgoJCQkJCTwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL29wdGlvbnNfdHJhbnNmZXJfY2FsbCItLT4KCQkJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnV0dG9uX2JhY2tncm91bmQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6cGFkZGluZz0iMjBkcCItLT4KCQkJCQk8IS0tYW5kcm9pZDp2aXNpYmlsaXR5PSJpbnZpc2libGUiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93ZWlnaHQ9IjAuNSIvPi0tPgoJCQk8IS0tPC9MaW5lYXJMYXlvdXQ+LS0+CgkJCTwhLS0tLT4KCQkJPCEtLTxMaW5lYXJMYXlvdXQtLT4KCQkJCTwhLS1hbmRyb2lkOmxheW91dF9hYm92ZT0iQGlkL21lbnVfbWlkZGxlIi0tPgoJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CgkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSI2MGRwIi0tPgoJCQkJPCEtLWFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiID4tLT4KCQkJCTwhLS08VGV4dFZpZXctLT4KCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQkJCQk8IS0tYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6dmlzaWJpbGl0eT0iaW52aXNpYmxlIi0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93ZWlnaHQ9IjAuNSIvPi0tPgoJCQkJPCEtLTxUZXh0Vmlldy0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KCQkJCQk8IS0tYW5kcm9pZDp2aXNpYmlsaXR5PSJpbnZpc2libGUiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMC41Ii8+LS0+CgkJCQk8IS0tPEltYWdlVmlldy0tPgoJCQkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL3JvdXRlX3NwZWFrZXIiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvcm91dGVfc3BlYWtlciItLT4KCQkJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnV0dG9uX2JhY2tncm91bmQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6dmlzaWJpbGl0eT0iaW52aXNpYmxlIi0tPgoJCQkJCTwhLS1hbmRyb2lkOnBhZGRpbmc9IjIwZHAiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93ZWlnaHQ9IjAuNSIvPi0tPgoJCQkJPCEtLTxJbWFnZVZpZXctLT4KCQkJCQk8IS0tYW5kcm9pZDppZD0iQCtpZC9jb25mZXJlbmNlIi0tPgoJCQkJCTwhLS1hbmRyb2lkOnNyYz0iQGRyYXdhYmxlL29wdGlvbnNfc3RhcnRfY29uZmVyZW5jZSItLT4KCQkJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnV0dG9uX2JhY2tncm91bmQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6dmlzaWJpbGl0eT0iaW52aXNpYmxlIi0tPgoJCQkJCTwhLS1hbmRyb2lkOnBhZGRpbmc9IjIwZHAiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CgkJCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgoJCQkJCTwhLS1hbmRyb2lkOmxheW91dF93ZWlnaHQ9IjAuNSIvPi0tPgoJCQk8IS0tPC9MaW5lYXJMYXlvdXQ+LS0+CgkJCTwhLS0tLT4KCQk8IS0tPC9SZWxhdGl2ZUxheW91dD4tLT4KCgkJPCEtLSDmir3lsYnlr7zoiKroj5zljZUg6aG16Z2i77yM6L+Z6YeM55So5LqO5pi+56S66YCa6K+d5pe255qE54q25oCB77yM5aaC5LiK6KGML+S4i+ihjOmAn+eOh++8jOinhumikeeahOWIhui+qOeOh+etieS/oeaBrwoJCeato+W4uOaDheWGteaYr+makOiXj+S6juWxj+W5leeahOW3puS+p++8jOWQkeWPs+a7keWKqOWxj+W5le+8jOWPr+S7peW8ueWHuui/meS4quiPnOWNlSAtLT4KCQk8IS0tPFJlbGF0aXZlTGF5b3V0LS0+CgkJCTwhLS1hbmRyb2lkOmlkPSJAK2lkL3NpZGVfbWVudV9jb250ZW50Ii0tPgoJCQk8IS0tYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JIIi0tPgoJCQk8IS0tYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCItLT4KCQkJPCEtLWFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ii0tPgoJCQk8IS0tYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0ibGVmdCI+LS0+CgoJCQk8IS0tPGluY2x1ZGUgbGF5b3V0PSJAbGF5b3V0L2luY2FsbF9zdGF0cyIgYW5kcm9pZDppZD0iQCtpZC9pbmNhbGxfc3RhdHMiLz4tLT4KCgkJPCEtLTwvUmVsYXRpdmVMYXlvdXQ+LS0+CgoJPC9hbmRyb2lkLnN1cHBvcnQudjQud2lkZ2V0LkRyYXdlckxheW91dD4KICAgIAo8L1JlbGF0aXZlTGF5b3V0Pg==</text>
       </register>
       <register name="3" type="4">
-        <text>CallActivity</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkltYWdlVmlldzsK</text>
-      </register>
-      <register name="5" type="4">
         <text>SPhoneHome</text>
       </register>
-      <register name="6" type="4">
-        <text>SPhoneHome.class);</text>
+      <register name="4" type="4">
+        <text>SPhoneHome</text>
+      </register>
+      <register name="5" type="4">
+        <text>CallActivity</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LkltYWdlVmlldzsK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bWVudSwg</text>
+        <text>SPhoneHome</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cm91dGVCbHVldG9vdGgsIA==</text>
+        <text>SPhoneHome.class);</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">cm91dGVFYXJwaWVjZSwg</text>
+        <text encoding="base64">bWVudSwg</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>accept_call</last-search>
+      <last-search encoding="base64">XDxSZWxhdGl2ZUxheW91dFw+</last-search>
       <last-offset />
-      <last-pattern>accept_call</last-pattern>
+      <last-pattern encoding="base64">XDxSZWxhdGl2ZUxheW91dFw+</last-pattern>
       <last-replace />
       <last-substitute>^\/\/.*$\n</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ser</entry>
-        <entry>pref_watch_notification</entry>
-        <entry encoding="base64">XDxhcHBcPg==</entry>
-        <entry>hide</entry>
-        <entry>^\/\/.*$</entry>
-        <entry>^\/\/.*$\n</entry>
         <entry encoding="base64">XDx3aWZpQ29uZmlndXJhdGlvblw+</entry>
         <entry>backgroun</entry>
         <entry>Activity</entry>
@@ -413,10 +424,19 @@
         <entry>NetworkManager</entry>
         <entry>SPhoneLauncher</entry>
         <entry>SPhoneHome</entry>
-        <entry encoding="base64">XDxSZWxhdGl2ZUxheW91dFw+</entry>
         <entry encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</entry>
         <entry>status</entry>
         <entry>accept_call</entry>
+        <entry>content</entry>
+        <entry>call</entry>
+        <entry>call_paused_by_remote</entry>
+        <entry>content_description_pause</entry>
+        <entry>no_curr</entry>
+        <entry encoding="base64">XDxGcmFtZUxheW91dFw+</entry>
+        <entry encoding="base64">XDxEcmF3ZXJMYXlvdXRcPg==</entry>
+        <entry>content_description_numpad</entry>
+        <entry encoding="base64">XDw+XD4=</entry>
+        <entry encoding="base64">XDxSZWxhdGl2ZUxheW91dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
