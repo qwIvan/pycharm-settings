@@ -224,6 +224,9 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/view/accessibility/AccessibilityRecord.java" timestamp="1460369041715">
         <mark key="'" line="95" column="17" />
       </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" timestamp="1464876626282">
+        <mark key="'" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/plugins/VideoTalk/videoTalk.js" timestamp="1464244853688">
         <mark key="'" line="6" column="49" />
         <mark key="[" line="0" column="16" />
@@ -234,6 +237,7 @@
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/colors.xml" timestamp="1464579818485">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/ids.xml" timestamp="1464875978677" />
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/PreferenceManager.java" timestamp="1461595848723">
         <mark key="'" line="45" column="13" />
       </file>
@@ -286,9 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1603" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
-      <jump line="112" column="4" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="1450" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="1601" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
@@ -386,6 +387,9 @@
       <jump line="38" column="20" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call_inactive_row.xml" />
       <jump line="561" column="28" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="23" column="31" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" />
+      <jump line="70" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
+      <jump line="102" column="43" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
+      <jump line="5" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -395,7 +399,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>\s*\/\/.*\n</text>
+        <text encoding="base64">PCEtLS4qLS0+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSJjb20ueXVuemppYS52aWRlb3RhbGsuQ2FsbEFjdGl2aXR5IiAvPgo=</text>
@@ -432,9 +436,9 @@
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search encoding="base64">PCEtLS4qLS0+</last-search>
       <last-offset />
-      <last-pattern>\s*\/\/.*\n</last-pattern>
+      <last-pattern encoding="base64">PCEtLS4qLS0+</last-pattern>
       <last-replace />
       <last-substitute>\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -442,8 +446,6 @@
     </search>
     <history>
       <history-search>
-        <entry>call</entry>
-        <entry>call_paused_by_remote</entry>
         <entry>content_description_pause</entry>
         <entry>no_curr</entry>
         <entry encoding="base64">XDxGcmFtZUxheW91dFw+</entry>
@@ -462,6 +464,8 @@
         <entry>calls_</entry>
         <entry>status</entry>
         <entry>\s*\/\/.*\n</entry>
+        <entry encoding="base64">PCEtLQ==</entry>
+        <entry encoding="base64">PCEtLS4qLS0+</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
@@ -472,6 +476,13 @@
         <entry>%s/\s*//.*\n//g</entry>
         <entry>%s/\s*\/\/.*\n//g</entry>
         <entry>q</entry>
+        <entry encoding="base64">JXMvXDxcIVwtXC0uKlwtXC1cPlxuLy9n</entry>
+        <entry encoding="base64">JXMvPCEtLS4qLS0+XG4vL2c=</entry>
+        <entry encoding="base64">PCEtLS4qLS0+</entry>
+        <entry encoding="base64">JXMvPCEtLS4qLS0+Ly9n</entry>
+        <entry encoding="base64">JXMvPCEuKlxuLy9n</entry>
+        <entry>%s/*\n//g</entry>
+        <entry>%s/.*\n//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
