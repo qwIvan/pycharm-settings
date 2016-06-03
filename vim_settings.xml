@@ -95,10 +95,16 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceSelfTestActivity.java" timestamp="1460626160319">
         <mark key="'" line="185" column="59" />
       </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values-de/non_localizable_custom.xml" timestamp="1464917985003">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallAudioFragment.java" timestamp="1464678216401">
         <mark key="'" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1464880806941">
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1464917976233">
+        <mark key="'" line="392" column="61" />
         <mark key="[" line="1056" column="0" />
         <mark key="]" line="1056" column="0" />
         <mark key="." line="1056" column="0" />
@@ -146,6 +152,11 @@
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call_inactive_row.xml" timestamp="1464839505153">
         <mark key="'" line="38" column="20" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/dimens.xml" timestamp="1464918410914">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1464689231644">
         <mark key="'" line="0" column="0" />
@@ -292,8 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="378" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="200" column="37" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="173" column="54" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="83" column="45" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
@@ -392,55 +401,57 @@
       <jump line="11" column="25" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
       <jump line="124" column="32" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
       <jump line="98" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
+      <jump line="334" column="16" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="392" column="61" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2FuY2VsIj7lj5bmtog8L3N0cmluZz4K</text>
+        <text encoding="base64">ICA8ZGltZW4gbmFtZT0ic3RhbmRhcmRfcGFkZGluZyI+OGRpcDwvZGltZW4+CiAgPGRpbWVuIG5hbWU9ImhhbGZfcGFkZGluZyI+NGRpcDwvZGltZW4+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>content_</text>
+        <text>R.boo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSJjb20ueXVuemppYS52aWRlb3RhbGsuQ2FsbEFjdGl2aXR5IiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2FuY2VsIj7lj5bmtog8L3N0cmluZz4K</text>
+        <text encoding="base64">ICA8ZGltZW4gbmFtZT0ic3RhbmRhcmRfcGFkZGluZyI+OGRpcDwvZGltZW4+CiAgPGRpbWVuIG5hbWU9ImhhbGZfcGFkZGluZyI+NGRpcDwvZGltZW4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic2hhcmVfbmFtZSI+6YCa6L+H5p2h56CB5YiG5LqrPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICA8ZGltZW4gbmFtZT0ic3RhbmRhcmRfcGFkZGluZyI+OGRpcDwvZGltZW4+CiAgPGRpbWVuIG5hbWU9ImhhbGZfcGFkZGluZyI+NGRpcDwvZGltZW4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic2hhcmVfbmFtZSI+U2hhcmUgdmlhIGJhcmNvZGU8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIDxib29sIG5hbWU9ImFsbG93X3RyYW5zZmVycyI+dHJ1ZTwvYm9vbD4KICAgIAogICAgPGJvb2wgbmFtZT0iZGlzYWJsZV9vcHRpb25zX2luX2NhbGwiPmZhbHNlPC9ib29sPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZGVsZXRlIj7liKDpmaQ8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY2FuY2VsIj7lj5bmtog8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iYWNjZXB0Ij7mjqXlj5c8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iYWRkX3ZpZGVvX2RpYWxvZyI+5a+55pa55byA5ZCv6KeG6aKR6YCa6K+dPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImNvbnRlbnRfZGVzY3JpcHRpb25fY29udGFjdF9waWN0dXJlIj5Db250YWN0IHBpY3R1cmU8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY29udGVudF9kZXNjcmlwdGlvbl9wYXVzZSI+UGF1c2U8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY29udGVudF9kZXNjcmlwdGlvbl9zd2l0Y2hfY2FtZXJhIj5Td2l0Y2ggY2FtZXJhPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImRlY2xpbmUiPuaLkuaOpTwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJjb25mZXJlbmNlIj7kvJrorq48L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY2FsbF9zdGF0c19jb2RlYyI+57yW56CBOjwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJjYWxsX3N0YXRzX3VwbG9hZCI+5LiK6KGM5bim5a69Ojwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJjYWxsX3N0YXRzX2Rvd25sb2FkIj7kuIvooYzluKblrr06PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImNhbGxfc3RhdHNfaWNlIj5JQ0Xpk77mjqU6PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImNhbGxfc3RhdHNfdmlkZW9fcmVzb2x1dGlvbiI+6KeG6aKR5aSn5bCPOjwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJlcnJvcl9sb3dfYmFuZHdpZHRoIj7kvY7luKblrr3nvZHnu5zvvIzkuI3og73lkK/nlKjop4bpopE8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0ibm9fY3VycmVudF9jYWxsIj7lvZPliY3msqHmnInnlLXor508L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY2FsbF9wYXVzZWRfYnlfcmVtb3RlIj7lr7nmlrnmmoLlgZzpgJror508L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2FuY2VsIj7lj5bmtog8L3N0cmluZz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JcHJpdmF0ZSB2b2lkIGhhbmRsZVZpZXdJbnRlbnQoKSB7Ci8vCQlJbnRlbnQgaW50ZW50ID0gZ2V0SW50ZW50KCk7Ci8vCQlpZihpbnRlbnQgIT0gbnVsbCAmJiBpbnRlbnQuZ2V0QWN0aW9uKCkuZXF1YWxzKCJhbmRyb2lkLmludGVudC5hY3Rpb24uVklFVyIpKSB7Ci8vCQkJTGlucGhvbmVDYWxsIGNhbGwgPSBTaXBDb3JlTWFuYWdlci5nZXRMYygpLmdldEN1cnJlbnRDYWxsKCk7Ci8vCQkJaWYoY2FsbCAhPSBudWxsICYmIGlzVmlkZW9FbmFibGVkKGNhbGwpKSB7Ci8vCQkJCUxpbnBob25lUGxheWVyIHBsYXllciA9IGNhbGwuZ2V0UGxheWVyKCk7Ci8vCQkJCVN0cmluZyBwYXRoID0gaW50ZW50LmdldERhdGEoKS5nZXRQYXRoKCk7Ci8vCQkJCUxvZy5pKCJPcGVubmluZyAiICsgcGF0aCk7Ci8vCQkJCWludCBvcGVuUmVzID0gcGxheWVyLm9wZW4ocGF0aCwgbmV3IExpbnBob25lUGxheWVyLkxpc3RlbmVyKCkgewovLwovLwkJCQkJQE92ZXJyaWRlCi8vCQkJCQlwdWJsaWMgdm9pZCBlbmRPZkZpbGUoTGlucGhvbmVQbGF5ZXIgcGxheWVyKSB7Ci8vCQkJCQkJcGxheWVyLmNsb3NlKCk7Ci8vCQkJCQl9Ci8vCQkJCX0pOwovLwkJCQlpZihvcGVuUmVzID09IC0xKSB7Ci8vCQkJCQlTdHJpbmcgbWVzc2FnZSA9ICJDb3VsZCBub3Qgb3BlbiAiICsgcGF0aDsKLy8JCQkJCUxvZy5lKG1lc3NhZ2UpOwovLwkJCQkJVG9hc3QubWFrZVRleHQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIG1lc3NhZ2UsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwovLwkJCQkJcmV0dXJuOwovLwkJCQl9Ci8vCQkJCUxvZy5pKCJTdGFydCBwbGF5aW5nIik7Ci8vCQkJCWlmKHBsYXllci5zdGFydCgpID09IC0xKSB7Ci8vCQkJCQlwbGF5ZXIuY2xvc2UoKTsKLy8JCQkJCVN0cmluZyBtZXNzYWdlID0gIkNvdWxkIG5vdCBzdGFydCBwbGF5aW5nICIgKyBwYXRoOwovLwkJCQkJTG9nLmUobWVzc2FnZSk7Ci8vCQkJCQlUb2FzdC5tYWtlVGV4dChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgbWVzc2FnZSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Ci8vCQkJCX0KLy8JCQl9Ci8vCQl9Ci8vCX0KCQo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic2hhcmVfbmFtZSI+6YCa6L+H5p2h56CB5YiG5LqrPC9zdHJpbmc+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImNvbnRlbnRfZGVzY3JpcHRpb25fYWNjZXB0Ij5BY2NlcHQ8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic2hhcmVfbmFtZSI+U2hhcmUgdmlhIGJhcmNvZGU8L3N0cmluZz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImNvbnRlbnRfZGVzY3JpcHRpb25fZGVjbGluZSI+RGVjbGluZTwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZGVsZXRlIj7liKDpmaQ8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY2FuY2VsIj7lj5bmtog8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iYWNjZXB0Ij7mjqXlj5c8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iYWRkX3ZpZGVvX2RpYWxvZyI+5a+55pa55byA5ZCv6KeG6aKR6YCa6K+dPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImNvbnRlbnRfZGVzY3JpcHRpb25fY29udGFjdF9waWN0dXJlIj5Db250YWN0IHBpY3R1cmU8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY29udGVudF9kZXNjcmlwdGlvbl9wYXVzZSI+UGF1c2U8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY29udGVudF9kZXNjcmlwdGlvbl9zd2l0Y2hfY2FtZXJhIj5Td2l0Y2ggY2FtZXJhPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImRlY2xpbmUiPuaLkuaOpTwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJjb25mZXJlbmNlIj7kvJrorq48L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY2FsbF9zdGF0c19jb2RlYyI+57yW56CBOjwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJjYWxsX3N0YXRzX3VwbG9hZCI+5LiK6KGM5bim5a69Ojwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJjYWxsX3N0YXRzX2Rvd25sb2FkIj7kuIvooYzluKblrr06PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImNhbGxfc3RhdHNfaWNlIj5JQ0Xpk77mjqU6PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImNhbGxfc3RhdHNfdmlkZW9fcmVzb2x1dGlvbiI+6KeG6aKR5aSn5bCPOjwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJlcnJvcl9sb3dfYmFuZHdpZHRoIj7kvY7luKblrr3nvZHnu5zvvIzkuI3og73lkK/nlKjop4bpopE8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0ibm9fY3VycmVudF9jYWxsIj7lvZPliY3msqHmnInnlLXor508L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY2FsbF9wYXVzZWRfYnlfcmVtb3RlIj7lr7nmlrnmmoLlgZzpgJror508L3N0cmluZz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImFkZF92aWRlb19kaWFsb2ciPuWvueaWueW8gOWQr+inhumikemAmuivnTwvc3RyaW5nPgo=</text>
+        <text encoding="base64">Ly8JcHJpdmF0ZSB2b2lkIGhhbmRsZVZpZXdJbnRlbnQoKSB7Ci8vCQlJbnRlbnQgaW50ZW50ID0gZ2V0SW50ZW50KCk7Ci8vCQlpZihpbnRlbnQgIT0gbnVsbCAmJiBpbnRlbnQuZ2V0QWN0aW9uKCkuZXF1YWxzKCJhbmRyb2lkLmludGVudC5hY3Rpb24uVklFVyIpKSB7Ci8vCQkJTGlucGhvbmVDYWxsIGNhbGwgPSBTaXBDb3JlTWFuYWdlci5nZXRMYygpLmdldEN1cnJlbnRDYWxsKCk7Ci8vCQkJaWYoY2FsbCAhPSBudWxsICYmIGlzVmlkZW9FbmFibGVkKGNhbGwpKSB7Ci8vCQkJCUxpbnBob25lUGxheWVyIHBsYXllciA9IGNhbGwuZ2V0UGxheWVyKCk7Ci8vCQkJCVN0cmluZyBwYXRoID0gaW50ZW50LmdldERhdGEoKS5nZXRQYXRoKCk7Ci8vCQkJCUxvZy5pKCJPcGVubmluZyAiICsgcGF0aCk7Ci8vCQkJCWludCBvcGVuUmVzID0gcGxheWVyLm9wZW4ocGF0aCwgbmV3IExpbnBob25lUGxheWVyLkxpc3RlbmVyKCkgewovLwovLwkJCQkJQE92ZXJyaWRlCi8vCQkJCQlwdWJsaWMgdm9pZCBlbmRPZkZpbGUoTGlucGhvbmVQbGF5ZXIgcGxheWVyKSB7Ci8vCQkJCQkJcGxheWVyLmNsb3NlKCk7Ci8vCQkJCQl9Ci8vCQkJCX0pOwovLwkJCQlpZihvcGVuUmVzID09IC0xKSB7Ci8vCQkJCQlTdHJpbmcgbWVzc2FnZSA9ICJDb3VsZCBub3Qgb3BlbiAiICsgcGF0aDsKLy8JCQkJCUxvZy5lKG1lc3NhZ2UpOwovLwkJCQkJVG9hc3QubWFrZVRleHQoZ2V0QXBwbGljYXRpb25Db250ZXh0KCksIG1lc3NhZ2UsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpOwovLwkJCQkJcmV0dXJuOwovLwkJCQl9Ci8vCQkJCUxvZy5pKCJTdGFydCBwbGF5aW5nIik7Ci8vCQkJCWlmKHBsYXllci5zdGFydCgpID09IC0xKSB7Ci8vCQkJCQlwbGF5ZXIuY2xvc2UoKTsKLy8JCQkJCVN0cmluZyBtZXNzYWdlID0gIkNvdWxkIG5vdCBzdGFydCBwbGF5aW5nICIgKyBwYXRoOwovLwkJCQkJTG9nLmUobWVzc2FnZSk7Ci8vCQkJCQlUb2FzdC5tYWtlVGV4dChnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSwgbWVzc2FnZSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCk7Ci8vCQkJCX0KLy8JCQl9Ci8vCQl9Ci8vCX0KCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImluY29taW5nX2NhbGwiPuWRvOWFpeeUteivnTwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICA8c3RyaW5nIG5hbWU9ImNvbnRlbnRfZGVzY3JpcHRpb25fYWNjZXB0Ij5BY2NlcHQ8L3N0cmluZz4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>content_</last-search>
+      <last-search>R.boo</last-search>
       <last-offset />
-      <last-pattern>content_</last-pattern>
+      <last-pattern>R.boo</last-pattern>
       <last-replace />
       <last-substitute>\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -448,7 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry>content_description_numpad</entry>
         <entry encoding="base64">XDw+XD4=</entry>
         <entry encoding="base64">XDxSZWxhdGl2ZUxheW91dFw+</entry>
         <entry>call_qual</entry>
@@ -468,6 +478,7 @@
         <entry>contetn</entry>
         <entry>content_des</entry>
         <entry>content_</entry>
+        <entry>R.boo</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
