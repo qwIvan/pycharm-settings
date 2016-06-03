@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CallbackContext.java" timestamp="1463364291267">
         <mark key="'" line="33" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1464840023120">
+      <file name="/a.dummy" timestamp="1464920501129">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/MainActivity.java" timestamp="1464229759595">
@@ -29,13 +29,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/res/layout/login.xml" timestamp="1464168732191">
-        <mark key="'" line="58" column="12" />
-        <mark key="[" line="80" column="26" />
-        <mark key="]" line="80" column="41" />
-        <mark key="^" line="60" column="34" />
-        <mark key="." line="60" column="34" />
       </file>
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
         <mark key="'" line="664" column="8" />
@@ -64,8 +57,8 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1460626089108">
         <mark key="'" line="303" column="18" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" timestamp="1464879852840">
-        <mark key="'" line="92" column="88" />
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" timestamp="1464920644707">
+        <mark key="'" line="19" column="33" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -80,8 +73,8 @@
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/layout/activity_preferences.xml" timestamp="1461603107077">
         <mark key="'" line="29" column="106" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallVideoFragment.java" timestamp="1464677733732">
-        <mark key="'" line="45" column="31" />
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallVideoFragment.java" timestamp="1464920771982">
+        <mark key="'" line="49" column="64" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" timestamp="1463974593441">
         <mark key="'" line="56" column="32" />
@@ -103,8 +96,8 @@
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallAudioFragment.java" timestamp="1464678216401">
         <mark key="'" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1464917976233">
-        <mark key="'" line="392" column="61" />
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1464920688517">
+        <mark key="'" line="185" column="36" />
         <mark key="[" line="1056" column="0" />
         <mark key="]" line="1056" column="0" />
         <mark key="." line="1056" column="0" />
@@ -143,13 +136,6 @@
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/fragments/GeneralSettingsFragment.java" timestamp="1461602641634">
         <mark key="'" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneLauncher.java" timestamp="1464594746256">
-        <mark key="'" line="41" column="68" />
-        <mark key="[" line="41" column="68" />
-        <mark key="]" line="41" column="79" />
-        <mark key="." line="41" column="79" />
-        <mark key="^" line="41" column="79" />
-      </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call_inactive_row.xml" timestamp="1464839505153">
         <mark key="'" line="38" column="20" />
       </file>
@@ -169,13 +155,6 @@
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/build/generated/source/r/debug/com/freeview/sphonedemo/R.java" timestamp="1464839490193">
         <mark key="'" line="1786" column="32" />
-      </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/build.gradle" timestamp="1464160107996">
-        <mark key="'" line="25" column="12" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="39" />
-        <mark key="^" line="26" column="1" />
-        <mark key="." line="4" column="29" />
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" timestamp="1464160132925">
         <mark key="'" line="0" column="0" />
@@ -237,13 +216,6 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/plugins/VideoTalk/videoTalk.js" timestamp="1464244853688">
-        <mark key="'" line="6" column="49" />
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="36" />
-      </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/colors.xml" timestamp="1464579818485">
         <mark key="'" line="0" column="0" />
       </file>
@@ -271,22 +243,8 @@
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/styles.xml" timestamp="1464880050414">
         <mark key="'" line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/AndroidManifest.xml" timestamp="1464229008724">
-        <mark key="'" line="84" column="12" />
-        <mark key="[" line="141" column="73" />
-        <mark key="]" line="141" column="74" />
-        <mark key="." line="141" column="74" />
-        <mark key="^" line="141" column="74" />
-      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/telephony/SmsMessage.java" timestamp="1461598036044">
         <mark key="'" line="194" column="37" />
-      </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" timestamp="1464677737620">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="34" column="72" />
-        <mark key="]" line="34" column="83" />
-        <mark key="." line="34" column="83" />
-        <mark key="^" line="34" column="83" />
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" timestamp="1464859152309">
         <mark key="'" line="23" column="31" />
@@ -303,15 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="37" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="173" column="54" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="83" column="45" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="283" column="12" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="84" column="19" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="89" column="25" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="1375" column="32" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="565" column="28" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
-      <jump line="262" column="53" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
       <jump line="154" column="36" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="260" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="1516" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
@@ -367,14 +316,12 @@
       <jump line="404" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="615" column="28" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="80" column="85" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="263" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="1272" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="132" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="996" column="54" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="1354" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="85" column="34" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="232" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="186" column="16" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="317" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="128" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="310" column="16" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
@@ -403,6 +350,17 @@
       <jump line="98" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
       <jump line="334" column="16" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="392" column="61" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="907" column="17" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="82" column="51" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="263" column="61" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="100" column="40" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="186" column="17" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="113" column="34" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="7" column="36" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="233" column="21" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="185" column="36" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="19" column="33" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="49" column="64" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallVideoFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
