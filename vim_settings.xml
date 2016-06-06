@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CallbackContext.java" timestamp="1463364291267">
         <mark key="'" line="33" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1465194259366">
+      <file name="/a.dummy" timestamp="1465198303892">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/MainActivity.java" timestamp="1464229759595">
@@ -201,7 +201,7 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/content/Intent.java" timestamp="1463736355642">
         <mark key="'" line="637" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465194259270">
+      <file name="/Dummy.txt" timestamp="1465198303873">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/build.gradle" timestamp="1464248661905">
@@ -256,7 +256,12 @@
         <mark key="." line="1" column="182" />
         <mark key="^" line="1" column="182" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" timestamp="1465196772765" />
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" timestamp="1465197831302">
+        <mark key="[" line="44" column="50" />
+        <mark key="]" line="44" column="65" />
+        <mark key="." line="44" column="65" />
+        <mark key="^" line="44" column="65" />
+      </file>
       <file name="/fragment.java" timestamp="1464599388368">
         <mark key="[" line="0" column="0" />
       </file>
@@ -367,8 +372,8 @@
       <jump line="51" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;htk01&quot;</text>
       </register>
       <register name="-" type="4">
         <text>&quot;htk01&quot;</text>
@@ -379,32 +384,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSJjb20ueXVuemppYS52aWRlb3RhbGsuQ2FsbEFjdGl2aXR5IiAvPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
+      <register name="1" type="4">
         <text>&quot;htk01&quot;</text>
       </register>
-      <register name="4" type="4">
+      <register name="2" type="4">
         <text>&quot;A58D64F6-9778-4704-A98E-37EB2D01A183&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA8ZGltZW4gbmFtZT0ic3RhbmRhcmRfcGFkZGluZyI+OGRpcDwvZGltZW4+CiAgPGRpbWVuIG5hbWU9ImhhbGZfcGFkZGluZyI+NGRpcDwvZGltZW4+Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA8ZGltZW4gbmFtZT0ic3RhbmRhcmRfcGFkZGluZyI+OGRpcDwvZGltZW4+CiAgPGRpbWVuIG5hbWU9ImhhbGZfcGFkZGluZyI+NGRpcDwvZGltZW4+Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>&quot;htk01&quot;</text>
+      </register>
+      <register name="6" type="4">
+        <text>&quot;A58D64F6-9778-4704-A98E-37EB2D01A183&quot;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxib29sIG5hbWU9ImFsbG93X3RyYW5zZmVycyI+dHJ1ZTwvYm9vbD4KICAgIAogICAgPGJvb2wgbmFtZT0iZGlzYWJsZV9vcHRpb25zX2luX2NhbGwiPmZhbHNlPC9ib29sPgo=</text>
+        <text encoding="base64">ICA8ZGltZW4gbmFtZT0ic3RhbmRhcmRfcGFkZGluZyI+OGRpcDwvZGltZW4+CiAgPGRpbWVuIG5hbWU9ImhhbGZfcGFkZGluZyI+NGRpcDwvZGltZW4+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2FuY2VsIj7lj5bmtog8L3N0cmluZz4K</text>
+        <text encoding="base64">ICA8ZGltZW4gbmFtZT0ic3RhbmRhcmRfcGFkZGluZyI+OGRpcDwvZGltZW4+CiAgPGRpbWVuIG5hbWU9ImhhbGZfcGFkZGluZyI+NGRpcDwvZGltZW4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ic2hhcmVfbmFtZSI+6YCa6L+H5p2h56CB5YiG5LqrPC9zdHJpbmc+Cg==</text>
+        <text encoding="base64">ICAgIDxib29sIG5hbWU9ImFsbG93X3RyYW5zZmVycyI+dHJ1ZTwvYm9vbD4KICAgIAogICAgPGJvb2wgbmFtZT0iZGlzYWJsZV9vcHRpb25zX2luX2NhbGwiPmZhbHNlPC9ib29sPgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
