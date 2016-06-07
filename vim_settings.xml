@@ -35,10 +35,6 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
         <mark key="'" line="664" column="8" />
       </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/receivers/MsgReceiver.java" timestamp="1465244199358">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="86" />
-      </file>
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1462857005863">
         <mark key="'" line="392" column="30" />
       </file>
@@ -56,16 +52,6 @@
       </file>
       <file name="/tmp/test/platforms/android/res/layout/call.xml" timestamp="1465265776339">
         <mark key="'" line="50" column="55" />
-      </file>
-      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" timestamp="1465278760728">
-        <mark key="'" line="36" column="58" />
-      </file>
-      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" timestamp="1465280124054">
-        <mark key="'" line="136" column="38" />
-        <mark key="[" line="177" column="22" />
-        <mark key="]" line="177" column="23" />
-        <mark key="." line="177" column="23" />
-        <mark key="^" line="177" column="23" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/SupplicantState.java" timestamp="1463459940719">
         <mark key="'" line="27" column="34" />
@@ -153,6 +139,14 @@
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/FragmentsAvailable.java" timestamp="1463975636546">
         <mark key="'" line="81" column="12" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" timestamp="1465281612883">
+        <mark key="'" line="186" column="49" />
+      </file>
+      <file name="$USER_HOME$/下载/ezviz-android-demo_20160302/ezviz-openapi-android-demo/build.gradle" timestamp="1465282111227">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+      </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/build/generated/source/r/debug/com/freeview/sphonedemo/R.java" timestamp="1464839490193">
         <mark key="'" line="1786" column="32" />
       </file>
@@ -183,6 +177,7 @@
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" timestamp="1464163720065">
         <mark key="'" line="41" column="11" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaInterfaceImpl.java" timestamp="1465280771794" />
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values/non_localizable_custom.xml" timestamp="1464598182614">
         <mark key="'" line="0" column="0" />
       </file>
@@ -274,22 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="13" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="85" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallAudioFragment.java" />
-      <jump line="1271" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="20" column="47" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallAudioFragment.java" />
-      <jump line="78" column="40" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="1026" column="13" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="224" column="35" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="14" column="13" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallAudioFragment.java" />
-      <jump line="1275" column="34" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="1073" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="1034" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="561" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="1392" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="330" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="98" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="432" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="1404" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="1005" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
@@ -374,55 +353,71 @@
       <jump line="52" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
       <jump line="98" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
       <jump line="136" column="38" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="17" column="1" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="132" column="26" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="124" column="26" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="147" column="41" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="91" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="94" column="48" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="96" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="104" column="12" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="106" column="49" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="108" column="16" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="112" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="113" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="115" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="119" column="4" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="28" column="0" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="186" column="49" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cdvCompileSdkVersion</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRhcmdldFNka1ZlcnNpb24gMjIK</text>
       </register>
       <register name="-" type="4">
-        <text>cdvCompileSdkVersion</text>
+        <text>android.R.attr.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjZHZDb21waWxlU2RrVmVyc2lvblw+</text>
+        <text>getProject</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2FsbF9wYXVzZWRfYnlfcmVtb3RlIj7lr7nmlrnmmoLlgZzpgJror508L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIHByaW50KGNkdkNvbXBpbGVTZGtWZXJzaW9uKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHRhcmdldFNka1ZlcnNpb24gMjIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG1pblNka1ZlcnNpb24gMTUK</text>
+      </register>
+      <register name="3" type="4">
+        <text>android.R.attr.</text>
+      </register>
+      <register name="4" type="4">
         <text>cdvCompileSdkVersion</text>
-      </register>
-      <register name="2" type="4">
-        <text>cdvCompileSdkVersion</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5oMmMuaG9tZWtpdC5SOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5oMmMuaG9tZWtpdC5SOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>对方暂停通</text>
+        <text>cdvCompileSdkVersion</text>
       </register>
-      <register name="6" type="4">
-        <text>话</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIGNkdkJ1aWxkVG9vbHNWZXJzaW9uCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>call_paused_by_remote</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIGNkdkJ1aWxkVG9vbHNWZXJzaW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIGNkdkJ1aWxkVG9vbHNWZXJzaW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjZHZDb21waWxlU2RrVmVyc2lvblw+</last-search>
+      <last-search>getProject</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjZHZDb21waWxlU2RrVmVyc2lvblw+</last-pattern>
+      <last-pattern>getProject</last-pattern>
       <last-replace />
       <last-substitute>\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -430,9 +425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CallActi</entry>
-        <entry>num</entry>
-        <entry>avatar</entry>
         <entry>call_list</entry>
         <entry>call_li</entry>
         <entry>calls_</entry>
@@ -450,6 +442,9 @@
         <entry>compile</entry>
         <entry encoding="base64">XDxnZXRQcm9qZWN0VGFyZ2V0XD4=</entry>
         <entry encoding="base64">XDxjZHZDb21waWxlU2RrVmVyc2lvblw+</entry>
+        <entry>compi</entry>
+        <entry>android</entry>
+        <entry>getProject</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
