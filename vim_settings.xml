@@ -27,6 +27,11 @@
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/libs/fv_sipcore.jar!/com/sipphone/sdk/access/WebUserApi.class" timestamp="1463732237635">
         <mark key="'" line="281" column="0" />
       </file>
+      <file name="/tmp/test/platforms/android/res/values/strings.xml" timestamp="1465266905014">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" timestamp="1464922588375">
         <mark key="'" line="263" column="8" />
       </file>
@@ -194,11 +199,24 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/ConnectivityManager.java" timestamp="1463464220887">
         <mark key="'" line="728" column="23" />
       </file>
+      <file name="/tmp/test/platforms/android/res/values/video_talk_strings.xml" timestamp="1465266970660">
+        <mark key="'" line="2" column="18" />
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+      </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" timestamp="1464163720065">
         <mark key="'" line="41" column="11" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values/non_localizable_custom.xml" timestamp="1464598182614">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/tmp/test/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1465267229127">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="/tmp/test/platforms/android/res/values/video_colors.xml" timestamp="1465265832869">
         <mark key="[" line="11" column="0" />
@@ -208,18 +226,10 @@
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/ui/AddressAware.java" timestamp="1464599381093">
         <mark key="'" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" timestamp="1464839511056">
-        <mark key="'" line="561" column="28" />
-        <mark key="[" line="487" column="70" />
-        <mark key="]" line="511" column="33" />
-        <mark key="." line="511" column="33" />
-        <mark key="^" line="511" column="33" />
-        <mark key="n" line="283" column="51" />
-      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/content/Intent.java" timestamp="1463736355642">
         <mark key="'" line="637" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465265736218">
+      <file name="/Dummy.txt" timestamp="1465266839802">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1465244067595">
@@ -236,7 +246,7 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/view/accessibility/AccessibilityRecord.java" timestamp="1460369041715">
         <mark key="'" line="95" column="17" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" timestamp="1464880783465">
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" timestamp="1465266203890">
         <mark key="'" line="98" column="4" />
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -289,15 +299,13 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
         <mark key="'" line="18" column="25" />
       </file>
+      <file name="/tmp/test/platforms/android/src/com/yunzjia/videotalk/CallVideoFragment.java" timestamp="1465267016567">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="259" column="56" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="1119" column="12" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="1127" column="5" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="139" column="24" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="160" column="24" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="192" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="194" column="24" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="196" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="366" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
@@ -391,46 +399,53 @@
       <jump line="51" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
       <jump line="24" column="18" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" />
       <jump line="50" column="55" filename="/tmp/test/platforms/android/res/layout/call.xml" />
+      <jump line="17" column="49" filename="/tmp/test/platforms/android/res/values/video_talk_strings.xml" />
+      <jump line="3" column="0" filename="/tmp/test/platforms/android/res/values/video_talk_strings.xml" />
+      <jump line="2" column="18" filename="/tmp/test/platforms/android/res/values/video_talk_strings.xml" />
+      <jump line="70" column="4" filename="/tmp/test/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="2" column="0" filename="/tmp/test/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="19" column="0" filename="/tmp/test/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="111" column="0" filename="/tmp/test/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oMmMuaG9tZWtpdC5SOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;htk01&quot;</text>
+        <text>对方暂停通</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBNThENjRGNlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzbXRwU2VydmljZSA9IG5ldyBTTVRQU2VydmljZShmcm9tLHRscyxob3N0LEludGVnZXIudmFsdWVPZihwb3J0KSxwYXNzd29yZCx0byk7Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2FsbF9wYXVzZWRfYnlfcmVtb3RlIj7lr7nmlrnmmoLlgZzpgJror508L3N0cmluZz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oMmMuaG9tZWtpdC5SOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvckgiPiNmZmZmZmY8L2NvbG9yPgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5oMmMuaG9tZWtpdC5SOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>对方暂停通</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>话</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;htk01&quot;</text>
+        <text>call_paused_by_remote</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;A58D64F6-9778-4704-A98E-37EB2D01A183&quot;</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;htk01&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iZGVsZXRlIj7liKDpmaQ8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iYWNjZXB0Ij7mjqXlj5c8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iYWRkX3ZpZGVvX2RpYWxvZyI+5a+55pa55byA5ZCv6KeG6aKR6YCa6K+dPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImNvbnRlbnRfZGVzY3JpcHRpb25fY29udGFjdF9waWN0dXJlIj5Db250YWN0IHBpY3R1cmU8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY29udGVudF9kZXNjcmlwdGlvbl9wYXVzZSI+UGF1c2U8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY29udGVudF9kZXNjcmlwdGlvbl9zd2l0Y2hfY2FtZXJhIj5Td2l0Y2ggY2FtZXJhPC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImRlY2xpbmUiPuaLkuaOpTwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJjb25mZXJlbmNlIj7kvJrorq48L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY2FsbF9zdGF0c19jb2RlYyI+57yW56CBOjwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJjYWxsX3N0YXRzX3VwbG9hZCI+5LiK6KGM5bim5a69Ojwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJjYWxsX3N0YXRzX2Rvd25sb2FkIj7kuIvooYzluKblrr06PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImNhbGxfc3RhdHNfaWNlIj5JQ0Xpk77mjqU6PC9zdHJpbmc+CiAgICA8c3RyaW5nIG5hbWU9ImNhbGxfc3RhdHNfdmlkZW9fcmVzb2x1dGlvbiI+6KeG6aKR5aSn5bCPOjwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJlcnJvcl9sb3dfYmFuZHdpZHRoIj7kvY7luKblrr3nvZHnu5zvvIzkuI3og73lkK/nlKjop4bpopE8L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0ibm9fY3VycmVudF9jYWxsIj7lvZPliY3msqHmnInnlLXor508L3N0cmluZz4KICAgIDxzdHJpbmcgbmFtZT0iY2FsbF9wYXVzZWRfYnlfcmVtb3RlIj7lr7nmlrnmmoLlgZzpgJror508L3N0cmluZz4=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
