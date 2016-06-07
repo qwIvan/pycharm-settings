@@ -57,6 +57,9 @@
       <file name="/tmp/test/platforms/android/res/layout/call.xml" timestamp="1465265776339">
         <mark key="'" line="50" column="55" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" timestamp="1465278760728">
+        <mark key="'" line="36" column="58" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/SupplicantState.java" timestamp="1463459940719">
         <mark key="'" line="27" column="34" />
       </file>
@@ -264,8 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="475" column="52" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="476" column="17" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="1114" column="26" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="1123" column="31" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="1124" column="12" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
@@ -364,6 +365,8 @@
       <jump line="43" column="16" filename="$USER_HOME$/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" />
       <jump line="22" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
       <jump line="39" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" />
+      <jump line="35" column="58" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" />
+      <jump line="36" column="58" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
