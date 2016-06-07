@@ -53,6 +53,18 @@
       <file name="/tmp/test/platforms/android/res/layout/call.xml" timestamp="1465265776339">
         <mark key="'" line="50" column="55" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" timestamp="1465283137450">
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="52" column="4" />
+        <mark key="^" line="52" column="4" />
+        <mark key="." line="52" column="4" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" timestamp="1465283112124">
+        <mark key="[" line="170" column="9" />
+        <mark key="]" line="172" column="26" />
+        <mark key="^" line="172" column="26" />
+        <mark key="." line="172" column="26" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/SupplicantState.java" timestamp="1463459940719">
         <mark key="'" line="27" column="34" />
       </file>
@@ -119,6 +131,11 @@
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/Numpad.java" timestamp="1464676814181">
         <mark key="'" line="65" column="4" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" timestamp="1465283029541">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/fragments/GeneralSettingsFragment.java" timestamp="1461602641634">
         <mark key="'" line="22" column="28" />
       </file>
@@ -177,7 +194,6 @@
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" timestamp="1464163720065">
         <mark key="'" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaInterfaceImpl.java" timestamp="1465280771794" />
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values/non_localizable_custom.xml" timestamp="1464598182614">
         <mark key="'" line="0" column="0" />
       </file>
@@ -372,7 +388,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRhcmdldFNka1ZlcnNpb24gMjIK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iMTUiCiAgICAgICAgYW5kcm9pZDp0YXJnZXRTZGtWZXJzaW9uPSIyMiIgLz4K</text>
       </register>
       <register name="-" type="4">
         <text>android.R.attr.</text>
@@ -384,31 +400,31 @@
         <text encoding="base64">ICAgIHByaW50KGNkdkNvbXBpbGVTZGtWZXJzaW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRhcmdldFNka1ZlcnNpb24gMjIK</text>
+        <text encoding="base64">ICAgIDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iMTUiCiAgICAgICAgYW5kcm9pZDp0YXJnZXRTZGtWZXJzaW9uPSIyMiIgLz4K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIFhIVE1MCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDEKICAgIDIKICAgIDMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRhcmdldFNka1ZlcnNpb24gMjIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG1pblNka1ZlcnNpb24gMTUK</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>android.R.attr.</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>cdvCompileSdkVersion</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>cdvCompileSdkVersion</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIGNkdkJ1aWxkVG9vbHNWZXJzaW9uCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIGNkdkJ1aWxkVG9vbHNWZXJzaW9uCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIGNkdkJ1aWxkVG9vbHNWZXJzaW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW4K</text>
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIGNkdkJ1aWxkVG9vbHNWZXJzaW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
