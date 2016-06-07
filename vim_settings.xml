@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/tmp/test/platforms/android/res/values/colors.xml" timestamp="1465265771621">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+      </file>
       <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CallbackContext.java" timestamp="1463364291267">
         <mark key="'" line="33" column="20" />
       </file>
@@ -54,6 +60,9 @@
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/numpad.xml" timestamp="1464599314726">
         <mark key="'" line="5" column="60" />
+      </file>
+      <file name="/tmp/test/platforms/android/res/layout/call.xml" timestamp="1465265776339">
+        <mark key="'" line="50" column="55" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/SupplicantState.java" timestamp="1463459940719">
         <mark key="'" line="27" column="34" />
@@ -191,6 +200,11 @@
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values/non_localizable_custom.xml" timestamp="1464598182614">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/tmp/test/platforms/android/res/values/video_colors.xml" timestamp="1465265832869">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/ui/AddressAware.java" timestamp="1464599381093">
         <mark key="'" line="20" column="26" />
       </file>
@@ -205,7 +219,7 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/content/Intent.java" timestamp="1463736355642">
         <mark key="'" line="637" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465264425598">
+      <file name="/Dummy.txt" timestamp="1465265736218">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1465244067595">
@@ -277,7 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1110" column="12" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="253" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="259" column="56" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="1119" column="12" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
@@ -377,10 +390,11 @@
       <jump line="59" column="33" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
       <jump line="51" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
       <jump line="24" column="18" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" />
+      <jump line="50" column="55" filename="/tmp/test/platforms/android/res/layout/call.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzbXRwU2VydmljZSA9IG5ldyBTTVRQU2VydmljZShmcm9tLHRscyxob3N0LEludGVnZXIudmFsdWVPZihwb3J0KSxwYXNzd29yZCx0byk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;htk01&quot;</text>
@@ -391,17 +405,17 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzbXRwU2VydmljZSA9IG5ldyBTTVRQU2VydmljZShmcm9tLHRscyxob3N0LEludGVnZXIudmFsdWVPZihwb3J0KSxwYXNzd29yZCx0byk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;htk01&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;A58D64F6-9778-4704-A98E-37EB2D01A183&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvckgiPiNmZmZmZmY8L2NvbG9yPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="4">
         <text>&quot;htk01&quot;</text>
@@ -410,13 +424,13 @@
         <text>&quot;A58D64F6-9778-4704-A98E-37EB2D01A183&quot;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8ZGltZW4gbmFtZT0ic3RhbmRhcmRfcGFkZGluZyI+OGRpcDwvZGltZW4+CiAgPGRpbWVuIG5hbWU9ImhhbGZfcGFkZGluZyI+NGRpcDwvZGltZW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8ZGltZW4gbmFtZT0ic3RhbmRhcmRfcGFkZGluZyI+OGRpcDwvZGltZW4+CiAgPGRpbWVuIG5hbWU9ImhhbGZfcGFkZGluZyI+NGRpcDwvZGltZW4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxib29sIG5hbWU9ImFsbG93X3RyYW5zZmVycyI+dHJ1ZTwvYm9vbD4KICAgIAogICAgPGJvb2wgbmFtZT0iZGlzYWJsZV9vcHRpb25zX2luX2NhbGwiPmZhbHNlPC9ib29sPgo=</text>
+      <register name="9" type="4">
+        <text>&quot;htk01&quot;</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
