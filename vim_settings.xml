@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/tmp/test/platforms/android/res/values/colors.xml" timestamp="1465265771621">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="2" column="31" />
-        <mark key="." line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-      </file>
       <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CallbackContext.java" timestamp="1463364291267">
         <mark key="'" line="33" column="20" />
       </file>
@@ -243,13 +237,7 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/telephony/SmsMessage.java" timestamp="1461598036044">
         <mark key="'" line="194" column="37" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" timestamp="1464859152309">
-        <mark key="[" line="1" column="183" />
-        <mark key="]" line="1" column="182" />
-        <mark key="." line="1" column="182" />
-        <mark key="^" line="1" column="182" />
-      </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" timestamp="1465204527247">
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" timestamp="1465290823876">
         <mark key="[" line="44" column="50" />
         <mark key="]" line="44" column="65" />
         <mark key="." line="44" column="65" />
