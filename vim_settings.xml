@@ -36,6 +36,10 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
         <mark key="'" line="664" column="8" />
       </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/receivers/MsgReceiver.java" timestamp="1465244199358">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="86" />
+      </file>
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1462857005863">
         <mark key="'" line="392" column="30" />
       </file>
@@ -204,6 +208,9 @@
       <file name="/Dummy.txt" timestamp="1465198303873">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1465244067595">
+        <mark key="'" line="24" column="18" />
+      </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/build.gradle" timestamp="1464248661905">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="24" />
@@ -270,7 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="466" column="12" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="1110" column="12" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="253" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="259" column="56" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
@@ -370,10 +376,11 @@
       <jump line="82" column="51" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="59" column="33" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
       <jump line="51" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
+      <jump line="24" column="18" filename="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;htk01&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzbXRwU2VydmljZSA9IG5ldyBTTVRQU2VydmljZShmcm9tLHRscyxob3N0LEludGVnZXIudmFsdWVPZihwb3J0KSxwYXNzd29yZCx0byk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;htk01&quot;</text>
@@ -382,7 +389,7 @@
         <text encoding="base64">XDxBNThENjRGNlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSJjb20ueXVuemppYS52aWRlb3RhbGsuQ2FsbEFjdGl2aXR5IiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBzbXRwU2VydmljZSA9IG5ldyBTTVRQU2VydmljZShmcm9tLHRscyxob3N0LEludGVnZXIudmFsdWVPZihwb3J0KSxwYXNzd29yZCx0byk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>&quot;htk01&quot;</text>
