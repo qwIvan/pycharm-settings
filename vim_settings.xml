@@ -22,9 +22,6 @@
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" timestamp="1465350273832">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="244" column="43" />
-        <mark key="]" line="244" column="43" />
-        <mark key="." line="244" column="43" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/LoginActivity.java" timestamp="1464257585686">
         <mark key="'" line="98" column="71" />
@@ -41,8 +38,10 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
         <mark key="'" line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/.gitignore" timestamp="1464835838091">
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/.gitignore" timestamp="1465368157132">
         <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/numpad.xml" timestamp="1464599314726">
         <mark key="'" line="5" column="60" />
@@ -366,8 +365,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -378,32 +377,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KGNkdkNvbXBpbGVTZGtWZXJzaW9uKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="3" type="4">
-        <text>4</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
         <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>3</text>
+        <text>4</text>
       </register>
       <register name="6" type="4">
-        <text>2</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>:</text>
+        <text>3</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxMYXlvdXQK</text>
+      <register name="8" type="4">
+        <text>2</text>
       </register>
       <register name="9" type="4">
-        <text>android.support.v4.widget.</text>
+        <text>:</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
