@@ -73,6 +73,9 @@
       <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/artifacts/dsl/RepositoryHandler.java" timestamp="1465350064161">
         <mark key="'" line="174" column="28" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/8.0.1/95f98af806452c48faf67da0d8c7430f94502e30/butterknife-8.0.1-sources.jar!/butterknife/ButterKnife.java" timestamp="1465814006344">
+        <mark key="'" line="121" column="12" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/layout/activity_preferences.xml" timestamp="1461603107077">
         <mark key="'" line="29" column="106" />
       </file>
@@ -107,6 +110,13 @@
       </file>
       <file name="/a.txt" timestamp="1464597730703">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/finalspeed-android/app/build.gradle" timestamp="1465828773609">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="26" column="46" />
+        <mark key="^" line="26" column="46" />
+        <mark key="." line="26" column="46" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/PreferenceScreen.java" timestamp="1461596526223">
         <mark key="'" line="85" column="19" />
@@ -148,6 +158,12 @@
         <mark key="]" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
+      <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/BaseActivity.java" timestamp="1465813421092">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="10" />
+      </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/build/generated/source/r/debug/com/freeview/sphonedemo/R.java" timestamp="1464839490193">
         <mark key="'" line="1786" column="32" />
       </file>
@@ -165,6 +181,11 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/finalspeed-android/app/src/main/res/layout/activity_main.xml" timestamp="1465811664054">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/ConnectivityManager.java" timestamp="1463464220887">
         <mark key="'" line="728" column="23" />
       </file>
@@ -175,17 +196,22 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
+      <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/MainActivity.java" timestamp="1465810994976">
+        <mark key="'" line="203" column="52" />
+      </file>
+      <file name="$USER_HOME$/finalspeed-android/app/src/main/res/xml/pref_notification.xml" timestamp="1465811019031" />
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" timestamp="1464163720065">
         <mark key="'" line="41" column="11" />
       </file>
+      <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" timestamp="1465828368254">
+        <mark key="'" line="19" column="39" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="17" column="9" />
+      </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values/non_localizable_custom.xml" timestamp="1464598182614">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/tmp/test/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1465267229127">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="/tmp/test/platforms/android/res/values/video_colors.xml" timestamp="1465265832869">
         <mark key="[" line="11" column="0" />
@@ -204,8 +230,19 @@
       <file name="/Dummy.txt" timestamp="1465349814447">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/finalspeed-android/app/src/main/res/values/strings.xml" timestamp="1465811903756">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1465244067595">
         <mark key="'" line="24" column="18" />
+      </file>
+      <file name="$USER_HOME$/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" timestamp="1465813343643">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="145" column="4" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/build.gradle" timestamp="1464248661905">
         <mark key="[" line="3" column="23" />
@@ -220,6 +257,17 @@
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" timestamp="1465268524267">
         <mark key="'" line="98" column="4" />
+      </file>
+      <file name="$USER_HOME$/SMS-Notify/app/src/main/res/layout/activity_main.xml" timestamp="1465811648054">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="42" column="16" />
+      </file>
+      <file name="$USER_HOME$/finalspeed-android/app/src/main/res/values-zh-rCN/strings.xml" timestamp="1465811950875">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/colors.xml" timestamp="1464579818485">
         <mark key="'" line="0" column="0" />
@@ -250,7 +298,7 @@
         <mark key="." line="44" column="65" />
         <mark key="^" line="44" column="65" />
       </file>
-      <file name="/fragment.java" timestamp="1465264256466">
+      <file name="/fragment.java" timestamp="1465811191476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
@@ -263,38 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="128" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="310" column="16" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="1348" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="313" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="535" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="449" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="120" column="24" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="138" column="16" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
-      <jump line="1056" column="36" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="600" column="0" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
-      <jump line="1786" column="32" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/build/generated/source/r/debug/com/freeview/sphonedemo/R.java" />
-      <jump line="38" column="20" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call_inactive_row.xml" />
-      <jump line="561" column="28" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/CallActivity.java" />
-      <jump line="23" column="31" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" />
-      <jump line="70" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
-      <jump line="102" column="43" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
-      <jump line="5" column="27" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
-      <jump line="92" column="88" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="19" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/styles.xml" />
-      <jump line="9" column="43" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
-      <jump line="125" column="18" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
-      <jump line="11" column="25" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
-      <jump line="124" column="32" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
-      <jump line="98" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" />
-      <jump line="334" column="16" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="392" column="61" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="100" column="40" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="186" column="17" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="113" column="34" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
-      <jump line="233" column="21" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="185" column="36" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="19" column="33" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="49" column="64" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallVideoFragment.java" />
@@ -363,46 +379,78 @@
       <jump line="231" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
       <jump line="309" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="203" column="52" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/MainActivity.java" />
+      <jump line="59" column="53" filename="$USER_HOME$/finalspeed-android/app/src/main/res/values/strings.xml" />
+      <jump line="12" column="35" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
+      <jump line="34" column="35" filename="$USER_HOME$/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
+      <jump line="11" column="10" filename="$USER_HOME$/SMS-Notify/app/src/main/res/layout/activity_main.xml" />
+      <jump line="26" column="43" filename="$USER_HOME$/SMS-Notify/app/src/main/res/layout/activity_main.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/SMS-Notify/app/src/main/res/layout/activity_main.xml" />
+      <jump line="13" column="43" filename="$USER_HOME$/finalspeed-android/app/src/main/res/layout/activity_main.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/finalspeed-android/app/src/main/res/layout/activity_main.xml" />
+      <jump line="33" column="3" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
+      <jump line="5" column="25" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/BaseActivity.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/BaseActivity.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/BaseActivity.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/BaseActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/finalspeed-android/app/build.gradle" />
+      <jump line="26" column="46" filename="$USER_HOME$/finalspeed-android/app/build.gradle" />
+      <jump line="8" column="3" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
+      <jump line="38" column="8" filename="$USER_HOME$/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
+      <jump line="59" column="8" filename="$USER_HOME$/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
+      <jump line="91" column="16" filename="$USER_HOME$/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
+      <jump line="26" column="3" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/BaseActivity.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/BaseActivity.java" />
+      <jump line="24" column="3" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/BaseActivity.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
+      <jump line="17" column="29" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
+      <jump line="23" column="23" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
+      <jump line="121" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/8.0.1/95f98af806452c48faf67da0d8c7430f94502e30/butterknife-8.0.1-sources.jar!/butterknife/ButterKnife.java" />
+      <jump line="21" column="21" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/finalspeed-android/app/build.gradle" />
+      <jump line="14" column="27" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
+      <jump line="20" column="39" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/finalspeed-android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk51bGxhYmxlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>avatar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNkdkNvbXBpbGVTZGtWZXJzaW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICBidXR0b24uc2V0VGV4dCgidGVzdCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC5hbm5vdGF0aW9uLk51bGxhYmxlOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>@</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>Nullable</text>
       </register>
       <register name="5" type="4">
-        <text>4</text>
+        <text>protected</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGJ1dHRlcmtuaWZlLk9uQ2xpY2s7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>3</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRvYXN0Owo=</text>
       </register>
-      <register name="8" type="4">
-        <text>2</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdGFydF9zcGVlZHVwX2J0bi5zZXRUZXh0KCJ0ZXN0Iik7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>:</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBAT25DbGljayhSLmlkLnN0YXJ0X3NwZWVkdXBfYnRuKQogICAgcHVibGljIHZvaWQgc3RhcnRfc3BlZWQoQnV0dG9uIGJ1dHRvbikgewogICAgICAgIFRvYXN0Lm1ha2VUZXh0KHRoaXMsInRlc3QhIixUb2FzdC5MRU5HVEhfTE9ORykuc2hvdygpOwogICAgICAgIGJ1dHRvbi5zZXRUZXh0KCJ0ZXN0Iik7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
