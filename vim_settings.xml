@@ -6,8 +6,18 @@
       <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CallbackContext.java" timestamp="1463364291267">
         <mark key="'" line="33" column="20" />
       </file>
+      <file name="/a.dummy" timestamp="1465198303892">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/libs/fv_sipcore.jar!/com/sipphone/sdk/access/WebUserApi.class" timestamp="1463732237635">
         <mark key="'" line="281" column="0" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/modules/account/login.controller.js" timestamp="1465962636597">
+        <mark key="'" line="5" column="11" />
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="30" />
       </file>
       <file name="/tmp/test/platforms/android/res/values/strings.xml" timestamp="1465266905014">
         <mark key="[" line="5" column="0" />
@@ -73,19 +83,28 @@
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" timestamp="1464575712281">
         <mark key="'" line="700" column="16" />
       </file>
+      <file name="/a.txt" timestamp="1464597730703">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1463725617288">
         <mark key="'" line="228" column="29" />
       </file>
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" timestamp="1462857010543">
         <mark key="'" line="1014" column="44" />
       </file>
-      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" timestamp="1465959449575">
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" timestamp="1465962755610">
         <mark key="'" line="12" column="97" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="157" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values/values.xml" timestamp="1465835324498">
         <mark key="'" line="1434" column="74" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/java/net/fs/cap/CapEnv.java" timestamp="1465839042648" />
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/open_ysservice_dialog.xml" timestamp="1465961624930">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="49" />
+      </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call_inactive_row.xml" timestamp="1464839505153">
         <mark key="'" line="38" column="20" />
       </file>
@@ -121,10 +140,6 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="68" />
       </file>
-      <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" timestamp="1465838060996">
-        <mark key="'" line="20" column="23" />
-        <mark key="[" line="36" column="27" />
-      </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/res/values/strings.xml" timestamp="1465811903756">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="45" />
@@ -140,6 +155,9 @@
         <mark key="]" line="145" column="4" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/finalspeed-android/build.gradle" timestamp="1465829408769">
+        <mark key="[" line="7" column="56" />
+      </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/java/net/fs/rudp/ClientControl.java" timestamp="1465838663715">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
@@ -147,6 +165,11 @@
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/view/accessibility/AccessibilityRecord.java" timestamp="1460369041715">
         <mark key="'" line="95" column="17" />
+      </file>
+      <file name="$USER_HOME$/SMS-Notify/app/src/main/res/layout/activity_main.xml" timestamp="1465811648054">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="42" column="16" />
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/colors.xml" timestamp="1464579818485">
         <mark key="'" line="0" column="0" />
@@ -161,8 +184,12 @@
       <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/ResumeCallback.java" timestamp="1463364289603">
         <mark key="'" line="41" column="21" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/styles.xml" timestamp="1465185823238">
-        <mark key="'" line="19" column="4" />
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/styles.xml" timestamp="1465961663824">
+        <mark key="'" line="41" column="58" />
+        <mark key="[" line="139" column="29" />
+        <mark key="]" line="139" column="33" />
+        <mark key="^" line="139" column="33" />
+        <mark key="." line="139" column="33" />
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
         <mark key="'" line="18" column="25" />
@@ -172,6 +199,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/js/services/auth.service.js" timestamp="1465962317614" />
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
         <mark key="'" line="44" column="13" />
       </file>
@@ -299,6 +327,13 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/ConnectivityManager.java" timestamp="1463464220887">
         <mark key="'" line="728" column="23" />
       </file>
+      <file name="/tmp/test/platforms/android/res/values/video_talk_strings.xml" timestamp="1465266970660">
+        <mark key="'" line="2" column="18" />
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+      </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/MainActivity.java" timestamp="1465810994976">
         <mark key="'" line="203" column="52" />
       </file>
@@ -321,6 +356,9 @@
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/content/Intent.java" timestamp="1463736355642">
         <mark key="'" line="637" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1465962425822">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/fs/src/main/java/net/fs/FSClient.java" timestamp="1465840712247">
         <mark key="[" line="2" column="0" />
@@ -370,12 +408,15 @@
         <mark key="." line="44" column="65" />
         <mark key="^" line="44" column="65" />
       </file>
+      <file name="/opt/android-sdk/platforms/android-23/data/res/values/styles_material.xml" timestamp="1465835341292">
+        <mark key="[" line="459" column="20" />
+        <mark key="]" line="459" column="29" />
+      </file>
+      <file name="/fragment.java" timestamp="1465811191476">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="26" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
-      <jump line="147" column="41" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
-      <jump line="91" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
-      <jump line="94" column="48" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="96" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="104" column="12" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="106" column="49" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
@@ -471,47 +512,51 @@
       <jump line="149" column="0" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
       <jump line="214" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
       <jump line="10" column="18" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" />
+      <jump line="41" column="58" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/styles.xml" />
+      <jump line="17" column="38" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/js/app.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/modules/account/login.controller.js" />
+      <jump line="5" column="11" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/modules/account/login.controller.js" />
       <jump line="12" column="97" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfNgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHktYWxpYXMgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIgYW5kcm9pZDpuYW1lPSIud3hhcGkuV1hQYXlFbnRyeUFjdGl2aXR5IiBhbmRyb2lkOnRhcmdldEFjdGl2aXR5PSJjb20ucGluZ3BsdXNwbHVzLmFuZHJvaWQuUGF5bWVudEFjdGl2aXR5IiAvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>String name</text>
+        <text>$scope.password,</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5wY2FwNGo6cGNhcDRqLWNvcmU6MS42LjQnCg==</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHktYWxpYXMgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIgYW5kcm9pZDpuYW1lPSIud3hhcGkuV1hQYXlFbnRyeUFjdGl2aXR5IiBhbmRyb2lkOnRhcmdldEFjdGl2aXR5PSJjb20ucGluZ3BsdXNwbHVzLmFuZHJvaWQuUGF5bWVudEFjdGl2aXR5IiAvPgo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>$scope.password,</text>
+      </register>
+      <register name="2" type="4">
+        <text>$scope.username,</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICA=</text>
+      </register>
+      <register name="4" type="4">
+        <text>13560166236</text>
+      </register>
+      <register name="5" type="4">
+        <text>tranh</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">dGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfNgogICAgfQo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5wY2FwNGouY29yZS5QY2FwTmF0aXZlRXhjZXB0aW9uOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICB9</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBQY2Fwcy5maW5kQWxsRGV2cygpOwogICAgICAgIH0gY2F0Y2ggKFBjYXBOYXRpdmVFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
