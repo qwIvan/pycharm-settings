@@ -79,6 +79,9 @@
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" timestamp="1462857010543">
         <mark key="'" line="1014" column="44" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" timestamp="1465959449575">
+        <mark key="'" line="12" column="97" />
+      </file>
       <file name="$USER_HOME$/finalspeed-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values/values.xml" timestamp="1465835324498">
         <mark key="'" line="1434" column="74" />
       </file>
@@ -369,8 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="1" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
-      <jump line="132" column="26" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="124" column="26" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="147" column="41" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="91" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
@@ -469,6 +470,8 @@
       <jump line="46" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" />
       <jump line="149" column="0" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
       <jump line="214" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="10" column="18" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" />
+      <jump line="12" column="97" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
