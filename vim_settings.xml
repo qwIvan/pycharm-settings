@@ -31,6 +31,12 @@
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/numpad.xml" timestamp="1464599314726">
         <mark key="'" line="5" column="60" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" timestamp="1465959117066">
+        <mark key="'" line="46" column="8" />
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="46" column="8" />
+        <mark key="." line="46" column="8" />
+      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/fragments/APRecyclerViewAdapter.java" timestamp="1462524295582">
         <mark key="'" line="73" column="34" />
       </file>
@@ -91,8 +97,8 @@
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/FragmentsAvailable.java" timestamp="1463975636546">
         <mark key="'" line="81" column="12" />
       </file>
-      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" timestamp="1465281612883">
-        <mark key="'" line="186" column="49" />
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" timestamp="1465959114471">
+        <mark key="'" line="34" column="61" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/build/generated/source/r/debug/com/freeview/sphonedemo/R.java" timestamp="1464839490193">
         <mark key="'" line="1786" column="32" />
@@ -105,12 +111,6 @@
       </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/values/styles.xml" timestamp="1461633604742">
         <mark key="'" line="3" column="61" />
-      </file>
-      <file name="$USER_HOME$/finalspeed-android/app/src/main/res/color/toggle_button_selector.xml" timestamp="1465835925376">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="3" column="50" />
-        <mark key="^" line="3" column="50" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/res/values/toggle_button_selector.xml" timestamp="1465833549420">
         <mark key="[" line="1" column="10" />
@@ -199,6 +199,9 @@
       <file name="/tmp/test/platforms/android/res/layout/call.xml" timestamp="1465265776339">
         <mark key="'" line="50" column="55" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" timestamp="1465959363495">
+        <mark key="'" line="214" column="8" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/SupplicantState.java" timestamp="1463459940719">
         <mark key="'" line="27" column="34" />
       </file>
@@ -283,12 +286,6 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/finalspeed-android/app/src/main/res/layout/activity_main.xml" timestamp="1465834627213">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="22" />
-      </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/services/FSIntentService.java" timestamp="1465909594447">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="12" column="50" />
@@ -370,19 +367,8 @@
         <mark key="." line="44" column="65" />
         <mark key="^" line="44" column="65" />
       </file>
-      <file name="/opt/android-sdk/platforms/android-23/data/res/values/styles_material.xml" timestamp="1465835341292">
-        <mark key="[" line="459" column="20" />
-        <mark key="]" line="459" column="29" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="4" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
-      <jump line="97" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
-      <jump line="177" column="22" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
-      <jump line="51" column="30" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
-      <jump line="52" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
-      <jump line="98" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
-      <jump line="136" column="38" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
       <jump line="17" column="1" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="132" column="26" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="124" column="26" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
@@ -476,55 +462,62 @@
       <jump line="25" column="0" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/services/FSIntentService.java" />
       <jump line="8" column="11" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/services/FSIntentService.java" />
       <jump line="15" column="0" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/services/FSIntentService.java" />
+      <jump line="35" column="32" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" />
+      <jump line="136" column="48" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="34" column="61" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="46" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" />
+      <jump line="149" column="0" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="214" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5wY2FwNGouY29yZS5QY2FwTmF0aXZlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">dGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfNgogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>String name</text>
       </register>
       <register name="/" type="4">
-        <text>avatar</text>
+        <text>target</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5wY2FwNGo6cGNhcDRqLWNvcmU6MS42LjQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5wY2FwNGouY29yZS5QY2FwTmF0aXZlRXhjZXB0aW9uOwo=</text>
+        <text encoding="base64">dGFyZ2V0Q29tcGF0aWJpbGl0eSBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfNgogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5wY2FwNGouY29yZS5QY2FwTmF0aXZlRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICB9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBQY2Fwcy5maW5kQWxsRGV2cygpOwogICAgICAgIH0gY2F0Y2ggKFBjYXBOYXRpdmVFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>avatar</last-search>
+      <last-search>target</last-search>
       <last-offset />
-      <last-pattern>avatar</last-pattern>
+      <last-pattern>target</last-pattern>
       <last-replace />
       <last-substitute>\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -544,7 +537,6 @@
         <entry>content_</entry>
         <entry>R.boo</entry>
         <entry encoding="base64">XDxBNThENjRGNlw+</entry>
-        <entry>target</entry>
         <entry>compile</entry>
         <entry encoding="base64">XDxnZXRQcm9qZWN0VGFyZ2V0XD4=</entry>
         <entry encoding="base64">XDxjZHZDb21waWxlU2RrVmVyc2lvblw+</entry>
@@ -552,6 +544,7 @@
         <entry>android</entry>
         <entry>getProject</entry>
         <entry>avatar</entry>
+        <entry>target</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
