@@ -125,6 +125,10 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="68" />
       </file>
+      <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" timestamp="1466180544086">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="20" column="47" />
+      </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/res/values/strings.xml" timestamp="1465811903756">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="45" />
@@ -258,9 +262,9 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/services/FSIntentService.java" timestamp="1466179776941">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/services/FSIntentService.java" timestamp="1466180528657">
+        <mark key="'" line="6" column="51" />
+        <mark key="[" line="12" column="50" />
         <mark key="]" line="13" column="7" />
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
@@ -295,6 +299,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1465962425822">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" timestamp="1466181046054">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/fs/src/main/java/net/fs/FSClient.java" timestamp="1465840712247">
         <mark key="[" line="2" column="0" />
@@ -338,11 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="12" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
-      <jump line="106" column="49" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
-      <jump line="108" column="16" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
-      <jump line="112" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
-      <jump line="113" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="115" column="8" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="119" column="4" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
       <jump line="28" column="0" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
@@ -438,13 +440,18 @@
       <jump line="5" column="11" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/modules/account/login.controller.js" />
       <jump line="12" column="97" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" />
       <jump line="28" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/modules/account/login.controller.js" />
+      <jump line="6" column="51" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/services/FSIntentService.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
+      <jump line="28" column="8" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
+      <jump line="122" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$scope.password,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZXQK</text>
       </register>
       <register name="-" type="4">
-        <text>$scope.password,</text>
+        <text encoding="base64">ICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
@@ -452,32 +459,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8YWN0aXZpdHktYWxpYXMgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIgYW5kcm9pZDpuYW1lPSIud3hhcGkuV1hQYXlFbnRyeUFjdGl2aXR5IiBhbmRyb2lkOnRhcmdldEFjdGl2aXR5PSJjb20ucGluZ3BsdXNwbHVzLmFuZHJvaWQuUGF5bWVudEFjdGl2aXR5IiAvPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>$scope.password,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZXQK</text>
       </register>
-      <register name="2" type="4">
-        <text>$scope.username,</text>
+      <register name="2" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="4">
-        <text>$scope.password,</text>
+        <text encoding="base64">ICAgICAgIA==</text>
       </register>
       <register name="4" type="4">
-        <text>$scope.username,</text>
-      </register>
-      <register name="5" type="4">
         <text>$scope.password,</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
         <text>$scope.username,</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA=</text>
+      <register name="6" type="4">
+        <text>$scope.password,</text>
+      </register>
+      <register name="7" type="4">
+        <text>$scope.username,</text>
       </register>
       <register name="8" type="4">
-        <text>13560166236</text>
+        <text>$scope.password,</text>
       </register>
       <register name="9" type="4">
-        <text>tranh</text>
+        <text>$scope.username,</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
