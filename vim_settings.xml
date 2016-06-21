@@ -9,6 +9,9 @@
       <file name="/a.dummy" timestamp="1465198303892">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
+        <mark key="'" line="44" column="13" />
+      </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/libs/fv_sipcore.jar!/com/sipphone/sdk/access/WebUserApi.class" timestamp="1463732237635">
         <mark key="'" line="281" column="0" />
       </file>
@@ -19,167 +22,14 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="35" />
       </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" timestamp="1465350273832">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/LoginActivity.java" timestamp="1464257585686">
         <mark key="'" line="98" column="71" />
       </file>
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
         <mark key="'" line="664" column="8" />
-      </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
-        <mark key="'" line="10" column="26" />
-      </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/numpad.xml" timestamp="1464599314726">
-        <mark key="'" line="5" column="60" />
-      </file>
-      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" timestamp="1465959117066">
-        <mark key="'" line="46" column="8" />
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="8" />
-        <mark key="." line="46" column="8" />
-      </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/fragments/APRecyclerViewAdapter.java" timestamp="1462524295582">
-        <mark key="'" line="73" column="34" />
-      </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" timestamp="1465293380934">
-        <mark key="'" line="85" column="59" />
-      </file>
-      <file name="$USER_HOME$/android-sdk-linux/extras/android/m2repository/com/android/support/appcompat-v7/23.2.1/appcompat-v7-23.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" timestamp="1462534446421">
-        <mark key="'" line="507" column="42" />
-      </file>
-      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/artifacts/dsl/RepositoryHandler.java" timestamp="1465350064161">
-        <mark key="'" line="174" column="28" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/8.0.1/95f98af806452c48faf67da0d8c7430f94502e30/butterknife-8.0.1-sources.jar!/butterknife/ButterKnife.java" timestamp="1465814006344">
-        <mark key="'" line="121" column="12" />
-      </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/layout/activity_preferences.xml" timestamp="1461603107077">
-        <mark key="'" line="29" column="106" />
-      </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallVideoFragment.java" timestamp="1464920771982">
-        <mark key="'" line="49" column="64" />
-      </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" timestamp="1463974593441">
-        <mark key="'" line="56" column="32" />
-      </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallAudioFragment.java" timestamp="1464678216401">
-        <mark key="'" line="14" column="13" />
-      </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1465293423886">
-        <mark key="'" line="264" column="59" />
-      </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/libs/fv_sipcore.jar!/com/sipphone/sdk/access/WebApiConstants.class" timestamp="1463732161108">
-        <mark key="'" line="85" column="8" />
-      </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" timestamp="1464575712281">
-        <mark key="'" line="700" column="16" />
-      </file>
-      <file name="/a.txt" timestamp="1464597730703">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1463725617288">
-        <mark key="'" line="228" column="29" />
-      </file>
-      <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" timestamp="1462857010543">
-        <mark key="'" line="1014" column="44" />
-      </file>
-      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" timestamp="1465962755610">
-        <mark key="'" line="12" column="97" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="157" />
-      </file>
-      <file name="$USER_HOME$/finalspeed-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values/values.xml" timestamp="1465835324498">
-        <mark key="'" line="1434" column="74" />
-      </file>
-      <file name="$USER_HOME$/finalspeed-android/app/src/main/java/net/fs/cap/CapEnv.java" timestamp="1465839042648" />
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/open_ysservice_dialog.xml" timestamp="1465961624930">
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="49" />
-      </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call_inactive_row.xml" timestamp="1464839505153">
-        <mark key="'" line="38" column="20" />
-      </file>
-      <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/content/Context.java" timestamp="1460369180929">
-        <mark key="'" line="291" column="20" />
-      </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/FragmentsAvailable.java" timestamp="1463975636546">
-        <mark key="'" line="81" column="12" />
-      </file>
-      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" timestamp="1465959114471">
-        <mark key="'" line="34" column="61" />
-      </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/build/generated/source/r/debug/com/freeview/sphonedemo/R.java" timestamp="1464839490193">
-        <mark key="'" line="1786" column="32" />
-      </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" timestamp="1465287065349">
-        <mark key="'" line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build/generated/source/r/debug/xyz/monkeytong/hongbao/R.java" timestamp="1461596790069">
-        <mark key="'" line="1683" column="32" />
-      </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/values/styles.xml" timestamp="1461633604742">
-        <mark key="'" line="3" column="61" />
-      </file>
-      <file name="$USER_HOME$/finalspeed-android/app/src/main/res/values/toggle_button_selector.xml" timestamp="1465833549420">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="1" column="68" />
-      </file>
-      <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" timestamp="1466180544086">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="20" column="47" />
-      </file>
-      <file name="$USER_HOME$/finalspeed-android/app/src/main/res/values/strings.xml" timestamp="1465811903756">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="45" />
-        <mark key="." line="2" column="45" />
-        <mark key="^" line="2" column="45" />
-      </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1465244067595">
-        <mark key="'" line="24" column="18" />
-      </file>
-      <file name="$USER_HOME$/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" timestamp="1465829529684">
-        <mark key="'" line="38" column="13" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="145" column="4" />
-        <mark key="." line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/finalspeed-android/build.gradle" timestamp="1465829408769">
-        <mark key="[" line="7" column="56" />
-      </file>
-      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/view/accessibility/AccessibilityRecord.java" timestamp="1460369041715">
-        <mark key="'" line="95" column="17" />
-      </file>
-      <file name="$USER_HOME$/SMS-Notify/app/src/main/res/layout/activity_main.xml" timestamp="1465811648054">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="42" column="16" />
-      </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/colors.xml" timestamp="1464579818485">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/finalspeed-android/fs/build.gradle" timestamp="1465839503956">
-        <mark key="'" line="1" column="31" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/color/event_message_bg_selector.xml" timestamp="1465833757689" />
-      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/ResumeCallback.java" timestamp="1463364289603">
-        <mark key="'" line="41" column="21" />
-      </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/styles.xml" timestamp="1465961663824">
-        <mark key="'" line="41" column="58" />
-      </file>
-      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
-        <mark key="'" line="18" column="25" />
-      </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/assets/www/js/services/auth.service.js" timestamp="1465962317614" />
-      <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
-        <mark key="'" line="44" column="13" />
-      </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" timestamp="1465350273832">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/AndroidManifest.xml" timestamp="1465839897780">
         <mark key="'" line="114" column="51" />
@@ -197,6 +47,18 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/content/SharedPreferences.java" timestamp="1461594691211">
         <mark key="'" line="41" column="17" />
       </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
+        <mark key="'" line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/numpad.xml" timestamp="1464599314726">
+        <mark key="'" line="5" column="60" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" timestamp="1465959117066">
+        <mark key="'" line="46" column="8" />
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="46" column="8" />
+        <mark key="." line="46" column="8" />
+      </file>
       <file name="/tmp/test/platforms/android/res/layout/call.xml" timestamp="1465265776339">
         <mark key="'" line="50" column="55" />
       </file>
@@ -206,7 +68,12 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/SupplicantState.java" timestamp="1463459940719">
         <mark key="'" line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/drawable/message_video_selector.xml" timestamp="1465830958719" />
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/fragments/APRecyclerViewAdapter.java" timestamp="1462524295582">
+        <mark key="'" line="73" column="34" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" timestamp="1465293380934">
+        <mark key="'" line="85" column="59" />
+      </file>
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1460626089108">
         <mark key="'" line="303" column="18" />
       </file>
@@ -216,11 +83,44 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
       </file>
+      <file name="$USER_HOME$/android-sdk-linux/extras/android/m2repository/com/android/support/appcompat-v7/23.2.1/appcompat-v7-23.2.1-sources.jar!/android/support/v7/app/AppCompatActivity.java" timestamp="1462534446421">
+        <mark key="'" line="507" column="42" />
+      </file>
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/artifacts/dsl/RepositoryHandler.java" timestamp="1465350064161">
+        <mark key="'" line="174" column="28" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/8.0.1/95f98af806452c48faf67da0d8c7430f94502e30/butterknife-8.0.1-sources.jar!/butterknife/ButterKnife.java" timestamp="1465814006344">
+        <mark key="'" line="121" column="12" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" timestamp="1460364609126">
         <mark key="'" line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/res/layout/activity_preferences.xml" timestamp="1461603107077">
+        <mark key="'" line="29" column="106" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallVideoFragment.java" timestamp="1464920771982">
+        <mark key="'" line="49" column="64" />
+      </file>
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/assistant/AssistantActivity.java" timestamp="1463974593441">
+        <mark key="'" line="56" column="32" />
+      </file>
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceSelfTestActivity.java" timestamp="1460626160319">
         <mark key="'" line="185" column="59" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallAudioFragment.java" timestamp="1464678216401">
+        <mark key="'" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1465293423886">
+        <mark key="'" line="264" column="59" />
+      </file>
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/libs/fv_sipcore.jar!/com/sipphone/sdk/access/WebApiConstants.class" timestamp="1463732161108">
+        <mark key="'" line="85" column="8" />
+      </file>
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/SPhoneHome.java" timestamp="1464575712281">
+        <mark key="'" line="700" column="16" />
+      </file>
+      <file name="/a.txt" timestamp="1464597730703">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/net/wifi/WifiManager.java" timestamp="1463463768209">
         <mark key="'" line="321" column="58" />
@@ -231,17 +131,47 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/haituke/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1463725617288">
+        <mark key="'" line="228" column="29" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/PreferenceScreen.java" timestamp="1461596526223">
         <mark key="'" line="85" column="19" />
+      </file>
+      <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" timestamp="1462857010543">
+        <mark key="'" line="1014" column="44" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" timestamp="1465962755610">
+        <mark key="'" line="12" column="97" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="157" />
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/Numpad.java" timestamp="1464676814181">
         <mark key="'" line="65" column="4" />
       </file>
+      <file name="$USER_HOME$/finalspeed-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values/values.xml" timestamp="1465835324498">
+        <mark key="'" line="1434" column="74" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/open_ysservice_dialog.xml" timestamp="1465961624930">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="49" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/fragments/GeneralSettingsFragment.java" timestamp="1461602641634">
         <mark key="'" line="22" column="28" />
       </file>
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/layout/call_inactive_row.xml" timestamp="1464839505153">
+        <mark key="'" line="38" column="20" />
+      </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1465276856234">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/content/Context.java" timestamp="1460369180929">
+        <mark key="'" line="291" column="20" />
+      </file>
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/src/main/java/com/freeview/sphonedemo/FragmentsAvailable.java" timestamp="1463975636546">
+        <mark key="'" line="81" column="12" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" timestamp="1465959114471">
+        <mark key="'" line="34" column="61" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v23/values-v23.xml" timestamp="1465833300166">
         <mark key="'" line="32" column="98" />
@@ -261,6 +191,18 @@
         <mark key="]" line="17" column="10" />
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
+      </file>
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/build/generated/source/r/debug/com/freeview/sphonedemo/R.java" timestamp="1464839490193">
+        <mark key="'" line="1786" column="32" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/build.gradle" timestamp="1465287065349">
+        <mark key="'" line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build/generated/source/r/debug/xyz/monkeytong/hongbao/R.java" timestamp="1461596790069">
+        <mark key="'" line="1683" column="32" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/values/styles.xml" timestamp="1461633604742">
+        <mark key="'" line="3" column="61" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/services/FSIntentService.java" timestamp="1466180528657">
         <mark key="'" line="6" column="51" />
@@ -282,8 +224,18 @@
       <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/MainActivity.java" timestamp="1465810994976">
         <mark key="'" line="203" column="52" />
       </file>
+      <file name="$USER_HOME$/finalspeed-android/app/src/main/res/values/toggle_button_selector.xml" timestamp="1465833549420">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="1" column="68" />
+      </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" timestamp="1464163720065">
         <mark key="'" line="41" column="11" />
+      </file>
+      <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" timestamp="1466180544086">
+        <mark key="'" line="28" column="8" />
+        <mark key="[" line="20" column="47" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values/non_localizable_custom.xml" timestamp="1464598182614">
         <mark key="'" line="0" column="0" />
@@ -297,11 +249,26 @@
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/content/Intent.java" timestamp="1463736355642">
         <mark key="'" line="637" column="31" />
       </file>
+      <file name="$USER_HOME$/finalspeed-android/app/src/main/res/values/strings.xml" timestamp="1465811903756">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+      </file>
       <file name="/Dummy.txt" timestamp="1465962425822">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" timestamp="1466181918168">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1465244067595">
+        <mark key="'" line="24" column="18" />
+      </file>
+      <file name="$USER_HOME$/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" timestamp="1465829529684">
+        <mark key="'" line="38" column="13" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="145" column="4" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/fs/src/main/java/net/fs/FSClient.java" timestamp="1465840712247">
         <mark key="[" line="2" column="0" />
@@ -309,8 +276,19 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/finalspeed-android/build.gradle" timestamp="1465829408769">
+        <mark key="[" line="7" column="56" />
+      </file>
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/Main2Activity.java" timestamp="1462524965545">
         <mark key="'" line="30" column="33" />
+      </file>
+      <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/view/accessibility/AccessibilityRecord.java" timestamp="1460369041715">
+        <mark key="'" line="95" column="17" />
+      </file>
+      <file name="$USER_HOME$/SMS-Notify/app/src/main/res/layout/activity_main.xml" timestamp="1465811648054">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="42" column="16" />
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" timestamp="1465268524267">
         <mark key="'" line="98" column="4" />
@@ -321,11 +299,26 @@
         <mark key="." line="1" column="31" />
         <mark key="^" line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/colors.xml" timestamp="1464579818485">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/finalspeed-android/fs/build.gradle" timestamp="1465839503956">
+        <mark key="'" line="1" column="31" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/PreferenceManager.java" timestamp="1461595848723">
         <mark key="'" line="45" column="13" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/content/ContextWrapper.java" timestamp="1460369218121">
         <mark key="'" line="49" column="12" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/ResumeCallback.java" timestamp="1463364289603">
+        <mark key="'" line="41" column="21" />
+      </file>
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/styles.xml" timestamp="1465961663824">
+        <mark key="'" line="41" column="58" />
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/telephony/SmsMessage.java" timestamp="1461598036044">
         <mark key="'" line="194" column="37" />
@@ -342,6 +335,9 @@
       </file>
       <file name="/fragment.java" timestamp="1465811191476">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
+        <mark key="'" line="18" column="25" />
       </file>
     </filemarks>
     <jumps>
