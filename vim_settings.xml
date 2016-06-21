@@ -53,6 +53,9 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/res/layout/content_main.xml" timestamp="1462523516971">
         <mark key="'" line="10" column="26" />
       </file>
+      <file name="$USER_HOME$/GitHubProjects/shadowsocks-android/src/main/scala/com/github/shadowsocks/Shadowsocks.scala" timestamp="1466496922898">
+        <mark key="'" line="98" column="16" />
+      </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/numpad.xml" timestamp="1464599314726">
         <mark key="'" line="5" column="60" />
       </file>
@@ -279,6 +282,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/GitHubProjects/shadowsocks-android/build.sbt" timestamp="1466496819898">
+        <mark key="'" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/finalspeed-android/build.gradle" timestamp="1465829408769">
         <mark key="[" line="7" column="56" />
       </file>
@@ -344,9 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="49" filename="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/cordova.gradle" />
-      <jump line="454" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="12" column="14" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="7" column="11" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="26" column="51" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="91" column="55" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
@@ -444,6 +447,9 @@
       <jump line="19" column="13" filename="$USER_HOME$/finalspeed-android/fs/src/main/java/net/fs/cap/VDatagramSocket.java" />
       <jump line="25" column="0" filename="$USER_HOME$/finalspeed-android/fs/src/main/java/net/fs/cap/VDatagramSocket.java" />
       <jump line="24" column="0" filename="$USER_HOME$/finalspeed-android/fs/src/main/java/net/fs/cap/VDatagramSocket.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/GitHubProjects/shadowsocks-android/build.sbt" />
+      <jump line="90" column="16" filename="$USER_HOME$/GitHubProjects/shadowsocks-android/src/main/scala/com/github/shadowsocks/Shadowsocks.scala" />
+      <jump line="98" column="16" filename="$USER_HOME$/GitHubProjects/shadowsocks-android/src/main/scala/com/github/shadowsocks/Shadowsocks.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
