@@ -22,8 +22,12 @@
         <mark key="." line="14" column="36" />
         <mark key="^" line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" timestamp="1465350273832">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" timestamp="1467193766650">
+        <mark key="'" line="131" column="16" />
+        <mark key="[" line="247" column="35" />
+        <mark key="]" line="248" column="3" />
+        <mark key="^" line="248" column="3" />
+        <mark key="." line="248" column="3" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/LoginActivity.java" timestamp="1464257585686">
         <mark key="'" line="98" column="71" />
@@ -354,14 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
-      <jump line="174" column="28" filename="$USER_HOME$/.gradle/wrapper/dists/gradle-2.10-all/a4w5fzrkeut1ox71xslb49gst/gradle-2.10/src/core/org/gradle/api/artifacts/dsl/RepositoryHandler.java" />
-      <jump line="33" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
-      <jump line="32" column="9" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
-      <jump line="231" column="8" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
-      <jump line="309" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
-      <jump line="203" column="52" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/MainActivity.java" />
       <jump line="59" column="53" filename="$USER_HOME$/finalspeed-android/app/src/main/res/values/strings.xml" />
       <jump line="34" column="35" filename="$USER_HOME$/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
       <jump line="11" column="10" filename="$USER_HOME$/SMS-Notify/app/src/main/res/layout/activity_main.xml" />
@@ -454,6 +450,14 @@
       <jump line="41" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="194" column="12" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="206" column="32" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
+      <jump line="21" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="28" column="60" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="29" column="41" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="32" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="37" column="34" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="124" column="29" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="126" column="14" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
+      <jump line="131" column="16" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -463,7 +467,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>target</text>
+        <text>depen</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8YWN0aXZpdHktYWxpYXMgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIgYW5kcm9pZDpuYW1lPSIud3hhcGkuV1hQYXlFbnRyeUFjdGl2aXR5IiBhbmRyb2lkOnRhcmdldEFjdGl2aXR5PSJjb20ucGluZ3BsdXNwbHVzLmFuZHJvaWQuUGF5bWVudEFjdGl2aXR5IiAvPgo=</text>
@@ -500,9 +504,9 @@
       </register>
     </registers>
     <search>
-      <last-search>target</last-search>
+      <last-search>depen</last-search>
       <last-offset />
-      <last-pattern>target</last-pattern>
+      <last-pattern>depen</last-pattern>
       <last-replace />
       <last-substitute>\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -510,8 +514,6 @@
     </search>
     <history>
       <history-search>
-        <entry>call_li</entry>
-        <entry>calls_</entry>
         <entry>status</entry>
         <entry>\s*\/\/.*\n</entry>
         <entry encoding="base64">PCEtLQ==</entry>
@@ -530,6 +532,8 @@
         <entry>getProject</entry>
         <entry>avatar</entry>
         <entry>target</entry>
+        <entry>dep</entry>
+        <entry>depen</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
