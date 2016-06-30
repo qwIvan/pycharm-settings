@@ -119,12 +119,9 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/values/styles.xml" timestamp="1461633604742">
         <mark key="'" line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/androidTest/java/TestTest.java" timestamp="1467276948639">
-        <mark key="'" line="9" column="3" />
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/androidTest/java/TestTest.java" timestamp="1467277685370">
+        <mark key="'" line="8" column="3" />
+        <mark key="[" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/res/values/toggle_button_selector.xml" timestamp="1465833549420">
         <mark key="[" line="1" column="10" />
@@ -457,10 +454,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>2.1.1</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>depen</text>
@@ -469,31 +466,31 @@
         <text encoding="base64">ICAgICAgICA8YWN0aXZpdHktYWxpYXMgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIgYW5kcm9pZDpuYW1lPSIud3hhcGkuV1hQYXlFbnRyeUFjdGl2aXR5IiBhbmRyb2lkOnRhcmdldEFjdGl2aXR5PSJjb20ucGluZ3BsdXNwbHVzLmFuZHJvaWQuUGF5bWVudEFjdGl2aXR5IiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bm5lcjowLjUnCiAgICAvLyBTZXQgdGhpcyBkZXBlbmRlbmN5IHRvIHVzZSBKVW5pdCA0IHJ1bGVzCiAgICBhbmRyb2lkVGVzdENvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdDpydWxlczowLjUnCiAgICAvLyBTZXQgdGhpcyBkZXBlbmRlbmN5IHRvIGJ1aWxkIGFuZCBydW4gRXNwcmVzc28gdGVzdHMKICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvOmVzcHJlc3NvLWNvcmU6Mi4yLjEnCiAgICAvLyBTZXQgdGhpcyBkZXBlbmRlbmN5IHRvIGJ1aWxkIGFuZCBydW4gVUkgQXV0b21hdG9yIHRlc3RzCiAgICBhbmRyb2lkVGVzdENvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC51aWF1dG9tYXRvcjp1aWF1dG9tYXRvci12MTg6Mi4xLjInCiAgICBhbmRyb2lkVGVzdENvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC1hbm5vdGF0aW9uczoyNC4wLjAn</text>
+        <text>A</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLio7CmltcG9ydCBzdGF0aWMgb3JnLmp1bml0LkFzc2VydC5hc3NlcnRUaGF0Owo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>2.1.1</text>
-      </register>
-      <register name="5" type="4">
-        <text>2.0.1</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>4</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bm5lcjowLjUnCiAgICAvLyBTZXQgdGhpcyBkZXBlbmRlbmN5IHRvIHVzZSBKVW5pdCA0IHJ1bGVzCiAgICBhbmRyb2lkVGVzdENvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdDpydWxlczowLjUnCiAgICAvLyBTZXQgdGhpcyBkZXBlbmRlbmN5IHRvIGJ1aWxkIGFuZCBydW4gRXNwcmVzc28gdGVzdHMKICAgIGFuZHJvaWRUZXN0Q29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvOmVzcHJlc3NvLWNvcmU6Mi4yLjEnCiAgICAvLyBTZXQgdGhpcyBkZXBlbmRlbmN5IHRvIGJ1aWxkIGFuZCBydW4gVUkgQXV0b21hdG9yIHRlc3RzCiAgICBhbmRyb2lkVGVzdENvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC51aWF1dG9tYXRvcjp1aWF1dG9tYXRvci12MTg6Mi4xLjInCiAgICBhbmRyb2lkVGVzdENvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC1hbm5vdGF0aW9uczoyNC4wLjAn</text>
       </register>
-      <register name="8" type="4">
-        <text>2</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLio7CmltcG9ydCBzdGF0aWMgb3JnLmp1bml0LkFzc2VydC5hc3NlcnRUaGF0Owo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>2.1.1</text>
+      </register>
+      <register name="7" type="4">
+        <text>2.0.1</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text>4</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
