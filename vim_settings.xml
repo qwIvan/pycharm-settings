@@ -119,11 +119,12 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/res/values/styles.xml" timestamp="1461633604742">
         <mark key="'" line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/androidTest/java/TestTest.java" timestamp="1467272740981">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="27" />
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/androidTest/java/TestTest.java" timestamp="1467276948639">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/res/values/toggle_button_selector.xml" timestamp="1465833549420">
         <mark key="[" line="1" column="10" />
@@ -353,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="977" column="17" filename="$USER_HOME$/finalspeed-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values/values.xml" />
       <jump line="9" column="17" filename="$USER_HOME$/finalspeed-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v22/values-v22.xml" />
       <jump line="5" column="47" filename="$USER_HOME$/finalspeed-android/app/src/main/res/values/styles.xml" />
       <jump line="11" column="9" filename="$USER_HOME$/finalspeed-android/app/src/main/res/layout/activity_main.xml" />
@@ -453,6 +453,7 @@
       <jump line="48" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
       <jump line="35" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
       <jump line="26" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
+      <jump line="9" column="3" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/androidTest/java/TestTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
