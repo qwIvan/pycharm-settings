@@ -189,11 +189,11 @@
         <mark key="'" line="154" column="18" />
         <mark key="[" line="160" column="38" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/test/java/PlusValidatorTest.java" timestamp="1467256493582">
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="29" />
-        <mark key="^" line="24" column="29" />
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/test/java/PlusValidatorTest.java" timestamp="1467271162807">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="17" column="16" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/fs/src/main/java/net/fs/cap/VDatagramSocket.java" timestamp="1466492869660">
         <mark key="'" line="24" column="0" />
@@ -235,11 +235,12 @@
         <mark key="." line="11" column="74" />
         <mark key="^" line="11" column="74" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" timestamp="1467254626173">
-        <mark key="'" line="35" column="0" />
-        <mark key="]" line="40" column="5" />
-        <mark key="^" line="40" column="5" />
-        <mark key="." line="40" column="5" />
+      <file name="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" timestamp="1467271131100">
+        <mark key="'" line="18" column="12" />
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/test/InterfaceSelfTestActivity.java" timestamp="1460626160319">
         <mark key="'" line="185" column="59" />
@@ -370,13 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="40" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
-      <jump line="47" column="11" filename="$USER_HOME$/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="38" column="13" filename="$USER_HOME$/SMS-Notify/app/src/main/java/me/ivan/sms_notify/activities/MainActivity.java" />
-      <jump line="24" column="23" filename="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" />
-      <jump line="9" column="32" filename="$USER_HOME$/finalspeed-android/app/src/main/AndroidManifest.xml" />
-      <jump line="3" column="62" filename="$USER_HOME$/finalspeed-android/app/src/main/res/values/styles.xml" />
-      <jump line="1396" column="93" filename="$USER_HOME$/finalspeed-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values/values.xml" />
       <jump line="10" column="69" filename="$USER_HOME$/finalspeed-android/app/src/main/res/values/styles.xml" />
       <jump line="977" column="17" filename="$USER_HOME$/finalspeed-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values/values.xml" />
       <jump line="9" column="17" filename="$USER_HOME$/finalspeed-android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v22/values-v22.xml" />
@@ -457,8 +451,6 @@
       <jump line="46" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="120" column="8" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/main/java/xyz/monkeytong/hongbao/services/HongbaoService.java" />
-      <jump line="40" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
-      <jump line="35" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
       <jump line="12" column="27" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/test/java/PlusValidatorTest.java" />
       <jump line="65" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/org/hamcrest/core/Is.java" />
       <jump line="51" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar!/org/hamcrest/core/Is.java" />
@@ -470,13 +462,22 @@
       <jump line="16" column="4" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/test/java/PlusValidatorTest.java" />
       <jump line="14" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/test/java/PlusValidatorTest.java" />
       <jump line="8" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/src/test/java/PlusValidatorTest.java" />
+      <jump line="40" column="5" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
+      <jump line="5" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
+      <jump line="17" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
+      <jump line="26" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
+      <jump line="35" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
+      <jump line="47" column="0" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
+      <jump line="3" column="23" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
+      <jump line="38" column="51" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
+      <jump line="18" column="12" filename="$USER_HOME$/GitHubProjects/WeChatLuckyMoney/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MainActivity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLio7CmltcG9ydCBzdGF0aWMgb3JnLmp1bml0LkFzc2VydC5hc3NlcnRUaGF0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>MainActivity</text>
+        <text>2.1.1</text>
       </register>
       <register name="/" type="4">
         <text>depen</text>
@@ -484,32 +485,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8YWN0aXZpdHktYWxpYXMgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIgYW5kcm9pZDpuYW1lPSIud3hhcGkuV1hQYXlFbnRyeUFjdGl2aXR5IiBhbmRyb2lkOnRhcmdldEFjdGl2aXR5PSJjb20ucGluZ3BsdXNwbHVzLmFuZHJvaWQuUGF5bWVudEFjdGl2aXR5IiAvPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>MainActivity</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuQ29yZU1hdGNoZXJzLio7CmltcG9ydCBzdGF0aWMgb3JnLmp1bml0LkFzc2VydC5hc3NlcnRUaGF0Owo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLio7Cg==</text>
+      <register name="2" type="4">
+        <text>2.1.1</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5Db250ZXh0Owo=</text>
+      <register name="3" type="4">
+        <text>2.0.1</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBQbHVzVGVzdCgpIHsKICAgICAgICBhc3NlcnRUaGF0KDErMT09Mixpcyh0cnVlKSk7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>st</text>
+        <text>4</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">dAogICAgcHVibGljIHZvaWQgUGx1c1Rlc3QoKSB7CiAgICAgICAgYXNzZXJ0VGhhdCgxKzE9PTIsaXModHJ1ZSkpOwogICAgfQo=</text>
+        <text>2</text>
       </register>
       <register name="7" type="4">
-        <text>equalTo</text>
+        <text>:</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuY29yZS5Jcy4qOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjI0Jwo=</text>
       </register>
       <register name="9" type="4">
-        <text>equalTo</text>
+        <text>.1.1</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
