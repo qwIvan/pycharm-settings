@@ -134,8 +134,8 @@
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallAudioFragment.java" timestamp="1464678216401">
         <mark key="'" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1467360548916">
-        <mark key="'" line="352" column="0" />
+      <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1467366635444">
+        <mark key="'" line="79" column="0" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo/app/libs/fv_sipcore.jar!/com/sipphone/sdk/access/WebApiConstants.class" timestamp="1463732161108">
         <mark key="'" line="85" column="8" />
@@ -345,9 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="55" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/PluginManager.java" />
-      <jump line="309" column="18" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/PluginManager.java" />
       <jump line="437" column="26" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
       <jump line="130" column="9" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebView.java" />
       <jump line="38" column="13" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/PluginManager.java" />
@@ -445,6 +442,9 @@
       <jump line="259" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="347" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="353" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
