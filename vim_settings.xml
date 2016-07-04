@@ -54,6 +54,12 @@
         <mark key="." line="3" column="72" />
         <mark key="^" line="3" column="72" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1467625088532">
+        <mark key="'" line="543" column="8" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/content/SharedPreferences.java" timestamp="1461594691211">
         <mark key="'" line="41" column="17" />
       </file>
@@ -157,11 +163,6 @@
       </file>
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EzvizAPI.class" timestamp="1462857010543">
         <mark key="'" line="1014" column="44" />
-      </file>
-      <file name="$USER_HOME$/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/AndroidManifest.xml" timestamp="1465962755610">
-        <mark key="'" line="12" column="97" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="157" />
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/Numpad.java" timestamp="1464676814181">
         <mark key="'" line="65" column="4" />
@@ -287,6 +288,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="8" column="15" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" timestamp="1467624959440">
+        <mark key="'" line="75" column="25" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/shadowsocks-android/build.sbt" timestamp="1466496819898">
         <mark key="'" line="9" column="0" />
       </file>
@@ -295,11 +299,6 @@
       </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-23/android/view/accessibility/AccessibilityRecord.java" timestamp="1460369041715">
         <mark key="'" line="95" column="17" />
-      </file>
-      <file name="$USER_HOME$/SMS-Notify/app/src/main/res/layout/activity_main.xml" timestamp="1465811648054">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="42" column="16" />
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" timestamp="1465268524267">
         <mark key="'" line="98" column="4" />
@@ -345,12 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="437" column="26" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
-      <jump line="130" column="9" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebView.java" />
-      <jump line="38" column="13" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/PluginManager.java" />
-      <jump line="24" column="40" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/h2c/homekit/MainActivity.java" />
-      <jump line="155" column="25" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
-      <jump line="467" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
       <jump line="298" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
       <jump line="110" column="14" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
       <jump line="162" column="15" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
@@ -445,55 +438,61 @@
       <jump line="57" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="54" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="79" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="141" column="62" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
+      <jump line="48" column="25" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
+      <jump line="42" column="21" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
+      <jump line="75" column="25" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
+      <jump line="543" column="8" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXByaXZhdGUgaW50IGNhbWVyYU51bWJlcjsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>pause</text>
+        <text encoding="base64">XDxSZWxhdGl2ZUxheW91dFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8YWN0aXZpdHktYWxpYXMgYW5kcm9pZDpleHBvcnRlZD0idHJ1ZSIgYW5kcm9pZDpuYW1lPSIud3hhcGkuV1hQYXlFbnRyeUFjdGl2aXR5IiBhbmRyb2lkOnRhcmdldEFjdGl2aXR5PSJjb20ucGluZ3BsdXNwbHVzLmFuZHJvaWQuUGF5bWVudEFjdGl2aXR5IiAvPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CXByaXZhdGUgaW50IGNhbWVyYU51bWJlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlByb2dyZXNzQmFyOwo=</text>
+        <text encoding="base64">CQkJdGltZXIgPSAoQ2hyb25vbWV0ZXIpIGZpbmRWaWV3QnlJZChSLmlkLmN1cnJlbnRfY2FsbF90aW1lcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdmlkZW9Qcm9ncmVzcy5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
+        <text encoding="base64">CQkJY2FsbEluZm8uc2V0VmlzaWJpbGl0eShWaWV3LlZJU0lCTEUpOwoJCQlhdmF0YXJfbGF5b3V0LnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">aWYgKGlkID09IFIuaWQudmlkZW8pIHsKCQkJZW5hYmxlZE9yRGlzYWJsZWRWaWRlbyhpc1ZpZGVvRW5hYmxlZChTaXBDb3JlTWFuYWdlci5nZXRMYygpLmdldEN1cnJlbnRDYWxsKCkpKTsKCQl9CgkJZWxzZSA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQljYWxsSW5mby5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7CgkJYXZhdGFyX2xheW91dC5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAoaWQgPT0gUi5pZC52aWRlbykgewoJCQllbmFibGVkT3JEaXNhYmxlZFZpZGVvKGlzVmlkZW9FbmFibGVkKFNpcENvcmVNYW5hZ2VyLmdldExjKCkuZ2V0Q3VycmVudENhbGwoKSkpOwoJCX0K</text>
+        <text encoding="base64">CQkJCWlmKGlzVmlkZW9FbmFibGVkKFNpcENvcmVNYW5hZ2VyLmdldExjKCkuZ2V0Q3VycmVudENhbGwoKSkpIHsKCQkJCQlhdmF0YXJfbGF5b3V0LnNldFZpc2liaWxpdHkoVmlldy5HT05FKTsKCQkJCX0gZWxzZSB7CgkJCQkJYXZhdGFyX2xheW91dC5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7CgkJCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2aWRlb1Byb2dyZXNzID0gIChQcm9ncmVzc0JhcikgZmluZFZpZXdCeUlkKFIuaWQudmlkZW9faW5fcHJvZ3Jlc3MpOwoJCXZpZGVvUHJvZ3Jlc3Muc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwo=</text>
+        <text encoding="base64">CQkJaWYoIWlzVmlkZW9FbmFibGVkKFNpcENvcmVNYW5hZ2VyLmdldExjKCkuZ2V0Q3VycmVudENhbGwoKSkpCgkJCQljYWxsSW5mby5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8UmVsYXRpdmVMYXlvdXQKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnV0dG9uX2JhY2tncm91bmQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIOinhumikemAmuivneaMiemSruWbvuaghyAtLT4KICAgICAgICAgICAgICAgICAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC92aWRlbyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvY2FtZXJhX2RlZmF1bHQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9idXR0b25fYmFja2dyb3VuZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMjJkcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIvPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIOWIh+aNouinhumikemAmuivne+8jOmcgOimgeS4gOauteaXtumXtO+8jOi/meS4quaYr+etieW+hVByb2dyZXNzQmFyIC0tPgogICAgICAgICAgICAgICAgICAgICAgICA8UHJvZ3Jlc3NCYXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdmlkZW9faW5fcHJvZ3Jlc3MiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iP2FuZHJvaWQ6YXR0ci9wcm9ncmVzc0JhclN0eWxlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySG9yaXpvbnRhbD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2NlbnRlclZlcnRpY2FsPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii8+CgogICAgICAgICAgICAgICAgICAgIDwvUmVsYXRpdmVMYXlvdXQ+Cg==</text>
+        <text encoding="base64">CQlhdmF0YXJfbGF5b3V0ID0gKFJlbGF0aXZlTGF5b3V0KSBmaW5kVmlld0J5SWQoUi5pZC5hdmF0YXJfbGF5b3V0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0g56ys5LiA5bGC6YCa6K+d5Yqf6IO96YCJ6aG55oyJ6ZKu6I+c5Y2V6KeG5Zu+5biD5bGA77yM5aaC6KeG6aKR44CB5oms5aOw5Zmo44CBTUlD5Y+K5ZG85Y+r6L2s56e7562J5Yqf6IO9IC0tPgogICAgICAgICAgICAgICAgPExpbmVhckxheW91dAogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL2NvbG9yRiIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjBkcCIKICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJob3Jpem9udGFsIj4KICAgICAgICAgICAgICAgICAgICA8UmVsYXRpdmVMYXlvdXQKICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvYnV0dG9uX2JhY2tncm91bmQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIOinhumikemAmuivneaMiemSruWbvuaghyAtLT4KICAgICAgICAgICAgICAgICAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC92aWRlbyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6c3JjPSJAZHJhd2FibGUvY2FtZXJhX2RlZmF1bHQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9idXR0b25fYmFja2dyb3VuZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMjJkcCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIvPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tIOWIh+aNouinhumikemAmuivne+8jOmcgOimgeS4gOauteaXtumXtO+8jOi/meS4quaYr+etieW+hVByb2dyZXNzQmFyIC0tPgogICAgICAgICAgICAgICAgICAgICAgICA8UHJvZ3Jlc3NCYXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvdmlkZW9faW5fcHJvZ3Jlc3MiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iP2FuZHJvaWQ6YXR0ci9wcm9ncmVzc0JhclN0eWxlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfY2VudGVySG9yaXpvbnRhbD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2NlbnRlclZlcnRpY2FsPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii8+Cgo=</text>
+        <text encoding="base64">CQljYWxsSW5mbyA9IChMaW5lYXJMYXlvdXQpIGZpbmRWaWV3QnlJZChSLmlkLmFjdGl2ZV9jYWxsX2luZm8pOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>wrap_content</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>pause</last-search>
+      <last-search encoding="base64">XDxSZWxhdGl2ZUxheW91dFw+</last-search>
       <last-offset />
-      <last-pattern>pause</last-pattern>
+      <last-pattern encoding="base64">XDxSZWxhdGl2ZUxheW91dFw+</last-pattern>
       <last-replace />
       <last-substitute>\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -501,7 +500,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PCEtLS4qLS0+</entry>
         <entry>cancel</entry>
         <entry>contetn</entry>
         <entry>content_des</entry>
@@ -518,9 +516,10 @@
         <entry>target</entry>
         <entry>dep</entry>
         <entry>depen</entry>
-        <entry encoding="base64">XDxSZWxhdGl2ZUxheW91dFw+</entry>
-        <entry encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</entry>
         <entry>pause</entry>
+        <entry>time</entry>
+        <entry encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</entry>
+        <entry encoding="base64">XDxSZWxhdGl2ZUxheW91dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
