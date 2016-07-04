@@ -41,8 +41,8 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
         <mark key="'" line="664" column="8" />
       </file>
-      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/AndroidManifest.xml" timestamp="1465839897780">
-        <mark key="'" line="114" column="51" />
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/AndroidManifest.xml" timestamp="1467625501723">
+        <mark key="'" line="104" column="7" />
       </file>
       <file name="$USER_HOME$/haituke/platforms/android/libs/EZOpenSDK.jar!/com/videogo/openapi/EZOpenSDK.class" timestamp="1462857005863">
         <mark key="'" line="392" column="30" />
@@ -245,6 +245,9 @@
       <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/MainActivity.java" timestamp="1465810994976">
         <mark key="'" line="203" column="52" />
       </file>
+      <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/AccountPreferencesFragment.java" timestamp="1467625554303">
+        <mark key="'" line="6" column="54" />
+      </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/res/values/toggle_button_selector.xml" timestamp="1465833549420">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="1" column="10" />
@@ -253,10 +256,6 @@
       </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaPlugin.java" timestamp="1464163720065">
         <mark key="'" line="41" column="11" />
-      </file>
-      <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/activities/MainActivity.java" timestamp="1466180544086">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="20" column="47" />
       </file>
       <file name="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/res/values/non_localizable_custom.xml" timestamp="1464598182614">
         <mark key="'" line="0" column="0" />
@@ -344,8 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
-      <jump line="110" column="14" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
       <jump line="162" column="15" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
       <jump line="30" column="27" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/Config.java" />
       <jump line="133" column="27" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/CordovaLib/src/org/apache/cordova/CordovaActivity.java" />
@@ -444,6 +441,8 @@
       <jump line="42" column="21" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
       <jump line="75" column="25" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
       <jump line="543" column="8" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="104" column="7" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/AndroidManifest.xml" />
+      <jump line="6" column="54" filename="$USER_HOME$/下载/云对讲SDK_for_Android_V2.1.2/云对讲SDK_for_Android_V2.1.2/SPhoneDemo1/app/src/main/java/com/freeview/sphonedemo/AccountPreferencesFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
