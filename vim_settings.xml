@@ -330,6 +330,9 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/Main2Activity.java" timestamp="1462524965545">
         <mark key="'" line="30" column="33" />
       </file>
+      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/build.gradle" timestamp="1468295489242">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/values/strings.xml" timestamp="1465268524267">
         <mark key="'" line="98" column="4" />
       </file>
@@ -368,7 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="17" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="276" column="18" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="279" column="17" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="324" column="18" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
@@ -468,6 +470,7 @@
       <jump line="63" column="20" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" />
       <jump line="1" column="34" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" />
       <jump line="65" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -477,7 +480,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>menu</text>
+        <text>jar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGFja2FnZSBjb20ueXVuemppYS52aWRlb3RhbGs7CgppbXBvcnQgYW5kcm9pZC5jb250ZW50LkludGVudDsKCmltcG9ydCBjb20uc2lwcGhvbmUuc2RrLlNpcFNlcnZpY2U7CmltcG9ydCBjb20uc2lwcGhvbmUuc2RrLmFjY2Vzcy5XZWJBcGlDb25zdGFudHM7CmltcG9ydCBjb20uc2lwcGhvbmUuc2RrLmFjY2Vzcy5XZWJSZXBvbnNlOwppbXBvcnQgY29tLnNpcHBob25lLnNkay5hY2Nlc3MuV2ViVXNlckFwaTsKCmltcG9ydCBvcmcuYXBhY2hlLmNvcmRvdmEuQ2FsbGJhY2tDb250ZXh0OwppbXBvcnQgb3JnLmFwYWNoZS5jb3Jkb3ZhLkNvcmRvdmFBcmdzOwppbXBvcnQgb3JnLmFwYWNoZS5jb3Jkb3ZhLkNvcmRvdmFQbHVnaW47CmltcG9ydCBvcmcuanNvbi5KU09ORXhjZXB0aW9uOwoKLyoqCiAqIENyZWF0ZWQgYnkgaXZhbiBvbiAxNi01LTI1LgogKi8KcHVibGljIGNsYXNzIFZpZGVvVGFsa1BsdWdpbiBleHRlbmRzIENvcmRvdmFQbHVnaW4gewoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFDVElPTl9JTklUID0gImluaXQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQUNUSU9OX1NFUlZJQ0VfUkVBRFkgPSAic2VydmljZV9yZWFkeSI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBBQ1RJT05fU1RPUF9TSVAgPSAic3RvcF9zaXAiOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXhlY3V0ZShTdHJpbmcgYWN0aW9uLCBDb3Jkb3ZhQXJncyBhcmdzLCBDYWxsYmFja0NvbnRleHQgY2FsbGJhY2tDb250ZXh0KSB0aHJvd3MgSlNPTkV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKEFDVElPTl9JTklULmVxdWFscyhhY3Rpb24pKSB7CiAgICAgICAgICAgIHJldHVybiBpbml0KGFyZ3MsY2FsbGJhY2tDb250ZXh0KTsKICAgICAgICB9IGVsc2UgaWYgKEFDVElPTl9TRVJWSUNFX1JFQURZLmVxdWFscyhhY3Rpb24pKSB7CiAgICAgICAgICAgIHJldHVybiBzZXJ2aWNlUmVhZHkoYXJncyxjYWxsYmFja0NvbnRleHQpOwogICAgICAgIH0gZWxzZSBpZiAoQUNUSU9OX1NUT1BfU0lQLmVxdWFscyhhY3Rpb24pKSB7CiAgICAgICAgICAgIHJldHVybiBzdG9wU2lwKGNhbGxiYWNrQ29udGV4dCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBzdXBlci5leGVjdXRlKGFjdGlvbiwgYXJncywgY2FsbGJhY2tDb250ZXh0KTsKICAgIH0KCiAgICBwcml2YXRlIGJvb2xlYW4gc2VydmljZVJlYWR5KENvcmRvdmFBcmdzIGFyZ3MsIGZpbmFsIENhbGxiYWNrQ29udGV4dCBjYWxsYmFja0NvbnRleHQpIHsKICAgICAgICBpZiAoU2lwU2VydmljZS5pc1JlYWR5KCkpIHsKICAgICAgICAgICAgU2lwU2VydmljZS5pbnN0YW5jZSgpLnNldEFjdGl2aXR5VG9MYXVuY2hPbkluY29taW5nUmVjZWl2ZWQoQ2FsbEFjdGl2aXR5LmNsYXNzKTsKICAgICAgICAgICAgY2FsbGJhY2tDb250ZXh0LnN1Y2Nlc3MoInRydWUiKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBjb3Jkb3ZhLmdldEFjdGl2aXR5KCkuc3RhcnRTZXJ2aWNlKG5ldyBJbnRlbnQoYW5kcm9pZC5jb250ZW50LkludGVudC5BQ1RJT05fTUFJTikuc2V0Q2xhc3MoCiAgICAgICAgICAgICAgICAgICAgY29yZG92YS5nZXRBY3Rpdml0eSgpLCBTaXBTZXJ2aWNlLmNsYXNzKSk7CiAgICAgICAgICAgIGNhbGxiYWNrQ29udGV4dC5zdWNjZXNzKCJmYWxzZSIpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICBwcml2YXRlIGJvb2xlYW4gc3RvcFNpcChDYWxsYmFja0NvbnRleHQgY2FsbGJhY2tDb250ZXh0KSB7CiAgICAgICAgY29yZG92YS5nZXRBY3Rpdml0eSgpLnN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQoYW5kcm9pZC5jb250ZW50LkludGVudC5BQ1RJT05fTUFJTikuc2V0Q2xhc3MoY29yZG92YS5nZXRBY3Rpdml0eSgpCiAgICAgICAgICAgICAgICAsIFNpcFNlcnZpY2UuY2xhc3MpKTsKICAgICAgICBjYWxsYmFja0NvbnRleHQuc3VjY2VzcygpOwogICAgICAgIHJldHVybiB0cnVlOwogICAgfQoKICAgIHByaXZhdGUgYm9vbGVhbiBpbml0KENvcmRvdmFBcmdzIGFyZ3MsIGZpbmFsIENhbGxiYWNrQ29udGV4dCBjYWxsYmFja0NvbnRleHQpIHRocm93cyBKU09ORXhjZXB0aW9uIHsKICAgICAgICBXZWJVc2VyQXBpIG1XZWJVc2VyQXBpID0gbmV3IFdlYlVzZXJBcGkoY29yZG92YS5nZXRBY3Rpdml0eSgpKTsKICAgICAgICBtV2ViVXNlckFwaS5zZXRPbkFjY2Vzc1Rva2VuTGlzdGVuZXIobmV3IFdlYlVzZXJBcGkub25BY2Nlc3NUb2tlbkxpc3RlbmVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25QcmVBY2Nlc3NUb2tlbigpIHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblBvc3RBY2Nlc3NUb2tlbihXZWJSZXBvbnNlIHdlYlJlcG9uc2UpIHsKICAgICAgICAgICAgICAgIGNvcmRvdmEuZ2V0QWN0aXZpdHkoKS5zdGFydFNlcnZpY2UobmV3IEludGVudChhbmRyb2lkLmNvbnRlbnQuSW50ZW50LkFDVElPTl9NQUlOKS5zZXRDbGFzcygKICAgICAgICAgICAgICAgICAgICAgICAgY29yZG92YS5nZXRBY3Rpdml0eSgpLCBTaXBTZXJ2aWNlLmNsYXNzKSk7CiAgICAgICAgICAgICAgICBjYWxsYmFja0NvbnRleHQuc3VjY2VzcygpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICAgICAgbVdlYlVzZXJBcGkuYWNjZXNzVG9rZW4oYXJncy5nZXRTdHJpbmcoMCksYXJncy5nZXRTdHJpbmcoMSkpOwogICAgICAgIHJldHVybiB0cnVlOwogICAgfQp9Cg==</text>
@@ -514,9 +517,9 @@
       </register>
     </registers>
     <search>
-      <last-search>menu</last-search>
+      <last-search>jar</last-search>
       <last-offset />
-      <last-pattern>menu</last-pattern>
+      <last-pattern>jar</last-pattern>
       <last-replace />
       <last-substitute>\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -524,7 +527,6 @@
     </search>
     <history>
       <history-search>
-        <entry>content_des</entry>
         <entry>content_</entry>
         <entry>R.boo</entry>
         <entry encoding="base64">XDxBNThENjRGNlw+</entry>
@@ -544,6 +546,7 @@
         <entry encoding="base64">XDxSZWxhdGl2ZUxheW91dFw+</entry>
         <entry>hid</entry>
         <entry>menu</entry>
+        <entry>jar</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
