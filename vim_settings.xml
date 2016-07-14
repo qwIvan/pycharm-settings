@@ -25,10 +25,10 @@
       <file name="$USER_HOME$/下载/ezviz-openapi-android-demo-160328/ezviz-openapi-android-demo/src/com/videogo/ui/devicelist/SeriesNumSearchActivity.java" timestamp="1460597865629">
         <mark key="'" line="664" column="8" />
       </file>
-      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1467626883454">
-        <mark key="'" line="866" column="23" />
-        <mark key="[" line="967" column="29" />
-        <mark key="]" line="967" column="32" />
+      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1468469317814">
+        <mark key="'" line="235" column="18" />
+        <mark key="[" line="390" column="0" />
+        <mark key="]" line="390" column="48" />
         <mark key="." line="967" column="32" />
         <mark key="^" line="967" column="32" />
       </file>
@@ -146,8 +146,8 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/SMS-Notify/app/src/main/java/me/ivan/sms_notify/services/SMTPService.java" timestamp="1465244067595">
         <mark key="'" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" timestamp="1467626984056">
-        <mark key="'" line="154" column="0" />
+      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" timestamp="1468469285190">
+        <mark key="'" line="225" column="46" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/shadowsocks-android/build.sbt" timestamp="1466496819898">
         <mark key="'" line="9" column="0" />
@@ -273,12 +273,12 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" timestamp="1467626417745">
-        <mark key="'" line="37" column="72" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="47" column="26" />
-        <mark key="^" line="47" column="26" />
+      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" timestamp="1468469728274">
+        <mark key="'" line="74" column="19" />
+        <mark key="[" line="76" column="19" />
+        <mark key="]" line="76" column="19" />
+        <mark key="." line="76" column="19" />
+        <mark key="^" line="76" column="19" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/services/FSIntentService.java" timestamp="1466180528657">
         <mark key="'" line="6" column="51" />
@@ -371,12 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="18" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="279" column="17" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="324" column="18" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="322" column="4" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="112" column="12" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="85" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="94" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="103" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="68" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
@@ -439,7 +433,6 @@
       <jump line="27" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
       <jump line="64" column="12" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
       <jump line="37" column="72" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
-      <jump line="55" column="13" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="188" column="8" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="565" column="17" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
@@ -471,55 +464,62 @@
       <jump line="1" column="34" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" />
       <jump line="65" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" />
       <jump line="0" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/build.gradle" />
+      <jump line="224" column="20" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
+      <jump line="225" column="46" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/res/layout/call.xml" />
+      <jump line="55" column="13" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="236" column="8" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="235" column="18" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
+      <jump line="17" column="13" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
+      <jump line="74" column="19" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>jar</text>
+        <text>unlock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ueXVuemppYS52aWRlb3RhbGs7CgppbXBvcnQgYW5kcm9pZC5jb250ZW50LkludGVudDsKCmltcG9ydCBjb20uc2lwcGhvbmUuc2RrLlNpcFNlcnZpY2U7CmltcG9ydCBjb20uc2lwcGhvbmUuc2RrLmFjY2Vzcy5XZWJBcGlDb25zdGFudHM7CmltcG9ydCBjb20uc2lwcGhvbmUuc2RrLmFjY2Vzcy5XZWJSZXBvbnNlOwppbXBvcnQgY29tLnNpcHBob25lLnNkay5hY2Nlc3MuV2ViVXNlckFwaTsKCmltcG9ydCBvcmcuYXBhY2hlLmNvcmRvdmEuQ2FsbGJhY2tDb250ZXh0OwppbXBvcnQgb3JnLmFwYWNoZS5jb3Jkb3ZhLkNvcmRvdmFBcmdzOwppbXBvcnQgb3JnLmFwYWNoZS5jb3Jkb3ZhLkNvcmRvdmFQbHVnaW47CmltcG9ydCBvcmcuanNvbi5KU09ORXhjZXB0aW9uOwoKLyoqCiAqIENyZWF0ZWQgYnkgaXZhbiBvbiAxNi01LTI1LgogKi8KcHVibGljIGNsYXNzIFZpZGVvVGFsa1BsdWdpbiBleHRlbmRzIENvcmRvdmFQbHVnaW4gewoKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFDVElPTl9JTklUID0gImluaXQiOwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgQUNUSU9OX1NFUlZJQ0VfUkVBRFkgPSAic2VydmljZV9yZWFkeSI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBBQ1RJT05fU1RPUF9TSVAgPSAic3RvcF9zaXAiOwoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXhlY3V0ZShTdHJpbmcgYWN0aW9uLCBDb3Jkb3ZhQXJncyBhcmdzLCBDYWxsYmFja0NvbnRleHQgY2FsbGJhY2tDb250ZXh0KSB0aHJvd3MgSlNPTkV4Y2VwdGlvbiB7CiAgICAgICAgaWYgKEFDVElPTl9JTklULmVxdWFscyhhY3Rpb24pKSB7CiAgICAgICAgICAgIHJldHVybiBpbml0KGFyZ3MsY2FsbGJhY2tDb250ZXh0KTsKICAgICAgICB9IGVsc2UgaWYgKEFDVElPTl9TRVJWSUNFX1JFQURZLmVxdWFscyhhY3Rpb24pKSB7CiAgICAgICAgICAgIHJldHVybiBzZXJ2aWNlUmVhZHkoYXJncyxjYWxsYmFja0NvbnRleHQpOwogICAgICAgIH0gZWxzZSBpZiAoQUNUSU9OX1NUT1BfU0lQLmVxdWFscyhhY3Rpb24pKSB7CiAgICAgICAgICAgIHJldHVybiBzdG9wU2lwKGNhbGxiYWNrQ29udGV4dCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBzdXBlci5leGVjdXRlKGFjdGlvbiwgYXJncywgY2FsbGJhY2tDb250ZXh0KTsKICAgIH0KCiAgICBwcml2YXRlIGJvb2xlYW4gc2VydmljZVJlYWR5KENvcmRvdmFBcmdzIGFyZ3MsIGZpbmFsIENhbGxiYWNrQ29udGV4dCBjYWxsYmFja0NvbnRleHQpIHsKICAgICAgICBpZiAoU2lwU2VydmljZS5pc1JlYWR5KCkpIHsKICAgICAgICAgICAgU2lwU2VydmljZS5pbnN0YW5jZSgpLnNldEFjdGl2aXR5VG9MYXVuY2hPbkluY29taW5nUmVjZWl2ZWQoQ2FsbEFjdGl2aXR5LmNsYXNzKTsKICAgICAgICAgICAgY2FsbGJhY2tDb250ZXh0LnN1Y2Nlc3MoInRydWUiKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBjb3Jkb3ZhLmdldEFjdGl2aXR5KCkuc3RhcnRTZXJ2aWNlKG5ldyBJbnRlbnQoYW5kcm9pZC5jb250ZW50LkludGVudC5BQ1RJT05fTUFJTikuc2V0Q2xhc3MoCiAgICAgICAgICAgICAgICAgICAgY29yZG92YS5nZXRBY3Rpdml0eSgpLCBTaXBTZXJ2aWNlLmNsYXNzKSk7CiAgICAgICAgICAgIGNhbGxiYWNrQ29udGV4dC5zdWNjZXNzKCJmYWxzZSIpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0KCiAgICBwcml2YXRlIGJvb2xlYW4gc3RvcFNpcChDYWxsYmFja0NvbnRleHQgY2FsbGJhY2tDb250ZXh0KSB7CiAgICAgICAgY29yZG92YS5nZXRBY3Rpdml0eSgpLnN0b3BTZXJ2aWNlKG5ldyBJbnRlbnQoYW5kcm9pZC5jb250ZW50LkludGVudC5BQ1RJT05fTUFJTikuc2V0Q2xhc3MoY29yZG92YS5nZXRBY3Rpdml0eSgpCiAgICAgICAgICAgICAgICAsIFNpcFNlcnZpY2UuY2xhc3MpKTsKICAgICAgICBjYWxsYmFja0NvbnRleHQuc3VjY2VzcygpOwogICAgICAgIHJldHVybiB0cnVlOwogICAgfQoKICAgIHByaXZhdGUgYm9vbGVhbiBpbml0KENvcmRvdmFBcmdzIGFyZ3MsIGZpbmFsIENhbGxiYWNrQ29udGV4dCBjYWxsYmFja0NvbnRleHQpIHRocm93cyBKU09ORXhjZXB0aW9uIHsKICAgICAgICBXZWJVc2VyQXBpIG1XZWJVc2VyQXBpID0gbmV3IFdlYlVzZXJBcGkoY29yZG92YS5nZXRBY3Rpdml0eSgpKTsKICAgICAgICBtV2ViVXNlckFwaS5zZXRPbkFjY2Vzc1Rva2VuTGlzdGVuZXIobmV3IFdlYlVzZXJBcGkub25BY2Nlc3NUb2tlbkxpc3RlbmVyKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgb25QcmVBY2Nlc3NUb2tlbigpIHsKCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvblBvc3RBY2Nlc3NUb2tlbihXZWJSZXBvbnNlIHdlYlJlcG9uc2UpIHsKICAgICAgICAgICAgICAgIGNvcmRvdmEuZ2V0QWN0aXZpdHkoKS5zdGFydFNlcnZpY2UobmV3IEludGVudChhbmRyb2lkLmNvbnRlbnQuSW50ZW50LkFDVElPTl9NQUlOKS5zZXRDbGFzcygKICAgICAgICAgICAgICAgICAgICAgICAgY29yZG92YS5nZXRBY3Rpdml0eSgpLCBTaXBTZXJ2aWNlLmNsYXNzKSk7CiAgICAgICAgICAgICAgICBjYWxsYmFja0NvbnRleHQuc3VjY2VzcygpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICAgICAgbVdlYlVzZXJBcGkuYWNjZXNzVG9rZW4oYXJncy5nZXRTdHJpbmcoMCksYXJncy5nZXRTdHJpbmcoMSkpOwogICAgICAgIHJldHVybiB0cnVlOwogICAgfQp9Cg==</text>
+        <text encoding="base64">CQkJU2lwQ29yZU1hbmFnZXIuZ2V0TGMoKS5zZW5kRHRtZignIycpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFNpcENvcmVNYW5hZ2VyLmdldExjKCkuc2VuZER0bWYoJyMnKTsK</text>
+      </register>
+      <register name="3" type="4">
         <text>false</text>
-      </register>
-      <register name="2" type="4">
-        <text>false</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJaGlkZVN0YXR1c0JhcigpOwoJCQltQ29udHJvbHNMYXlvdXQuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>service_ready</text>
+        <text>false</text>
       </register>
-      <register name="5" type="4">
-        <text>VideoTalk</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJaGlkZVN0YXR1c0JhcigpOwoJCQltQ29udHJvbHNMYXlvdXQuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwo=</text>
       </register>
       <register name="6" type="4">
         <text>service_ready</text>
       </register>
       <register name="7" type="4">
-        <text>quict</text>
+        <text>VideoTalk</text>
       </register>
       <register name="8" type="4">
-        <text>quit</text>
+        <text>service_ready</text>
       </register>
       <register name="9" type="4">
-        <text>QUIT</text>
+        <text>quict</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>jar</last-search>
+      <last-search>unlock</last-search>
       <last-offset />
-      <last-pattern>jar</last-pattern>
+      <last-pattern>unlock</last-pattern>
       <last-replace />
       <last-substitute>\s*\/\/.*\n</last-substitute>
       <last-dir>1</last-dir>
@@ -527,7 +527,6 @@
     </search>
     <history>
       <history-search>
-        <entry>content_</entry>
         <entry>R.boo</entry>
         <entry encoding="base64">XDxBNThENjRGNlw+</entry>
         <entry>compile</entry>
@@ -547,6 +546,7 @@
         <entry>hid</entry>
         <entry>menu</entry>
         <entry>jar</entry>
+        <entry>unlock</entry>
       </history-search>
       <history-cmd>
         <entry>%//properties/g</entry>
