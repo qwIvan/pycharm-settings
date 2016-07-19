@@ -273,12 +273,12 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" timestamp="1468472755191">
-        <mark key="'" line="34" column="19" />
-        <mark key="[" line="77" column="27" />
-        <mark key="]" line="77" column="27" />
-        <mark key="." line="77" column="27" />
-        <mark key="^" line="34" column="42" />
+      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" timestamp="1468924887173">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="34" />
+        <mark key="." line="79" column="33" />
+        <mark key="^" line="79" column="33" />
       </file>
       <file name="$USER_HOME$/finalspeed-android/app/src/main/java/com/github/qwivan/finalspeed/services/FSIntentService.java" timestamp="1466180528657">
         <mark key="'" line="6" column="51" />
@@ -375,7 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="21" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="12" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="7" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="14" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
@@ -475,10 +474,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
       <jump line="13" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
       <jump line="9" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0cy51bmxvY2sgPSBmdW5jdGlvbiAoc3VjY2VzcyxlcnJvcikgewogICAgZXhlYyhzdWNjZXNzLCBlcnJvciwgIlZpZGVvVGFsayIsICJ1bmxvY2siLCBbXSk7Cn07Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxsYmFja0NvbnRleHQuc3VjY2VzcygpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>stop_sip</text>
@@ -487,7 +487,7 @@
         <text>unlock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0cy51bmxvY2sgPSBmdW5jdGlvbiAoc3VjY2VzcyxlcnJvcikgewogICAgZXhlYyhzdWNjZXNzLCBlcnJvciwgIlZpZGVvVGFsayIsICJ1bmxvY2siLCBbXSk7Cn07Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxsYmFja0NvbnRleHQuc3VjY2VzcygpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
