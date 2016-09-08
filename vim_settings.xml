@@ -167,6 +167,13 @@
       <file name="$USER_HOME$/smart-home-app/smart-home-app/platforms/Wi-FiConnection/app/src/main/java/com/yunzjia/iot/wi_ficonnection/MyItemRecyclerViewAdapter.java" timestamp="1462525042954">
         <mark key="'" line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" timestamp="1473360896694">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="335" column="0" />
+        <mark key="]" line="335" column="0" />
+        <mark key="^" line="111" column="55" />
+        <mark key="." line="335" column="0" />
+      </file>
       <file name="$USER_HOME$/android-sdk-linux/sources/android-21/android/preference/EditTextPreference.java" timestamp="1461596770016">
         <mark key="'" line="44" column="13" />
       </file>
@@ -375,18 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="14" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="200" column="28" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="206" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="261" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="114" column="59" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="123" column="49" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="124" column="55" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="125" column="88" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="100" column="52" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
-      <jump line="573" column="12" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="594" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="572" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
       <jump line="584" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" />
@@ -475,46 +470,58 @@
       <jump line="9" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
       <jump line="38" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
       <jump line="165" column="53" filename="$USER_HOME$/smart-home-app-2.0.0---jpush/platforms/android/CordovaLib/cordova.gradle" />
+      <jump line="52" column="13" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="334" column="102" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="111" column="22" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="348" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="190" column="8" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="336" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="347" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="39" column="4" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="56" column="4" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="342" column="12" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsYmFja0NvbnRleHQuc3VjY2VzcygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>stop_sip</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>unlock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsYmFja0NvbnRleHQuc3VjY2VzcygpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBzdGF0aWMgU3RyaW5nIEFDVElPTl9DQVBUVVJFX1BJQ1RVUkUgPSAiY2FwdHVyZV9waWN0dXJlIjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWUK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIFNpcENvcmVNYW5hZ2VyLmdldExjKCkuc2VuZER0bWYoJyMnKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>false</text>
-      </register>
-      <register name="4" type="4">
-        <text>false</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJaGlkZVN0YXR1c0JhcigpOwoJCQltQ29udHJvbHNMYXlvdXQuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>service_ready</text>
+        <text>false</text>
       </register>
-      <register name="7" type="4">
-        <text>VideoTalk</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJaGlkZVN0YXR1c0JhcigpOwoJCQltQ29udHJvbHNMYXlvdXQuc2V0VmlzaWJpbGl0eShWaWV3LkdPTkUpOwo=</text>
       </register>
       <register name="8" type="4">
         <text>service_ready</text>
       </register>
       <register name="9" type="4">
-        <text>quict</text>
+        <text>VideoTalk</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
