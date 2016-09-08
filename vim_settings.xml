@@ -273,7 +273,7 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" timestamp="1468924887173">
+      <file name="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" timestamp="1473342364538">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="34" />
@@ -375,7 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="7" column="0" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="14" column="20" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
       <jump line="200" column="28" filename="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/res/layout/call.xml" />
@@ -475,6 +474,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
       <jump line="9" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/assets/www/plugins/VideoTalk/video_talk.js" />
       <jump line="38" column="0" filename="$USER_HOME$/smart-home-app-2.1.0/platforms/android/src/com/yunzjia/videotalk/VideoTalkPlugin.java" />
+      <jump line="165" column="53" filename="$USER_HOME$/smart-home-app-2.0.0---jpush/platforms/android/CordovaLib/cordova.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
