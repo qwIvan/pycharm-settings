@@ -77,7 +77,7 @@
       <file name="$USER_HOME$/下载/smart-home-app-2.0.0/smart-home-app-2.0.0/platforms/android/src/com/yunzjia/videotalk/CallActivity.java" timestamp="1467366635444">
         <mark key="'" line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1473362153682">
+      <file name="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" timestamp="1473751365743">
         <mark key="'" line="69" column="0" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="68" column="1" />
@@ -482,7 +482,6 @@
       <jump line="12" column="1" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" />
       <jump line="65" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" />
       <jump line="66" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" />
       <jump line="46" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
       <jump line="347" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
       <jump line="0" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
@@ -492,6 +491,7 @@
       <jump line="236" column="8" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
       <jump line="24" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
       <jump line="53" column="44" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/src/h2c/yingshi/android/PlayerPlugin.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/下载/com.h2c.homekit/com.h2c.homekit/smart-home-app-2.0.0/platforms/android/assets/www/plugins/YingShi/yingshi.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
