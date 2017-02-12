@@ -6,7 +6,7 @@
       <file name="/usr/lib/python3.6/shlex.py" timestamp="1486934419231">
         <mark key="'" line="58" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1486934051517">
+      <file name="/Python Console" timestamp="1486936742512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -15,12 +15,15 @@
       <file name="/fragment.py" timestamp="1486934483594">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" timestamp="1486934409214">
-        <mark key="'" line="208" column="15" />
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" timestamp="1486936203401">
+        <mark key="'" line="773" column="21" />
         <mark key="j" line="1404" column="0" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/you_get/extractors/youku.py" timestamp="1486933099399">
         <mark key="'" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1486937109754">
+        <mark key="'" line="69" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -36,6 +39,12 @@
       <jump line="206" column="4" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
       <jump line="208" column="15" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
       <jump line="58" column="8" filename="/usr/lib/python3.6/shlex.py" />
+      <jump line="773" column="21" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="0" column="1" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="69" column="18" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="739" column="4" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
     </jumps>
     <registers>
       <register name=":" type="4">
