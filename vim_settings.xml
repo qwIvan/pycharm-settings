@@ -37,8 +37,8 @@
       <file name="/usr/lib/python3.6/site-packages/you_get/extractors/youku.py" timestamp="1486933099399">
         <mark key="'" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1486942034798">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1486943348515">
+        <mark key="'" line="48" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -63,13 +63,9 @@
       <jump line="204" column="54" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
       <jump line="69" column="84" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="56" column="91" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
-      <jump line="48" column="16" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="27" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="66" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="63" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
-      <jump line="82" column="12" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
-      <jump line="110" column="14" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
-      <jump line="8" column="14" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="44" column="8" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/acfun.py" />
       <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/you-get/tests/test_util.py" />
       <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/you-get/tests/test.py" />
@@ -80,6 +76,16 @@
       <jump line="23" column="0" filename="$USER_HOME$/GitHubProjects/you-get/contrib/completion/you-get-completion.bash" />
       <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/you-get/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="20" column="4" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="28" column="4" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="80" column="12" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="53" column="16" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="82" column="12" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="8" column="4" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="110" column="4" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="64" column="12" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="48" column="20" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
     </jumps>
     <registers>
       <register name=":" type="4">
@@ -130,6 +136,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
