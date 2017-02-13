@@ -30,6 +30,9 @@
         <mark key="'" line="444" column="7" />
         <mark key="j" line="1404" column="0" />
       </file>
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qie.py" timestamp="1486979790538">
+        <mark key="'" line="76" column="29" />
+      </file>
       <file name="/usr/lib/python3.6/site-packages/you_get/extractors/youku.py" timestamp="1486933099399">
         <mark key="'" line="4" column="24" />
       </file>
@@ -53,25 +56,15 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/imgur.py" timestamp="1486945878329">
         <mark key="'" line="19" column="6" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1486979166969">
-        <mark key="'" line="19" column="22" />
-        <mark key="[" line="19" column="102" />
-        <mark key="]" line="19" column="102" />
-        <mark key="^" line="19" column="102" />
-        <mark key="." line="19" column="102" />
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1486981377578">
+        <mark key="'" line="172" column="0" />
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="47" />
+        <mark key="^" line="18" column="47" />
+        <mark key="." line="18" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/youku.py" />
-      <jump line="398" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/youku.py" />
-      <jump line="395" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/youku.py" />
-      <jump line="392" column="7" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/youku.py" />
-      <jump line="11" column="1" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/youku.py" />
-      <jump line="182" column="12" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/youku.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
-      <jump line="391" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/youku.py" />
-      <jump line="110" column="22" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
-      <jump line="154" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
       <jump line="184" column="54" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
       <jump line="211" column="16" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
       <jump line="194" column="16" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
@@ -87,7 +80,6 @@
       <jump line="33" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
       <jump line="221" column="13" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
       <jump line="2" column="103" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
-      <jump line="34" column="4" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
       <jump line="132" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/youku.py" />
       <jump line="4" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="14" column="13" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
@@ -131,12 +123,10 @@
       <jump line="427" column="67" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
       <jump line="49" column="21" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="48" column="70" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
-      <jump line="38" column="6" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="67" column="47" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="33" column="6" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="28" column="41" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="55" column="17" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
-      <jump line="57" column="47" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="75" column="18" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="91" column="9" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="88" column="18" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
@@ -150,52 +140,74 @@
       <jump line="387" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/youku.py" />
       <jump line="6" column="15" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="5" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
-      <jump line="23" column="45" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="136" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="32" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="18" column="17" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="0" column="0" filename="/usr/lib/python3.6/json/__init__.py" />
-      <jump line="69" column="36" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="289" column="29" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/iqiyi.py" />
       <jump line="53" column="17" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
       <jump line="396" column="29" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/youku.py" />
       <jump line="102" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="19" column="22" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="30" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
+      <jump line="72" column="32" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qie.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qie.py" />
+      <jump line="175" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="68" column="38" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="76" column="29" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qie.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
+      <jump line="23" column="22" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="34" column="8" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
+      <jump line="24" column="16" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="139" column="10" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="30" column="22" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="38" column="35" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="57" column="52" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="172" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>self.url.startswith('http://live.qq.com')</text>
+        <text>self._domain(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvX2FwaSA9ICdodHRwOi8vdnYudmlkZW8ucXEuY29tL2dldGluZm8/b3R5cGU9anNvbiZhcHB2ZXI9MyUyRTIlMkUxOSUyRTMzMyZwbGF0Zm9ybT0xMSZkZWZucGF5dmVyPTEmdmlkPScgKyB2aWQKICAgICAgICBpbmZvID0gZ2V0X2h0bWwoaW5mb19hcGkpCiAgICAgICAgX2pzb24gPSBqc29uLmxvYWRzKG1hdGNoMShpbmZvLCByJ1FaT3V0cHV0SnNvbj0oLiopJylbOi0xXSkK</text>
+        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybHBhcnNlLHBhcnNlX3FzCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>self.url.startswith('http://live.qq.com')</text>
+        <text>self.url.startswith('http://'+domain) or self.url.startswith('https://'+domain)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJ0c192aWQgPSB2aWRlb19qc29uWyd2bCddWyd2aSddWzBdWyd2aWQnXQogICAgICAgIHBhcnRzX3RpID0gdmlkZW9fanNvblsndmwnXVsndmknXVswXVsndGknXQogICAgICAgIHBhcnRzX3ByZWZpeCA9IHZpZGVvX2pzb25bJ3ZsJ11bJ3ZpJ11bMF1bJ3VsJ11bJ3VpJ11bMF1bJ3VybCddCiAgICAgICAgcGFydHNfZm9ybWF0cyA9IHZpZGVvX2pzb25bJ2ZsJ11bJ2ZpJ10KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxcV9kb3dubG9hZF9ieV92aWQodmlkLCB2aWQsIG91dHB1dF9kaXIsIG1lcmdlLCBpbmZvX29ubHkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHFpZURvd25sb2FkKCkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbmZvX2FwaSA9ICdodHRwOi8vdnYudmlkZW8ucXEuY29tL2dldGluZm8/b3R5cGU9anNvbiZhcHB2ZXI9MyUyRTIlMkUxOSUyRTMzMyZwbGF0Zm9ybT0xMSZkZWZucGF5dmVyPTEmdmlkPScgKyB2aWQKICAgICAgICBpbmZvID0gZ2V0X2h0bWwoaW5mb19hcGkpCiAgICAgICAgX2pzb24gPSBqc29uLmxvYWRzKG1hdGNoMShpbmZvLCByJ1FaT3V0cHV0SnNvbj0oLiopJylbOi0xXSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJ0c192aWQgPSB2aWRlb19qc29uWyd2bCddWyd2aSddWzBdWyd2aWQnXQogICAgICAgIHBhcnRzX3RpID0gdmlkZW9fanNvblsndmwnXVsndmknXVswXVsndGknXQogICAgICAgIHBhcnRzX3ByZWZpeCA9IHZpZGVvX2pzb25bJ3ZsJ11bJ3ZpJ11bMF1bJ3VsJ11bJ3VpJ11bMF1bJ3VybCddCiAgICAgICAgcGFydHNfZm9ybWF0cyA9IHZpZGVvX2pzb25bJ2ZsJ11bJ2ZpJ10KCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGRvd25sb2FkCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
       <register name="-" type="4">
-        <text>'live.qq.com' in url:</text>
+        <text>self.url.startswith('http://'+domain) or self.url.startswith('https://'+domain)</text>
       </register>
       <register name="/" type="4">
-        <text>download</text>
+        <text encoding="base64">XDxxaWVEb3dubG9hZFw+</text>
       </register>
     </registers>
     <search>
-      <last-search>download</last-search>
+      <last-search encoding="base64">XDxxaWVEb3dubG9hZFw+</last-search>
       <last-offset />
-      <last-pattern>download</last-pattern>
+      <last-pattern encoding="base64">XDxxaWVEb3dubG9hZFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -214,6 +226,8 @@
         <entry encoding="base64">XDxwYXJ0c19wcmVmaXhcPg==</entry>
         <entry>getinfo</entry>
         <entry>download</entry>
+        <entry>qiedown</entry>
+        <entry encoding="base64">XDxxaWVEb3dubG9hZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
@@ -262,6 +276,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
