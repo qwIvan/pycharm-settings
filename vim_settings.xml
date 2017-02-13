@@ -16,13 +16,13 @@
       <file name="/usr/lib/python3.6/shlex.py" timestamp="1486934419231">
         <mark key="'" line="58" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1486937248338">
+      <file name="/Python Console" timestamp="1486956071289">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1486937352638">
+      <file name="/fragment.py" timestamp="1486956440626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/musicplayon.py" timestamp="1486948483143" />
@@ -53,24 +53,13 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/imgur.py" timestamp="1486945878329">
         <mark key="'" line="19" column="6" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1486952159588">
-        <mark key="'" line="33" column="6" />
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="17" column="7" />
-        <mark key="." line="17" column="7" />
-        <mark key="^" line="17" column="7" />
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1486956337541">
+        <mark key="'" line="28" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/you-get/tests/test.py" />
-      <jump line="20" column="8" filename="$USER_HOME$/GitHubProjects/you-get/tests/test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/you-get/contrib/completion/you-get-completion.bash" />
-      <jump line="30" column="0" filename="$USER_HOME$/GitHubProjects/you-get/contrib/completion/you-get-completion.bash" />
-      <jump line="2" column="0" filename="$USER_HOME$/GitHubProjects/you-get/contrib/completion/you-get-completion.bash" />
-      <jump line="23" column="0" filename="$USER_HOME$/GitHubProjects/you-get/contrib/completion/you-get-completion.bash" />
       <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/you-get/README.md" />
       <jump line="20" column="4" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
-      <jump line="28" column="4" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="80" column="12" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="70" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="53" column="16" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
@@ -162,6 +151,13 @@
       <jump line="38" column="6" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="67" column="47" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="33" column="6" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="28" column="41" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="55" column="17" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="57" column="47" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="75" column="18" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="91" column="9" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="88" column="18" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="47" column="38" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -180,13 +176,13 @@
         <text>高清;(480P)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJ0c19wcmVmaXhcPg==</text>
+        <text>download</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJ0c19wcmVmaXhcPg==</last-search>
+      <last-search>download</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJ0c19wcmVmaXhcPg==</last-pattern>
+      <last-pattern>download</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -203,6 +199,8 @@
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxiZXN0X3F1YWxpdHlcPg==</entry>
         <entry encoding="base64">XDxwYXJ0c19wcmVmaXhcPg==</entry>
+        <entry>getinfo</entry>
+        <entry>download</entry>
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
