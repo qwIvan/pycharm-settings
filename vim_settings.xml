@@ -16,7 +16,7 @@
       <file name="/usr/lib/python3.6/shlex.py" timestamp="1486934419231">
         <mark key="'" line="58" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1487135453146">
+      <file name="/Python Console" timestamp="1487138509232">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -74,11 +74,11 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/imgur.py" timestamp="1486945878329">
         <mark key="'" line="19" column="6" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1487136073756">
-        <mark key="[" line="159" column="219" />
-        <mark key="]" line="159" column="228" />
-        <mark key="^" line="159" column="228" />
-        <mark key="." line="159" column="228" />
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1487138508349">
+        <mark key="[" line="182" column="220" />
+        <mark key="]" line="183" column="21" />
+        <mark key="^" line="183" column="21" />
+        <mark key="." line="183" column="21" />
       </file>
     </filemarks>
     <jumps>
