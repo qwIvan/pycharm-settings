@@ -74,11 +74,11 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/imgur.py" timestamp="1486945878329">
         <mark key="'" line="19" column="6" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1487135449651">
-        <mark key="[" line="159" column="23" />
-        <mark key="]" line="159" column="23" />
-        <mark key="^" line="159" column="23" />
-        <mark key="." line="159" column="23" />
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1487136073756">
+        <mark key="[" line="159" column="219" />
+        <mark key="]" line="159" column="228" />
+        <mark key="^" line="159" column="228" />
+        <mark key="." line="159" column="228" />
       </file>
     </filemarks>
     <jumps>
@@ -224,7 +224,7 @@
         <text encoding="base64">CiAgICBkZWYgX2dldHZrZXkoc2VsZiwgdmlkKToK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -259,8 +259,8 @@
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
-        <entry>q</entry>
         <entry>vs</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
