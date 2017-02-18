@@ -13,13 +13,15 @@
         <mark key="." line="57" column="8" />
         <mark key="^" line="47" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1487160452386">
+      <file name="/Dummy.txt" timestamp="1487376183580">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/usr/lib/python3.6/shlex.py" timestamp="1486934419231">
         <mark key="'" line="58" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1487374804811">
+      <file name="/Python Console" timestamp="1487376426661">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -76,10 +78,15 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/imgur.py" timestamp="1486945878329">
         <mark key="'" line="19" column="6" />
       </file>
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1487376097074">
+        <mark key="'" line="108" column="14" />
+        <mark key="[" line="223" column="54" />
+        <mark key="]" line="223" column="56" />
+        <mark key="^" line="223" column="56" />
+        <mark key="." line="223" column="56" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="24" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="43" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="8" column="28" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="37" column="38" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
@@ -178,16 +185,18 @@
       <jump line="187" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="195" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="164" column="29" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="97" column="4" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="108" column="14" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>devel</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>devel</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmXD4=</text>
+        <text>weixin</text>
       </register>
       <register name="0" type="4">
         <text>stream_id</text>
@@ -227,15 +236,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmXD4=</last-search>
+      <last-search>weixin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmXD4=</last-pattern>
+      <last-pattern>weixin</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbGlhc1w+</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxiZXN0X3F1YWxpdHlcPg==</entry>
         <entry encoding="base64">XDxwYXJ0c19wcmVmaXhcPg==</entry>
@@ -255,6 +263,7 @@
         <entry encoding="base64">XDxkb3dubG9hZF9ieV92aWRcPg==</entry>
         <entry encoding="base64">XDxpZHhcPg==</entry>
         <entry encoding="base64">XDxmXD4=</entry>
+        <entry>weixin</entry>
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
