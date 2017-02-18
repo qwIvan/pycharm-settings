@@ -86,8 +86,8 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/imgur.py" timestamp="1486945878329">
         <mark key="'" line="19" column="6" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1487397345147">
-        <mark key="'" line="211" column="17" />
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1487398424188">
+        <mark key="'" line="210" column="0" />
         <mark key="[" line="209" column="145" />
         <mark key="]" line="209" column="144" />
         <mark key="^" line="209" column="144" />
@@ -95,20 +95,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="0" filename="/qq.py" />
-      <jump line="160" column="8" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
-      <jump line="59" column="8" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
-      <jump line="53" column="10" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
-      <jump line="272" column="44" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
-      <jump line="235" column="16" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
-      <jump line="34" column="4" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/json_output.py" />
-      <jump line="70" column="19" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
-      <jump line="802" column="12" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
-      <jump line="780" column="12" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
-      <jump line="161" column="23" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
       <jump line="999" column="10" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
       <jump line="1000" column="47" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
       <jump line="1031" column="13" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
@@ -195,6 +181,20 @@
       <jump line="207" column="20" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="230" column="30" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="211" column="17" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="171" column="8" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="150" column="16" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="213" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="142" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="135" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="138" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="145" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="160" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="206" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="210" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -204,7 +204,7 @@
         <text>size</text>
       </register>
       <register name="/" type="4">
-        <text>fid</text>
+        <text>sd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlZ21lbnRzID0gc2VsZi5zdHJlYW1zW3N0cmVhbV9pZF1bJ3NlZ21lbnRzJ10K</text>
@@ -241,9 +241,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fid</last-search>
+      <last-search>sd</last-search>
       <last-offset />
-      <last-pattern>fid</last-pattern>
+      <last-pattern>sd</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -251,7 +251,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJ0c192aWRcPg==</entry>
         <entry>appver</entry>
         <entry>3.2</entry>
         <entry encoding="base64">XDxkb3dubG9hZF9ieV92aWRcPg==</entry>
@@ -271,6 +270,7 @@
         <entry>segmen</entry>
         <entry encoding="base64">XDxzZWdtZW50c1w+</entry>
         <entry>fid</entry>
+        <entry>sd</entry>
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
