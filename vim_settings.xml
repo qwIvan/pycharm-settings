@@ -143,18 +143,18 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_util.py" timestamp="1487916741385">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/github/repo/oh-my-zsh-git/lilac.py" timestamp="1488281744621">
-        <mark key="'" line="11" column="2" />
+      <file name="$USER_HOME$/github/repo/oh-my-zsh-git/lilac.py" timestamp="1488286871230">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/imgur.py" timestamp="1486945878329">
         <mark key="'" line="19" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="100" filename="$USER_HOME$/PycharmProjects/video-simple-backend/you_get/extractors/youtube.py" />
-      <jump line="17" column="100" filename="$USER_HOME$/PycharmProjects/video-simple-backend/you_get/extractors/youtube.py" />
-      <jump line="18" column="98" filename="$USER_HOME$/PycharmProjects/video-simple-backend/you_get/extractors/youtube.py" />
-      <jump line="19" column="100" filename="$USER_HOME$/PycharmProjects/video-simple-backend/you_get/extractors/youtube.py" />
       <jump line="20" column="99" filename="$USER_HOME$/PycharmProjects/video-simple-backend/you_get/extractors/youtube.py" />
       <jump line="21" column="100" filename="$USER_HOME$/PycharmProjects/video-simple-backend/you_get/extractors/youtube.py" />
       <jump line="59" column="30" filename="$USER_HOME$/PycharmProjects/video-simple-backend/video-simple-backend.py" />
@@ -251,6 +251,10 @@
       <jump line="104" column="13" filename="$USER_HOME$/PycharmProjects/video-simple-backend/video-simple-backend.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/repo/oh-my-zsh-git/lilac.py" />
       <jump line="11" column="2" filename="$USER_HOME$/github/repo/oh-my-zsh-git/lilac.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/github/repo/oh-my-zsh-git/lilac.py" />
+      <jump line="12" column="6" filename="$USER_HOME$/github/repo/oh-my-zsh-git/lilac.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/github/repo/oh-my-zsh-git/lilac.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/github/repo/oh-my-zsh-git/lilac.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
