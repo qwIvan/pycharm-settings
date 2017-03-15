@@ -80,6 +80,12 @@
       <file name="$USER_HOME$/flask-peewee-6cit/views.py" timestamp="1487419575592">
         <mark key="'" line="84" column="38" />
       </file>
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1489616628265">
+        <mark key="[" line="221" column="54" />
+        <mark key="]" line="222" column="15" />
+        <mark key="^" line="222" column="15" />
+        <mark key="." line="222" column="15" />
+      </file>
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1487574091055">
         <mark key="'" line="259" column="21" />
       </file>
@@ -90,7 +96,7 @@
         <mark key="." line="177" column="11" />
         <mark key="^" line="177" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489616535446">
+      <file name="/Dummy.txt" timestamp="1489616630539">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="52" />
       </file>
