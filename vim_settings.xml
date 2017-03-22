@@ -80,7 +80,8 @@
       <file name="$USER_HOME$/flask-peewee-6cit/views.py" timestamp="1487419575592">
         <mark key="'" line="84" column="38" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1489616628265">
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1490175938819">
+        <mark key="'" line="231" column="0" />
         <mark key="[" line="221" column="54" />
         <mark key="]" line="222" column="15" />
         <mark key="^" line="222" column="15" />
@@ -154,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="69" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="0" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="169" column="8" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="1" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
@@ -254,6 +254,7 @@
       <jump line="275" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
       <jump line="58" column="12" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" />
       <jump line="209" column="40" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
+      <jump line="231" column="0" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
