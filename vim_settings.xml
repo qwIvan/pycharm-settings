@@ -26,8 +26,8 @@
       <file name="/a.dummy" timestamp="1490182217977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/test.py" timestamp="1490273554121">
-        <mark key="'" line="42" column="55" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/test.py" timestamp="1490281380864">
+        <mark key="'" line="47" column="0" />
         <mark key="[" line="54" column="89" />
         <mark key="]" line="54" column="89" />
         <mark key="^" line="54" column="104" />
@@ -191,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="13" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="9" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
       <jump line="60" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="75" column="8" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
@@ -291,6 +290,7 @@
       <jump line="42" column="44" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
       <jump line="56" column="17" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
       <jump line="42" column="55" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
