@@ -10,6 +10,9 @@
         <mark key="^" line="76" column="34" />
         <mark key="." line="76" column="34" />
       </file>
+      <file name="/start_script.py" timestamp="1490266003360">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/qqlib/qq.py" timestamp="1490182397783">
         <mark key="'" line="121" column="6" />
         <mark key="[" line="8" column="0" />
@@ -29,13 +32,6 @@
         <mark key="]" line="27" column="87" />
         <mark key="^" line="27" column="87" />
         <mark key="." line="27" column="87" />
-      </file>
-      <file name="$USER_HOME$/GitHubProjects/termdown/termdown.py" timestamp="1487926177014">
-        <mark key="'" line="281" column="35" />
-        <mark key="[" line="300" column="0" />
-        <mark key="]" line="302" column="43" />
-        <mark key="." line="272" column="17" />
-        <mark key="^" line="301" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/video-simple-backend/you_get/extractors/youku.py" timestamp="1487416691798">
         <mark key="'" line="336" column="17" />
@@ -92,20 +88,6 @@
         <mark key="." line="67" column="51" />
         <mark key="^" line="67" column="51" />
       </file>
-      <file name="$USER_HOME$/github/repo/oh-my-zsh-git/lilac.py" timestamp="1488286871230">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
-      </file>
-      <file name="$USER_HOME$/GitHubProjects/you-get/tests/test.py" timestamp="1487916768946">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="19" />
-        <mark key="^" line="23" column="19" />
-        <mark key="." line="23" column="19" />
-      </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_common.py" timestamp="1487916735898">
         <mark key="'" line="4" column="0" />
       </file>
@@ -143,35 +125,14 @@
       <file name="/usr/lib/python3.6/site-packages/aiohttp/client.py" timestamp="1490182828678">
         <mark key="'" line="83" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/video-simple-backend/video-simple-backend.py" timestamp="1487933392893">
-        <mark key="'" line="104" column="13" />
-        <mark key="[" line="92" column="33" />
-        <mark key="]" line="92" column="33" />
-        <mark key="^" line="92" column="33" />
-        <mark key="." line="92" column="33" />
-      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/.gitignore" timestamp="1490176174389">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="5" />
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1490175938819">
-        <mark key="'" line="231" column="0" />
-        <mark key="[" line="221" column="54" />
-        <mark key="]" line="222" column="15" />
-        <mark key="^" line="222" column="15" />
-        <mark key="." line="222" column="15" />
-      </file>
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1487574091055">
         <mark key="'" line="259" column="21" />
-      </file>
-      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" timestamp="1488904765816">
-        <mark key="'" line="58" column="12" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="61" column="24" />
-        <mark key="." line="177" column="11" />
-        <mark key="^" line="177" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1490238580953">
         <mark key="[" line="0" column="0" />
@@ -188,13 +149,6 @@
         <mark key="'" line="1307" column="0" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/core.py" timestamp="1490187552269" />
-      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/youku.py" timestamp="1487414109677">
-        <mark key="'" line="11" column="12" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="13" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/video-simple-backend/you_get/common.py" timestamp="1487494958923">
         <mark key="'" line="753" column="11" />
       </file>
@@ -223,13 +177,6 @@
         <mark key="]" line="42" column="28" />
         <mark key="^" line="42" column="28" />
         <mark key="." line="42" column="28" />
-      </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/qqlib/qzone.py" timestamp="1490181473462">
-        <mark key="'" line="18" column="15" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="13" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="19" column="13" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_util.py" timestamp="1487916741385">
         <mark key="'" line="5" column="0" />
@@ -484,6 +431,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
