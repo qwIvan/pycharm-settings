@@ -26,12 +26,12 @@
       <file name="/a.dummy" timestamp="1490182217977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/test.py" timestamp="1490272517379">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="53" column="44" />
-        <mark key="^" line="53" column="44" />
-        <mark key="." line="53" column="44" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/test.py" timestamp="1490273554121">
+        <mark key="'" line="42" column="55" />
+        <mark key="[" line="54" column="89" />
+        <mark key="]" line="54" column="89" />
+        <mark key="^" line="54" column="104" />
+        <mark key="." line="54" column="89" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/video-simple-backend/you_get/extractors/youku.py" timestamp="1487416691798">
         <mark key="'" line="336" column="17" />
@@ -134,7 +134,7 @@
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1487574091055">
         <mark key="'" line="259" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490238580953">
+      <file name="/Dummy.txt" timestamp="1490273531835">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="52" />
       </file>
@@ -168,8 +168,8 @@
       <file name="/termdown.py" timestamp="1487921151224">
         <mark key="'" line="579" column="58" />
       </file>
-      <file name="/usr/lib/python3.6/site-packages/sanic/testing.py" timestamp="1490271349639">
-        <mark key="'" line="6" column="16" />
+      <file name="/usr/lib/python3.6/site-packages/sanic/testing.py" timestamp="1490273058504">
+        <mark key="'" line="56" column="17" />
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="27" />
       </file>
@@ -191,16 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="17" filename="$USER_HOME$/coding/qqdownload-tcp/qq.py" />
-      <jump line="16" column="34" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
-      <jump line="4" column="9" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
-      <jump line="5" column="3" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
-      <jump line="71" column="47" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
-      <jump line="72" column="8" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
-      <jump line="91" column="8" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
-      <jump line="62" column="58" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
-      <jump line="6" column="19" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
-      <jump line="3" column="20" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
       <jump line="42" column="13" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="9" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
       <jump line="60" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
@@ -278,7 +268,6 @@
       <jump line="6" column="16" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
       <jump line="0" column="0" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
       <jump line="40" column="30" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
-      <jump line="10" column="14" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
       <jump line="41" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
       <jump line="29" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
       <jump line="33" column="6" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
@@ -291,16 +280,27 @@
       <jump line="47" column="6" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="64" column="6" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="29" column="6" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="24" column="16" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
+      <jump line="49" column="40" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
+      <jump line="73" column="0" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
+      <jump line="10" column="20" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
+      <jump line="27" column="47" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
+      <jump line="33" column="17" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
+      <jump line="34" column="24" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
+      <jump line="37" column="59" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
+      <jump line="42" column="44" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
+      <jump line="56" column="17" filename="/usr/lib/python3.6/site-packages/sanic/testing.py" />
+      <jump line="42" column="55" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiCiAgICBpcGRiLnNldF90cmFjZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>, load_body=True</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>, load_body=True</text>
       </register>
       <register name="/" type="4">
-        <text>try</text>
+        <text>_request</text>
       </register>
       <register name="0" type="4">
         <text>_local_request</text>
@@ -337,9 +337,9 @@
       </register>
     </registers>
     <search>
-      <last-search>try</last-search>
+      <last-search>_request</last-search>
       <last-offset />
-      <last-pattern>try</last-pattern>
+      <last-pattern>_request</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -347,7 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
         <entry>qzone</entry>
         <entry>text</entry>
         <entry encoding="base64">XDx0ZXh0XD4=</entry>
@@ -367,6 +366,7 @@
         <entry encoding="base64">XDx1cmxzXD4=</entry>
         <entry>log</entry>
         <entry>try</entry>
+        <entry>_request</entry>
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
