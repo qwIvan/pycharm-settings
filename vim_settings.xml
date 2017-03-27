@@ -49,11 +49,11 @@
         <mark key="^" line="27" column="10" />
         <mark key="." line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/test.py" timestamp="1490569437914">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/test.py" timestamp="1490587764960">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="38" column="22" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/aiohttp/client_reqrep.py" timestamp="1490478854574" />
@@ -138,7 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="6" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-90075201/-337502517/qqlib/__init__.py" />
       <jump line="65" column="6" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-90075201/-337502517/qqlib/__init__.py" />
       <jump line="11" column="43" filename="$USER_HOME$/coding/qqdownload-tcp/_qq.py" />
       <jump line="87" column="7" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-90075201/-337502517/qqlib/__init__.py" />
@@ -238,10 +237,11 @@
       <jump line="45" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
       <jump line="49" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dGV4dCwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBpbXBvcnQgYWlvaHR0cAojIGltcG9ydCBhc3luY2lvCiMgZnJvbSB3ZWl5dW4gaW1wb3J0IFdlaVl1bgojIGZyb20gY29yZSBpbXBvcnQgcmVzb2x2ZQojIGZyb20gaG9zdHMgaW1wb3J0IFVSTFJlc291cmNlCiMKIwojIGFzeW5jIGRlZiBtYWluKCk6CiMgICAgIGhhc2hjb2RlID0gJ2Y5ODRiOGVlY2RjMjhkOWRmZGVkNTljN2Y5MjdhNGM3Njg2ZDdiMmYnCiMgICAgIHdpdGggYWlvaHR0cC5DbGllbnRTZXNzaW9uKCkgYXMgc2Vzc2lvbjoKIyAgICAgICAgIGZpbGVzID0gYXdhaXQgV2VpWXVuKHNlc3Npb24pLmZpbGVsaXN0KGhhc2hjb2RlKQojICAgICAgICAgY29kZSwgRlRONUsgPSBhd2FpdCByZXNvbHZlKGhhc2hjb2RlLCBmaWxlc1syXVsndG9ycmVudF9pbmRleCddLCB0cnlzPTMpCiMgICAgICAgICBwcmludChjb2RlLCBGVE41SykKIyAgICAgICAgIHVybCA9IGF3YWl0IFVSTFJlc291cmNlKHNlc3Npb24pLmF0dGVtcHRVUkwoY29kZSwgRlRONUspCiMgICAgIHByaW50KHVybCkKIwojIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKIyBsb29wLnJ1bl91bnRpbF9jb21wbGV0ZShtYWluKCkpCgoK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dGV4dCwg</text>
@@ -253,31 +253,31 @@
         <text>dfeb8b53428cf63389d249a413b85c0c048ac104</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiMgcHJpbnQoJ1FRIGxvZ2luLi4uJykKIyBxcSA9IHFxbGliLlFRKDk4NDEzNDA5NiwgJ2sxNWs1azUxMmc2aicpCiMgcXEubG9naW4oKQojIHByaW50KCdsb2dpbicpCgoKCgojIHNrZXkgPSBxcS5zZXNzaW9uLmNvb2tpZXNbJ3NrZXknXQoK</text>
+        <text encoding="base64">IyBpbXBvcnQgYWlvaHR0cAojIGltcG9ydCBhc3luY2lvCiMgZnJvbSB3ZWl5dW4gaW1wb3J0IFdlaVl1bgojIGZyb20gY29yZSBpbXBvcnQgcmVzb2x2ZQojIGZyb20gaG9zdHMgaW1wb3J0IFVSTFJlc291cmNlCiMKIwojIGFzeW5jIGRlZiBtYWluKCk6CiMgICAgIGhhc2hjb2RlID0gJ2Y5ODRiOGVlY2RjMjhkOWRmZGVkNTljN2Y5MjdhNGM3Njg2ZDdiMmYnCiMgICAgIHdpdGggYWlvaHR0cC5DbGllbnRTZXNzaW9uKCkgYXMgc2Vzc2lvbjoKIyAgICAgICAgIGZpbGVzID0gYXdhaXQgV2VpWXVuKHNlc3Npb24pLmZpbGVsaXN0KGhhc2hjb2RlKQojICAgICAgICAgY29kZSwgRlRONUsgPSBhd2FpdCByZXNvbHZlKGhhc2hjb2RlLCBmaWxlc1syXVsndG9ycmVudF9pbmRleCddLCB0cnlzPTMpCiMgICAgICAgICBwcmludChjb2RlLCBGVE41SykKIyAgICAgICAgIHVybCA9IGF3YWl0IFVSTFJlc291cmNlKHNlc3Npb24pLmF0dGVtcHRVUkwoY29kZSwgRlRONUspCiMgICAgIHByaW50KHVybCkKIwojIGxvb3AgPSBhc3luY2lvLmdldF9ldmVudF9sb29wKCkKIyBsb29wLnJ1bl91bnRpbF9jb21wbGV0ZShtYWluKCkpCgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFpb2h0dHAK</text>
+        <text encoding="base64">CiMgcHJpbnQoJ1FRIGxvZ2luLi4uJykKIyBxcSA9IHFxbGliLlFRKDk4NDEzNDA5NiwgJ2sxNWs1azUxMmc2aicpCiMgcXEubG9naW4oKQojIHByaW50KCdsb2dpbicpCgoKCgojIHNrZXkgPSBxcS5zZXNzaW9uLmNvb2tpZXNbJ3NrZXknXQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBpbXBvcnQgemhpaHUKIyBpbXBvcnQgcXFsaWIK</text>
+        <text encoding="base64">aW1wb3J0IGFpb2h0dHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fc2tleQo=</text>
+        <text encoding="base64">IyBpbXBvcnQgemhpaHUKIyBpbXBvcnQgcXFsaWIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fc2tleQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICA6KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3NrZXkK</text>
+        <text encoding="base64">CiAgICA6KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcXEKICAgICAgICBzZWxmLl9za2V5ID0gYXdhaXQgcXEuc2tleSgnOTg0MTM0MDk2JywgJ2sxNWs1azUxMmc2aicpCiAgICAgICAgcmV0dXJuIHNlbGYuX3NrZXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3NrZXkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IHNlbGYuc2tleShUcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcXEKICAgICAgICBzZWxmLl9za2V5ID0gYXdhaXQgcXEuc2tleSgnOTg0MTM0MDk2JywgJ2sxNWs1azUxMmc2aicpCiAgICAgICAgcmV0dXJuIHNlbGYuX3NrZXkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
