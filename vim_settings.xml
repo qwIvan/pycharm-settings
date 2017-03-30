@@ -23,15 +23,21 @@
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py" timestamp="1487405339639">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1490564479076">
+      <file name="/a.dummy" timestamp="1490882630574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/test.py" timestamp="1490880899569">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/requirements.txt" timestamp="1490882919866">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/test.py" timestamp="1490882371618">
         <mark key="'" line="23" column="24" />
-        <mark key="[" line="38" column="20" />
-        <mark key="]" line="38" column="22" />
-        <mark key="." line="38" column="22" />
-        <mark key="^" line="38" column="22" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/video-simple-backend/you_get/extractors/youku.py" timestamp="1487416691798">
         <mark key="'" line="336" column="17" />
@@ -94,7 +100,7 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_common.py" timestamp="1487916735898">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1490880942658">
+      <file name="/Python Console" timestamp="1490883116455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -120,6 +126,13 @@
         <mark key="^" line="27" column="10" />
         <mark key="." line="27" column="10" />
       </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/test_all.py" timestamp="1490883089131">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/contrib/completion/you-get-completion.bash" timestamp="1486938596337">
         <mark key="'" line="23" column="0" />
       </file>
@@ -134,6 +147,12 @@
         <mark key="]" line="5" column="6" />
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/main_test.py" timestamp="1490882483422">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1490766166672">
         <mark key="'" line="284" column="30" />
@@ -159,6 +178,9 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="43" column="15" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/python-skeletons/pytest/__init__.py" timestamp="1490882873516">
+        <mark key="'" line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" timestamp="1490766271990">
         <mark key="'" line="1249" column="91" />
       </file>
@@ -181,18 +203,13 @@
       <file name="/termdown.py" timestamp="1487921151224">
         <mark key="'" line="579" column="58" />
       </file>
-      <file name="/usr/lib/python3.6/site-packages/sanic/testing.py" timestamp="1490273058504">
-        <mark key="'" line="56" column="17" />
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="27" />
-      </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/json_output.py" timestamp="1487413694680">
         <mark key="'" line="35" column="4" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-90075201/-337502517/qqlib/__init__.py" timestamp="1490481496315">
         <mark key="'" line="76" column="35" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1490879132456">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1490882781663">
         <mark key="'" line="69" column="25" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -207,10 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="53" filename="$USER_HOME$/coding/qqdownload-tcp/_qq.py" />
-      <jump line="53" column="24" filename="$USER_HOME$/coding/qqdownload-tcp/_qq.py" />
-      <jump line="61" column="23" filename="$USER_HOME$/coding/qqdownload-tcp/_qq.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/_qq.py" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/_qq.py" />
       <jump line="62" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/_qq.py" />
       <jump line="47" column="30" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
@@ -307,64 +320,66 @@
       <jump line="24" column="3" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
       <jump line="22" column="15" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
       <jump line="23" column="24" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/main_test.py" />
+      <jump line="16" column="19" filename="$USER_HOME$/coding/qqdownload-tcp/test_all.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-90075201/-337502517/pytest.py" />
+      <jump line="64" column="0" filename="$APPLICATION_HOME_DIR$/helpers/python-skeletons/pytest/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>video//mp4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNrZXkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>video//mp4</text>
+        <text>U</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxza2V5XD4=</text>
+        <text>asyn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCByZXNwb25zZS5oaXN0b3J5Wy0xXS5zdGF0dXMgPT0gMzA3Cg==</text>
+      <register name="0" type="4">
+        <text>f984b8eecdc28d9dfded59c7f927a4c7686d7b2f</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvZGUsIGZ0bjVrKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNrZXkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVybCwgbWltZSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGNvZGUsIGZ0bjVrKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmltcG9ydCBhc3luY2lvCmxvb3A9YXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCmxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHRlc3RfYXR0ZW1wVVJMKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCByZXNwb25zZS5oaXN0b3J5Wy0xXS5zdGF0dXMgPT0gMzAyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDAK</text>
+        <text encoding="base64">ICAgIGFzc2VydCAyPT00Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXMgPT0gMzAyCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNvZGUsIGZ0bjVrKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHVybCwgbWltZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0ZXh0PXFxLnNlc3Npb24ucG9zdCgnaHR0cHM6Ly91c2VyLndlaXl1bi5jb20vbmV3Y2dpL29mZmxpbmVfZG93bmxvYWQuZmNnJywgaGVhZGVycz1oZWFkZXJzLCBwYXJhbXM9cGFyYW1zLCBkYXRhPWRhdGEsIGNvb2tpZXM9Y29va2llcykudGV4dCBncyA9IHJlLnNlYXJjaChyJyJmaWxlX2xpc3QiOiAoLipdKScsIHRleHQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>(await self.httpsession)</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxza2V5XD4=</last-search>
+      <last-search>asyn</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxza2V5XD4=</last-pattern>
+      <last-pattern>asyn</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmZXRjaFw+</entry>
-        <entry>fetch</entry>
         <entry>filelist</entry>
         <entry encoding="base64">XDxhaW9odHRwXD4=</entry>
         <entry encoding="base64">XDxhdHRlbXB0VVJMXD4=</entry>
@@ -383,6 +398,8 @@
         <entry>skey</entry>
         <entry>cookie</entry>
         <entry encoding="base64">XDxza2V5XD4=</entry>
+        <entry>asy</entry>
+        <entry>asyn</entry>
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
