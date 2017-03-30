@@ -100,7 +100,7 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_common.py" timestamp="1487916735898">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1490883116455">
+      <file name="/Python Console" timestamp="1490884424858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -126,11 +126,11 @@
         <mark key="^" line="27" column="10" />
         <mark key="." line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/test_all.py" timestamp="1490884200473">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/test_all.py" timestamp="1490884432140">
         <mark key="'" line="16" column="19" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
         <mark key="^" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/contrib/completion/you-get-completion.bash" timestamp="1486938596337">
@@ -164,9 +164,8 @@
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1487574091055">
         <mark key="'" line="259" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490884082259">
+      <file name="/Dummy.txt" timestamp="1490884439973">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="52" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" timestamp="1490766236853">
         <mark key="'" line="204" column="19" />
@@ -326,11 +325,11 @@
       <jump line="64" column="0" filename="$APPLICATION_HOME_DIR$/helpers/python-skeletons/pytest/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAyPT0zCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>skey()</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>asyn</text>
