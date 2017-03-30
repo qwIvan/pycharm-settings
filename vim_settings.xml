@@ -26,12 +26,12 @@
       <file name="/a.dummy" timestamp="1490564479076">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/test.py" timestamp="1490879447091">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="32" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/test.py" timestamp="1490880899569">
+        <mark key="'" line="23" column="24" />
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="38" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/video-simple-backend/you_get/extractors/youku.py" timestamp="1487416691798">
         <mark key="'" line="336" column="17" />
@@ -52,10 +52,10 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1490878559384">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1490880047265">
         <mark key="'" line="51" column="7" />
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="21" column="26" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="52" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="21" column="26" />
       </file>
@@ -94,7 +94,7 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_common.py" timestamp="1487916735898">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1490879416732">
+      <file name="/Python Console" timestamp="1490880942658">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -207,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="22" filename="$USER_HOME$/coding/qqdownload-tcp/_qq.py" />
-      <jump line="58" column="56" filename="$USER_HOME$/coding/qqdownload-tcp/_qq.py" />
       <jump line="59" column="53" filename="$USER_HOME$/coding/qqdownload-tcp/_qq.py" />
       <jump line="53" column="24" filename="$USER_HOME$/coding/qqdownload-tcp/_qq.py" />
       <jump line="61" column="23" filename="$USER_HOME$/coding/qqdownload-tcp/_qq.py" />
@@ -307,46 +305,48 @@
       <jump line="71" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="69" column="25" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="24" column="3" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
+      <jump line="22" column="15" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
+      <jump line="23" column="24" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXMgPT0gMzAyCg==</text>
+      <register name="&quot;" type="4">
+        <text>video//mp4</text>
       </register>
       <register name="-" type="4">
-        <text>200</text>
+        <text>video//mp4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxza2V5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXMgPT0gMjAwCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCByZXNwb25zZS5oaXN0b3J5Wy0xXS5zdGF0dXMgPT0gMzA3Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXMgPT0gMzAyCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNvZGUsIGZ0bjVrKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHVybCwgbWltZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0ZXh0PXFxLnNlc3Npb24ucG9zdCgnaHR0cHM6Ly91c2VyLndlaXl1bi5jb20vbmV3Y2dpL29mZmxpbmVfZG93bmxvYWQuZmNnJywgaGVhZGVycz1oZWFkZXJzLCBwYXJhbXM9cGFyYW1zLCBkYXRhPWRhdGEsIGNvb2tpZXM9Y29va2llcykudGV4dCBncyA9IHJlLnNlYXJjaChyJyJmaWxlX2xpc3QiOiAoLipdKScsIHRleHQpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>(await self.httpsession)</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCByZXNwb25zZS5zdGF0dXMgPT0gMzAyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9odHRwc2Vzc2lvbiA9IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBAcHJvcGVydHkKICAgIGFzeW5jIGRlZiBodHRwc2Vzc2lvbihzZWxmKToKICAgICAgICBpZiBzZWxmLl9odHRwc2Vzc2lvbjoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2h0dHBzZXNzaW9uCiAgICAgICAgcmV0dXJuIGF3YWl0IHNlbGYudXBkYXRlX2h0dHBzZXNzaW9uKCkKCiAgICBhc3luYyBkZWYgdXBkYXRlX2h0dHBzZXNzaW9uKHNlbGYpOgogICAgICAgIGlmIHNlbGYuX2h0dHBzZXNzaW9uOgogICAgICAgICAgICBzZWxmLl9odHRwc2Vzc2lvbi5jbG9zZSgpCiAgICAgICAgYXN5bmMgd2l0aCBhaW9odHRwLkNsaWVudFNlc3Npb24oKSBhcyBzZXNzaW9uOgogICAgICAgICAgICBzZWxmLl9odHRwc2Vzc2lvbiA9IHNlc3Npb24KICAgICAgICByZXR1cm4gc2VsZi5faHR0cHNlc3Npb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0ZXh0PXFxLnNlc3Npb24ucG9zdCgnaHR0cHM6Ly91c2VyLndlaXl1bi5jb20vbmV3Y2dpL29mZmxpbmVfZG93bmxvYWQuZmNnJywgaGVhZGVycz1oZWFkZXJzLCBwYXJhbXM9cGFyYW1zLCBkYXRhPWRhdGEsIGNvb2tpZXM9Y29va2llcykudGV4dCBncyA9IHJlLnNlYXJjaChyJyJmaWxlX2xpc3QiOiAoLipdKScsIHRleHQpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luYyB3aXRoIGFpb2h0dHAuQ2xpZW50U2Vzc2lvbigpIGFzIHNlc3Npb246CiAgICAgICAgICAgIHNlbGYuX2h0dHBzZXNzaW9uID0gc2Vzc2lvbgo=</text>
+      <register name="9" type="4">
+        <text>(await self.httpsession)</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
