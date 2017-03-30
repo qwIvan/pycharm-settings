@@ -26,7 +26,7 @@
       <file name="/a.dummy" timestamp="1490882630574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/requirements.txt" timestamp="1490882919866">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/requirements.txt" timestamp="1490884145117">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="13" />
         <mark key="^" line="12" column="13" />
@@ -126,11 +126,11 @@
         <mark key="^" line="27" column="10" />
         <mark key="." line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/test_all.py" timestamp="1490883089131">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/test_all.py" timestamp="1490884200473">
         <mark key="'" line="16" column="19" />
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/contrib/completion/you-get-completion.bash" timestamp="1486938596337">
@@ -164,7 +164,7 @@
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1487574091055">
         <mark key="'" line="259" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490839476648">
+      <file name="/Dummy.txt" timestamp="1490884082259">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="52" />
       </file>
@@ -326,8 +326,8 @@
       <jump line="64" column="0" filename="$APPLICATION_HOME_DIR$/helpers/python-skeletons/pytest/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>skey()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCAyPT0zCg==</text>
       </register>
       <register name="-" type="4">
         <text>skey()</text>
@@ -339,31 +339,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IHNlbGYudXBkYXRlX3NrZXkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNrZXkpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCAyPT0zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNvZGUsIGZ0bjVrKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNrZXkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmltcG9ydCBhc3luY2lvCmxvb3A9YXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCmxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHRlc3RfYXR0ZW1wVVJMKCkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCByZXNwb25zZS5oaXN0b3J5Wy0xXS5zdGF0dXMgPT0gMzAyCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCAyPT00Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50KGNvZGUsIGZ0bjVrKQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CmltcG9ydCBhc3luY2lvCmxvb3A9YXN5bmNpby5nZXRfZXZlbnRfbG9vcCgpCmxvb3AucnVuX3VudGlsX2NvbXBsZXRlKHRlc3RfYXR0ZW1wVVJMKCkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCByZXNwb25zZS5oaXN0b3J5Wy0xXS5zdGF0dXMgPT0gMzAyCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFzc2VydCAyPT00Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVybCwgbWltZSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGNvZGUsIGZ0bjVrKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHVybCwgbWltZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
