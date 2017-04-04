@@ -56,12 +56,12 @@
       <file name="$USER_HOME$/flask-peewee-6cit/auth.py" timestamp="1487419612248">
         <mark key="'" line="46" column="4" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/qq.py" timestamp="1490888548474">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/qq.py" timestamp="1491309392326">
         <mark key="'" line="7" column="6" />
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="12" />
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="30" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1491308361267">
         <mark key="'" line="25" column="43" />
@@ -169,7 +169,7 @@
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1487574091055">
         <mark key="'" line="259" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491308218430">
+      <file name="/Dummy.txt" timestamp="1491309404917">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" timestamp="1490766236853">
@@ -334,7 +334,7 @@
         <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>hashcode</text>
+        <text>'http://libivan.com:6666'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXlfZnJvbV9hdHRyXD4=</text>
