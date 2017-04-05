@@ -94,11 +94,11 @@
       <file name="/usr/lib/python3.6/site-packages/you_get/extractors/youku.py" timestamp="1487403424485">
         <mark key="'" line="393" column="17" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491394032766">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491398097931">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="9" column="61" />
-        <mark key="]" line="9" column="61" />
-        <mark key="." line="9" column="61" />
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="4" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
@@ -354,7 +354,7 @@
         <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob3N0c1w+</text>
