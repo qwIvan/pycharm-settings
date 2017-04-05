@@ -5,5 +5,11 @@
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
       </configuration>
     </remote-server>
+    <remote-server name="do" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///tmp/docker.sock" />
+        <option name="composeExecPath" value="$USER_HOME$/coding/qqdownload-tcp/docker-compose.override.yml" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
