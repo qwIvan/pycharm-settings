@@ -95,11 +95,11 @@
       <file name="/usr/lib/python3.6/site-packages/you_get/extractors/youku.py" timestamp="1487403424485">
         <mark key="'" line="393" column="17" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491360971983">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491362428142">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="37" column="1" />
         <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
@@ -183,7 +183,7 @@
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1487574091055">
         <mark key="'" line="259" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491316561404">
+      <file name="/Dummy.txt" timestamp="1491362008693">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" timestamp="1490766236853">
@@ -348,42 +348,40 @@
         <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>sh-yun-ftn.weiyun.com</text>
+        <text encoding="base64">ICsgc2xvd19ob3N0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob3N0c1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCg==</text>
+      <register name="0" type="4">
+        <text>hz.ftn.qq.com/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdodHRwOi8veGZjZC5jdGZzLmZ0bi5xcS5jb20vJywK</text>
+        <text encoding="base64">c2xvd19ob3N0ID0gWwpdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2h0dHA6Ly9zaC15dW4tZnRuLndlaXl1bi5jb20vJywKICAgICAgICAgICAgJ2h0dHA6Ly9zaC55dW4uZnRuLnFxLmNvbS8nLAogICAgICAgICAgICAnaHR0cDovL3N6LmN0ZnMuZnRuLnFxLmNvbS8nLAo=</text>
+        <text encoding="base64">ICAgICdodHRwOi8vaHouZnRuLnFxLmNvbS8nLCAgIyBzbG93Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCiAgICAnaHR0cDovL3NoLnl1bi5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL3N6LmN0ZnMuZnRuLnFxLmNvbS8nLAo=</text>
+        <text encoding="base64">ICAgICdodHRwOi8veGZjZC5jdGZzLmZ0bi5xcS5jb20vJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdodHRwOi8vc3ouY3Rmcy5mdG4ucXEuY29tLycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2h0dHA6Ly9zaC15dW4tZnRuLndlaXl1bi5jb20vJywKICAgICAgICAgICAgJ2h0dHA6Ly9zaC55dW4uZnRuLnFxLmNvbS8nLAogICAgICAgICAgICAnaHR0cDovL3N6LmN0ZnMuZnRuLnFxLmNvbS8nLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCg==</text>
+        <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCiAgICAnaHR0cDovL3NoLnl1bi5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL3N6LmN0ZnMuZnRuLnFxLmNvbS8nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwCg==</text>
+        <text encoding="base64">ICAgICdodHRwOi8vc3ouY3Rmcy5mdG4ucXEuY29tLycsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CkBhaW9jYWNoZS5jYWNoZWQoYWlvY2FjaGUuY2FjaGVkKHNlcmlhbGl6ZXI9SnNvblNlcmlhbGl6ZXIoKSkpCmFzeW5jIGRlZiBwcm94eV9yZXNvbHZlKGhhc2hjb2RlLCBpbmRleCk6CiAgICBhc3luYyB3aXRoIGh0dHBzZXNzaW9uLmdldCgnaHR0cHM6Ly9saWJpdmFuLmNvbTo5OTkvJyArIGhhc2hjb2RlKSBhcyByZXNwb25zZToKICAgICAgICByZXR1cm4gYXdhaXQgcmVzcG9uc2UudGV4dCgpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNwCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-    
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
