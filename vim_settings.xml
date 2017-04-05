@@ -94,12 +94,12 @@
       <file name="/usr/lib/python3.6/site-packages/you_get/extractors/youku.py" timestamp="1487403424485">
         <mark key="'" line="393" column="17" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491398097931">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491400887770">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
-        <mark key="^" line="10" column="4" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -354,7 +354,7 @@
         <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IyA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob3N0c1w+</text>
@@ -363,31 +363,31 @@
         <text>sh.yun.ftn.qq.com'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXAobGFtYmRhIHI6IHIuaG9zdCwgcmVzdWx0KQo=</text>
+        <text encoding="base64">ICAgICdoei5mdG4ucXEuY29tJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICdoei5mdG4ucXEuY29tJywgICMgc2xvdwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXAobGFtYmRhIHI6IHIuaG9zdCwgcmVzdWx0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVzb2x2ZXIgPSBETlNSZXNvbHZlcihuYW1lc2VydmVycz1bJzExOS4yOS4yOS4yOSddKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwcAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFzeW5jaW8K</text>
+        <text encoding="base64">cmVzb2x2ZXIgPSBETlNSZXNvbHZlcihuYW1lc2VydmVycz1bJzExOS4yOS4yOS4yOSddKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwcC5ydW4oaG9zdD0nMC4wLjAuMCcsIHBvcnQ9ODAsIHdvcmtlcnM9NCwgbG9vcD0pCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwcAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGFzeW5jaW8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFzCg==</text>
+        <text encoding="base64">ICAgIGFwcC5ydW4oaG9zdD0nMC4wLjAuMCcsIHBvcnQ9ODAsIHdvcmtlcnM9NCwgbG9vcD0pCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4vXC8vL2c=</text>
