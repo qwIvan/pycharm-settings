@@ -54,7 +54,7 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/pinterest.py" timestamp="1486948804486">
         <mark key="'" line="39" column="48" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiocache/decorators.py" timestamp="1491314218824">
+      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiocache/decorators.py" timestamp="1491377556605">
         <mark key="'" line="13" column="11" />
         <mark key="[" line="13" column="84" />
         <mark key="]" line="13" column="93" />
@@ -108,6 +108,7 @@
         <mark key="." line="215" column="0" />
         <mark key="^" line="217" column="23" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiocache/utils.py" timestamp="1491377634869" />
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_common.py" timestamp="1487916735898">
         <mark key="'" line="4" column="0" />
       </file>
@@ -198,6 +199,12 @@
       </file>
       <file name="$APPLICATION_HOME_DIR$/helpers/python-skeletons/pytest/__init__.py" timestamp="1490882873516">
         <mark key="'" line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/dns.py" timestamp="1491377882473">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" timestamp="1490766271990">
         <mark key="'" line="1249" column="91" />
@@ -348,7 +355,7 @@
         <text>c</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgc2xvd19ob3N0</text>
+        <text>resovler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob3N0c1w+</text>
@@ -357,31 +364,31 @@
         <text>sh-yun-ftn.weiyun.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFpb2Rucwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2xvd19ob3N0ID0gWwpdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdodHRwOi8vaHouZnRuLnFxLmNvbS8nLCAgIyBzbG93Cg==</text>
+        <text encoding="base64">c2xvd19ob3N0ID0gWwpdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdodHRwOi8veGZjZC5jdGZzLmZ0bi5xcS5jb20vJywK</text>
+        <text encoding="base64">ICAgICdodHRwOi8vaHouZnRuLnFxLmNvbS8nLCAgIyBzbG93Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2h0dHA6Ly9zaC15dW4tZnRuLndlaXl1bi5jb20vJywKICAgICAgICAgICAgJ2h0dHA6Ly9zaC55dW4uZnRuLnFxLmNvbS8nLAogICAgICAgICAgICAnaHR0cDovL3N6LmN0ZnMuZnRuLnFxLmNvbS8nLAo=</text>
+        <text encoding="base64">ICAgICdodHRwOi8veGZjZC5jdGZzLmZ0bi5xcS5jb20vJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCiAgICAnaHR0cDovL3NoLnl1bi5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL3N6LmN0ZnMuZnRuLnFxLmNvbS8nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2h0dHA6Ly9zaC15dW4tZnRuLndlaXl1bi5jb20vJywKICAgICAgICAgICAgJ2h0dHA6Ly9zaC55dW4uZnRuLnFxLmNvbS8nLAogICAgICAgICAgICAnaHR0cDovL3N6LmN0ZnMuZnRuLnFxLmNvbS8nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdodHRwOi8vc3ouY3Rmcy5mdG4ucXEuY29tLycsCg==</text>
+        <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCiAgICAnaHR0cDovL3NoLnl1bi5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL3N6LmN0ZnMuZnRuLnFxLmNvbS8nLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCg==</text>
+        <text encoding="base64">ICAgICdodHRwOi8vc3ouY3Rmcy5mdG4ucXEuY29tLycsCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
