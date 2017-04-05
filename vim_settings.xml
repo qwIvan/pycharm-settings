@@ -95,12 +95,12 @@
       <file name="/usr/lib/python3.6/site-packages/you_get/extractors/youku.py" timestamp="1487403424485">
         <mark key="'" line="393" column="17" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491364875893">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="37" column="1" />
-        <mark key="^" line="22" column="28" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491373922757">
+        <mark key="'" line="31" column="46" />
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="32" />
+        <mark key="^" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -183,7 +183,7 @@
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1487574091055">
         <mark key="'" line="259" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491362008693">
+      <file name="/Dummy.txt" timestamp="1491373757561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractor.py" timestamp="1490766236853">
@@ -242,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1239" column="28" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
       <jump line="1241" column="43" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
       <jump line="1242" column="16" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
       <jump line="1245" column="43" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
@@ -342,6 +341,7 @@
       <jump line="35" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="48" column="33" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
       <jump line="13" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
+      <jump line="31" column="46" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
