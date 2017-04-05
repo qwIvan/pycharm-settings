@@ -95,12 +95,12 @@
       <file name="/usr/lib/python3.6/site-packages/you_get/extractors/youku.py" timestamp="1487403424485">
         <mark key="'" line="393" column="17" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491329867895">
-        <mark key="'" line="48" column="33" />
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="47" />
-        <mark key="." line="21" column="47" />
-        <mark key="^" line="21" column="47" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491360971983">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -242,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1205" column="11" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
       <jump line="1239" column="28" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
       <jump line="1241" column="43" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
       <jump line="1242" column="16" filename="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" />
@@ -342,65 +341,65 @@
       <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="35" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="48" column="33" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>c</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text>sh-yun-ftn.weiyun.com</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0dGxcPg==</text>
+        <text encoding="base64">XDxob3N0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IHJlc3BvbnNlLmhpc3RvcnlbLTFdLnVybAo=</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCg==</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICdodHRwOi8veGZjZC5jdGZzLmZ0bi5xcS5jb20vJywK</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2h0dHA6Ly9zaC15dW4tZnRuLndlaXl1bi5jb20vJywKICAgICAgICAgICAgJ2h0dHA6Ly9zaC55dW4uZnRuLnFxLmNvbS8nLAogICAgICAgICAgICAnaHR0cDovL3N6LmN0ZnMuZnRuLnFxLmNvbS8nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCiAgICAnaHR0cDovL3NoLnl1bi5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL3N6LmN0ZnMuZnRuLnFxLmNvbS8nLAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICdodHRwOi8vc3ouY3Rmcy5mdG4ucXEuY29tLycsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZXNwCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CkBhaW9jYWNoZS5jYWNoZWQoYWlvY2FjaGUuY2FjaGVkKHNlcmlhbGl6ZXI9SnNvblNlcmlhbGl6ZXIoKSkpCmFzeW5jIGRlZiBwcm94eV9yZXNvbHZlKGhhc2hjb2RlLCBpbmRleCk6CiAgICBhc3luYyB3aXRoIGh0dHBzZXNzaW9uLmdldCgnaHR0cHM6Ly9saWJpdmFuLmNvbTo5OTkvJyArIGhhc2hjb2RlKSBhcyByZXNwb25zZToKICAgICAgICByZXR1cm4gYXdhaXQgcmVzcG9uc2UudGV4dCgpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>{
     
 }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgIyBwcmludChoYXNoY29kZSkKICAgICMgbG9nLmluZm8oaGFzaGNvZGUpCiAgICAjIGZpbGVzID0gYXdhaXQgcmVxdWVzdC5hcHAuZmlsZWxpc3QoaGFzaGNvZGUpCiAgICAjICMgdHJ5OgogICAgIyAjIGV4Y2VwdCB3ZWl5dW4uR2V0RmlsZUxpc3RFcnJvciBhcyBlOgogICAgIyAjICAgICBsb2cud2FybihlKQogICAgIyAjICAgICByZXR1cm4ganNvbih7CiAgICAjICMgICAgICAgICAnbXNnJzogJ0dldEZpbGVMaXN0RXJyb3InLAogICAgIyAjICAgICB9LCBzdGF0dXM9NDA0KQogICAgIyAjIGZvciBmIGluIGZpbGVzOgogICAgIyAjIGYucG9wKCd0b3JyZW50X2luZGV4JykKICAgICMgcmV0dXJuIGpzb24oewogICAgIyAgICAgJ2ZpbGVfbGlzdCc6IGZpbGVzLAogICAgIyAgICAgIyAnc3RhdHVzX2NvZGUnOiAyMDAsCiAgICAjICAgICAnaGFzaF9oZXgnOiBoYXNoY29kZSwKICAgICMgfSkKCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwcC5maWxlbGlzdCA9IHByb3h5X2ZpbGVsaXN0Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGh0dHBzZXNzaW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0dGxcPg==</last-search>
+      <last-search encoding="base64">XDxob3N0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0dGxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxob3N0c1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxcVw+</entry>
         <entry encoding="base64">XDxKc29uU2VyaWFsaXplclw+</entry>
         <entry>check.ptlogin2.qq.com</entry>
         <entry>cgi-bin</entry>
@@ -420,6 +419,7 @@
         <entry encoding="base64">XDxhaW9odHRwXD4=</entry>
         <entry>JsonSerializer</entry>
         <entry encoding="base64">XDx0dGxcPg==</entry>
+        <entry encoding="base64">XDxob3N0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
