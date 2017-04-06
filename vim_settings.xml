@@ -94,12 +94,9 @@
       <file name="/usr/lib/python3.6/site-packages/you_get/extractors/youku.py" timestamp="1487403424485">
         <mark key="'" line="393" column="17" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491410423963">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="17" column="19" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491448161090">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -107,7 +104,6 @@
         <mark key="." line="215" column="0" />
         <mark key="^" line="217" column="23" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiocache/utils.py" timestamp="1491377634869" />
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_common.py" timestamp="1487916735898">
         <mark key="'" line="4" column="0" />
       </file>
@@ -151,7 +147,6 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiocache/cache.py" timestamp="1491313987124" />
       <file name="$USER_HOME$/GitHubProjects/you-get/contrib/completion/you-get-completion.bash" timestamp="1486938596337">
         <mark key="'" line="23" column="0" />
       </file>
@@ -356,8 +351,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxob3N0c1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>sh.yun.ftn.qq.com</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCiAgICAnaHR0cDovL3NoLnl1bi5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL3N6LmN0ZnMuZnRuLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly94ZmNkLmN0ZnMuZnRuLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly94Zmx4LnN0b3JlLmNkLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly94Zmx4c3JjLnN0b3JlLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly94ZnNoLmN0ZnMuZnRuLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly94ZnhhLmN0ZnMuZnRuLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly9jZC5jdGZzLmZ0bi5xcS5jb20vJywKICAgICdodHRwOi8vZGlzay5zei5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL3NoLmJ0ZnMuZnRuLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly9zaC5jdGZzLmZ0bi5xcS5jb20vJywKICAgICdodHRwOi8vdGotY3Rmcy5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL3RqLmN0ZnMuZnRuLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly94YS5jdGZzLmZ0bi5xcS5jb20vJywKICAgICdodHRwOi8veGEudGZzLmZ0bi5xcS5jb20vJywKICAgICdodHRwOi8veGcuY3Rmcy5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL2h6LmZ0bi5xcS5jb20vJywgICMgc2xvdwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICdoei5mdG4ucXEuY29tJywK</text>
