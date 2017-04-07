@@ -85,6 +85,9 @@
       <file name="$USER_HOME$/flask-peewee-6cit/views.py" timestamp="1487419575592">
         <mark key="'" line="84" column="38" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/sanic/response.py" timestamp="1491572637617">
+        <mark key="'" line="355" column="16" />
+      </file>
       <file name="/usr/lib/python3.6/shlex.py" timestamp="1486934419231">
         <mark key="'" line="58" column="8" />
       </file>
@@ -101,7 +104,8 @@
       <file name="/usr/lib/python3.6/site-packages/you_get/extractors/youku.py" timestamp="1487403424485">
         <mark key="'" line="393" column="17" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491539603293">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491572817077">
+        <mark key="'" line="89" column="12" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="24" column="35" />
       </file>
@@ -126,12 +130,12 @@
         <mark key="." line="0" column="60" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" timestamp="1491570764390">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" timestamp="1491573227008">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="93" column="48" />
-        <mark key="]" line="93" column="48" />
-        <mark key="." line="93" column="48" />
-        <mark key="^" line="93" column="48" />
+        <mark key="[" line="95" column="31" />
+        <mark key="]" line="95" column="35" />
+        <mark key="." line="95" column="35" />
+        <mark key="^" line="95" column="35" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/qqmain.py" timestamp="1490480780947">
         <mark key="'" line="30" column="21" />
@@ -147,12 +151,12 @@
         <mark key="^" line="27" column="10" />
         <mark key="." line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/node.py" timestamp="1491540007933">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="19" column="54" />
-        <mark key="]" line="19" column="54" />
-        <mark key="." line="19" column="54" />
-        <mark key="^" line="19" column="54" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/node.py" timestamp="1491572823476">
+        <mark key="'" line="66" column="16" />
+        <mark key="[" line="67" column="22" />
+        <mark key="]" line="67" column="22" />
+        <mark key="." line="67" column="22" />
+        <mark key="^" line="67" column="22" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/test_all.py" timestamp="1491380569536">
         <mark key="'" line="26" column="33" />
@@ -242,8 +246,8 @@
       <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-90075201/-337502517/qqlib/__init__.py" timestamp="1490481496315">
         <mark key="'" line="76" column="35" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1491553360591">
-        <mark key="'" line="19" column="15" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1491572039995">
+        <mark key="'" line="59" column="11" />
         <mark key="[" line="58" column="64" />
         <mark key="]" line="58" column="74" />
         <mark key="." line="58" column="74" />
@@ -257,17 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="18" filename="$USER_HOME$/coding/qqdownload-tcp/test_all.py" />
-      <jump line="4" column="18" filename="$USER_HOME$/coding/qqdownload-tcp/test_all.py" />
-      <jump line="33" column="21" filename="$USER_HOME$/coding/qqdownload-tcp/test_all.py" />
-      <jump line="37" column="11" filename="$USER_HOME$/coding/qqdownload-tcp/test_all.py" />
-      <jump line="36" column="53" filename="$USER_HOME$/coding/qqdownload-tcp/test_all.py" />
-      <jump line="29" column="17" filename="$USER_HOME$/coding/qqdownload-tcp/test_all.py" />
-      <jump line="26" column="33" filename="$USER_HOME$/coding/qqdownload-tcp/test_all.py" />
-      <jump line="7" column="45" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiocache/decorators.py" />
-      <jump line="14" column="36" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiocache/decorators.py" />
-      <jump line="15" column="32" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiocache/decorators.py" />
-      <jump line="32" column="24" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiocache/decorators.py" />
       <jump line="60" column="89" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiocache/decorators.py" />
       <jump line="33" column="16" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiocache/decorators.py" />
       <jump line="17" column="11" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiocache/decorators.py" />
@@ -309,8 +302,6 @@
       <jump line="39" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="2" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="22" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="13" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
       <jump line="31" column="46" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
       <jump line="5" column="22" filename="$USER_HOME$/coding/qqdownload-tcp/dns.py" />
@@ -357,48 +348,61 @@
       <jump line="25" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
       <jump line="86" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
       <jump line="21" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
+      <jump line="59" column="11" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
+      <jump line="66" column="16" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
+      <jump line="340" column="7" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/sanic/response.py" />
+      <jump line="355" column="16" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/sanic/response.py" />
+      <jump line="54" column="35" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
+      <jump line="89" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>$saved_</text>
+        <text>redirect_location;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxob3N0c1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>$saved_redirect_location</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNldCAkc2F2ZWRfcmVkaXJlY3RfbG9jYXRpb24gJyR1cHN0cmVhbV9odHRwX2xvY2F0aW9uJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsb2dfZm9ybWF0IGRlYnVnICckc2F2ZWRfcmVkaXJlY3RfbG9jYXRpb24nOwo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZ19mb3JtYXQgZGVidWcgJyRzYXZlZF9yZWRpcmVjdF9sb2NhdGlvbic7Cg==</text>
+        <text encoding="base64">ICBsb2dfZm9ybWF0IGRlYnVnICckc2F2ZWRfcmVkaXJlY3RfbG9jYXRpb24nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ19mb3JtYXQgZGVidWcgJyRzYXZlZF9yZWRpcmVjdF9sb2NhdGlvbic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnVwc3RyZWFtIGJhY2tlbmQgewogIHNlcnZlciBzaC15dW4tZnRuLndlaXl1bi5jb207CiAgc2VydmVyIHNoLnl1bi5mdG4ucXEuY29tOwogIHNlcnZlciBzei5jdGZzLmZ0bi5xcS5jb207CiAgc2VydmVyIHhmY2QuY3Rmcy5mdG4ucXEuY29tOwogIHNlcnZlciB4Zmx4LnN0b3JlLmNkLnFxLmNvbTsKICBzZXJ2ZXIgeGZseHNyYy5zdG9yZS5xcS5jb207CiAgc2VydmVyIHhmc2guY3Rmcy5mdG4ucXEuY29tOwogIHNlcnZlciB4ZnhhLmN0ZnMuZnRuLnFxLmNvbTsKICBzZXJ2ZXIgY2QuY3Rmcy5mdG4ucXEuY29tOwogIHNlcnZlciBkaXNrLnN6LmZ0bi5xcS5jb207CiAgc2VydmVyIHNoLmJ0ZnMuZnRuLnFxLmNvbTsKICBzZXJ2ZXIgc2guY3Rmcy5mdG4ucXEuY29tOwogIHNlcnZlciB0ai1jdGZzLmZ0bi5xcS5jb207CiAgc2VydmVyIHRqLmN0ZnMuZnRuLnFxLmNvbTsKICBzZXJ2ZXIgeGEuY3Rmcy5mdG4ucXEuY29tOwogIHNlcnZlciB4YS50ZnMuZnRuLnFxLmNvbTsKICBzZXJ2ZXIgeGcuY3Rmcy5mdG4ucXEuY29tOwogIHNlcnZlciBoei5mdG4ucXEuY29tOwogIGZhaXI7Cn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CnVwc3RyZWFtIGJhY2tlbmQgewogIHNlcnZlciBzaC15dW4tZnRuLndlaXl1bi5jb207CiAgc2VydmVyIHNoLnl1bi5mdG4ucXEuY29tOwogIHNlcnZlciBzei5jdGZzLmZ0bi5xcS5jb207CiAgc2VydmVyIHhmY2QuY3Rmcy5mdG4ucXEuY29tOwogIHNlcnZlciB4Zmx4LnN0b3JlLmNkLnFxLmNvbTsKICBzZXJ2ZXIgeGZseHNyYy5zdG9yZS5xcS5jb207CiAgc2VydmVyIHhmc2guY3Rmcy5mdG4ucXEuY29tOwogIHNlcnZlciB4ZnhhLmN0ZnMuZnRuLnFxLmNvbTsKICBzZXJ2ZXIgY2QuY3Rmcy5mdG4ucXEuY29tOwogIHNlcnZlciBkaXNrLnN6LmZ0bi5xcS5jb207CiAgc2VydmVyIHNoLmJ0ZnMuZnRuLnFxLmNvbTsKICBzZXJ2ZXIgc2guY3Rmcy5mdG4ucXEuY29tOwogIHNlcnZlciB0ai1jdGZzLmZ0bi5xcS5jb207CiAgc2VydmVyIHRqLmN0ZnMuZnRuLnFxLmNvbTsKICBzZXJ2ZXIgeGEuY3Rmcy5mdG4ucXEuY29tOwogIHNlcnZlciB4YS50ZnMuZnRuLnFxLmNvbTsKICBzZXJ2ZXIgeGcuY3Rmcy5mdG4ucXEuY29tOwogIHNlcnZlciBoei5mdG4ucXEuY29tOwogIGZhaXI7Cn0KCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">I0ZST00gY29vay9uZ2lueC1wYWdlc3BlZWQKI0FERCBxcWRvd25sb2FkLmNvbmYgL2V0Yy9uZ2lueC9zaXRlcy1lbmFibGVkL2RlZmF1bHQuY29uZgo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>#
 #</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByb3h5X3Bhc3MgJHNhdmVkX3JlZGlyZWN0X2xvY2F0aW9uOwo=</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>#
 #</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">I0NNRCBbIm5naW54IiwgIi1nIiwgImRhZW1vbiBvZmY7Il0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
