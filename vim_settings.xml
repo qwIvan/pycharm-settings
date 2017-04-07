@@ -107,7 +107,7 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_common.py" timestamp="1487916735898">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1491540099461">
+      <file name="/Python Console" timestamp="1491553820329">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -228,12 +228,12 @@
       <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-90075201/-337502517/qqlib/__init__.py" timestamp="1490481496315">
         <mark key="'" line="76" column="35" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1491312065983">
-        <mark key="'" line="55" column="32" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="47" />
-        <mark key="." line="60" column="25" />
-        <mark key="^" line="60" column="25" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1491553360591">
+        <mark key="'" line="19" column="15" />
+        <mark key="[" line="58" column="64" />
+        <mark key="]" line="58" column="74" />
+        <mark key="." line="58" column="74" />
+        <mark key="^" line="58" column="74" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_util.py" timestamp="1487916741385">
         <mark key="'" line="5" column="0" />
@@ -243,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="3" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
       <jump line="22" column="15" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
       <jump line="23" column="24" filename="$USER_HOME$/coding/qqdownload-tcp/test.py" />
       <jump line="51" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/main_test.py" />
@@ -343,6 +342,7 @@
       <jump line="48" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
       <jump line="45" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
       <jump line="37" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
+      <jump line="19" column="15" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -385,7 +385,7 @@
         <text encoding="base64">ICAgIGFwcC5ydW4oaG9zdD0nMC4wLjAuMCcsIHBvcnQ9ODAsIHdvcmtlcnM9NCwgbG9vcD0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz4vXC8vL2c=</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -439,8 +439,8 @@
         <entry>set showmode</entry>
         <entry>actionlist</entry>
         <entry>set surround</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz4vXC8vL2c=</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
