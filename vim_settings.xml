@@ -59,6 +59,11 @@
         <mark key="[" line="13" column="84" />
         <mark key="]" line="13" column="93" />
       </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/Dockerfile-nginx" timestamp="1491555879862">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/flask-peewee-6cit/auth.py" timestamp="1487419612248">
         <mark key="'" line="46" column="4" />
       </file>
@@ -69,7 +74,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1491379943807">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1491555843985">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="90" column="46" />
         <mark key="]" line="90" column="46" />
@@ -107,7 +112,7 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_common.py" timestamp="1487916735898">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1491553820329">
+      <file name="/Python Console" timestamp="1491555562367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -118,6 +123,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="60" />
         <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" timestamp="1491554928384">
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="4" />
+        <mark key="." line="71" column="4" />
+        <mark key="^" line="71" column="4" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/qqmain.py" timestamp="1490480780947">
         <mark key="'" line="30" column="21" />
@@ -225,6 +236,7 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/json_output.py" timestamp="1487413694680">
         <mark key="'" line="35" column="4" />
       </file>
+      <file name="/server.py" timestamp="1491555833595" />
       <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-90075201/-337502517/qqlib/__init__.py" timestamp="1490481496315">
         <mark key="'" line="76" column="35" />
       </file>
@@ -357,32 +369,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICdodHRwOi8vc2gteXVuLWZ0bi53ZWl5dW4uY29tLycsCiAgICAnaHR0cDovL3NoLnl1bi5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL3N6LmN0ZnMuZnRuLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly94ZmNkLmN0ZnMuZnRuLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly94Zmx4LnN0b3JlLmNkLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly94Zmx4c3JjLnN0b3JlLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly94ZnNoLmN0ZnMuZnRuLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly94ZnhhLmN0ZnMuZnRuLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly9jZC5jdGZzLmZ0bi5xcS5jb20vJywKICAgICdodHRwOi8vZGlzay5zei5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL3NoLmJ0ZnMuZnRuLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly9zaC5jdGZzLmZ0bi5xcS5jb20vJywKICAgICdodHRwOi8vdGotY3Rmcy5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL3RqLmN0ZnMuZnRuLnFxLmNvbS8nLAogICAgJ2h0dHA6Ly94YS5jdGZzLmZ0bi5xcS5jb20vJywKICAgICdodHRwOi8veGEudGZzLmZ0bi5xcS5jb20vJywKICAgICdodHRwOi8veGcuY3Rmcy5mdG4ucXEuY29tLycsCiAgICAnaHR0cDovL2h6LmZ0bi5xcS5jb20vJywgICMgc2xvdwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICdoei5mdG4ucXEuY29tJywK</text>
+      <register name="1" type="8">
+        <text>#
+#</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdoei5mdG4ucXEuY29tJywgICMgc2xvdwo=</text>
+        <text encoding="base64">I0NNRCBbIm5naW54IiwgIi1nIiwgImRhZW1vbiBvZmY7Il0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXAobGFtYmRhIHI6IHIuaG9zdCwgcmVzdWx0KQo=</text>
+      <register name="3" type="8">
+        <text>#
+#</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgIHJld3JpdGUgLiogJHNhdmVkX3JlZGlyZWN0X2xvY2F0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
+        <text encoding="base64">ICAgICdoei5mdG4ucXEuY29tJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVzb2x2ZXIgPSBETlNSZXNvbHZlcihuYW1lc2VydmVycz1bJzExOS4yOS4yOS4yOSddKQo=</text>
+        <text encoding="base64">ICAgICdoei5mdG4ucXEuY29tJywgICMgc2xvdwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGFwcAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBtYXAobGFtYmRhIHI6IHIuaG9zdCwgcmVzdWx0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFzeW5jaW8K</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwcC5ydW4oaG9zdD0nMC4wLjAuMCcsIHBvcnQ9ODAsIHdvcmtlcnM9NCwgbG9vcD0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1cmwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
