@@ -11,5 +11,10 @@
         <option name="composeExecPath" value="$USER_HOME$/coding/qqdownload-tcp/docker-compose.override.yml" />
       </configuration>
     </remote-server>
+    <remote-server name="rfc" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://rfc:2375" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
