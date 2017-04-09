@@ -76,12 +76,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1491713371470">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1491723073968">
         <mark key="'" line="27" column="35" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="20" />
-        <mark key="." line="33" column="20" />
-        <mark key="^" line="35" column="24" />
+        <mark key="[" line="36" column="31" />
+        <mark key="]" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+        <mark key="^" line="36" column="39" />
       </file>
       <file name="$USER_HOME$/flask-peewee-6cit/views.py" timestamp="1487419575592">
         <mark key="'" line="84" column="38" />
@@ -119,7 +119,7 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_common.py" timestamp="1487916735898">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1491713434947">
+      <file name="/Python Console" timestamp="1491723088087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -370,13 +370,13 @@
         <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>\x88\x63</text>
+        <text>0\r\n\r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXlcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>testing</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZS53cml0ZShiJ3RlZXR0dCcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlLndyaXRlKGIndGVldHR0JykK</text>
