@@ -80,10 +80,12 @@
       <file name="$USER_HOME$/flask-peewee-6cit/views.py" timestamp="1487419575592">
         <mark key="'" line="84" column="38" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/sanic/response.py" timestamp="1491796491752">
+      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/sanic/response.py" timestamp="1491819821548">
         <mark key="'" line="121" column="8" />
-        <mark key="[" line="129" column="28" />
-        <mark key="]" line="130" column="61" />
+        <mark key="[" line="130" column="31" />
+        <mark key="]" line="130" column="38" />
+        <mark key="." line="130" column="38" />
+        <mark key="^" line="130" column="38" />
       </file>
       <file name="/usr/lib/python3.6/shlex.py" timestamp="1486934419231">
         <mark key="'" line="58" column="8" />
@@ -121,7 +123,7 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_common.py" timestamp="1487916735898">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1491801706122">
+      <file name="/Python Console" timestamp="1491819795545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -374,7 +376,7 @@
         <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>str(len(data)).encode()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJlYW1pbmdIVFRQUmVzcG9uc2VcPg==</text>
