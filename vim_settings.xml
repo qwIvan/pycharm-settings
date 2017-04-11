@@ -70,12 +70,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1491893578766">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="23" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1491905601601">
+        <mark key="'" line="45" column="40" />
+        <mark key="[" line="46" column="45" />
+        <mark key="]" line="46" column="59" />
+        <mark key="." line="46" column="59" />
+        <mark key="^" line="46" column="59" />
       </file>
       <file name="$USER_HOME$/flask-peewee-6cit/views.py" timestamp="1487419575592">
         <mark key="'" line="84" column="38" />
@@ -126,7 +126,7 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_common.py" timestamp="1487916735898">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1491892444512">
+      <file name="/Python Console" timestamp="1491905578158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -258,6 +258,9 @@
       <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-90075201/-337502517/qqlib/__init__.py" timestamp="1490481496315">
         <mark key="'" line="76" column="35" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/249573927/asyncio/tasks.py" timestamp="1491903708862">
+        <mark key="'" line="405" column="17" />
+      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1491572039995">
         <mark key="'" line="59" column="11" />
         <mark key="[" line="58" column="64" />
@@ -273,8 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="19" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
-      <jump line="104" column="1" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
       <jump line="83" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
       <jump line="6" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/Dockerfile-nginx" />
       <jump line="1" column="9" filename="$USER_HOME$/coding/qqdownload-tcp/Dockerfile-nginx" />
@@ -354,7 +355,6 @@
       <jump line="27" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="47" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="29" column="17" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="41" column="21" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="55" column="11" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="311" column="7" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/sanic/response.py" />
       <jump line="316" column="0" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/sanic/response.py" />
@@ -373,10 +373,93 @@
       <jump line="34" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/main.py" />
       <jump line="77" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
+      <jump line="41" column="31" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="45" column="40" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="405" column="4" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/249573927/asyncio/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>c</text>
+      </register>
+      <register name="b" type="4">
+        <keys>
+          <key char="98" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1832,40 +1915,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>session=</text>
+        <text>map(asyncio.ensure_future, tasks)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJlYW1pbmdIVFRQUmVzcG9uc2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmdXR1cmUgPSBhc3luY2lvLmdhdGhlcigqdGFza3MsIHJldHVybl9leGNlcHRpb25zPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvd250ZXN0KHNlc3Npb24sIDIwMDAwMCwgW2kgZm9yIGkgaW4gcmFuZ2UoMCwgMTAwMCwgMildKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGZ1dHVyZS5yZXN1bHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza3MgPSBbYXN5bmNpby5lbnN1cmVfZnV0dXJlKGMpIGZvciBjIGluIGNvcm91dGluZXNdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhc2tzID0gW2Rvd250ZXN0KCldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29yb3V0aW5lcyA9IFtkb3dudGVzdChzZXNzaW9uLCBzLCAyMDAwMDApIGZvciBzIGluIHJhbmdlKDAsIDIwMCldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IHRbJ3N0YXJ0J10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaXplCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIHdpdGggc2Vzc2lvbi5nZXQodXJsLCBoZWFkZXJzPXsnQ29va2llJzogY29va2llfSwgdGltZW91dD01KSBhcyByZXNwb25zZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5hc19jb21wbGV0ZWQoY29yb3V0aW5lcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGZ1dHVyZS5yZXN1bHQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRhc2tzID0gW2Rvd250ZXN0KCldCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
