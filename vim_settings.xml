@@ -70,12 +70,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1491905601601">
-        <mark key="'" line="45" column="40" />
-        <mark key="[" line="46" column="45" />
-        <mark key="]" line="46" column="59" />
-        <mark key="." line="46" column="59" />
-        <mark key="^" line="46" column="59" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1491906898325">
+        <mark key="'" line="23" column="15" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="26" column="12" />
       </file>
       <file name="$USER_HOME$/flask-peewee-6cit/views.py" timestamp="1487419575592">
         <mark key="'" line="84" column="38" />
@@ -109,7 +109,7 @@
       <file name="/" timestamp="1491796925865">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491893471601">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491907453432">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="63" />
@@ -126,7 +126,7 @@
       <file name="$USER_HOME$/GitHubProjects/you-get/tests/test_common.py" timestamp="1487916735898">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1491905578158">
+      <file name="/Python Console" timestamp="1491906559420">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -276,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
       <jump line="6" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/Dockerfile-nginx" />
       <jump line="1" column="9" filename="$USER_HOME$/coding/qqdownload-tcp/Dockerfile-nginx" />
       <jump line="76" column="40" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
@@ -376,6 +375,7 @@
       <jump line="41" column="31" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="45" column="40" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="405" column="4" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/249573927/asyncio/tasks.py" />
+      <jump line="23" column="15" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1915,7 +1915,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>map(asyncio.ensure_future, tasks)</text>
+        <text encoding="base64">IGFzIHJlc3A6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJlYW1pbmdIVFRQUmVzcG9uc2VcPg==</text>
@@ -1924,31 +1924,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvd250ZXN0KHNlc3Npb24sIDIwMDAwMCwgW2kgZm9yIGkgaW4gcmFuZ2UoMCwgMTAwMCwgMildKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza3MgPSBbYXN5bmNpby5lbnN1cmVfZnV0dXJlKGMpIGZvciBjIGluIGNvcm91dGluZXNdCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBhc3luY2lvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29yb3V0aW5lcyA9IFtkb3dudGVzdChzZXNzaW9uLCBzLCAyMDAwMDApIGZvciBzIGluIHJhbmdlKDAsIDIwMCldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza3MgPSBbYXN5bmNpby5lbnN1cmVfZnV0dXJlKGMpIGZvciBjIGluIGNvcm91dGluZXNdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCA9IHRbJ3N0YXJ0J10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29yb3V0aW5lcyA9IFtkb3dudGVzdChzZXNzaW9uLCBzLCAyMDAwMDApIGZvciBzIGluIHJhbmdlKDAsIDIwMCldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IHRbJ3N0YXJ0J10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzaXplCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5hc19jb21wbGV0ZWQoY29yb3V0aW5lcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGZ1dHVyZS5yZXN1bHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmNpby5hc19jb21wbGV0ZWQoY29yb3V0aW5lcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRhc2tzID0gW2Rvd250ZXN0KCldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGZ1dHVyZS5yZXN1bHQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
