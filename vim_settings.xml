@@ -70,12 +70,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1491892429737">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1491893578766">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="29" column="28" />
-        <mark key="]" line="29" column="42" />
-        <mark key="." line="29" column="28" />
-        <mark key="^" line="30" column="53" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="39" column="23" />
       </file>
       <file name="$USER_HOME$/flask-peewee-6cit/views.py" timestamp="1487419575592">
         <mark key="'" line="84" column="38" />
@@ -109,10 +109,10 @@
       <file name="/" timestamp="1491796925865">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491892196693">
-        <mark key="'" line="89" column="12" />
-        <mark key="[" line="41" column="36" />
-        <mark key="]" line="41" column="61" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1491893471601">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="63" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -273,8 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="15" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
-      <jump line="9" column="26" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
       <jump line="78" column="19" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
       <jump line="104" column="1" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
       <jump line="83" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
@@ -373,6 +371,8 @@
       <jump line="40" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="56" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="34" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/main.py" />
+      <jump line="77" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1832,40 +1832,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>xfcd.ctfs.ftn.qq.com</text>
+        <text>session=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdHJlYW1pbmdIVFRQUmVzcG9uc2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>headers={'Cookie': cookie}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmdXR1cmUgPSBhc3luY2lvLmdhdGhlcigqdGFza3MsIHJldHVybl9leGNlcHRpb25zPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoZWFkZXJzPXsnQ29va2llJzogJyd9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGZ1dHVyZS5yZXN1bHQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlLndyaXRlKGInR0lGODlhXHgwMVx4MDBceDAxXHgwMFx4ODBceGZmXHgwMFx4ZmZceGZmXHhmZlx4MDBceDAwXHgwMCxceDAwXHgwMFx4MDBceDAwXHgwMVx4MDBceDAxXHgwMFx4MDBceDAyXHgwMkRceDAxXHgwMDsnKQogICAgICAgICMgcmUud3JpdGUoYidHSUY4OWFceDAxXHgwMFx4MDEnKQogICAgICAgICMgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIHRhc2tzID0gW2Rvd250ZXN0KCldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcmV0dXJuCiAgICAgICAgIyAgICAgICAgICAgICBwcmludChkYXRhKQogICAgICAgICMgICAgICAgICAgICAgIyByZS53cml0ZShkYXRhWzotMjVdKQogICAgICAgICMgICAgICAgICByZS53cml0ZShiJ0dJRjg5YVx4MDFceDAwXHgwMVx4MDBceDgwXHhmZlx4MDBceGZmXHhmZlx4ZmZceDAwXHgwMFx4MDAsXHgwMFx4MDBceDAwXHgwMFx4MDFceDAwXHgwMVx4MDBceDAwXHgwMlx4MDJEXHgwMVx4MDA7JykKICAgICAgICAjICAgICAgICAgcmUud3JpdGUoYidHSUY4OWFceDAxXHgwMFx4MDFceDAwXHg4MFx4ZmZceDAwXHhmZlx4ZmZceGZmXHgwMFx4MDBceDAwLFx4MDAnKQogICAgICAgICMgICAgICAgICByZS53cml0ZShiJ2lpaWlpaTExMScpCiAgICAgICAgIyAgICAgICAgIHJlLndyaXRlKGInMTInKQogICAgICAgICMgICAgICAgICBwcmludCgncmV0dXJuMScpCiAgICAgICAgIyAgICAgICAgIHJldHVybgogICAgICAgICMgICAgICAgICAgICAgIyByZS53cml0ZShiJzEyMzEyNDIzNCcpCiAgICAgICAgIyAgICAgICAgICAgICBwcmludCgnODgnKQogICAgICAgICMgICAgICAgICBlbHNlOgogICAgICAgICMgICAgICAgICAgICAgIyByZS53cml0ZShiJzAnKQogICAgICAgICMgICAgICAgICAgICAgIyByZS53cml0ZShiJzAnKQogICAgICAgICMgICAgICAgICAgICAgcHJpbnQoYiIlYlxyXG4lYlxyXG4iICUgKHN0cihsZW4oYicxMjM0NTY3ODknKSkuZW5jb2RlKCksIGInMCcpKQogICAgICAgICMgICAgICAgICAgICAgcmUudHJhbnNwb3J0LndyaXRlKGInXHJcbjEwXHJcbjEyMzQ1Njc4OTEwXHJcbicpCiAgICAgICAgIyAgICAgICAgICAgICAjIHJlLnRyYW5zcG9ydC53cml0ZV9lb2YoKQogICAgICAgICMgICAgICAgICAgICAgcHJpbnQoJ2Vsc2UnKQogICAgICAgICMgICAgICAgICBwcmludCgnb3V0JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZS50cmFuc3BvcnQud3JpdGUoYicxMFxyXG4xMjM0NTY3ODkwXHJcbicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlLndyaXRlKGInMzQnKQogICAgICAgICAgICAgICAgcmUud3JpdGUoYic0NScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlLndyaXRlKGInMTInKQogICAgICAgICAgICAgICAgcmUud3JpdGUoYiczNCcpCiAgICAgICAgICAgICAgICByZS53cml0ZShiJzQ1JykK</text>
+        <text encoding="base64">ICAgIGFzeW5jIHdpdGggc2Vzc2lvbi5nZXQodXJsLCBoZWFkZXJzPXsnQ29va2llJzogY29va2llfSwgdGltZW91dD01KSBhcyByZXNwb25zZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGFzeW5jIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlLndyaXRlKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
