@@ -97,6 +97,9 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/main.py" timestamp="1491890934678">
+        <mark key="'" line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/youtube.py" timestamp="1487120877187">
         <mark key="'" line="12" column="4" />
       </file>
@@ -270,7 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
       <jump line="19" column="15" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="9" column="26" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
       <jump line="78" column="19" filename="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" />
@@ -370,6 +372,7 @@
       <jump line="57" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="40" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="56" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
