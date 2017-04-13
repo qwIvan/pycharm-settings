@@ -84,6 +84,10 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" timestamp="1492106287746">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="16" />
+      </file>
       <file name="/" timestamp="1491796925865">
         <mark key="[" line="0" column="0" />
       </file>
@@ -175,7 +179,7 @@
         <mark key="^" line="214" column="65" />
         <mark key="." line="214" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492103316121">
+      <file name="/Dummy.txt" timestamp="1492106180455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -221,12 +225,12 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose.override.yml" timestamp="1492102953831">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="2" column="7" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose.override.yml" timestamp="1492107536929">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="37" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1492098805875">
         <mark key="'" line="55" column="17" />
@@ -241,7 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="24" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="65" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="69" column="10" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="8" column="22" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
@@ -341,6 +344,7 @@
       <jump line="10" column="29" filename="$USER_HOME$/coding/qqdownload-tcp/test_node.py" />
       <jump line="56" column="8" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="15" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/test_node.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.override.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1885,35 +1889,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwcm94eV9maWxlbGlzdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBhc3NlcnQgcmVzcG9uc2UuaGlzdG9yeVstMV0uc3RhdHVzID09IDMwNw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyAgICBleHRyYV9ob3N0czoKIyAgICAgIC0gYXBpLmxpYml2YW4uY29tOjE5Mi4xNjguMC4xMDIK</text>
       </register>
-      <register name="1" type="8">
-        <text>4</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text>4</text>
+      <register name="2" type="2">
+        <text encoding="base64">IyAgICBleHRyYV9ob3N0czoKIyAgICAgIC0gYXBpLmxpYml2YW4uY29tOjE5Mi4xNjguMC4xMDIK</text>
       </register>
-      <register name="3" type="8">
-        <text>4</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gc2VydmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IG5vZGUK</text>
+        <text encoding="base64">ICAgIGV4dHJhX2hvc3RzOgogICAgICAtIGFwaS5saWJpdmFuLmNvbToxOTIuMTY4LjAuMTAyCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+      <register name="5" type="8">
+        <text>4</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">QAo=</text>
+      <register name="6" type="8">
+        <text>4</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGogPSBqc29uLmxvYWRzKHJlc3BvbnNlLnRleHQpCiAgICBhc3NlcnQgbGVuKGpbJ2Z0bjVrJ10pID09IDgKICAgIGFzc2VydCAnZnRuX2hhbmRsZXInIGluIGpbJ3VybCddCg==</text>
+      <register name="7" type="8">
+        <text>4</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaikK</text>
+        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IG5vZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBzYW5pYy5sb2cgaW1wb3J0IGxvZwo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
