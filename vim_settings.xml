@@ -156,11 +156,11 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/node.conf" timestamp="1492099856539">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/node.conf" timestamp="1492100680632">
         <mark key="'" line="21" column="3" />
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/.gitignore" timestamp="1490564453061">
@@ -1878,13 +1878,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm94eV9maWxlbGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXNwb25zZS5zdGF0dXMgIT0gMjAwOgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMzAxIGh0dHBzOi8vYXBpLmxpYml2YW4uY29tOjg4ODckcmVxdWVzdF91cmk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLSAnODg4NzoxNDQzJwo=</text>
