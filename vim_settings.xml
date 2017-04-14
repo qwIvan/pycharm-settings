@@ -48,12 +48,12 @@
       <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-1606604145/-337502517/aiocache/decorators.py" timestamp="1492098898426">
         <mark key="'" line="31" column="33" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492138355327">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492145789279">
         <mark key="'" line="99" column="4" />
-        <mark key="[" line="83" column="22" />
+        <mark key="[" line="83" column="24" />
         <mark key="]" line="83" column="24" />
         <mark key="." line="83" column="24" />
-        <mark key="^" line="83" column="24" />
+        <mark key="^" line="83" column="20" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/sanic/response.py" timestamp="1492072967870">
         <mark key="'" line="140" column="13" />
@@ -169,7 +169,7 @@
         <mark key="^" line="214" column="65" />
         <mark key="." line="214" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492139381437">
+      <file name="/Dummy.txt" timestamp="1492145794286">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1881,7 +1881,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>99</text>
+        <text>￥188/月，</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm94eV9maWxlbGlzdFw+</text>
