@@ -17,90 +17,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/Dockerfile" timestamp="1492080200934">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/requirements.txt" timestamp="1492109884225" />
-      <file name="$USER_HOME$/coding/qqdownload-tcp/test.py" timestamp="1490882371618">
-        <mark key="'" line="23" column="24" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="13" />
-      </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/Dockerfile-nginx" timestamp="1492102151214">
-        <mark key="'" line="1" column="9" />
-        <mark key="[" line="1" column="78" />
-        <mark key="]" line="1" column="82" />
-        <mark key="." line="1" column="78" />
-        <mark key="^" line="1" column="52" />
-      </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/qq.py" timestamp="1492097934912">
-        <mark key="'" line="27" column="12" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="10" column="30" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-1606604145/-337502517/aiocache/decorators.py" timestamp="1492098898426">
-        <mark key="'" line="31" column="33" />
-      </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492145789279">
-        <mark key="'" line="99" column="4" />
-        <mark key="[" line="83" column="24" />
-        <mark key="]" line="83" column="24" />
-        <mark key="." line="83" column="24" />
-        <mark key="^" line="83" column="20" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/sanic/response.py" timestamp="1492072967870">
-        <mark key="'" line="140" column="13" />
-        <mark key="[" line="312" column="8" />
-        <mark key="]" line="312" column="7" />
-        <mark key="." line="312" column="7" />
-        <mark key="^" line="312" column="7" />
-      </file>
-      <file name="/test_all.py" timestamp="1492105811093">
-        <mark key="[" line="48" column="2" />
-        <mark key="]" line="48" column="44" />
-      </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/_qq.py" timestamp="1490564412050">
-        <mark key="'" line="62" column="12" />
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" timestamp="1492109720505">
-        <mark key="'" line="8" column="11" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="16" />
-      </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1492135240919">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="56" column="97" />
-        <mark key="]" line="56" column="101" />
-        <mark key="." line="56" column="101" />
-        <mark key="^" line="56" column="101" />
-      </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.conf" timestamp="1492102035382">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="44" />
-        <mark key="." line="5" column="44" />
-        <mark key="^" line="5" column="44" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiohttp/streams.py" timestamp="1491964280191">
-        <mark key="'" line="51" column="49" />
-      </file>
-      <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="0" />
-        <mark key="." line="215" column="0" />
-        <mark key="^" line="217" column="23" />
-      </file>
       <file name="/Python Console" timestamp="1492105930529">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -112,6 +28,12 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="60" />
         <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/Dockerfile" timestamp="1492080200934">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" timestamp="1492089160740">
         <mark key="'" line="75" column="0" />
@@ -141,6 +63,13 @@
         <mark key="." line="11" column="81" />
         <mark key="^" line="11" column="81" />
       </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/test.py" timestamp="1490882371618">
+        <mark key="'" line="23" column="24" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="13" />
+      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/test_all.py" timestamp="1492091690092">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="26" column="24" />
@@ -155,12 +84,35 @@
         <mark key="." line="28" column="45" />
         <mark key="^" line="28" column="45" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-1606604145/-337502517/aiocache/utils.py" timestamp="1492102501830" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/Dockerfile-nginx" timestamp="1492102151214">
+        <mark key="'" line="1" column="9" />
+        <mark key="[" line="1" column="78" />
+        <mark key="]" line="1" column="82" />
+        <mark key="." line="1" column="78" />
+        <mark key="^" line="1" column="52" />
+      </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/qq.py" timestamp="1492097934912">
+        <mark key="'" line="27" column="12" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="24" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-1606604145/-337502517/aiocache/decorators.py" timestamp="1492098898426">
+        <mark key="'" line="31" column="33" />
+      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/.gitignore" timestamp="1490564453061">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="5" column="6" />
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492181600765">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="49" column="26" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/extractors/qq.py" timestamp="1490766166672">
         <mark key="'" line="284" column="30" />
@@ -168,6 +120,13 @@
         <mark key="]" line="214" column="65" />
         <mark key="^" line="214" column="65" />
         <mark key="." line="214" column="65" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/sanic/response.py" timestamp="1492072967870">
+        <mark key="'" line="140" column="13" />
+        <mark key="[" line="312" column="8" />
+        <mark key="]" line="312" column="7" />
+        <mark key="." line="312" column="7" />
+        <mark key="^" line="312" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1492145794286">
         <mark key="[" line="0" column="0" />
@@ -181,12 +140,28 @@
         <mark key="." line="48" column="87" />
         <mark key="^" line="48" column="86" />
       </file>
+      <file name="/test_all.py" timestamp="1492105811093">
+        <mark key="[" line="48" column="2" />
+        <mark key="]" line="48" column="44" />
+      </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/_qq.py" timestamp="1490564412050">
+        <mark key="'" line="62" column="12" />
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose-server.yml" timestamp="1492089043926">
         <mark key="'" line="16" column="6" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="28" />
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" timestamp="1492109720505">
+        <mark key="'" line="8" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="16" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/qqlib/__init__.py" timestamp="1490181908148">
         <mark key="'" line="62" column="13" />
@@ -215,7 +190,20 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/server.py" timestamp="1492077829323" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1492135240919">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="56" column="97" />
+        <mark key="]" line="56" column="101" />
+        <mark key="." line="56" column="101" />
+        <mark key="^" line="56" column="101" />
+      </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.conf" timestamp="1492102035382">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose.override.yml.bak" timestamp="1492092739037">
         <mark key="[" line="2" column="2" />
         <mark key="]" line="2" column="8" />
@@ -240,9 +228,17 @@
         <mark key="." line="27" column="4" />
         <mark key="^" line="10" column="23" />
       </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiohttp/streams.py" timestamp="1491964280191">
+        <mark key="'" line="51" column="49" />
+      </file>
+      <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+        <mark key="^" line="217" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="27" column="35" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="28" column="9" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="75" column="31" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
@@ -342,6 +338,7 @@
       <jump line="25" column="75" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="96" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="98" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1887,34 +1884,34 @@
         <text encoding="base64">XDxwcm94eV9maWxlbGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAgICBleHRyYV9ob3N0czoKIyAgICAgIC0gYXBpLmxpYml2YW4uY29tOjE5Mi4xNjguMC4xMDIK</text>
+        <text encoding="base64">ICAgICAgICAnaW5mbyc6ICfljZZBUEnmjqXlj6PvvIxRUTI5Njc5NDgxNjgnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnaW5mbyc6ICfljZbmjqXlj6PvvIzvv6U5OS/mnIjvvIxRUTI5Njc5NDgxNjgnLAo=</text>
+        <text encoding="base64">ICAgICAgICAnY29va2llJzogJ0ZUTjVLPSVzJyAlIGZ0bjVrLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICBleHRyYV9ob3N0czoKIyAgICAgIC0gYXBpLmxpYml2YW4uY29tOjE5Mi4xNjguMC4xMDIK</text>
+        <text encoding="base64">ICAgICAgICAnaW5mbyc6ICfljZbmjqXlj6PvvIzvv6U5OS/mnIjvvIxRUTI5Njc5NDgxNjgnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gc2VydmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">IyAgICBleHRyYV9ob3N0czoKIyAgICAgIC0gYXBpLmxpYml2YW4uY29tOjE5Mi4xNjguMC4xMDIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gc2VydmVyCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGV4dHJhX2hvc3RzOgogICAgICAtIGFwaS5saWJpdmFuLmNvbToxOTIuMTY4LjAuMTAyCg==</text>
-      </register>
-      <register name="6" type="8">
-        <text>4</text>
-      </register>
-      <register name="7" type="8">
-        <text>4</text>
       </register>
       <register name="8" type="8">
         <text>4</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IG5vZGUK</text>
+      <register name="9" type="8">
+        <text>4</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
