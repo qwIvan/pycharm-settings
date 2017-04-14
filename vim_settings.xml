@@ -78,8 +78,8 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1492111225555">
-        <mark key="'" line="41" column="32" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/hosts.py" timestamp="1492135240919">
+        <mark key="'" line="6" column="0" />
         <mark key="[" line="56" column="97" />
         <mark key="]" line="56" column="101" />
         <mark key="." line="56" column="101" />
@@ -201,8 +201,8 @@
         <mark key="." line="4" column="99" />
         <mark key="^" line="4" column="99" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/core.py" timestamp="1492111067636">
-        <mark key="'" line="8" column="20" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/core.py" timestamp="1492135298056">
+        <mark key="'" line="25" column="75" />
         <mark key="[" line="25" column="65" />
         <mark key="]" line="25" column="75" />
         <mark key="^" line="25" column="75" />
@@ -242,9 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.override.yml" />
-      <jump line="21" column="6" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
-      <jump line="38" column="10" filename="$USER_HOME$/coding/qqdownload-tcp/node.conf" />
       <jump line="67" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="66" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="27" column="35" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
@@ -342,6 +339,9 @@
       <jump line="17" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="8" column="20" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="41" column="32" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
+      <jump line="25" column="75" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
