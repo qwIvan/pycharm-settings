@@ -217,9 +217,12 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1492261662808">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1492262616983">
         <mark key="'" line="86" column="68" />
-        <mark key="[" line="74" column="46" />
+        <mark key="[" line="77" column="38" />
+        <mark key="]" line="77" column="38" />
+        <mark key="^" line="77" column="39" />
+        <mark key="." line="77" column="38" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/test_node.py" timestamp="1492105827817">
         <mark key="'" line="15" column="0" />
@@ -1878,7 +1881,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>￥188/月，</text>
+        <text>姓名</text>
       </register>
       <register name="/" type="4">
         <text>getlist</text>
