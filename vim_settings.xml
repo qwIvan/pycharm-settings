@@ -56,8 +56,8 @@
         <mark key="^" line="27" column="10" />
         <mark key="." line="27" column="10" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/node.py" timestamp="1492110994444">
-        <mark key="'" line="17" column="0" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/node.py" timestamp="1492228465074">
+        <mark key="'" line="16" column="39" />
         <mark key="[" line="11" column="80" />
         <mark key="]" line="11" column="81" />
         <mark key="." line="11" column="81" />
@@ -107,8 +107,8 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492184593398">
-        <mark key="'" line="48" column="4" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492228438675">
+        <mark key="'" line="103" column="4" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
@@ -239,8 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="35" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="28" column="9" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="75" column="31" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="87" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="13" column="19" filename="$USER_HOME$/coding/qqdownload-tcp/qq.py" />
@@ -324,7 +322,6 @@
       <jump line="15" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/test_node.py" />
       <jump line="12" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.override.yml" />
       <jump line="8" column="11" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="10" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="22" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="62" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
@@ -338,7 +335,10 @@
       <jump line="25" column="75" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="96" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="98" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="48" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="48" column="26" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="103" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="16" column="39" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
