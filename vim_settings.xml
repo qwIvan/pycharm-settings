@@ -107,8 +107,8 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492228438675">
-        <mark key="'" line="103" column="4" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492261628443">
+        <mark key="'" line="21" column="32" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
@@ -217,8 +217,8 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1492098805875">
-        <mark key="'" line="55" column="17" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1492261662808">
+        <mark key="'" line="86" column="68" />
         <mark key="[" line="74" column="46" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/test_node.py" timestamp="1492105827817">
@@ -239,9 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="31" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
-      <jump line="87" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
-      <jump line="13" column="19" filename="$USER_HOME$/coding/qqdownload-tcp/qq.py" />
       <jump line="18" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/qq.py" />
       <jump line="27" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/qq.py" />
       <jump line="39" column="57" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
@@ -268,7 +265,6 @@
       <jump line="43" column="47" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-1606604145/-337502517/aiocache/decorators.py" />
       <jump line="31" column="33" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-1606604145/-337502517/aiocache/decorators.py" />
       <jump line="15" column="4" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-1606604145/-337502517/aiocache/utils.py" />
-      <jump line="21" column="32" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="55" column="17" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="18" column="35" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="14" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
@@ -339,6 +335,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="103" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="16" column="39" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
+      <jump line="21" column="32" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="48" column="33" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
+      <jump line="81" column="47" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
+      <jump line="86" column="68" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1881,7 +1881,7 @@
         <text>￥188/月，</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm94eV9maWxlbGlzdFw+</text>
+        <text>getlist</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnaW5mbyc6ICfljZZBUEnmjqXlj6PvvIxRUTI5Njc5NDgxNjgnLAo=</text>
@@ -1918,9 +1918,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm94eV9maWxlbGlzdFw+</last-search>
+      <last-search>getlist</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm94eV9maWxlbGlzdFw+</last-pattern>
+      <last-pattern>getlist</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1928,7 +1928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>JsonSerializer</entry>
         <entry encoding="base64">XDx0dGxcPg==</entry>
         <entry>\/</entry>
         <entry>g</entry>
@@ -1948,6 +1947,7 @@
         <entry encoding="base64">XDxrZXlfZnJvbV9hdHRyXD4=</entry>
         <entry encoding="base64">XDxoYXNoY29kZVw+</entry>
         <entry encoding="base64">XDxwcm94eV9maWxlbGlzdFw+</entry>
+        <entry>getlist</entry>
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
