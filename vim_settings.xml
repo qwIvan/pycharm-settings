@@ -17,13 +17,13 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1492105930529">
+      <file name="/Python Console" timestamp="1492369062152">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1492104428884">
+      <file name="/fragment.py" timestamp="1492369007180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="60" />
@@ -210,15 +210,15 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose.override.yml" timestamp="1492107536929">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose.override.yml" timestamp="1492368023697">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="37" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="15" column="11" />
-        <mark key="." line="19" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1492312988014">
-        <mark key="'" line="62" column="12" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1492369010555">
+        <mark key="'" line="85" column="33" />
         <mark key="[" line="77" column="38" />
         <mark key="]" line="77" column="38" />
         <mark key="^" line="77" column="39" />
@@ -242,8 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="39" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
-      <jump line="49" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="32" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="60" column="6" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-1606604145/-337502517/aiocache/serializers.py" />
       <jump line="13" column="15" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
@@ -330,7 +328,6 @@
       <jump line="21" column="32" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="48" column="33" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="81" column="47" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
-      <jump line="86" column="68" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="73" column="37" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="56" column="20" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="58" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
@@ -342,6 +339,9 @@
       <jump line="65" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="48" column="20" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="235" column="6" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/1980470448/-337502517/sanic/response.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
+      <jump line="86" column="23" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
+      <jump line="85" column="33" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1884,7 +1884,7 @@
         <text>failed</text>
       </register>
       <register name="/" type="4">
-        <text>raise</text>
+        <text>getlist</text>
       </register>
       <register name="0" type="4">
         <text>json({
@@ -1893,40 +1893,40 @@
         })</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDc3Nzc6ODAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGVzID0gYXdhaXQgcmVxdWVzdC5hcHAuZmlsZWxpc3QoaGFzaGNvZGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGZpbGVzID0gYXdhaXQgcmVxdWVzdC5hcHAuZmlsZWxpc3QoaGFzaGNvZGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAncGxheSc6ICdodHRwczovL3F3aXZhbi5naXRodWIuaW8vbGliaXBsYXllci8jLyVzLyVzJyAlIChoYXNoY29kZSwgZmlsZW5hbWUpLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3ZhbHVlJzogJ0ZUTjVLPSVzJyAlICwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnY29va2llJzogJ0ZUTjVLPSVzJyAlIGZ0bjVrLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAncGxheSc6ICdodHRwczovL3F3aXZhbi5naXRodWIuaW8vbGliaXBsYXllci8jLyVzLyVzJyAlIChoYXNoY29kZSwgZmlsZW5hbWUpLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3ZhbHVlJzogJ0ZUTjVLPSVzJyAlICwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAnY29va2llJzogJ0ZUTjVLPSVzJyAlIGZ0bjVrLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnaW5mbyc6ICfljZbmjqXlj6PvvIzvv6U5OS/mnIjvvIxRUTI5Njc5NDgxNjgnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>raise</last-search>
+      <last-search>getlist</last-search>
       <last-offset />
-      <last-pattern>raise</last-pattern>
+      <last-pattern>getlist</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1952,8 +1952,8 @@
         <entry encoding="base64">XDxrZXlfZnJvbV9hdHRyXD4=</entry>
         <entry encoding="base64">XDxoYXNoY29kZVw+</entry>
         <entry encoding="base64">XDxwcm94eV9maWxlbGlzdFw+</entry>
-        <entry>getlist</entry>
         <entry>raise</entry>
+        <entry>getlist</entry>
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
