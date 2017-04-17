@@ -40,6 +40,7 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/requirements.txt" timestamp="1492456541152" />
       <file name="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" timestamp="1492089160740">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="40" column="28" />
@@ -112,8 +113,8 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492452140927">
-        <mark key="'" line="79" column="27" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492456502944">
+        <mark key="'" line="13" column="5" />
         <mark key="[" line="78" column="27" />
         <mark key="]" line="78" column="27" />
         <mark key="." line="78" column="27" />
@@ -256,8 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
-      <jump line="8" column="20" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="41" column="32" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
       <jump line="55" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
       <jump line="6" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
@@ -356,6 +355,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
       <jump line="8" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
+      <jump line="39" column="16" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="13" column="5" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
