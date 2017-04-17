@@ -155,15 +155,15 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose-server.yml" timestamp="1492453255949">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose-server.yml" timestamp="1492454432658">
         <mark key="'" line="13" column="40" />
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="13" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="13" />
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" timestamp="1492453687877">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" timestamp="1492454332524">
+        <mark key="'" line="8" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="11" />
         <mark key="." line="12" column="40" />
@@ -256,7 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="17" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="8" column="20" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="41" column="32" filename="$USER_HOME$/coding/qqdownload-tcp/hosts.py" />
@@ -356,6 +355,7 @@
       <jump line="4" column="13" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
       <jump line="18" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
+      <jump line="8" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1900,8 +1900,8 @@
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dmVyc2lvbjogJzInCnNlcnZpY2VzOgogIG5vZGU6CiAgICByZXN0YXJ0OiBhbHdheXMKICAgIGJ1aWxkOiAuCiAgcmVkaXM6CiAgICByZXN0YXJ0OiBhbHdheXMKICAgIGltYWdlOiAncmVkaXMnCiAgbmdpbngtbm9kZToKICAgIHJlc3RhcnQ6IGFsd2F5cwogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4KICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZS1uZ2lueC1ub2RlCiAgICBwb3J0czoKICAgICAgLSAnODg4ODo0NDMnCiAgICAgIC0gJzg4ODk6ODAnCiAgICBkZXBlbmRzX29uOgogICAgICAtIG5vZGUK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gc2VydmVy</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
