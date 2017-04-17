@@ -133,10 +133,8 @@
         <mark key="." line="312" column="7" />
         <mark key="^" line="312" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492451334453">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1492452868490">
+        <mark key="." line="0" column="32" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/test_server.py" timestamp="1492105225379">
         <mark key="'" line="26" column="10" />
@@ -157,17 +155,17 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose-server.yml" timestamp="1492451637415">
+      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose-server.yml" timestamp="1492453255949">
         <mark key="'" line="13" column="40" />
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" timestamp="1492451713872">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="40" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" timestamp="1492453687877">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="11" />
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
       </file>
@@ -258,8 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="84" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="17" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/node.py" />
       <jump line="8" column="20" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
@@ -358,6 +354,8 @@
       <jump line="58" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="79" column="27" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="4" column="13" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1903,7 +1901,7 @@
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXR1cyc6IC0yLAogICAgICAgICAgICAnbXNnJzogJ2ZhaWxlZCcsCg==</text>
+        <text encoding="base64">dmVyc2lvbjogJzInCnNlcnZpY2VzOgogIG5vZGU6CiAgICByZXN0YXJ0OiBhbHdheXMKICAgIGJ1aWxkOiAuCiAgcmVkaXM6CiAgICByZXN0YXJ0OiBhbHdheXMKICAgIGltYWdlOiAncmVkaXMnCiAgbmdpbngtbm9kZToKICAgIHJlc3RhcnQ6IGFsd2F5cwogICAgYnVpbGQ6CiAgICAgIGNvbnRleHQ6IC4KICAgICAgZG9ja2VyZmlsZTogRG9ja2VyZmlsZS1uZ2lueC1ub2RlCiAgICBwb3J0czoKICAgICAgLSAnODg4ODo0NDMnCiAgICAgIC0gJzg4ODk6ODAnCiAgICBkZXBlbmRzX29uOgogICAgICAtIG5vZGUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
