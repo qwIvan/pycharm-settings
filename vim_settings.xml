@@ -113,8 +113,8 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492493879714">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492521040357">
+        <mark key="'" line="22" column="0" />
         <mark key="[" line="78" column="27" />
         <mark key="]" line="78" column="27" />
         <mark key="." line="78" column="27" />
@@ -344,8 +344,6 @@
       <jump line="39" column="16" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="13" column="5" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="1" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="87" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="116" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="128" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
@@ -357,6 +355,8 @@
       <jump line="11" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="57" column="24" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
