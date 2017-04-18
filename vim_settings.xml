@@ -113,8 +113,8 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492521040357">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/coding/qqdownload-tcp/server.py" timestamp="1492540061840">
+        <mark key="'" line="126" column="26" />
         <mark key="[" line="78" column="27" />
         <mark key="]" line="78" column="27" />
         <mark key="." line="78" column="27" />
@@ -257,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="10" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="41" column="16" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="59" column="8" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="65" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
@@ -352,11 +351,12 @@
       <jump line="117" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="88" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="23" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="57" column="24" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="10" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="22" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
+      <jump line="126" column="26" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1932,7 +1932,7 @@
         <text encoding="base64">QUREIG5vZGUuY29uZiAvZXRjL25naW54L2NvbmYuZC9kZWZhdWx0LmNvbmYK</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1986,8 +1986,8 @@
         <entry>actionlist</entry>
         <entry>set surround</entry>
         <entry encoding="base64">JzwsJz4vXC8vL2c=</entry>
-        <entry>q</entry>
         <entry>qa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
