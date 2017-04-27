@@ -40,6 +40,10 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/requirements.txt" timestamp="1493267780709">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="7" />
+      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" timestamp="1492089160740">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="40" column="28" />
@@ -1903,7 +1907,7 @@
         <text>-3</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGRlcGVuZHNfb246CiAgICAgIC0gc2VydmVy</text>
+        <text>cchardet</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
