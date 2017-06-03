@@ -17,6 +17,13 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/wxbot/bot.py" timestamp="1496479038529">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+      </file>
       <file name="/Python Console" timestamp="1493737866677">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -28,11 +35,6 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/Dockerfile-nginx-node" timestamp="1492415914115">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="38" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/Dockerfile" timestamp="1492080200934">
         <mark key="[" line="6" column="16" />
@@ -149,11 +151,6 @@
         <mark key="." line="48" column="87" />
         <mark key="^" line="48" column="86" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/docker-compose-node.yml" timestamp="1492415997310">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/_qq.py" timestamp="1490564412050">
         <mark key="'" line="62" column="12" />
         <mark key="[" line="2" column="22" />
@@ -255,21 +252,18 @@
       <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiohttp/streams.py" timestamp="1491964280191">
         <mark key="'" line="51" column="49" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1496478893286">
+        <mark key="[" line="52" column="59" />
+        <mark key="]" line="52" column="78" />
+      </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
         <mark key="]" line="215" column="0" />
         <mark key="." line="215" column="0" />
         <mark key="^" line="217" column="23" />
       </file>
-      <file name="$USER_HOME$/coding/qqdownload-tcp/Dockerfile-nginx-server" timestamp="1492415916465">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="41" />
-        <mark key="." line="1" column="34" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="101" column="6" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="95" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="55" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="27" column="7" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
@@ -368,6 +362,8 @@
       <jump line="33" column="25" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="53" column="33" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="23" column="10" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
+      <jump line="1" column="8" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
+      <jump line="7" column="6" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1912,8 +1908,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0cnlzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cXEgPSBiJ1RceDhhM3UnCmhlYWRlciA9IGInXHgwMlx4MDNceDA1XHgwMFx4YjhceDAwd1x4MDBceDAwJyArIFwKICAgIHFxICsgYidceDAwXHgwMFx4MDBceDAwXHgwMFx4MDBceDAwXHgwMFx4MDB4JwpzZXNzaW9uID0gYidceDAwXHgwMVhRXHgxNVlceDAwcFx4MDZceDE5XHhlYUFOXHhhM1x4ZTEtXHgwNVx4YmFceDg0XHhhY1x4ODFceDAzXHhiYlx4YzRceDg5XHhkN1x4YTFceGY1UDhceDE3XHgwY1x4MDhceGQ1XHhkYTc5XHhkY1x4ZThSXHgwM1x4YmEtdlx4YWNceDE0SSJMXHg5Zlx4ZjRceGE3XHg4My9ceDkzYFx4ZDhceDgwXHgxOUdDXHhiMFx4ZmZceDE5XHhhMFx4ZjZ5XHhhNVx4ZGRceGYzXHg5Nlx4ZDFceDFkXHg4NGk2fVx4OWJceDE3XHgxMEJceGZiPVx4YjNyXHg5OVx4Y2JMWFx4MWZceGE1Klx4ZDRKXHhjZFx4ZmNceGUyVSNceDEySVx4ZTdceDEyJiFuLVx4MWFceGNjLjFceGNkXHhiZlx4ZjlceDg3XHhjNjphclx4ZDMnCmtleSA9IGInaiMrRl9DWU17Zjgoe3cjaScKc3RhcnRmbGFnID0gYidceDAyXHgwM1x4MDUnCmVuZGZsYWcgPSBiJ1x4MDMnCg==</text>
+      <register name="0" type="4">
+        <text>uuid, status, qrcode</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmZbMzo1XSkK</text>
