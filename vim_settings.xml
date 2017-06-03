@@ -252,7 +252,8 @@
       <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiohttp/streams.py" timestamp="1491964280191">
         <mark key="'" line="51" column="49" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1496478893286">
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1496486708630">
+        <mark key="'" line="57" column="28" />
         <mark key="[" line="52" column="59" />
         <mark key="]" line="52" column="78" />
       </file>
@@ -264,7 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="55" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="27" column="7" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="73" column="9" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
@@ -364,6 +364,7 @@
       <jump line="23" column="10" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="1" column="8" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
       <jump line="7" column="6" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
+      <jump line="57" column="28" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
