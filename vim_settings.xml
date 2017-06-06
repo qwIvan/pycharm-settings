@@ -46,6 +46,9 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="7" />
       </file>
+      <file name="/a.dummy" timestamp="1496744757278">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" timestamp="1492089160740">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="40" column="28" />
@@ -112,9 +115,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-1606604145/-337502517/aiocache/decorators.py" timestamp="1492098898426">
-        <mark key="'" line="31" column="33" />
-      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/.gitignore" timestamp="1490564453061">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="5" column="6" />
@@ -141,7 +141,9 @@
         <mark key="." line="312" column="7" />
         <mark key="^" line="312" column="7" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" timestamp="1496743544497" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" timestamp="1496744734323">
+        <mark key="'" line="9" column="18" />
+      </file>
       <file name="/Dummy.txt" timestamp="1492452868490">
         <mark key="." line="0" column="32" />
       </file>
@@ -192,15 +194,15 @@
         <mark key="." line="4" column="99" />
         <mark key="^" line="4" column="99" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" timestamp="1496744971019">
+        <mark key="'" line="34" column="19" />
+      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/core.py" timestamp="1493738986599">
         <mark key="'" line="23" column="10" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="11" column="16" />
         <mark key="^" line="23" column="59" />
         <mark key="." line="33" column="49" />
-      </file>
-      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/common.py" timestamp="1492438254550">
-        <mark key="'" line="1251" column="0" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/app.py" timestamp="1492091614157">
         <mark key="'" line="3" column="24" />
@@ -236,6 +238,11 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" timestamp="1496744811604">
+        <mark key="'" line="52" column="56" />
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="20" />
+      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1492452499077">
         <mark key="'" line="4" column="13" />
         <mark key="[" line="53" column="33" />
@@ -250,9 +257,6 @@
         <mark key="." line="27" column="4" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-890435600/-337502517/aiohttp/streams.py" timestamp="1491964280191">
-        <mark key="'" line="51" column="49" />
-      </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1496486708630">
         <mark key="'" line="57" column="28" />
         <mark key="[" line="52" column="59" />
@@ -266,15 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="27" column="7" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="73" column="9" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="29" column="8" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="57" column="17" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="76" column="16" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="89" column="16" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="91" column="17" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="97" column="17" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="31" column="17" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="102" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
@@ -366,6 +361,15 @@
       <jump line="1" column="8" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
       <jump line="7" column="6" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
       <jump line="57" column="28" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
+      <jump line="34" column="19" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
+      <jump line="4" column="35" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
+      <jump line="5" column="38" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
+      <jump line="8" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
+      <jump line="9" column="18" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
+      <jump line="52" column="56" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1908,10 +1912,10 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cnlzXD4=</text>
+        <text>cookie</text>
       </register>
       <register name="0" type="4">
-        <text>uuid, status, qrcode</text>
+        <text>load_login_status</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmZbMzo1XSkK</text>
@@ -1945,9 +1949,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cnlzXD4=</last-search>
+      <last-search>cookie</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cnlzXD4=</last-pattern>
+      <last-pattern>cookie</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1955,8 +1959,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZXN0X3Jlc29sdmVcPg==</entry>
-        <entry encoding="base64">XDxwcm94eV9yZXNvbHZlXD4=</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxhaW9odHRwXD4=</entry>
         <entry encoding="base64">XDxrZXlfZnJvbV9hdHRyXD4=</entry>
@@ -1975,6 +1977,8 @@
         <entry encoding="base64">XDxtYXhfdGltZW91dFw+</entry>
         <entry encoding="base64">XDwxMFw+</entry>
         <entry encoding="base64">XDx0cnlzXD4=</entry>
+        <entry>s</entry>
+        <entry>cookie</entry>
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
