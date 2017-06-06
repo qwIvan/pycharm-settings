@@ -194,8 +194,12 @@
         <mark key="." line="4" column="99" />
         <mark key="^" line="4" column="99" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" timestamp="1496764706562">
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" timestamp="1496767179022">
         <mark key="'" line="34" column="19" />
+        <mark key="[" line="80" column="38" />
+        <mark key="]" line="80" column="54" />
+        <mark key="^" line="86" column="23" />
+        <mark key="." line="86" column="23" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/core.py" timestamp="1493738986599">
         <mark key="'" line="23" column="10" />
@@ -1915,7 +1919,7 @@
         <text>cookie</text>
       </register>
       <register name="0" type="4">
-        <text>load_login_status</text>
+        <text>webwxpushloginurl</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmZbMzo1XSkK</text>
