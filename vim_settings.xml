@@ -194,12 +194,12 @@
         <mark key="." line="4" column="99" />
         <mark key="^" line="4" column="99" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" timestamp="1496767179022">
-        <mark key="'" line="34" column="19" />
-        <mark key="[" line="80" column="38" />
-        <mark key="]" line="80" column="54" />
-        <mark key="^" line="86" column="23" />
-        <mark key="." line="86" column="23" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" timestamp="1497371348699">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="114" column="41" />
+        <mark key="]" line="114" column="16" />
+        <mark key="^" line="114" column="16" />
+        <mark key="." line="114" column="16" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/core.py" timestamp="1493738986599">
         <mark key="'" line="23" column="10" />
@@ -274,18 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="17" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="31" column="17" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="46" column="33" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="43" column="41" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="40" column="32" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="35" column="33" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="1290" column="9" filename="$USER_HOME$/.PyCharm2016.3/system/remote_sources/1980470448/249573927/logging/__init__.py" />
-      <jump line="8" column="22" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="30" column="8" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="54" column="43" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="56" column="8" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="85" column="4" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="90" column="8" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="96" column="8" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
@@ -374,6 +362,18 @@
       <jump line="9" column="18" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
       <jump line="15" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="52" column="56" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
+      <jump line="81" column="24" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/config.py" />
+      <jump line="113" column="12" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="223" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="208" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="172" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1913,13 +1913,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>with</text>
       </register>
       <register name="/" type="4">
         <text>cookie</text>
       </register>
       <register name="0" type="4">
-        <text>webwxpushloginurl</text>
+        <text>mmwebwx</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmZbMzo1XSkK</text>
