@@ -194,8 +194,8 @@
         <mark key="." line="4" column="99" />
         <mark key="^" line="4" column="99" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" timestamp="1497408057585">
-        <mark key="'" line="271" column="4" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" timestamp="1497410244485">
+        <mark key="'" line="280" column="33" />
         <mark key="[" line="224" column="45" />
         <mark key="]" line="224" column="62" />
         <mark key="^" line="114" column="16" />
@@ -274,20 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
-      <jump line="13" column="40" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose-server.yml" />
-      <jump line="14" column="34" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="48" column="15" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="49" column="15" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="79" column="27" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="4" column="13" filename="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
-      <jump line="8" column="12" filename="$USER_HOME$/coding/qqdownload-tcp/docker-compose.yml" />
-      <jump line="39" column="16" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="13" column="5" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="128" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="131" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="129" column="0" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
@@ -329,7 +315,6 @@
       <jump line="15" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="52" column="56" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="81" column="24" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/config.py" />
       <jump line="113" column="12" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="26" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="76" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
@@ -348,9 +333,7 @@
       <jump line="119" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="64" column="9" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="173" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="65" column="9" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="209" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="74" column="9" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="224" column="11" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="275" column="26" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="272" column="32" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
@@ -374,6 +357,23 @@
       <jump line="145" column="49" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="271" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="230" column="20" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="282" column="12" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="301" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="317" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="320" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="65" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="73" column="49" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="74" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="95" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="126" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="179" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="189" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="190" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="215" column="25" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="216" column="25" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="221" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="280" column="33" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/config.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1916,7 +1916,7 @@
         <text>with</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzeW5jX2NoZWNrXD4=</text>
+        <text>self.s</text>
       </register>
       <register name="0" type="4">
         <text>getReceivingFnOnly</text>
@@ -1953,9 +1953,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzeW5jX2NoZWNrXD4=</last-search>
+      <last-search>self.s</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzeW5jX2NoZWNrXD4=</last-pattern>
+      <last-pattern>self.s</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1963,7 +1963,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getlist</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxmaWxlbGlzdFw+</entry>
         <entry encoding="base64">XDxleGNlcHRcPg==</entry>
@@ -1983,6 +1982,7 @@
         <entry encoding="base64">XDxzdGFydF9yZWNlaXZpbmdcPg==</entry>
         <entry encoding="base64">XDxsb2dpbkluZm9cPg==</entry>
         <entry encoding="base64">XDxzeW5jX2NoZWNrXD4=</entry>
+        <entry>self.s</entry>
       </history-search>
       <history-cmd>
         <entry>qa!</entry>
