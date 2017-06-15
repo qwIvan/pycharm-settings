@@ -17,12 +17,17 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wxbot/bot.py" timestamp="1497535251499">
-        <mark key="'" line="9" column="21" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/wxbot/bot.py" timestamp="1497541476559">
+        <mark key="'" line="2" column="6" />
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/misc.py" timestamp="1497541466376">
+        <mark key="'" line="258" column="4" />
+        <mark key="[" line="258" column="4" />
+        <mark key="]" line="258" column="10" />
       </file>
       <file name="/Python Console" timestamp="1497534985551">
         <mark key="[" line="0" column="0" />
@@ -144,9 +149,6 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" timestamp="1497534701584">
         <mark key="'" line="31" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492452868490">
-        <mark key="." line="0" column="32" />
-      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/test_server.py" timestamp="1492105225379">
         <mark key="'" line="26" column="10" />
         <mark key="[" line="48" column="87" />
@@ -261,8 +263,8 @@
         <mark key="." line="27" column="4" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1497534692944">
-        <mark key="'" line="70" column="19" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1497541440560">
+        <mark key="'" line="60" column="8" />
         <mark key="[" line="52" column="59" />
         <mark key="]" line="52" column="78" />
       </file>
@@ -274,10 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="17" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="62" column="15" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
-      <jump line="33" column="25" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
-      <jump line="53" column="33" filename="$USER_HOME$/coding/qqdownload-tcp/server.py" />
       <jump line="23" column="10" filename="$USER_HOME$/coding/qqdownload-tcp/core.py" />
       <jump line="1" column="8" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
       <jump line="7" column="6" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
@@ -374,6 +372,10 @@
       <jump line="112" column="24" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="116" column="24" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="8" column="21" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
+      <jump line="3" column="37" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
+      <jump line="2" column="6" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
+      <jump line="60" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
+      <jump line="258" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/misc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1919,34 +1921,34 @@
         <text encoding="base64">XDxxckNhbGxiYWNrXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>getReceivingFnOnly</text>
+        <text>enhance</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmZbMzo1XSkK</text>
+        <text encoding="base64">ZGVmIHFyX2NhbGxiYWNrKHV1aWQsIHN0YXR1cywgcXJjb2RlKToKICAgIHByaW50KHV1aWQsIHN0YXR1cywgcXJjb2RlKQogICAgaWYgc3RhdHVzID09ICcyMDAnOgogICAgICAgIHByaW50KGJvdC5zLmNvb2tpZXMpCiAgICAjIGltcG9ydCBpcGRiCiAgICAjIGlwZGIuc2V0X3RyYWNlKCkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmYpCg==</text>
+        <text encoding="base64">ZGVmIHFyX2NhbGxiYWNrKHV1aWQsIHN0YXR1cywgcXJjb2RlKToKICAgIHByaW50KHV1aWQsIHN0YXR1cywgcXJjb2RlKQogICAgaWYgc3RhdHVzID09ICcyMDAnOgogICAgICAgIHByaW50KGJvdC5zLmNvb2tpZXMpCiAgICAjIGltcG9ydCBpcGRiCiAgICAjIGlwZGIuc2V0X3RyYWNlKCkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiZikK</text>
+        <text encoding="base64">Ym90ID0gTm9uZQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm50KGNyeXB0X3NlZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVjdl9vcmlnaW4pICAjIFRPRE8gZGVidWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmZbMzo1XSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVjdl9vcmlnaW4pICAjIFRPRE8gZGVidWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmYpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIHByaW50KHJlY3Zfb3JpZ2luKSAgIyBUT0RPIGRlYnVnCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChiZikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVjdl9vcmlnaW4pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm50KGNyeXB0X3NlZykK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
