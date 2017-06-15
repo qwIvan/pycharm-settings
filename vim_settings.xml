@@ -1986,7 +1986,6 @@
         <entry encoding="base64">XDxjYWNoZV9wYXRoXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>qa!</entry>
         <entry>vs</entry>
         <entry>qa1</entry>
         <entry>YcmCompleter GoTo</entry>
@@ -2006,6 +2005,7 @@
         <entry encoding="base64">JzwsJz4vXC8vL2c=</entry>
         <entry>qa</entry>
         <entry>q</entry>
+        <entry>tags</entry>
       </history-cmd>
       <history-expr />
       <history-input />
