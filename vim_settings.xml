@@ -270,12 +270,12 @@
         <mark key="." line="27" column="4" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1497550930911">
-        <mark key="'" line="74" column="25" />
-        <mark key="[" line="63" column="50" />
-        <mark key="]" line="64" column="32" />
-        <mark key="^" line="64" column="32" />
-        <mark key="." line="64" column="32" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1497560670249">
+        <mark key="'" line="75" column="25" />
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="61" column="7" />
+        <mark key="^" line="61" column="7" />
+        <mark key="." line="61" column="7" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -361,7 +361,6 @@
       <jump line="499" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
       <jump line="447" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
       <jump line="433" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
-      <jump line="2" column="7" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
       <jump line="108" column="38" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="141" column="20" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="168" column="31" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
@@ -385,6 +384,7 @@
       <jump line="82" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="95" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="74" column="25" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
+      <jump line="2" column="24" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
