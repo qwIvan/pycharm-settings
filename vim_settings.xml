@@ -47,7 +47,7 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1496744757278">
+      <file name="/a.dummy" timestamp="1497563606969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/qqdownload.conf" timestamp="1492089160740">
@@ -187,6 +187,11 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" timestamp="1497563762474">
+        <mark key="'" line="344" column="53" />
+        <mark key="[" line="509" column="20" />
+        <mark key="]" line="509" column="36" />
+      </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/qqlib/__init__.py" timestamp="1490181908148">
         <mark key="'" line="62" column="13" />
         <mark key="[" line="43" column="15" />
@@ -251,8 +256,8 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" timestamp="1497550908193">
-        <mark key="'" line="82" column="8" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" timestamp="1497563757492">
+        <mark key="'" line="52" column="40" />
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="20" />
       </file>
@@ -285,12 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="12" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="301" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="317" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="320" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="65" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="73" column="49" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="74" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="95" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="126" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
@@ -385,6 +384,12 @@
       <jump line="95" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="74" column="25" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="2" column="24" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
+      <jump line="434" column="13" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
+      <jump line="515" column="31" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
+      <jump line="341" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
+      <jump line="344" column="53" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
+      <jump line="1649" column="32" filename="/usr/lib/python3.6/http/cookiejar.py" />
+      <jump line="52" column="40" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1927,10 +1932,10 @@
         <text encoding="base64">cXJfY2FsbGJhY2s9cXJfY2FsbGJhY2ssIA==</text>
       </register>
       <register name="/" type="4">
-        <text>hotre</text>
+        <text>cookie</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cy5nZXQoJ2h0dHA6Ly93ZWliby5jb20nKQo=</text>
+      <register name="0" type="4">
+        <text>RequestsCookieJar</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaG9va3MgPSBob29rcywK</text>
@@ -1964,9 +1969,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hotre</last-search>
+      <last-search>cookie</last-search>
       <last-offset />
-      <last-pattern>hotre</last-pattern>
+      <last-pattern>cookie</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1987,13 +1992,13 @@
         <entry encoding="base64">XDxxcl9jYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxnZXRfUVJcPg==</entry>
         <entry encoding="base64">XDxxckNhbGxiYWNrXD4=</entry>
-        <entry>cookie</entry>
         <entry encoding="base64">XDxjb29raWVzXD4=</entry>
         <entry>wxuin</entry>
         <entry encoding="base64">XDxwdXNoX2xvZ2luXD4=</entry>
         <entry encoding="base64">XDxjYWNoZV9wYXRoXD4=</entry>
         <entry>hotR</entry>
         <entry>hotre</entry>
+        <entry>cookie</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
