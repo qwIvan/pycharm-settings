@@ -93,8 +93,8 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" timestamp="1497604672490">
-        <mark key="'" line="142" column="17" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" timestamp="1497605732456">
+        <mark key="'" line="142" column="23" />
         <mark key="[" line="466" column="37" />
         <mark key="]" line="466" column="36" />
         <mark key="^" line="466" column="36" />
@@ -147,10 +147,10 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/register.py" timestamp="1497550749346">
         <mark key="'" line="25" column="23" />
       </file>
-      <file name="/Python Console" timestamp="1497604512901">
+      <file name="/Python Console" timestamp="1497605637916">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1497604507987">
+      <file name="/fragment.py" timestamp="1497605648594">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -199,8 +199,10 @@
         <mark key="." line="28" column="45" />
         <mark key="^" line="28" column="45" />
       </file>
-      <file name="/usr/lib/python3.6/http/cookiejar.py" timestamp="1497604181015">
-        <mark key="'" line="1603" column="29" />
+      <file name="/usr/lib/python3.6/http/cookiejar.py" timestamp="1497607428728">
+        <mark key="'" line="1306" column="26" />
+        <mark key="[" line="1274" column="8" />
+        <mark key="]" line="1274" column="20" />
       </file>
       <file name="/JavaScript Console" timestamp="1492756521903">
         <mark key="[" line="0" column="0" />
@@ -301,11 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="21" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
-      <jump line="3" column="37" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
-      <jump line="60" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
-      <jump line="258" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/misc.py" />
-      <jump line="57" column="27" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="9" column="9" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
       <jump line="61" column="26" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="434" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
@@ -400,7 +397,12 @@
       <jump line="304" column="25" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" />
       <jump line="561" column="36" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" />
       <jump line="141" column="27" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
-      <jump line="142" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
+      <jump line="1345" column="38" filename="/usr/lib/python3.6/http/cookiejar.py" />
+      <jump line="1273" column="0" filename="/usr/lib/python3.6/http/cookiejar.py" />
+      <jump line="142" column="23" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
+      <jump line="1347" column="34" filename="/usr/lib/python3.6/http/cookiejar.py" />
+      <jump line="1306" column="26" filename="/usr/lib/python3.6/http/cookiejar.py" />
+      <jump line="1230" column="6" filename="/usr/lib/python3.6/http/cookiejar.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1946,7 +1948,7 @@
         <text encoding="base64">XDxNb3JzZWxcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>morsel</text>
+        <text>_cookie_attrs</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaG9va3MgPSBob29rcywK</text>
