@@ -66,8 +66,8 @@
         <mark key="." line="312" column="7" />
         <mark key="^" line="312" column="7" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" timestamp="1497570941836">
-        <mark key="'" line="622" column="22" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" timestamp="1497604556578">
+        <mark key="'" line="420" column="14" />
         <mark key="[" line="444" column="8" />
         <mark key="]" line="444" column="7" />
         <mark key="^" line="444" column="7" />
@@ -93,8 +93,8 @@
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" timestamp="1497602256195">
-        <mark key="'" line="466" column="22" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" timestamp="1497604672490">
+        <mark key="'" line="142" column="17" />
         <mark key="[" line="466" column="37" />
         <mark key="]" line="466" column="36" />
         <mark key="^" line="466" column="36" />
@@ -134,6 +134,9 @@
         <mark key="." line="215" column="0" />
         <mark key="^" line="217" column="23" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" timestamp="1497604593569">
+        <mark key="'" line="561" column="36" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/wxbot/bot.py" timestamp="1497571421397">
         <mark key="'" line="2" column="8" />
         <mark key="[" line="2" column="10" />
@@ -144,10 +147,10 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/register.py" timestamp="1497550749346">
         <mark key="'" line="25" column="23" />
       </file>
-      <file name="/Python Console" timestamp="1497570350071">
+      <file name="/Python Console" timestamp="1497604512901">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1497570961346">
+      <file name="/fragment.py" timestamp="1497604507987">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -196,6 +199,9 @@
         <mark key="." line="28" column="45" />
         <mark key="^" line="28" column="45" />
       </file>
+      <file name="/usr/lib/python3.6/http/cookiejar.py" timestamp="1497604181015">
+        <mark key="'" line="1603" column="29" />
+      </file>
       <file name="/JavaScript Console" timestamp="1492756521903">
         <mark key="[" line="0" column="0" />
       </file>
@@ -224,8 +230,8 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wxbot/test.py" timestamp="1497570205185">
-        <mark key="'" line="2" column="2" />
+      <file name="$USER_HOME$/PycharmProjects/wxbot/test.py" timestamp="1497604314389">
+        <mark key="'" line="3" column="3" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="^" line="2" column="13" />
@@ -295,17 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="15" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
-      <jump line="70" column="19" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
-      <jump line="391" column="44" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
-      <jump line="408" column="18" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
-      <jump line="31" column="52" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
-      <jump line="42" column="29" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="102" column="60" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="109" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="27" column="48" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="112" column="24" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="116" column="24" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="8" column="21" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
       <jump line="3" column="37" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
       <jump line="60" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
@@ -319,12 +314,9 @@
       <jump line="631" column="18" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
       <jump line="634" column="61" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
       <jump line="636" column="44" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
-      <jump line="638" column="36" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
       <jump line="7" column="10" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/wxbot/test.py" />
-      <jump line="525" column="22" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
       <jump line="171" column="6" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
-      <jump line="412" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
       <jump line="75" column="57" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="123" column="32" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="125" column="37" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
@@ -366,9 +358,6 @@
       <jump line="516" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
       <jump line="2" column="2" filename="$USER_HOME$/PycharmProjects/wxbot/test.py" />
       <jump line="593" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
-      <jump line="498" column="32" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
-      <jump line="420" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
-      <jump line="512" column="22" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
       <jump line="622" column="22" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
       <jump line="57" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/adapters.py" />
       <jump line="2" column="8" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
@@ -395,6 +384,23 @@
       <jump line="17" column="53" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
       <jump line="483" column="16" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
       <jump line="466" column="22" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
+      <jump line="412" column="53" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
+      <jump line="381" column="16" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
+      <jump line="638" column="21" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
+      <jump line="132" column="15" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
+      <jump line="1659" column="24" filename="/usr/lib/python3.6/http/cookiejar.py" />
+      <jump line="1243" column="15" filename="/usr/lib/python3.6/http/cookiejar.py" />
+      <jump line="1663" column="35" filename="/usr/lib/python3.6/http/cookiejar.py" />
+      <jump line="1603" column="29" filename="/usr/lib/python3.6/http/cookiejar.py" />
+      <jump line="3" column="3" filename="$USER_HOME$/PycharmProjects/wxbot/test.py" />
+      <jump line="525" column="22" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
+      <jump line="512" column="22" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
+      <jump line="498" column="26" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
+      <jump line="420" column="14" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
+      <jump line="304" column="25" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" />
+      <jump line="561" column="36" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" />
+      <jump line="141" column="27" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
+      <jump line="142" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
