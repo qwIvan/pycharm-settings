@@ -121,6 +121,9 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="5" column="44" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1497778983145">
+        <mark key="'" line="80" column="26" />
+      </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
         <mark key="]" line="215" column="0" />
@@ -130,15 +133,15 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" timestamp="1497604593569">
         <mark key="'" line="561" column="36" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/wxbot/bot.py" timestamp="1497733356835">
+      <file name="$USER_HOME$/PycharmProjects/wxbot/bot.py" timestamp="1497778926866">
         <mark key="'" line="2" column="7" />
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="24" />
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/register.py" timestamp="1497550749346">
-        <mark key="'" line="25" column="23" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/register.py" timestamp="1497779105096">
+        <mark key="'" line="25" column="17" />
       </file>
       <file name="/Python Console" timestamp="1497605637916">
         <mark key="[" line="0" column="0" />
@@ -205,8 +208,8 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" timestamp="1497550822510">
-        <mark key="'" line="20" column="36" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" timestamp="1497778989106">
+        <mark key="'" line="397" column="16" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/test_server.py" timestamp="1492105225379">
         <mark key="'" line="26" column="10" />
@@ -272,10 +275,10 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" timestamp="1497563757492">
-        <mark key="'" line="52" column="40" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="20" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" timestamp="1497779621556">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="58" column="29" />
+        <mark key="]" line="58" column="35" />
       </file>
       <file name="$USER_HOME$/coding/qqdownload-tcp/weiyun.py" timestamp="1492452499077">
         <mark key="'" line="4" column="13" />
@@ -293,19 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="10" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/wxbot/test.py" />
-      <jump line="171" column="6" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
-      <jump line="75" column="57" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
-      <jump line="123" column="32" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
-      <jump line="125" column="37" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
-      <jump line="371" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
-      <jump line="444" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
-      <jump line="496" column="22" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
-      <jump line="499" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
-      <jump line="447" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
-      <jump line="433" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" />
-      <jump line="108" column="38" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="141" column="20" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="168" column="31" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="169" column="28" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
@@ -316,13 +306,9 @@
       <jump line="390" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
       <jump line="411" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
       <jump line="8" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/register.py" />
-      <jump line="17" column="21" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/register.py" />
-      <jump line="25" column="23" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/register.py" />
-      <jump line="14" column="34" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="28" column="34" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="20" column="36" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
       <jump line="14" column="10" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/storage.py" />
-      <jump line="57" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="82" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="95" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="74" column="25" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
@@ -382,7 +368,6 @@
       <jump line="1347" column="34" filename="/usr/lib/python3.6/http/cookiejar.py" />
       <jump line="1306" column="26" filename="/usr/lib/python3.6/http/cookiejar.py" />
       <jump line="1230" column="6" filename="/usr/lib/python3.6/http/cookiejar.py" />
-      <jump line="2" column="7" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
       <jump line="37" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="34" column="19" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="77" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
@@ -393,6 +378,24 @@
       <jump line="119" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="47" column="26" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="64" column="11" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="2" column="7" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
+      <jump line="48" column="18" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
+      <jump line="52" column="15" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
+      <jump line="75" column="26" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
+      <jump line="81" column="57" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
+      <jump line="80" column="26" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
+      <jump line="416" column="12" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
+      <jump line="397" column="16" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
+      <jump line="17" column="38" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/register.py" />
+      <jump line="25" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/register.py" />
+      <jump line="14" column="29" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
+      <jump line="53" column="28" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
+      <jump line="37" column="12" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
+      <jump line="57" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
+      <jump line="80" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
+      <jump line="56" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1935,10 +1938,10 @@
         <text encoding="base64">cXJfY2FsbGJhY2s9cXJfY2FsbGJhY2ssIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja19sb2dpblw+</text>
+        <text encoding="base64">XDxsb2FkX2xvZ2luX3N0YXR1c1w+</text>
       </register>
       <register name="0" type="4">
-        <text>_cookie_attrs</text>
+        <text>refused</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaG9va3MgPSBob29rcywK</text>
@@ -1972,9 +1975,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja19sb2dpblw+</last-search>
+      <last-search encoding="base64">XDxsb2FkX2xvZ2luX3N0YXR1c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja19sb2dpblw+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkX2xvZ2luX3N0YXR1c1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1982,8 +1985,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpbkluZm9cPg==</entry>
-        <entry encoding="base64">XDxzeW5jX2NoZWNrXD4=</entry>
         <entry>self.s</entry>
         <entry encoding="base64">XDxsb2dpbl9jYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxsb2dpbkNhbGxiYWNrXD4=</entry>
@@ -1997,11 +1998,13 @@
         <entry>hotR</entry>
         <entry>hotre</entry>
         <entry>cookie</entry>
-        <entry encoding="base64">XDxjYWNoZV9wYXRoXD4=</entry>
         <entry encoding="base64">XDxtb3JzZWxcPg==</entry>
         <entry encoding="base64">XDxNb3JzZWxcPg==</entry>
         <entry encoding="base64">XDxpc0xvZ2dpbmdcPg==</entry>
         <entry encoding="base64">XDxjaGVja19sb2dpblw+</entry>
+        <entry encoding="base64">XDxjYWNoZV9wYXRoXD4=</entry>
+        <entry encoding="base64">XDxzdGF0dXNTdG9yYWdlRGlyXD4=</entry>
+        <entry encoding="base64">XDxsb2FkX2xvZ2luX3N0YXR1c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -2094,6 +2097,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
