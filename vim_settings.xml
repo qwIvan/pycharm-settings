@@ -103,8 +103,8 @@
         <mark key="^" line="466" column="36" />
         <mark key="." line="466" column="36" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" timestamp="1497733703836">
-        <mark key="'" line="64" column="11" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" timestamp="1497965771983">
+        <mark key="'" line="226" column="8" />
         <mark key="[" line="224" column="45" />
         <mark key="]" line="224" column="62" />
         <mark key="^" line="114" column="16" />
@@ -302,10 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="411" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/register.py" />
-      <jump line="28" column="34" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
-      <jump line="20" column="36" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
       <jump line="14" column="10" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/storage.py" />
       <jump line="82" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="95" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
@@ -374,7 +370,6 @@
       <jump line="75" column="9" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="20" column="30" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="119" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="47" column="26" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="64" column="11" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="2" column="7" filename="$USER_HOME$/PycharmProjects/wxbot/bot.py" />
       <jump line="48" column="18" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
@@ -402,6 +397,11 @@
       <jump line="110" column="38" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" />
       <jump line="102" column="28" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/puid_map.py" />
       <jump line="65" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/puid_map.py" />
+      <jump line="47" column="36" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="24" column="29" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="236" column="48" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="290" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="226" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1944,7 +1944,7 @@
         <text encoding="base64">cXJfY2FsbGJhY2s9cXJfY2FsbGJhY2ssIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdHRyX2RpY3RzXD4=</text>
+        <text encoding="base64">XDxnZXRfbXNnXD4=</text>
       </register>
       <register name="0" type="4">
         <text>refused</text>
@@ -1981,17 +1981,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdHRyX2RpY3RzXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRfbXNnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdHRyX2RpY3RzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfbXNnXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpbl9jYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxsb2dpbkNhbGxiYWNrXD4=</entry>
         <entry encoding="base64">XDx3ZWJfaW5pdFw+</entry>
         <entry encoding="base64">XDxxcl9jYWxsYmFja1w+</entry>
@@ -2011,6 +2010,7 @@
         <entry encoding="base64">XDxzdGF0dXNTdG9yYWdlRGlyXD4=</entry>
         <entry encoding="base64">XDxsb2FkX2xvZ2luX3N0YXR1c1w+</entry>
         <entry encoding="base64">XDxhdHRyX2RpY3RzXD4=</entry>
+        <entry encoding="base64">XDxnZXRfbXNnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
