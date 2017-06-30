@@ -309,12 +309,15 @@
         <mark key="." line="27" column="4" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1498815833859">
-        <mark key="'" line="4" column="7" />
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1498825904633">
+        <mark key="'" line="4" column="26" />
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="434" column="16" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
       <jump line="211" column="29" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
       <jump line="469" column="21" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
       <jump line="470" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/requests/cookies.py" />
@@ -414,6 +417,7 @@
       <jump line="102" column="60" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="49" column="16" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="48" column="23" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="5" column="26" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
