@@ -143,10 +143,10 @@
         <mark key="[" line="58" column="29" />
         <mark key="]" line="58" column="35" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1498848213968">
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1498849187176">
         <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="16" />
-        <mark key="." line="20" column="16" />
+        <mark key="]" line="20" column="34" />
+        <mark key="." line="20" column="0" />
         <mark key="^" line="18" column="26" />
       </file>
     </filemarks>
@@ -1799,31 +1799,31 @@
         <text>obsolete</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51dWlkID0gdXVpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucXJfbG9jay5zZXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51dWlkID0gdXVpZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ291dCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ291dCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdGhyZWFkLmV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ291dCgpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdGhyZWFkLmV4aXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdGhyZWFkLmV4aXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ291dCgpCiAgICAgICAgICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
