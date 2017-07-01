@@ -96,12 +96,12 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/main.py" timestamp="1498888016510">
-        <mark key="'" line="13" column="16" />
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/github/microMsg-bot/main.py" timestamp="1498891216178">
+        <mark key="'" line="9" column="40" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/storage.py" timestamp="1497550825121">
         <mark key="'" line="14" column="10" />
@@ -150,7 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="28" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="37" column="12" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="57" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
       <jump line="80" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" />
@@ -250,6 +249,7 @@
       <jump line="1451" column="20" filename="/usr/lib/python3.6/logging/__init__.py" />
       <jump line="2" column="15" filename="$USER_HOME$/github/microMsg-bot/t2.py" />
       <jump line="3" column="41" filename="$USER_HOME$/github/microMsg-bot/t2.py" />
+      <jump line="9" column="40" filename="$USER_HOME$/github/microMsg-bot/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1798,31 +1798,31 @@
         <text>propagate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2luZy5pbmZvKCkK</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1dWlkLCBzdGF0dXMpCg==</text>
+        <text encoding="base64">bG9nZ2luZy5pbmZvKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51dWlkID0gdXVpZAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh1dWlkLCBzdGF0dXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RhdHVzPT0wKQogICAgICAgICAgICBwcmludChzdGF0dXM9PScwJykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucXJfbG9jay5zZXQoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi51dWlkID0gdXVpZAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc3RhdHVzPT0wKQogICAgICAgICAgICBwcmludChzdGF0dXM9PScwJykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucXJfbG9jay5zZXQoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51dWlkID0gdXVpZAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
