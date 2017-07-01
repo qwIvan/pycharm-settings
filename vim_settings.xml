@@ -96,7 +96,7 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/main.py" timestamp="1498891216178">
+      <file name="$USER_HOME$/github/microMsg-bot/main.py" timestamp="1498896866549">
         <mark key="'" line="9" column="40" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -132,12 +132,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1498868408580">
-        <mark key="'" line="4" column="38" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="18" column="28" />
-        <mark key="." line="20" column="16" />
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1498897651514">
+        <mark key="'" line="22" column="30" />
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="22" column="29" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -218,7 +218,6 @@
       <jump line="25" column="29" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="100" column="23" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="261" column="20" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="22" column="21" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="2" column="13" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="23" column="31" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="47" column="26" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
@@ -250,6 +249,7 @@
       <jump line="2" column="15" filename="$USER_HOME$/github/microMsg-bot/t2.py" />
       <jump line="3" column="41" filename="$USER_HOME$/github/microMsg-bot/t2.py" />
       <jump line="9" column="40" filename="$USER_HOME$/github/microMsg-bot/main.py" />
+      <jump line="22" column="30" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1789,7 +1789,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NullHandler</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja19sb2dpblw+</text>
