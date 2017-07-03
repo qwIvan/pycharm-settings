@@ -70,7 +70,7 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" timestamp="1498816160079">
         <mark key="'" line="42" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499093919674">
+      <file name="/Dummy.txt" timestamp="1499099282507">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -144,12 +144,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499098460272">
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499099276870">
         <mark key="'" line="73" column="21" />
-        <mark key="[" line="73" column="37" />
-        <mark key="]" line="73" column="40" />
-        <mark key="^" line="73" column="40" />
-        <mark key="." line="73" column="40" />
+        <mark key="[" line="77" column="37" />
+        <mark key="]" line="77" column="43" />
+        <mark key="^" line="77" column="43" />
+        <mark key="." line="77" column="43" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -1801,13 +1801,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>append</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdF9yZXBseV9ncm91cHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZSBFbW90aW9uQm90LlRpbWVvdXRFeGNlcHRpb24odXVpZCwgc3RhdHVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbXNnLnNlbmRlciA9PSBzZWxmLnNlbGYgYW5kICflvIDlkK/oh6rliqjmlpflm74nIGluIG1zZy50ZXh0OgogICAgICAgICAgICAgICAgc2VsZi5hdF9yZXBseV9ncm91cHMuYWRkKG1zZy5yZWNlaXZlcikKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCfnvqTogYo8JXM+5bey5byA5ZCv6Ieq5Yqo5paX5Zu+JyAlIG1zZy5yZWNlaXZlci5uYW1lKQogICAgICAgICAgICAgICAgcmV0dXJuICflt7LlvIDlkK/vvIxA5oiR5Y+R6YCB5paH5a2X5Y+v5Lul6Ieq5Yqo5paX5Zu+Jwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
