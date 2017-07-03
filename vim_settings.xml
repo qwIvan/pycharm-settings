@@ -70,7 +70,7 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" timestamp="1498816160079">
         <mark key="'" line="42" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499099282507">
+      <file name="/Dummy.txt" timestamp="1499099734243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -144,12 +144,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499099276870">
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499099723748">
         <mark key="'" line="73" column="21" />
-        <mark key="[" line="77" column="37" />
-        <mark key="]" line="77" column="43" />
-        <mark key="^" line="77" column="43" />
-        <mark key="." line="77" column="43" />
+        <mark key="[" line="76" column="65" />
+        <mark key="]" line="76" column="105" />
+        <mark key="^" line="76" column="105" />
+        <mark key="." line="76" column="105" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
