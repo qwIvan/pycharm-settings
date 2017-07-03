@@ -144,12 +144,12 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499093912966">
-        <mark key="'" line="31" column="47" />
-        <mark key="[" line="49" column="46" />
-        <mark key="]" line="49" column="46" />
-        <mark key="^" line="49" column="46" />
-        <mark key="." line="49" column="46" />
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499098460272">
+        <mark key="'" line="73" column="21" />
+        <mark key="[" line="73" column="37" />
+        <mark key="]" line="73" column="40" />
+        <mark key="^" line="73" column="40" />
+        <mark key="." line="73" column="40" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -162,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="48" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="43" column="42" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="102" column="60" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="49" column="16" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
@@ -196,7 +195,6 @@
       <jump line="325" column="19" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="100" column="23" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="261" column="20" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="23" column="31" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="119" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="18" column="27" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="17" column="29" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -251,7 +249,6 @@
       <jump line="80" column="21" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="4" column="0" filename="$USER_HOME$/github/microMsg-bot/logger.py" />
       <jump line="42" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="73" column="24" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="9" column="18" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="55" column="26" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="25" column="29" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
@@ -262,6 +259,9 @@
       <jump line="47" column="26" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="31" column="47" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="13" column="31" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="80" column="50" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="23" column="13" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="73" column="21" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1801,10 +1801,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>append</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja19sb2dpblw+</text>
+        <text encoding="base64">XDxhdF9yZXBseV9ncm91cHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZSBFbW90aW9uQm90LlRpbWVvdXRFeGNlcHRpb24odXVpZCwgc3RhdHVzKQo=</text>
@@ -1841,9 +1841,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja19sb2dpblw+</last-search>
+      <last-search encoding="base64">XDxhdF9yZXBseV9ncm91cHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja19sb2dpblw+</last-pattern>
+      <last-pattern encoding="base64">XDxhdF9yZXBseV9ncm91cHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1851,7 +1851,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0xvZ2dpbmdcPg==</entry>
         <entry encoding="base64">XDxjYWNoZV9wYXRoXD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNTdG9yYWdlRGlyXD4=</entry>
         <entry encoding="base64">XDxsb2FkX2xvZ2luX3N0YXR1c1w+</entry>
@@ -1871,6 +1870,7 @@
         <entry>is_at</entry>
         <entry>logout</entry>
         <entry encoding="base64">XDxjaGVja19sb2dpblw+</entry>
+        <entry encoding="base64">XDxhdF9yZXBseV9ncm91cHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
