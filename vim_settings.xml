@@ -107,12 +107,12 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1499156557667">
+      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1499157828294">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="24" />
-        <mark key="^" line="22" column="24" />
-        <mark key="." line="22" column="24" />
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="21" column="18" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/main.py" timestamp="1499092584689">
         <mark key="'" line="14" column="0" />
@@ -150,7 +150,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499156354387">
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499158272000">
         <mark key="'" line="73" column="21" />
         <mark key="[" line="52" column="23" />
         <mark key="]" line="52" column="23" />
@@ -1816,31 +1816,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgbXNnLnNlbmRlciA9PSBzZWxmLnNlbGYgYW5kICflvIDlkK/oh6rliqjmlpflm74nIGluIG1zZy50ZXh0OgogICAgICAgICAgICAgICAgc2VsZi5hdF9yZXBseV9ncm91cHMuYWRkKG1zZy5yZWNlaXZlcikKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCfnvqTogYo8JXM+5bey5byA5ZCv6Ieq5Yqo5paX5Zu+JyAlIG1zZy5yZWNlaXZlci5uYW1lKQogICAgICAgICAgICAgICAgcmV0dXJuICflt7LlvIDlkK/vvIxA5oiR5Y+R6YCB5paH5a2X5Y+v5Lul6Ieq5Yqo5paX5Zu+Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG1zZykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RhdHVzID0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZy5yZXBseSgpCg==</text>
-      </register>
-      <register name="4" type="8">
-        <text>logger, timeout</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG1lbWUK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RhdHVzID0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZy5yZXBseSgpCg==</text>
+      </register>
+      <register name="5" type="8">
+        <text>logger, timeout</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG1lbWUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleXdvcmQgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleXdvcmQgPSBOb25lCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
