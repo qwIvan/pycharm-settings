@@ -19,10 +19,10 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1499250753897">
+      <file name="/Python Console" timestamp="1499252648834">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1499250383236">
+      <file name="/fragment.py" timestamp="1499251311461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -67,7 +67,7 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" timestamp="1498816160079">
         <mark key="'" line="42" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499250189451">
+      <file name="/Dummy.txt" timestamp="1499252770994">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -92,14 +92,14 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1499246189100">
-        <mark key="'" line="32" column="21" />
-        <mark key="[" line="39" column="20" />
-        <mark key="]" line="39" column="16" />
-        <mark key="^" line="39" column="16" />
-        <mark key="." line="39" column="16" />
+      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1499252622913">
+        <mark key="'" line="33" column="21" />
+        <mark key="[" line="19" column="100" />
+        <mark key="]" line="19" column="97" />
+        <mark key="^" line="19" column="97" />
+        <mark key="." line="19" column="97" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/meme.py" timestamp="1499250754524">
+      <file name="$USER_HOME$/github/microMsg-bot/meme.py" timestamp="1499251343573">
         <mark key="'" line="5" column="11" />
         <mark key="[" line="9" column="90" />
         <mark key="]" line="9" column="102" />
@@ -136,20 +136,18 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499249946281">
-        <mark key="'" line="73" column="36" />
-        <mark key="[" line="73" column="49" />
-        <mark key="]" line="74" column="34" />
-        <mark key="." line="74" column="34" />
-        <mark key="^" line="74" column="34" />
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499252332092">
+        <mark key="'" line="105" column="8" />
+        <mark key="[" line="83" column="116" />
+        <mark key="]" line="83" column="115" />
+        <mark key="." line="83" column="115" />
+        <mark key="^" line="83" column="115" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" timestamp="1497604593569">
         <mark key="'" line="561" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="20" column="29" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="47" column="26" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
       <jump line="13" column="31" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="80" column="50" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -248,6 +246,8 @@
       <jump line="72" column="33" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="73" column="36" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="39" column="12" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="105" column="8" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="33" column="21" filename="$USER_HOME$/github/microMsg-bot/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1790,19 +1790,19 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9yIHNvdXAuc2VsZWN0KCcubGlzdC1ncm91cCcpIG9yIHNvdXAuc2VsZWN0KCcucmFuZG9tX3BpY3R1cmUnKSA=</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="4">
-        <text>.list-group-item img</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImRvY3VtZW50LmNvb2tpZT0ne309e307ZG9tYWluPS5xcS5jb207ZXhwaXJlcz1GcmksIDMxIERlYyA5OTk5IDIzOjU5OjU5IEdNVCciLmZvcm1hdChuLCB2KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWdzLmFwCg==</text>
+        <text encoding="base64">ICAgIGJvdC5wcmludF9jb29raWVzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">5YWz6Zet6Ieq5Yqo5paX5Zu+Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3QucHJpbnRfY29va2llcygpCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -1811,22 +1811,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhrd2FyZ3MpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygndGVzdCAlcycsIHFyX2NhbGxiYWNrKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWdzLmFwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnaGVyZSEhIScpCg==</text>
+        <text encoding="base64">5YWz6Zet6Ieq5Yqo5paX5Zu+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKG5lZWRfbG9naW49RmFsc2UsICphcmdzLCAqKmt3YXJncykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoKS5fX2luaXRfXyhuZWVkX2xvZ2luPUZhbHNlLCAqYXJncywgKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhrd2FyZ3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlZ19ldmVudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygndGVzdCAlcycsIHFyX2NhbGxiYWNrKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
