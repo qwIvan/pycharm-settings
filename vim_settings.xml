@@ -116,12 +116,12 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1499228341383">
+      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1499234413453">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="15" column="60" />
-        <mark key="]" line="15" column="61" />
-        <mark key="^" line="15" column="61" />
-        <mark key="." line="15" column="61" />
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="27" column="22" />
+        <mark key="." line="30" column="25" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/main.py" timestamp="1499092584689">
         <mark key="'" line="14" column="0" />
@@ -155,7 +155,7 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1499057446814">
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1499233409965">
         <mark key="'" line="80" column="21" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/test.py" timestamp="1498836676132">
@@ -171,11 +171,10 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499230070112">
-        <mark key="[" line="123" column="8" />
-        <mark key="]" line="123" column="8" />
-        <mark key="^" line="123" column="8" />
-        <mark key="." line="123" column="8" />
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499234076488">
+        <mark key="'" line="87" column="8" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="74" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -188,8 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1804" column="0" filename="/usr/lib/python3.6/logging/__init__.py" />
-      <jump line="1809" column="0" filename="/usr/lib/python3.6/logging/__init__.py" />
       <jump line="1813" column="0" filename="/usr/lib/python3.6/logging/__init__.py" />
       <jump line="1820" column="0" filename="/usr/lib/python3.6/logging/__init__.py" />
       <jump line="1830" column="0" filename="/usr/lib/python3.6/logging/__init__.py" />
@@ -206,7 +203,6 @@
       <jump line="27" column="21" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="28" column="24" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="20" column="0" filename="$USER_HOME$/github/microMsg-bot/main.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="52" column="8" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="49" column="13" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="53" column="13" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -219,7 +215,6 @@
       <jump line="2" column="9" filename="$USER_HOME$/github/microMsg-bot/logger.py" />
       <jump line="71" column="0" filename="/bot.py" />
       <jump line="2" column="17" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="41" column="25" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="80" column="21" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="4" column="0" filename="$USER_HOME$/github/microMsg-bot/logger.py" />
@@ -285,9 +280,13 @@
       <jump line="21" column="28" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="107" column="32" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="20" column="42" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="15" column="11" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="10" column="21" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="100" column="44" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="15" column="10" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="35" column="22" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="10" column="32" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1830,43 +1829,43 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text encoding="base64">bG9naW5fY2FsbGJhY2s9bG9naW5fY2FsbGJhY2ssIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgbmFtZT1Ob25lLCB0aW1lb3V0X21heD05LCBxcl9jYWxsYmFjaz1Ob25lLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHNlbGYubmFtZSA9IG5hbWUKICAgICAgICBzZWxmLnFyX2xvY2sgPSB0aHJlYWRpbmcuRXZlbnQoKQogICAgICAgICMgc2VsZi5sb2dpbl9sb2NrID0gdGhyZWFkaW5nLkV2ZW50KCkKICAgICAgICBzZWxmLnRpbWVvdXRfY291bnQgPSAwICAjIFFSIGNvZGUgdGltZW91dCBjb3VudAogICAgICAgIHNlbGYuYXRfcmVwbHlfZ3JvdXBzID0gc2V0KCkgICMgYXV0byByZXBseSBpc19hdCBtc2cgZnJvbSB0aGVzZSBncm91cHMKCiAgICAgICAgZGVmIF9xcl9jYWxsYmFjayh1dWlkLCBzdGF0dXMsIHFyY29kZSk6CiAgICAgICAgICAgIGlmIHN0YXR1cyA9PSAnMCc6CiAgICAgICAgICAgICAgICBzZWxmLnV1aWQgPSB1dWlkCiAgICAgICAgICAgICAgICBzZWxmLnFyX2xvY2suc2V0KCkKICAgICAgICAgICAgZWxpZiBzdGF0dXMgPT0gJzQwOCc6CiAgICAgICAgICAgICAgICBzZWxmLnRpbWVvdXRfY291bnQgKz0gMQogICAgICAgICAgICAgICAgaWYgc2VsZi50aW1lb3V0X2NvdW50ID4gdGltZW91dF9tYXg6CiAgICAgICAgICAgICAgICAgICAgcmFpc2Ugc2VsZi5UaW1lb3V0RXhjZXB0aW9uKHV1aWQsIHN0YXR1cykKICAgICAgICAgICAgZWxpZiBzdGF0dXMgPT0gJzQwMCc6ICAjIGV4aXQgdGhyZWFkIHdoZW4gdGltZSBvdXQgYXQgUVIgY29kZSB3YWl0aW5nIGZvciBzY2FuCiAgICAgICAgICAgICAgICByYWlzZSBzZWxmLlRpbWVvdXRFeGNlcHRpb24odXVpZCwgc3RhdHVzKQoKICAgICAgICAgICAgaWYgY2FsbGFibGUocXJfY2FsbGJhY2spOgogICAgICAgICAgICAgICAgcXJfY2FsbGJhY2sodXVpZCwgc3RhdHVzLCBxcmNvZGUpCgogICAgICAgICMga3dhcmdzLnVwZGF0ZShjYWNoZV9wYXRoPVRydWUsIHFyX2NhbGxiYWNrPXFyX2NhbGxiYWNrKQogICAgICAgIGt3YXJncy51cGRhdGUocXJfY2FsbGJhY2s9X3FyX2NhbGxiYWNrKQogICAgICAgIHNlbGYudGhyZWFkID0gdGhyZWFkaW5nLlRocmVhZCh0YXJnZXQ9c2VsZi5sb2dpbiwgYXJncz1hcmdzLCBrd2FyZ3M9a3dhcmdzKQogICAgICAgIHNlbGYudGhyZWFkLnN0YXJ0KCkKICAgICAgICBzZWxmLnFyX2xvY2sud2FpdCgpICAjIGxvY2sgcmVsZWFzZSB3aGVuIFFSIGNvZGUgdXVpZCBnb3QKCiAgICBkZWYgbG9naW4oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHN1cGVyKCkuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAgICAgIGV4Y2VwdCBzZWxmLlRpbWVvdXRFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJ3V1aWQ9JXMsIHN0YXR1cz0lcywgdGltZW91dCcsIGUudXVpZCwgZS5zdGF0dXMpCiAgICAgICAgICAgIHJldHVybgogICAgICAgICMgc2VsZi5sb2dpbl9sb2NrLnNldCgpCiAgICAgICAgc2VsZi5yZWdfZXZlbnQoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBsb2dpbl9jYWxsYmFjaygpOgogICAgICAgIGxvZ2dlci5pbmZvKGJvdC51dWlkKQogICAgICAgIGVtaXQoJ2xvZ2dlZCBpbicsIGJvdC51dWlkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubG9naW5fbG9jayA9IHRocmVhZGluZy5FdmVudCgpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBsb2dpbl9jYWxsYmFjaygpOgogICAgICAgIGxvZ2dlci5pbmZvKGJvdC51dWlkKQogICAgICAgIGVtaXQoJ2xvZ2dlZCBpbicsIGJvdC51dWlkKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubG9naW5fbG9jay5zZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubG9naW5fbG9jay5zZXQoKQo=</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKG1zZykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubG9naW5fbG9jay5zZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubG9naW5fbG9jayA9IHRocmVhZGluZy5FdmVudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGNhbGxhYmxlKHRpbWVvdXRfY2FsbGJhY2spOgogICAgICAgICAgICAgICAgICAgIHRpbWVvdXRfY2FsbGJhY2sodXVpZCwgc3RhdHVzLCBxcmNvZGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgX3FyX2NhbGxiYWNrKHV1aWQsIHN0YXR1cywgcXJjb2RlKToKICAgICAgICAgICAgaWYgc3RhdHVzID09ICc0MDgnOgogICAgICAgICAgICAgICAgc2VsZi50aW1lb3V0X2NvdW50ICs9IDEKICAgICAgICAgICAgICAgIGlmIHNlbGYudGltZW91dF9jb3VudCA+IHRpbWVvdXRfbWF4OgogICAgICAgICAgICAgICAgICAgIHJhaXNlIHNlbGYuVGltZW91dEV4Y2VwdGlvbih1dWlkLCBzdGF0dXMpCiAgICAgICAgICAgIGVsaWYgc3RhdHVzID09ICc0MDAnOiAgIyBleGl0IHRocmVhZCB3aGVuIHRpbWUgb3V0IGF0IFFSIGNvZGUgd2FpdGluZyBmb3Igc2NhbgogICAgICAgICAgICAgICAgcmFpc2Ugc2VsZi5UaW1lb3V0RXhjZXB0aW9uKHV1aWQsIHN0YXR1cykKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBjYWxsYWJsZSh0aW1lb3V0X2NhbGxiYWNrKToKICAgICAgICAgICAgICAgICAgICAgICAgdGltZW91dF9jYWxsYmFjayh1dWlkLCBzdGF0dXMsIHFyY29kZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICMgZGVmIHJlYWR5KHNlbGYsIHRpbWVvdXQ9Tm9uZSk6CiAgICAjICAgICBzZWxmLmxvZ2luX2xvY2sud2FpdCh0aW1lb3V0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1cGVyKCkuX3FyCg==</text>
+        <text encoding="base64">CiAgICBkZWYgbG9naW4oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHN1cGVyKCkuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQogICAgICAgIGV4Y2VwdCBzZWxmLlRpbWVvdXRFeGNlcHRpb24gYXMgZToKICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoJ3V1aWQ9JXMsIHN0YXR1cz0lcywgdGltZW91dCcsIGUudXVpZCwgZS5zdGF0dXMpCiAgICAgICAgICAgIHJldHVybgogICAgICAgICMgc2VsZi5sb2dpbl9sb2NrLnNldCgpCiAgICAgICAgIyBzZWxmLnJlZ19ldmVudCgpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RhdHVzID09ICcwJzoKICAgICAgICAgICAgICAgIHNlbGYudXVpZCA9IHV1aWQKICAgICAgICAgICAgICAgIHNlbGYucXJfbG9jay5zZXQoKQo=</text>
+        <text encoding="base64">ICAgICMgZGVmIHJlYWR5KHNlbGYsIHRpbWVvdXQ9Tm9uZSk6CiAgICAjICAgICBzZWxmLmxvZ2luX2xvY2sud2FpdCh0aW1lb3V0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
