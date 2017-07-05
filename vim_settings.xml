@@ -171,12 +171,12 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499241349848">
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499242111653">
         <mark key="'" line="86" column="13" />
-        <mark key="[" line="111" column="39" />
-        <mark key="]" line="111" column="44" />
-        <mark key="." line="111" column="44" />
-        <mark key="^" line="111" column="44" />
+        <mark key="[" line="111" column="1" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="111" column="0" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -1840,34 +1840,34 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dpbih0aW1lb3V0X21heD10aW1lb3V0X21heCwgcXJfY2FsbGJhY2s9cXJfY2FsbGJhY2ssICphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudXVpZCA9IHV1aWQK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpLl9faW5pdF9fKG5lZWRfbG9naW49RmFsc2UsICphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBlbGlmIHN0YXR1cyA9PSAnNDA4JzoKICAgICAgICAjICAgICAgICAgc2VsZi50aW1lb3V0X2NvdW50ICs9IDEKICAgICAgICAjICAgICAgICAgaWYgc2VsZi50aW1lb3V0X2NvdW50ID4gdGltZW91dF9tYXg6CiAgICAgICAgIyAgICAgICAgICAgICByYWlzZSBzZWxmLlRpbWVvdXRFeGNlcHRpb24odXVpZCwgc3RhdHVzKQogICAgICAgICMgICAgIGVsaWYgc3RhdHVzID09ICc0MDAnOiAgIyBleGl0IHRocmVhZCB3aGVuIHRpbWUgb3V0IGF0IFFSIGNvZGUgd2FpdGluZyBmb3Igc2NhbgogICAgICAgICMgICAgICAgICByYWlzZSBzZWxmLlRpbWVvdXRFeGNlcHRpb24odXVpZCwgc3RhdHVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoKS5fX2luaXRfXyhuZWVkX2xvZ2luPUZhbHNlLCAqYXJncywgKiprd2FyZ3MpCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN1cGVyKCkuX19pbml0X18obmFtZSwgbmVlZF9sb2dpbj1GYWxzZSwgKmFyZ3MsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlZ19ldmVudCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ2hlcmUhISEnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudXVpZCA9IHV1aWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBlbGlmIHN0YXR1cyA9PSAnNDA4JzoKICAgICAgICAjICAgICAgICAgc2VsZi50aW1lb3V0X2NvdW50ICs9IDEKICAgICAgICAjICAgICAgICAgaWYgc2VsZi50aW1lb3V0X2NvdW50ID4gdGltZW91dF9tYXg6CiAgICAgICAgIyAgICAgICAgICAgICByYWlzZSBzZWxmLlRpbWVvdXRFeGNlcHRpb24odXVpZCwgc3RhdHVzKQogICAgICAgICMgICAgIGVsaWYgc3RhdHVzID09ICc0MDAnOiAgIyBleGl0IHRocmVhZCB3aGVuIHRpbWUgb3V0IGF0IFFSIGNvZGUgd2FpdGluZyBmb3Igc2NhbgogICAgICAgICMgICAgICAgICByYWlzZSBzZWxmLlRpbWVvdXRFeGNlcHRpb24odXVpZCwgc3RhdHVzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHN1cGVyKCkuX19pbml0X18obmFtZSwgbmVlZF9sb2dpbj1GYWxzZSwgKmFyZ3MsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi51dWlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ2hlcmUhISEnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICMgaW1wb3J0IHN5cwogICAgICAgICAgICAjIGlmIGxlbihzeXMuYXJndikgPiAxIGFuZCBzeXMuYXJndlsxXSA9PSAnLWMnOgogICAgICAgICAgICAjICAgICBwcmludF9jb29raWVzKCkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVvdXRfY291bnQgPSAwICAjIFFSIGNvZGUgdGltZW91dCBjb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
