@@ -171,11 +171,11 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499237084920">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="118" column="0" />
-        <mark key="." line="118" column="0" />
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499240274914">
+        <mark key="'" line="95" column="32" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -188,13 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/github/microMsg-bot/main.py" />
-      <jump line="86" column="12" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="2" column="9" filename="$USER_HOME$/github/microMsg-bot/logger.py" />
-      <jump line="71" column="0" filename="/bot.py" />
-      <jump line="41" column="25" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="80" column="21" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="4" column="0" filename="$USER_HOME$/github/microMsg-bot/logger.py" />
       <jump line="42" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="55" column="26" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
@@ -231,7 +224,6 @@
       <jump line="3" column="10" filename="$USER_HOME$/scrapy-project/notscrapy.py" />
       <jump line="9" column="21" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="109" column="3" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="14" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="93" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="123" column="29" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -245,19 +237,13 @@
       <jump line="129" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="126" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="115" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="30" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="33" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="39" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="108" column="21" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="11" column="8" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="31" column="8" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="96" column="19" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="95" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="21" column="28" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="107" column="32" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="20" column="42" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="15" column="10" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="35" column="22" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="40" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="36" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -265,7 +251,6 @@
       <jump line="15" column="26" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="31" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="100" column="26" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="117" column="12" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="118" column="12" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="112" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="102" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -284,10 +269,25 @@
       <jump line="83" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="97" column="30" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="10" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="122" column="30" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="113" column="28" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="121" column="22" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="86" column="34" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="87" column="31" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="15" column="34" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="98" column="40" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="20" column="12" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="21" column="50" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="96" column="46" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="106" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="76" column="26" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="117" column="23" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="95" column="32" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1830,60 +1830,59 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>self, _qr_callback, *args, **kwargs</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDx0aW1lb3V0X21heFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIud2FybmluZygndXVpZD0lcywgc3RhdHVzPSVzLCB0aW1lb3V0JywgZS51dWlkLCBlLnN0YXR1cykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dpbih0aW1lb3V0X21heD10aW1lb3V0X21heCwgcXJfY2FsbGJhY2s9cXJfY2FsbGJhY2ssICphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gc2VsZi5sb2dpbl9sb2NrLmlzX3NldCh0aW1lb3V0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudXVpZCA9IHV1aWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB3YWl0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBlbGlmIHN0YXR1cyA9PSAnNDA4JzoKICAgICAgICAjICAgICAgICAgc2VsZi50aW1lb3V0X2NvdW50ICs9IDEKICAgICAgICAjICAgICAgICAgaWYgc2VsZi50aW1lb3V0X2NvdW50ID4gdGltZW91dF9tYXg6CiAgICAgICAgIyAgICAgICAgICAgICByYWlzZSBzZWxmLlRpbWVvdXRFeGNlcHRpb24odXVpZCwgc3RhdHVzKQogICAgICAgICMgICAgIGVsaWYgc3RhdHVzID09ICc0MDAnOiAgIyBleGl0IHRocmVhZCB3aGVuIHRpbWUgb3V0IGF0IFFSIGNvZGUgd2FpdGluZyBmb3Igc2NhbgogICAgICAgICMgICAgICAgICByYWlzZSBzZWxmLlRpbWVvdXRFeGNlcHRpb24odXVpZCwgc3RhdHVzKQo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubG9naW5fbG9jay5zZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHN1cGVyKCkuX19pbml0X18obmFtZSwgbmVlZF9sb2dpbj1GYWxzZSwgKmFyZ3MsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2luX2xvY2suc2V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oJ2hlcmUhISEnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dpbl9sb2NrLnNldCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIFRpbWVvdXRFeGNlcHRpb24oRXhjZXB0aW9uKToKICAgICAgICBkZWYgX19pbml0X18oc2VsZiwgdXVpZCwgc3RhdHVzKToKICAgICAgICAgICAgc2VsZi51dWlkID0gdXVpZAogICAgICAgICAgICBzZWxmLnN0YXR1cyA9IHN0YXR1cwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICMgaW1wb3J0IHN5cwogICAgICAgICAgICAjIGlmIGxlbihzeXMuYXJndikgPiAxIGFuZCBzeXMuYXJndlsxXSA9PSAnLWMnOgogICAgICAgICAgICAjICAgICBwcmludF9jb29raWVzKCkKCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi51dWlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubG9naW5fbG9jayA9IHRocmVhZGluZy5FdmVudCgpCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICMgaW1wb3J0IHN5cwogICAgICAgICAgICAjIGlmIGxlbihzeXMuYXJndikgPiAxIGFuZCBzeXMuYXJndlsxXSA9PSAnLWMnOgogICAgICAgICAgICAjICAgICBwcmludF9jb29raWVzKCkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubG9naW5fbG9jay5zZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRpbWVvdXRfY291bnQgPSAwICAjIFFSIGNvZGUgdGltZW91dCBjb3VudAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDx0aW1lb3V0X21heFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0aW1lb3V0X21heFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0dXNTdG9yYWdlRGlyXD4=</entry>
         <entry encoding="base64">XDxsb2FkX2xvZ2luX3N0YXR1c1w+</entry>
         <entry encoding="base64">XDxhdHRyX2RpY3RzXD4=</entry>
         <entry encoding="base64">XDxnZXRfbXNnXD4=</entry>
@@ -1903,6 +1902,7 @@
         <entry encoding="base64">XDxjaGVja19sb2dpblw+</entry>
         <entry encoding="base64">XDxhdF9yZXBseV9ncm91cHNcPg==</entry>
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDx0aW1lb3V0X21heFw+</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
