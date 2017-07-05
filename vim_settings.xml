@@ -171,11 +171,12 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499240274914">
-        <mark key="'" line="95" column="32" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499241349848">
+        <mark key="'" line="86" column="13" />
+        <mark key="[" line="111" column="39" />
+        <mark key="]" line="111" column="44" />
+        <mark key="." line="111" column="44" />
+        <mark key="^" line="111" column="44" />
       </file>
       <file name="$USER_HOME$/github/you-get/src/you_get/extractors/qq.py" timestamp="1490391115915">
         <mark key="[" line="215" column="0" />
@@ -272,7 +273,6 @@
       <jump line="122" column="30" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="113" column="28" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="121" column="22" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="86" column="34" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="87" column="31" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="15" column="34" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="98" column="40" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -282,12 +282,13 @@
       <jump line="21" column="50" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="96" column="46" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="106" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="82" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="19" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="76" column="26" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="117" column="23" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="95" column="32" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="106" column="16" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="86" column="13" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1830,7 +1831,7 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>self, _qr_callback, *args, **kwargs</text>
+        <text>_in</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lb3V0X21heFw+</text>
