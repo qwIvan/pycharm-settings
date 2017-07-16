@@ -136,12 +136,12 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1499263075100">
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1500192466522">
         <mark key="'" line="106" column="8" />
-        <mark key="[" line="70" column="55" />
-        <mark key="]" line="70" column="73" />
-        <mark key="." line="70" column="73" />
-        <mark key="^" line="70" column="73" />
+        <mark key="[" line="70" column="98" />
+        <mark key="]" line="70" column="104" />
+        <mark key="." line="70" column="104" />
+        <mark key="^" line="70" column="104" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" timestamp="1497604593569">
         <mark key="'" line="561" column="36" />
@@ -1790,7 +1790,7 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
