@@ -95,8 +95,8 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1500280708376">
-        <mark key="'" line="7" column="12" />
+      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1500300047881">
+        <mark key="'" line="33" column="0" />
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="16" />
         <mark key="^" line="4" column="16" />
@@ -229,7 +229,6 @@
       <jump line="72" column="33" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="39" column="12" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="105" column="8" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="33" column="21" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="23" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="48" column="14" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="3" column="12" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -251,6 +250,7 @@
       <jump line="129" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/flask_socketio/__init__.py" />
       <jump line="8" column="2" filename="$USER_HOME$/.local/lib/python3.6/site-packages/flask_socketio/__init__.py" />
       <jump line="812" column="38" filename="$USER_HOME$/.local/lib/python3.6/site-packages/flask_socketio/__init__.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
