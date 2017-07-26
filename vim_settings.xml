@@ -33,6 +33,13 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/github/microMsg-bot/static/index.html" timestamp="1501096787489">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="43" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="/a.dummy" timestamp="1499093484910">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,7 +88,7 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" timestamp="1498816160079">
         <mark key="'" line="42" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501083846445">
+      <file name="/Dummy.txt" timestamp="1501096124133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="22" />
@@ -169,9 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="11" filename="$USER_HOME$/github/microMsg-bot/meme.py" />
-      <jump line="72" column="33" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="39" column="12" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="105" column="8" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="48" column="14" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="3" column="12" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -269,6 +273,9 @@
       <jump line="42" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="44" column="4" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="8" column="43" filename="$USER_HOME$/github/microMsg-bot/static/index.html" />
+      <jump line="31" column="18" filename="$USER_HOME$/github/microMsg-bot/static/index.html" />
+      <jump line="4" column="12" filename="$USER_HOME$/github/microMsg-bot/static/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1811,19 +1818,19 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>index.html</text>
+        <text>Test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0aWNfdXJsX3BhdGhcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>static_folder</text>
+        <text>cdnjs.cloudflare.com/</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgYXBwLnJ1bigpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgPG1ldGEgY2hhcnNldD0idXRmLTgiPgogIDx0aXRsZT5UZXN0PC90aXRsZT4KICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvc29ja2V0LmlvLzIuMC4zL3NvY2tldC5pby5zbGltLmpzIj48L3NjcmlwdD4KICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgY2hhcnNldD0idXRmLTgiPgogICAgdmFyIHNvY2tldCA9IGlvLmNvbm5lY3QoJ2h0dHA6Ly9ib3QubGliaXZhbi5jb20nKTsKICAgIHNvY2tldC5vbigncXInLCBmdW5jdGlvbihjb2RlLCBzdGF0dXMpIHsKICAgICAgY29uc29sZS5sb2coY29kZSwgc3RhdHVzKTsKICAgICAgICBzd2l0Y2ggKHN0YXR1cykgewogICAgICAgICAgICBjYXNlICcwJzoKICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdxcicpLnNldEF0dHJpYnV0ZSgnc3JjJywgJ2h0dHBzOi8vbG9naW4ud2VpeGluLnFxLmNvbS9xcmNvZGUvJyArIGNvZGUpOwogICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3RpcHMnKS5pbm5lclRleHQgPSAn6K+355So5b6u5L+h5omr56CB5LqM57u056CBJzsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICcyMDEnOgogICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3RpcHMnKS5pbm5lclRleHQgPSAn6K+35Zyo5b6u5L+h5Lit56Gu6K6k55m75b2VJzsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICcyMDAnOgogICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3FyJykuc2V0QXR0cmlidXRlKCdzcmMnLCAnJyk7CiAgICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgndGlwcycpLmlubmVyVGV4dCA9ICfmnLrlmajkurrlt7LmiJDlip/nmbvlvZUnOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQogICAgfSk7CiAgICBzb2NrZXQuZW1pdCgnbG9naW4nKTsKICA8L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3FyJykuc2V0QXR0cmlidXRlKCdzcmMnLCAnaHR0cHM6Ly9sb2dpbi53ZWl4aW4ucXEuY29tL3FyY29kZS8nICsgY29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICMgYXBwLnJ1bigpCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -1832,22 +1839,22 @@
         <text encoding="base64">ICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3FyJykuc2V0QXR0cmlidXRlKCdzcmMnLCAnaHR0cHM6Ly9sb2dpbi53ZWl4aW4ucXEuY29tL3FyY29kZS8nICsgY29kZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKG1zZykK</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3FyJykuc2V0QXR0cmlidXRlKCdzcmMnLCAnaHR0cHM6Ly9sb2dpbi53ZWl4aW4ucXEuY29tL3FyY29kZS8nICsgY29kZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKG1zZykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBxcl9jYWxsYmFjayh1dWlkLCBzdGF0dXMsIHFyY29kZSk6CiAgICAgICAgbG9nZ2VyLmluZm8oJyVzICVzJywgdXVpZCwgc3RhdHVzKQogICAgICAgIGVtaXQoJ3FyJywgKHV1aWQsIHN0YXR1cykpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBxcl9jYWxsYmFjayh1dWlkLCBzdGF0dXMsIHFyY29kZSk6CiAgICAgICAgbG9nZ2VyLmluZm8oJyVzICVzJywgdXVpZCwgc3RhdHVzKQogICAgICAgIGVtaXQoJ3FyJywgKHV1aWQsIHN0YXR1cykpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV2ZW50bGV0LndzZ2kK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
