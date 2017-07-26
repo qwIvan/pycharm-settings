@@ -33,12 +33,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/static/index.html" timestamp="1501098516611">
-        <mark key="'" line="8" column="6" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="37" />
-        <mark key="^" line="25" column="65" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/github/microMsg-bot/static/index.html" timestamp="1501100052081">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="37" />
+        <mark key="^" line="24" column="65" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1499093484910">
         <mark key="[" line="0" column="0" />
@@ -88,7 +88,7 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" timestamp="1498816160079">
         <mark key="'" line="42" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501096124133">
+      <file name="/Dummy.txt" timestamp="1501100105231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="22" />
@@ -120,12 +120,12 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501098452039">
+      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501099918032">
         <mark key="'" line="44" column="4" />
-        <mark key="[" line="39" column="41" />
-        <mark key="]" line="39" column="48" />
-        <mark key="^" line="39" column="48" />
-        <mark key="." line="39" column="48" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="16" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="34" column="16" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/meme.py" timestamp="1500221836772">
         <mark key="'" line="5" column="11" />
