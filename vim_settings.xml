@@ -120,10 +120,10 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501141200181">
+      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501145555269">
         <mark key="'" line="46" column="4" />
-        <mark key="[" line="38" column="12" />
-        <mark key="]" line="38" column="31" />
+        <mark key="[" line="37" column="29" />
+        <mark key="]" line="37" column="51" />
         <mark key="^" line="38" column="11" />
         <mark key="." line="38" column="12" />
       </file>
@@ -2096,7 +2096,7 @@
         <text encoding="base64">XDxzdGF0aWNfdXJsX3BhdGhcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>bot.print_cookies()</text>
+        <text>qr_callback=qr_callback</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc29ja2V0aW8uZW1pdCgncXInLCAoTm9uZSwgc3RhdHVzKSwgcm9vbT1zaWQpCg==</text>
