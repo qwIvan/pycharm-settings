@@ -55,10 +55,10 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/logger.py" timestamp="1499057606570">
+      <file name="$USER_HOME$/github/microMsg-bot/logger.py" timestamp="1501138597057">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="22" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
@@ -166,28 +166,18 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1501098737514">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="77" column="47" />
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1501138633901">
+        <mark key="'" line="73" column="20" />
+        <mark key="[" line="73" column="54" />
+        <mark key="]" line="73" column="54" />
+        <mark key="." line="73" column="54" />
+        <mark key="^" line="73" column="63" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" timestamp="1497604593569">
         <mark key="'" line="561" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="47" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="73" column="37" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="67" column="28" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="129" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/flask_socketio/__init__.py" />
-      <jump line="8" column="2" filename="$USER_HOME$/.local/lib/python3.6/site-packages/flask_socketio/__init__.py" />
-      <jump line="812" column="38" filename="$USER_HOME$/.local/lib/python3.6/site-packages/flask_socketio/__init__.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="664" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/flask_socketio/__init__.py" />
       <jump line="699" column="25" filename="$USER_HOME$/.local/lib/python3.6/site-packages/flask_socketio/__init__.py" />
       <jump line="12" column="27" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="13" column="24" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -278,6 +268,16 @@
       <jump line="46" column="4" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="27" column="6" filename="$USER_HOME$/github/microMsg-bot/static/index.html" />
       <jump line="7" column="20" filename="$USER_HOME$/github/microMsg-bot/static/index.html" />
+      <jump line="58" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="69" column="27" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/github/microMsg-bot/meme.py" />
+      <jump line="72" column="20" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="67" column="20" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="66" column="52" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="41" column="37" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="74" column="32" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="40" column="13" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="73" column="20" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2090,13 +2090,13 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>'http://bot.libivan.com'</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0aWNfdXJsX3BhdGhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNvY2tldC5lbWl0KCdsb2dpbicpOwo=</text>
+        <text encoding="base64">bG9nZ2VyLmFkZEhhbmRsZXIobG9nZ2luZy5TdHJlYW1IYW5kbGVyKHN5cy5zdGRvdXQpKQpsb2dnZXIuc2V0TGV2ZWwoJ0lORk8nKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc29ja2V0aW8uZW1pdCgncXInLCAoTm9uZSwgc3RhdHVzKSwgcm9vbT1zaWQpCg==</text>
