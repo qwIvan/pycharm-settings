@@ -24,7 +24,7 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1501096082251">
+      <file name="/Python Console" timestamp="1501156414996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1500469224924">
@@ -115,12 +115,12 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501154094056">
-        <mark key="'" line="5" column="24" />
-        <mark key="[" line="4" column="41" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="5" column="24" />
+      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501156525814">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="50" column="57" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/meme.py" timestamp="1500221836772">
         <mark key="'" line="5" column="11" />
@@ -173,9 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="25" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="109" column="20" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="108" column="59" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="103" column="28" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="100" column="28" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="433" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/flask_socketio/__init__.py" />
@@ -205,13 +202,11 @@
       <jump line="23" column="14" filename="$USER_HOME$/.local/lib/python3.6/site-packages/engineio/middleware.py" />
       <jump line="46" column="41" filename="$USER_HOME$/.local/lib/python3.6/site-packages/engineio/middleware.py" />
       <jump line="52" column="23" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="32" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="19" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="16" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="11" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="26" column="14" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="4" column="40" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="33" column="8" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="29" column="41" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="36" column="59" filename="$USER_HOME$/github/microMsg-bot/server.py" />
@@ -234,7 +229,6 @@
       <jump line="338" column="54" filename="/usr/lib/python3.6/site-packages/flask/app.py" />
       <jump line="348" column="37" filename="/usr/lib/python3.6/site-packages/flask/app.py" />
       <jump line="7" column="19" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="43" column="4" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="915" column="15" filename="/usr/lib/python3.6/site-packages/flask/helpers.py" />
       <jump line="12" column="10" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="42" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
@@ -248,7 +242,6 @@
       <jump line="10" column="17" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="32" column="7" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="8" column="6" filename="$USER_HOME$/github/microMsg-bot/static/index.html" />
-      <jump line="35" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="8" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="46" column="4" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="27" column="6" filename="$USER_HOME$/github/microMsg-bot/static/index.html" />
@@ -269,10 +262,17 @@
       <jump line="7" column="24" filename="$USER_HOME$/github/microMsg-bot/logger.py" />
       <jump line="82" column="20" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="34" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="47" column="4" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="38" column="21" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="5" column="24" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="4" column="4" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="35" column="30" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="48" column="3" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="43" column="38" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="49" column="4" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="50" column="4" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2094,34 +2094,34 @@
         <text>qr_callback=qr_callback</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0aW8uZW1pdCgncXInLCAoTm9uZSwgc3RhdHVzKSwgcm9vbT1zaWQpCg==</text>
+        <text encoding="base64">ZnJvbSBldmVudGxldCBpbXBvcnQgd3MK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgPG1ldGEgY2hhcnNldD0idXRmLTgiPgogIDx0aXRsZT5UZXN0PC90aXRsZT4KICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvc29ja2V0LmlvLzIuMC4zL3NvY2tldC5pby5zbGltLmpzIj48L3NjcmlwdD4KICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgY2hhcnNldD0idXRmLTgiPgogICAgdmFyIHNvY2tldCA9IGlvLmNvbm5lY3QoJ2h0dHA6Ly9ib3QubGliaXZhbi5jb20nKTsKICAgIHNvY2tldC5vbigncXInLCBmdW5jdGlvbihjb2RlLCBzdGF0dXMpIHsKICAgICAgY29uc29sZS5sb2coY29kZSwgc3RhdHVzKTsKICAgICAgICBzd2l0Y2ggKHN0YXR1cykgewogICAgICAgICAgICBjYXNlICcwJzoKICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdxcicpLnNldEF0dHJpYnV0ZSgnc3JjJywgJ2h0dHBzOi8vbG9naW4ud2VpeGluLnFxLmNvbS9xcmNvZGUvJyArIGNvZGUpOwogICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3RpcHMnKS5pbm5lclRleHQgPSAn6K+355So5b6u5L+h5omr56CB5LqM57u056CBJzsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICcyMDEnOgogICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3RpcHMnKS5pbm5lclRleHQgPSAn6K+35Zyo5b6u5L+h5Lit56Gu6K6k55m75b2VJzsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICcyMDAnOgogICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3FyJykuc2V0QXR0cmlidXRlKCdzcmMnLCAnJyk7CiAgICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgndGlwcycpLmlubmVyVGV4dCA9ICfmnLrlmajkurrlt7LmiJDlip/nmbvlvZUnOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQogICAgfSk7CiAgICBzb2NrZXQuZW1pdCgnbG9naW4nKTsKICA8L3NjcmlwdD4K</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGV2ZW50bGV0CmZyb20gZXZlbnRsZXQgaW1wb3J0IHdzZ2kK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgYXBwLnJ1bigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0aW8uZW1pdCgncXInLCAoTm9uZSwgc3RhdHVzKSwgcm9vbT1zaWQpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3FyJykuc2V0QXR0cmlidXRlKCdzcmMnLCAnaHR0cHM6Ly9sb2dpbi53ZWl4aW4ucXEuY29tL3FyY29kZS8nICsgY29kZSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgPG1ldGEgY2hhcnNldD0idXRmLTgiPgogIDx0aXRsZT5UZXN0PC90aXRsZT4KICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvc29ja2V0LmlvLzIuMC4zL3NvY2tldC5pby5zbGltLmpzIj48L3NjcmlwdD4KICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgY2hhcnNldD0idXRmLTgiPgogICAgdmFyIHNvY2tldCA9IGlvLmNvbm5lY3QoJ2h0dHA6Ly9ib3QubGliaXZhbi5jb20nKTsKICAgIHNvY2tldC5vbigncXInLCBmdW5jdGlvbihjb2RlLCBzdGF0dXMpIHsKICAgICAgY29uc29sZS5sb2coY29kZSwgc3RhdHVzKTsKICAgICAgICBzd2l0Y2ggKHN0YXR1cykgewogICAgICAgICAgICBjYXNlICcwJzoKICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdxcicpLnNldEF0dHJpYnV0ZSgnc3JjJywgJ2h0dHBzOi8vbG9naW4ud2VpeGluLnFxLmNvbS9xcmNvZGUvJyArIGNvZGUpOwogICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3RpcHMnKS5pbm5lclRleHQgPSAn6K+355So5b6u5L+h5omr56CB5LqM57u056CBJzsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICcyMDEnOgogICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3RpcHMnKS5pbm5lclRleHQgPSAn6K+35Zyo5b6u5L+h5Lit56Gu6K6k55m75b2VJzsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICcyMDAnOgogICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3FyJykuc2V0QXR0cmlidXRlKCdzcmMnLCAnJyk7CiAgICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgndGlwcycpLmlubmVyVGV4dCA9ICfmnLrlmajkurrlt7LmiJDlip/nmbvlvZUnOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQogICAgfSk7CiAgICBzb2NrZXQuZW1pdCgnbG9naW4nKTsKICA8L3NjcmlwdD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3FyJykuc2V0QXR0cmlidXRlKCdzcmMnLCAnaHR0cHM6Ly9sb2dpbi53ZWl4aW4ucXEuY29tL3FyY29kZS8nICsgY29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICMgYXBwLnJ1bigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKG1zZykK</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3FyJykuc2V0QXR0cmlidXRlKCdzcmMnLCAnaHR0cHM6Ly9sb2dpbi53ZWl4aW4ucXEuY29tL3FyY29kZS8nICsgY29kZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3FyJykuc2V0QXR0cmlidXRlKCdzcmMnLCAnaHR0cHM6Ly9sb2dpbi53ZWl4aW4ucXEuY29tL3FyY29kZS8nICsgY29kZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKG1zZykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBxcl9jYWxsYmFjayh1dWlkLCBzdGF0dXMsIHFyY29kZSk6CiAgICAgICAgbG9nZ2VyLmluZm8oJyVzICVzJywgdXVpZCwgc3RhdHVzKQogICAgICAgIGVtaXQoJ3FyJywgKHV1aWQsIHN0YXR1cykpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
