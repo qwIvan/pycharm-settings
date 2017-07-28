@@ -122,8 +122,8 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501252581585">
-        <mark key="'" line="7" column="12" />
+      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501258230573">
+        <mark key="'" line="7" column="15" />
         <mark key="[" line="7" column="62" />
         <mark key="]" line="7" column="44" />
         <mark key="^" line="7" column="44" />
@@ -278,8 +278,8 @@
       <jump line="28" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="25" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="34" column="24" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="7" column="12" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="138" column="11" filename="$USER_HOME$/.local/lib/python3.6/site-packages/flask_socketio/__init__.py" />
+      <jump line="7" column="15" filename="$USER_HOME$/github/microMsg-bot/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
