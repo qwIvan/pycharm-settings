@@ -21,7 +21,7 @@
       <file name="/usr/lib/python3.6/site-packages/gunicorn/app/base.py" timestamp="1501242231300">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1501262524872">
+      <file name="/Python Console" timestamp="1501265819912">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1501262717365">
@@ -120,12 +120,12 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501265192514">
+      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501265918445">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="37" column="64" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="45" column="69" />
+        <mark key="]" line="45" column="86" />
+        <mark key="^" line="45" column="86" />
+        <mark key="." line="45" column="86" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/meme.py" timestamp="1500221836772">
         <mark key="'" line="5" column="11" />
@@ -2102,37 +2102,37 @@
         <text encoding="base64">XDxtYW5hZ2Vfc2Vzc2lvblw+</text>
       </register>
       <register name="0" type="4">
-        <text>separate</text>
+        <text>cache_path</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvblsnYm90J10gPSBib3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90ID0gRW1vdGlvbkJvdChxcl9jYWxsYmFjaz1xcl9jYWxsYmFjaywgY2FjaGVfcGF0aD0nc2lkJyBpbiBzZXNzaW9uIGFuZCBzZXNzaW9uWydzaWQnXSBvciBzaWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ28gdG8gJXMgYW5kIGV4ZWN1dGUgZm9sbG93aW5nIGNvZGUgaW4gZGV2IHRvb2w6JywgdXJsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb2RlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvblsnYm90J10gPSBib3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIDIxOjMzOjQwLjIwNSAoaW5kZXgpOjEgVW5jYXVnaHQgKGluIHByb21pc2UpIERPTUV4Y2VwdGlvbjogVGhlIHBsYXkoKSByZXF1ZXN0IHdhcyBpbnRlcnJ1cHRlZCBieSBhIGNhbGwgdG8gcGF1c2UoKS4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ28gdG8gJXMgYW5kIGV4ZWN1dGUgZm9sbG93aW5nIGNvZGUgaW4gZGV2IHRvb2w6JywgdXJsKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBjb2RlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8Y29kZT4K</text>
+        <text encoding="base64">CiAgICAgIDIxOjMzOjQwLjIwNSAoaW5kZXgpOjEgVW5jYXVnaHQgKGluIHByb21pc2UpIERPTUV4Y2VwdGlvbjogVGhlIHBsYXkoKSByZXF1ZXN0IHdhcyBpbnRlcnJ1cHRlZCBieSBhIGNhbGwgdG8gcGF1c2UoKS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImRvY3VtZW50LmNvb2tpZT0nIik7Cg==</text>
+        <text encoding="base64">ICBjb2RlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8Y29kZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImRvY3VtZW50LmNvb2tpZT0nIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
