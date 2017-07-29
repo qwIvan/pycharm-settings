@@ -124,12 +124,12 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501329329080">
+      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501338547664">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="64" column="14" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="50" column="40" />
+        <mark key="]" line="50" column="40" />
+        <mark key="^" line="50" column="36" />
+        <mark key="." line="50" column="40" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/meme.py" timestamp="1500221836772">
         <mark key="'" line="5" column="11" />
@@ -2101,13 +2101,13 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">KGUudXVpZCwgJ3RpbWVvdXQnKSwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>type=&quot;text/javascript&quot;</text>
+        <text>socketio.emit('qr', (e.uuid, 'timeout'), room=sid)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
