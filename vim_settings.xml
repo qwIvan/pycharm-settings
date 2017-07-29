@@ -107,8 +107,8 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" timestamp="1501267219761">
-        <mark key="'" line="230" column="24" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" timestamp="1501359069487">
+        <mark key="'" line="23" column="39" />
         <mark key="[" line="121" column="14" />
         <mark key="]" line="121" column="38" />
         <mark key="^" line="114" column="16" />
@@ -127,7 +127,7 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501358429364">
+      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501359137686">
         <mark key="'" line="75" column="13" />
         <mark key="[" line="66" column="34" />
         <mark key="]" line="66" column="47" />
@@ -173,8 +173,8 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1501326102170">
-        <mark key="'" line="82" column="22" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1501359006762">
+        <mark key="'" line="82" column="27" />
         <mark key="[" line="49" column="35" />
         <mark key="]" line="49" column="44" />
       </file>
@@ -185,8 +185,8 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1501329323354">
-        <mark key="'" line="80" column="20" />
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1501358960161">
+        <mark key="'" line="10" column="19" />
         <mark key="[" line="81" column="32" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="77" column="61" />
@@ -197,10 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="55" column="4" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="38" column="68" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="37" column="54" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="13" column="7" filename="$USER_HOME$/github/microMsg-bot/readme.md" />
       <jump line="12" column="0" filename="$USER_HOME$/github/microMsg-bot/readme.md" />
@@ -231,7 +227,6 @@
       <jump line="1" column="12" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="32" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="75" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
-      <jump line="10" column="19" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="42" column="12" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="25" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="27" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
@@ -240,7 +235,6 @@
       <jump line="42" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="23" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="50" column="22" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="82" column="22" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="46" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="34" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="33" column="39" filename="$USER_HOME$/github/microMsg-bot/server.py" />
@@ -297,6 +291,12 @@
       <jump line="74" column="4" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="75" column="13" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="10" column="19" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="71" column="16" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
+      <jump line="413" column="27" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
+      <jump line="82" column="27" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
+      <jump line="74" column="17" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
+      <jump line="23" column="39" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
