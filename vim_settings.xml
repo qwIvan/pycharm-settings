@@ -96,9 +96,10 @@
         <mark key="[" line="392" column="12" />
         <mark key="]" line="392" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501359357308">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="19" />
+      <file name="/Dummy.txt" timestamp="1501433912350">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/index.html" timestamp="1501085538777">
         <mark key="'" line="22" column="8" />
@@ -127,7 +128,7 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501431373951">
+      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1501499914129">
         <mark key="'" line="79" column="30" />
         <mark key="[" line="79" column="75" />
         <mark key="]" line="79" column="84" />
@@ -185,12 +186,12 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1501358960161">
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1501500249755">
         <mark key="'" line="10" column="19" />
-        <mark key="[" line="81" column="32" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="77" column="61" />
-        <mark key="^" line="82" column="0" />
+        <mark key="[" line="67" column="39" />
+        <mark key="]" line="67" column="39" />
+        <mark key="." line="67" column="39" />
+        <mark key="^" line="68" column="52" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" timestamp="1497604593569">
         <mark key="'" line="561" column="36" />
@@ -2109,43 +2110,43 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>cache_path</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>cache_path</text>
       </register>
-      <register name="0" type="4">
-        <text>sessionID</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWdzID0ga2V5d29yZCBpbiBzZWFyY2hlZCBhbmQgc2VhcmNoZWRba2V5d29yZF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqb2luX3Jvb20ocm9vbT1zZXNzaW9uWydjYWNoZV9wYXRoJ10sIHNpZD1yZXF1ZXN0LnNpZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWdzID0ga2V5d29yZCBpbiBzZWFyY2hlZCBhbmQgc2VhcmNoZWRba2V5d29yZF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgam9pbl9yb29tKGNhY2hlX3BhdGgsIHNpZD1zaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBqb2luX3Jvb20ocm9vbT1zZXNzaW9uWydjYWNoZV9wYXRoJ10sIHNpZD1yZXF1ZXN0LnNpZCkK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3MucmVtb3ZlKGNhY2hlX3BhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgam9pbl9yb29tKGNhY2hlX3BhdGgsIHNpZD1zaWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqb2luX3Jvb20oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MucmVtb3ZlKGNhY2hlX3BhdGgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0aW8uZW1pdCgnbG9nb3V0Jywgc2lkLCByb29tPXNpZCkgICMgZGVidWcK</text>
+        <text encoding="base64">ICAgICAgICBqb2luX3Jvb20oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0aW8uZW1pdCgnbG9nb3V0Jywgc2lkLCByb29tPXNpZCkgICMgZGVidWcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0LmVtaXQoJ2xvZ2luJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbG9naW5fY2FsbGJhY2soKToKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0LmVtaXQoJ2xvZ2luJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaGFzYXR0cihib3RzLmdldChjYWNoZV9wYXRoLCBOb25lKSwgJ2xvZ291dCcpOgogICAgICAgICAgICAgICAgYm90c1tjYWNoZV9wYXRoXS5sb2dvdXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgbG9naW5fY2FsbGJhY2soKToKCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
