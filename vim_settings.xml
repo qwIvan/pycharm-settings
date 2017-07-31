@@ -135,11 +135,12 @@
         <mark key="." line="69" column="20" />
         <mark key="^" line="50" column="32" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/meme.py" timestamp="1501503385725">
-        <mark key="'" line="28" column="13" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="0" />
+      <file name="$USER_HOME$/github/microMsg-bot/meme.py" timestamp="1501504882615">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+        <mark key="^" line="31" column="22" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/main.py" timestamp="1499092584689">
         <mark key="'" line="14" column="0" />
@@ -185,9 +186,9 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1501501917356">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="77" column="0" />
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1501504874614">
+        <mark key="'" line="5" column="12" />
+        <mark key="[" line="76" column="0" />
         <mark key="]" line="77" column="47" />
         <mark key="." line="3" column="0" />
       </file>
@@ -196,12 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
-      <jump line="42" column="12" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="23" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="50" column="22" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="34" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
@@ -296,6 +291,12 @@
       <jump line="23" column="0" filename="$USER_HOME$/github/microMsg-bot/meme.py" />
       <jump line="2" column="0" filename="$USER_HOME$/github/microMsg-bot/meme.py" />
       <jump line="25" column="13" filename="$USER_HOME$/github/microMsg-bot/meme.py" />
+      <jump line="5" column="24" filename="$USER_HOME$/github/microMsg-bot/meme.py" />
+      <jump line="5" column="12" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="30" column="15" filename="$USER_HOME$/github/microMsg-bot/meme.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/github/microMsg-bot/meme.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/github/microMsg-bot/meme.py" />
+      <jump line="47" column="4" filename="$USER_HOME$/github/microMsg-bot/meme.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2114,7 +2115,7 @@
         <text encoding="base64">XDxtZW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VhcmNoZWRba2V5d29yZF0gPSBpbWdzCg==</text>
+        <text encoding="base64">ICAgIHdpdGggc2VhcmNoZWRfbG9jazoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
