@@ -186,25 +186,22 @@
         <mark key="^" line="9" column="80" />
         <mark key="." line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1501500249755">
-        <mark key="'" line="10" column="19" />
-        <mark key="[" line="67" column="39" />
-        <mark key="]" line="67" column="39" />
-        <mark key="." line="67" column="39" />
-        <mark key="^" line="68" column="52" />
+      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1501500844600">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" timestamp="1497604593569">
         <mark key="'" line="561" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="23" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/console.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/console.py" />
       <jump line="65" column="12" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/console.py" />
       <jump line="84" column="49" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="7" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="66" column="21" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="27" column="39" filename="$USER_HOME$/github/microMsg-bot/static/index.html" />
       <jump line="31" column="28" filename="$USER_HOME$/github/microMsg-bot/static/index.html" />
       <jump line="32" column="85" filename="$USER_HOME$/github/microMsg-bot/static/index.html" />
@@ -298,6 +295,9 @@
       <jump line="61" column="54" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="62" column="46" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="79" column="30" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="68" column="27" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="8" column="25" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
