@@ -96,6 +96,12 @@
         <mark key="[" line="392" column="12" />
         <mark key="]" line="392" column="24" />
       </file>
+      <file name="$USER_HOME$/github/microMsg-bot/Dockerfile" timestamp="1502691403582">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="6" column="65" />
+        <mark key="." line="5" column="9" />
+      </file>
       <file name="/Dummy.txt" timestamp="1502618480568">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
@@ -2111,7 +2117,7 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>kw_lock</text>
+        <text>00</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZW1lXD4=</text>
