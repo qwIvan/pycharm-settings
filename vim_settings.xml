@@ -107,6 +107,13 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/teacher-clawer/InfoExtract.py" timestamp="1502862356930">
+        <mark key="'" line="6" column="14" />
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/github/microMsg-bot/index.html" timestamp="1501085538777">
         <mark key="'" line="22" column="8" />
         <mark key="[" line="7" column="29" />
@@ -211,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="31" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="118" column="8" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="117" column="4" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="77" column="20" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -311,6 +317,7 @@
       <jump line="64" column="41" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="36" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="47" column="0" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
+      <jump line="4" column="14" filename="$USER_HOME$/teacher-clawer/InfoExtract.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2123,7 +2130,7 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>00</text>
+        <text>HA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib3Rfc3RhdHVzXD4=</text>
