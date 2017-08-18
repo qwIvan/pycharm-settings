@@ -39,12 +39,12 @@
         <mark key="." line="16" column="67" />
         <mark key="^" line="16" column="67" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/professor_spider.py" timestamp="1503063215435">
-        <mark key="'" line="18" column="48" />
-        <mark key="[" line="33" column="16" />
-        <mark key="]" line="33" column="34" />
-        <mark key="." line="33" column="34" />
-        <mark key="^" line="33" column="34" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/professor_spider.py" timestamp="1503066634864">
+        <mark key="'" line="4" column="29" />
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
       </file>
       <file name="/a.dummy" timestamp="1501358192088">
         <mark key="[" line="0" column="0" />
@@ -186,12 +186,12 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503063180919">
-        <mark key="'" line="52" column="53" />
-        <mark key="[" line="52" column="124" />
-        <mark key="]" line="52" column="124" />
-        <mark key="^" line="52" column="114" />
-        <mark key="." line="52" column="124" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503066591273">
+        <mark key="'" line="77" column="34" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="36" />
+        <mark key="^" line="79" column="13" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/hotreload.py" timestamp="1501358141610">
         <mark key="'" line="14" column="9" />
@@ -242,8 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="61" column="54" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="62" column="46" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="79" column="30" filename="$USER_HOME$/github/microMsg-bot/server.py" />
       <jump line="8" column="25" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -315,7 +313,6 @@
       <jump line="48" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="28" column="26" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="40" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
-      <jump line="1" column="9" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="4" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="7" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="12" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
@@ -342,6 +339,9 @@
       <jump line="52" column="53" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="6" column="17" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/professor_spider.py" />
       <jump line="18" column="48" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/professor_spider.py" />
+      <jump line="76" column="34" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
+      <jump line="1" column="9" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
+      <jump line="4" column="29" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/professor_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2159,38 +2159,38 @@
       <register name="/" type="4">
         <text>c1494a42457</text>
       </register>
-      <register name="0" type="4">
-        <text>re.match('^\s*职\s*$', texts[idx-1]) and re.match('^\s*[称位]\s*$', text)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0ZXh0LCBmaWxlPXN5cy5zdGRlcnIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJlLnNlYXJjaCgnW1x1NGUwMC1cdTlmYTVdJywgdCk6CiAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJlLnNlYXJjaCgnW1x1NGUwMC1cdTlmYTVdJywgdCk6CiAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aXRsZSA9IE5vbmUK</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgIGFsbF9tYXRjaGVkID0gcmUuZmluZGFsbCgnW1xkXCtcLV17NywzMH0nLCB0ZXh0KQogICAgaWYgYWxsX21hdGNoZWQ6CiAgICAgICAgcmV0dXJuICcsJy5qb2luKGFsbF9tYXRjaGVkKQogICAgZWxzZToKICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAnaHR0cDovLzIwMi4zOC4yMjAuMTAyL3Blb3BsZS9EZW5nQmFpY2hhbmcnLAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAnaHR0cDovL21hcmluZS5zeXN1LmVkdS5jbi9UZWFjaGVyMTEwLmh0bWwnLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgaWR4ID09IGxlbih0ZXh0cykgLSAxOgogICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgcGhvbmUgPSBwaG9uZV9tYXRjaF9udW0odGV4dHNbaWR4ICsgMV0pCiAgICAgICAgICAgIGlmIHBob25lOgogICAgICAgICAgICAgICAgcmV0dXJuIHBob25lCgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHQK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHQK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
