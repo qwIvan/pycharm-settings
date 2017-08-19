@@ -127,12 +127,12 @@
         <mark key="^" line="72" column="18" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503172375632">
-        <mark key="'" line="118" column="0" />
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="27" column="57" />
-        <mark key="." line="27" column="10" />
-        <mark key="^" line="118" column="0" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503174553594">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="105" column="25" />
+        <mark key="." line="102" column="42" />
+        <mark key="^" line="102" column="42" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/spiders/__init__.py" timestamp="1503160169801">
         <mark key="'" line="82" column="26" />
@@ -148,10 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="80" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="8" column="26" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/professor_spider.py" />
       <jump line="39" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/professor_spider.py" />
@@ -238,7 +234,6 @@
       <jump line="108" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="72" column="18" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="22" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="104" column="7" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="82" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="123" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="112" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
@@ -248,6 +243,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="8" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="12" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
+      <jump line="105" column="24" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="92" column="35" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="104" column="44" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="102" column="42" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3285,13 +3285,13 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>http://gs.sysu.edu.cn/boshihou.html</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5aWVsZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2h0dHA6Ly9ncy5zeXN1LmVkdS5jbi9ib3NoaWhvdS5odG1sJywgJ+S4reWxseWkp+WtpicsICflnLDnkIPnp5HlrabkuI7lt6XnqIvlrabpmaInLCAn5Zyw55CD56eR5a2mJyksCg==</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X21heF9wcmVmaXgoc2VsZiwgbGlua3MpOgogICAgICAgIG1heF9sZW4gPSAwCiAgICAgICAgbWF4X3N1YnN0ciA9ICcnCiAgICAgICAgZm9yIGxpbmsgaW4gbGlua3M6CiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKGxlbihsaW5rKSwgMCwgLTEpOgogICAgICAgICAgICAgICAgdHJ5X3ByZWZpeCA9IGxpbmtbOmldCiAgICAgICAgICAgICAgICBtYXRjaF9jb3VudCA9IDAKICAgICAgICAgICAgICAgIGZvciBsIGluIGxpbmtzOgogICAgICAgICAgICAgICAgICAgIGlmIGwuc3RhcnRzd2l0aCh0cnlfcHJlZml4KToKICAgICAgICAgICAgICAgICAgICAgICAgbWF0Y2hfY291bnQgKz0gMQogICAgICAgICAgICAgICAgaWYgbWF0Y2hfY291bnQgPiBsZW4obGlua3MpKjkvMTAgYW5kIGxlbih0cnlfcHJlZml4KSA+IG1heF9sZW46CiAgICAgICAgICAgICAgICAgICAgbWF4X3N1YnN0ciA9IHRyeV9wcmVmaXgKICAgICAgICAgICAgICAgICAgICBtYXhfbGVuID0gbGVuKHRyeV9wcmVmaXgpCiAgICAgICAgcmV0dXJuIG1heF9zdWJzdHIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAoJ2h0dHA6Ly9ncy5zeXN1LmVkdS5jbi9qaWFvc2hvdS5odG1sJywgJ+S4reWxseWkp+WtpicsICflnLDnkIPnp5HlrabkuI7lt6XnqIvlrabpmaInLCAn5Zyw55CD56eR5a2mJyksCg==</text>
