@@ -126,12 +126,12 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503202188565">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503222038411">
         <mark key="'" line="35" column="25" />
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
+        <mark key="[" line="80" column="47" />
+        <mark key="]" line="80" column="47" />
+        <mark key="^" line="80" column="47" />
+        <mark key="." line="80" column="47" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503221297121">
         <mark key="'" line="122" column="11" />
@@ -3296,8 +3296,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx5aWVsZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2h0dHA6Ly93d3cyLnNjdXQuZWR1LmNuL2NlLzI0MjEvbGlzdC5odG0nLCAn5Y2O5Y2X55CG5bel5aSn5a2mJywgJ+WMluWtpuS4juWMluW3peWtpumZoicsICfljJblraYnKSwK</text>
+      <register name="0" type="4">
+        <text>[\d\+\(（][ \d\+\-\(\)（）]{7,30}[\d\)）]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKGJpbywgJ3JiJykgYXMgZnA6Cg==</text>
