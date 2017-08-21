@@ -6,8 +6,29 @@
       <file name="/usr/lib/python3.6/site-packages/scrapy/crawler.py" timestamp="1503161651902">
         <mark key="'" line="193" column="30" />
       </file>
+      <file name="/usr/lib/python3.6/site-packages/gunicorn/app/base.py" timestamp="1501242231300">
+        <mark key="'" line="20" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1503176027640">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1503176084131">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/professor_spider.py" timestamp="1503175846554">
+        <mark key="'" line="40" column="23" />
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+      </file>
       <file name="/a.dummy" timestamp="1503149018819">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/console.py" timestamp="1501321563520">
+        <mark key="'" line="65" column="12" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/processor/join_mp4.py" timestamp="1498060545346">
         <mark key="'" line="611" column="25" />
@@ -15,17 +36,35 @@
       <file name="/usr/lib/python3.6/site-packages/scrapy/http/response/html.py" timestamp="1503158796012">
         <mark key="'" line="7" column="48" />
       </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/commands/check.py" timestamp="1499184243319">
+        <mark key="'" line="72" column="24" />
+      </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/puid_map.py" timestamp="1497884103368">
         <mark key="'" line="102" column="28" />
       </file>
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/settings.py" timestamp="1503170927312">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="23" />
+        <mark key="^" line="24" column="23" />
+      </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/command.py" timestamp="1503161533173">
         <mark key="'" line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/socketio/middleware.py" timestamp="1501079080132">
+        <mark key="'" line="3" column="27" />
+      </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/engineio/middleware.py" timestamp="1501079101165">
         <mark key="'" line="46" column="41" />
+      </file>
+      <file name="/usr/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py" timestamp="1501240514149">
+        <mark key="'" line="13" column="22" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1492756521903">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/commands/crawl.py" timestamp="1503161629043">
         <mark key="'" line="56" column="31" />
@@ -46,64 +85,11 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="/usr/lib/python3.6/site-packages/pyparsing.py" timestamp="1503151872092" />
       <file name="/bot.py" timestamp="1501507470150">
         <mark key="'" line="71" column="0" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
-      </file>
-      <file name="/usr/lib/python3.6/site-packages/scrapy/http/response/text.py" timestamp="1503158797499">
-        <mark key="'" line="21" column="19" />
-      </file>
-      <file name="$USER_HOME$/ProfessorScrapy/.gitignore" timestamp="1503220800006">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" timestamp="1497604593569">
-        <mark key="'" line="561" column="36" />
-      </file>
-      <file name="/usr/lib/python3.6/site-packages/gunicorn/app/base.py" timestamp="1501242231300">
-        <mark key="'" line="20" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1503176027640">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1503176084131">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="12" />
-      </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/professor_spider.py" timestamp="1503175846554">
-        <mark key="'" line="40" column="23" />
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="31" column="13" />
-        <mark key="." line="31" column="13" />
-      </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/console.py" timestamp="1501321563520">
-        <mark key="'" line="65" column="12" />
-      </file>
-      <file name="/usr/lib/python3.6/site-packages/scrapy/commands/check.py" timestamp="1499184243319">
-        <mark key="'" line="72" column="24" />
-      </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/items.py" timestamp="1502998333539" />
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/settings.py" timestamp="1503170927312">
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="23" />
-        <mark key="." line="24" column="23" />
-        <mark key="^" line="24" column="23" />
-      </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/socketio/middleware.py" timestamp="1501079080132">
-        <mark key="'" line="3" column="27" />
-      </file>
-      <file name="/usr/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py" timestamp="1501240514149">
-        <mark key="'" line="13" column="22" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1492756521903">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1502864367629">
         <mark key="'" line="64" column="41" />
@@ -126,7 +112,7 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503229691779">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503292696809">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -145,12 +131,24 @@
         <mark key="[" line="81" column="0" />
         <mark key="]" line="82" column="51" />
       </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/http/response/text.py" timestamp="1503158797499">
+        <mark key="'" line="21" column="19" />
+      </file>
+      <file name="$USER_HOME$/ProfessorScrapy/.gitignore" timestamp="1503220800006">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1502863278504">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
         <mark key="^" line="65" column="43" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" timestamp="1497604593569">
+        <mark key="'" line="561" column="36" />
       </file>
     </filemarks>
     <jumps>
