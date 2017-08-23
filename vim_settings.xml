@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/usr/lib/python3.6/site-packages/scrapy/crawler.py" timestamp="1503161651902">
-        <mark key="'" line="193" column="30" />
+      <file name="/usr/lib/python3.6/site-packages/scrapy/crawler.py" timestamp="1503489328084">
+        <mark key="'" line="171" column="22" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/gunicorn/app/base.py" timestamp="1501242231300">
         <mark key="'" line="20" column="0" />
@@ -116,19 +116,19 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503422427047">
-        <mark key="'" line="440" column="6" />
-        <mark key="[" line="94" column="18" />
-        <mark key="]" line="94" column="19" />
-        <mark key="." line="94" column="19" />
-        <mark key="^" line="94" column="19" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503489657506">
+        <mark key="'" line="443" column="6" />
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="97" column="19" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503468894150">
-        <mark key="'" line="237" column="10" />
-        <mark key="[" line="277" column="49" />
-        <mark key="]" line="278" column="31" />
-        <mark key="." line="278" column="31" />
-        <mark key="^" line="278" column="31" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503490071347">
+        <mark key="'" line="280" column="23" />
+        <mark key="[" line="284" column="0" />
+        <mark key="]" line="284" column="53" />
+        <mark key="." line="284" column="0" />
+        <mark key="^" line="282" column="55" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/spiders/__init__.py" timestamp="1503160169801">
         <mark key="'" line="82" column="26" />
@@ -156,12 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="0" filename="/usr/lib/python3.6/site-packages/scrapy/core/engine.py" />
-      <jump line="241" column="0" filename="/usr/lib/python3.6/site-packages/scrapy/core/engine.py" />
-      <jump line="228" column="0" filename="/usr/lib/python3.6/site-packages/scrapy/core/engine.py" />
-      <jump line="223" column="0" filename="/usr/lib/python3.6/site-packages/scrapy/core/engine.py" />
-      <jump line="218" column="0" filename="/usr/lib/python3.6/site-packages/scrapy/core/engine.py" />
-      <jump line="205" column="0" filename="/usr/lib/python3.6/site-packages/scrapy/core/engine.py" />
       <jump line="211" column="0" filename="/usr/lib/python3.6/site-packages/scrapy/core/engine.py" />
       <jump line="1" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="195" column="7" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
@@ -256,6 +250,12 @@
       <jump line="6" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="291" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="237" column="10" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="309" column="17" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="241" column="11" filename="/usr/lib/python3.6/site-packages/scrapy/crawler.py" />
+      <jump line="313" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="167" column="22" filename="/usr/lib/python3.6/site-packages/scrapy/crawler.py" />
+      <jump line="171" column="22" filename="/usr/lib/python3.6/site-packages/scrapy/crawler.py" />
+      <jump line="280" column="23" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3293,16 +3293,16 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>otmgc@jnu.edu.cn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBhcnRtZW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>工程技术</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZXMgPSByZXNwb25zZS54cGF0aCgnLy90ZXh0KCknKQogICAgICAgICAgICB0ZXh0cyA9IFtub2RlLmdldCgpIGZvciBub2RlIGluIG5vZGVzXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Bob25lJzogcGhvbmUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5hbWUsICfor6bnu4bpobVtYXRjaOS4jeWIsOWnk+WQjScsIHJlc3BvbnNlLnVybCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3352,42 +3352,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RpdGxlJzogdGl0bGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAoJ2h0dHA6Ly96eWhqeHkuc2NhdS5lZHUuY24vdGVhY2hlci5waHA/YT1saXN0cyZpZD0xOScsICfljY7ljZflhpzkuJrlpKflraYnLCAn6LWE5rqQ546v5aKD5a2m6ZmiJywgJ+W3peeoi+aKgOacrycpLAo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VuaXZlcnNpdHknOiB1bml2ZXJzaXR5LAogICAgICAgICAgICAnY29sbGVnZSc6IGNvbGxlZ2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Bob25lJzogcGhvbmUsCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3RpdGxlJzogdGl0bGUsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3VuaXZlcnNpdHknOiB1bml2ZXJzaXR5LAogICAgICAgICAgICAnY29sbGVnZSc6IGNvbGxlZ2UsCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnOiB0eXBlLAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>{
-            'name': name,
-            'phone': phone,
-            'email': email,
-            'university': university,
-            'college': college,
-            'department': department,
-            'title': title,
-            'type': type,
-            'url': response.url,
-        }</text>
-      </register>
-      <register name="6" type="4">
-        <text>{
-                'name': name,
-                'phone': phone,
-                'email': email,
-                'university': university,
-                'college': college,
-                'department': department,
-                'title': title,
-                'type': type,
-                'url': response.url,
-            }</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4841,8 +4821,18 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>{
+            'name': name,
+            'phone': phone,
+            'email': email,
+            'university': university,
+            'college': college,
+            'department': department,
+            'title': title,
+            'type': type,
+            'url': response.url,
+        }</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5284,11 +5274,21 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdGV4dCBpbiB0ZXh0czoKICAgICAgICAgICAgZm9yIG0gaW4gbWFqb3JzOgogICAgICAgICAgICAgICAgaWYgbSBpbiB0ZXh0OgogICAgICAgICAgICAgICAgICAgIG1ham9yID0gbQo=</text>
+      <register name="8" type="4">
+        <text>{
+                'name': name,
+                'phone': phone,
+                'email': email,
+                'university': university,
+                'college': college,
+                'department': department,
+                'title': title,
+                'type': type,
+                'url': response.url,
+            }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
