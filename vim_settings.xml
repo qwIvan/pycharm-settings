@@ -9,7 +9,7 @@
       <file name="/usr/lib/python3.6/site-packages/gunicorn/app/base.py" timestamp="1501242231300">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1503317082878">
+      <file name="/Python Console" timestamp="1503491034907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1503176084131">
@@ -123,12 +123,12 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="97" column="19" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503490071347">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503491033448">
         <mark key="'" line="280" column="23" />
-        <mark key="[" line="284" column="0" />
-        <mark key="]" line="284" column="53" />
-        <mark key="." line="284" column="0" />
-        <mark key="^" line="282" column="55" />
+        <mark key="[" line="161" column="79" />
+        <mark key="]" line="161" column="101" />
+        <mark key="." line="161" column="101" />
+        <mark key="^" line="161" column="101" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/spiders/__init__.py" timestamp="1503160169801">
         <mark key="'" line="82" column="26" />
