@@ -119,19 +119,19 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503652443028">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="24" column="19" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503653203872">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="40" column="20" />
+        <mark key="." line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503652184732">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503653553513">
         <mark key="'" line="119" column="108" />
-        <mark key="[" line="130" column="65" />
-        <mark key="]" line="130" column="74" />
-        <mark key="." line="130" column="65" />
-        <mark key="^" line="130" column="52" />
+        <mark key="[" line="278" column="116" />
+        <mark key="]" line="278" column="117" />
+        <mark key="." line="278" column="117" />
+        <mark key="^" line="278" column="117" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/spiders/__init__.py" timestamp="1503160169801">
         <mark key="'" line="82" column="26" />
@@ -159,15 +159,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="72" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="133" column="14" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="134" column="34" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="139" column="39" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="190" column="39" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="257" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="5" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="258" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="120" column="44" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="193" column="28" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="19" column="28" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
@@ -257,8 +254,11 @@
       <jump line="23" column="14" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="181" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="163" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
+      <jump line="24" column="19" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
+      <jump line="40" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="1" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3296,13 +3296,13 @@
         <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>土木工程学院</text>
+        <text>学院</text>
       </register>
       <register name="/" type="4">
         <text>S</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjICgnaHR0cDovL2NlLnN6dS5lZHUuY24vaW5kZXgucGhwL0luZGV4LWNhdGVnb3J5LWlkLTY3Lmh0bWwnLCAn5rex5Zyz5aSn5a2mJywgJ+Wcn+acqOW3peeoi+WtpumZoicsICflt6XnqIvmioDmnK8nKSwK</text>
+      <register name="0" type="4">
+        <text>or '学院' in word</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChkKQo=</text>
