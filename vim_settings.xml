@@ -9,7 +9,7 @@
       <file name="/usr/lib/python3.6/site-packages/gunicorn/app/base.py" timestamp="1501242231300">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1503491034907">
+      <file name="/Python Console" timestamp="1503824532757">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1503176084131">
@@ -126,12 +126,12 @@
         <mark key="." line="202" column="25" />
         <mark key="^" line="202" column="25" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503823663615">
-        <mark key="'" line="152" column="81" />
-        <mark key="[" line="153" column="72" />
-        <mark key="]" line="153" column="75" />
-        <mark key="." line="153" column="75" />
-        <mark key="^" line="153" column="75" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503825545310">
+        <mark key="'" line="155" column="59" />
+        <mark key="[" line="156" column="59" />
+        <mark key="]" line="156" column="78" />
+        <mark key="." line="156" column="59" />
+        <mark key="^" line="154" column="74" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/spiders/__init__.py" timestamp="1503160169801">
         <mark key="'" line="82" column="26" />
@@ -159,7 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="27" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="266" column="23" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="73" column="28" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="104" column="29" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
@@ -259,6 +258,7 @@
       <jump line="390" column="17" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="177" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="152" column="81" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="155" column="59" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5768,13 +5768,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>工程技术</text>
+        <text>'地理科学学院学院', '地球科学'),</text>
       </register>
       <register name="/" type="4">
         <text>titles</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjICgnaHR0cDovL21hdGVyLmZqbnUuZWR1LmNuLzY0MzMvbGlzdC5odG0nLCAn56aP5bu65biI6IyD5aSn5a2mJywgJ+adkOaWmeenkeWtpuS4juW3peeoi+WtpumZoicsICflt6XnqIvmioDmnK8nKSwK</text>
+      <register name="0" type="4">
+        <text>'物理与能源学院', '工程技术'),</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
