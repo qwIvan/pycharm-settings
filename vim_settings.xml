@@ -119,19 +119,19 @@
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503822538759">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="29" column="19" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503823108405">
+        <mark key="'" line="177" column="0" />
+        <mark key="[" line="202" column="25" />
+        <mark key="]" line="202" column="25" />
+        <mark key="." line="202" column="25" />
+        <mark key="^" line="202" column="25" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503822272672">
-        <mark key="'" line="156" column="4" />
-        <mark key="[" line="147" column="10" />
-        <mark key="]" line="147" column="48" />
-        <mark key="." line="147" column="10" />
-        <mark key="^" line="147" column="78" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1503823663615">
+        <mark key="'" line="152" column="81" />
+        <mark key="[" line="153" column="72" />
+        <mark key="]" line="153" column="75" />
+        <mark key="." line="153" column="75" />
+        <mark key="^" line="153" column="75" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/spiders/__init__.py" timestamp="1503160169801">
         <mark key="'" line="82" column="26" />
@@ -159,9 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="41" filename="/usr/lib/python3.6/site-packages/scrapy/spidermiddlewares/depth.py" />
-      <jump line="6" column="33" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="308" column="27" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="266" column="23" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="73" column="28" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
@@ -236,7 +233,6 @@
       <jump line="249" column="56" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="237" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="150" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="177" column="11" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="20" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="28" column="24" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="292" column="45" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
@@ -259,6 +255,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="1" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="30" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
+      <jump line="201" column="13" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
+      <jump line="390" column="17" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="177" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
+      <jump line="152" column="81" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5768,63 +5768,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://mater.fjnu.edu.cn/6433/list.htm</text>
+        <text>工程技术</text>
       </register>
       <register name="/" type="4">
         <text>titles</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoJ2h0dHA6Ly9tYXRlci5mam51LmVkdS5jbi82NDMzL2xpc3QuaHRtJywgJ+emj+W7uuW4iOiMg+Wkp+WtpicsICfmnZDmlpnnp5HlrabkuI7lt6XnqIvlrabpmaInLCAn5bel56iL5oqA5pyvJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAjICgnaHR0cDovL21hdGVyLmZqbnUuZWR1LmNuLzY0MzMvbGlzdC5odG0nLCAn56aP5bu65biI6IyD5aSn5a2mJywgJ+adkOaWmeenkeWtpuS4juW3peeoi+WtpumZoicsICflt6XnqIvmioDmnK8nKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="24037" code="0" mods="0" />
-          <key char="31243" code="0" mods="0" />
-          <key char="25216" code="0" mods="0" />
-          <key char="26415" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-        </keys>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5vZGUpCiAgICAgICAgICAgICAgICBwcmludChub2RlLnhwYXRoKCcuLy9oMi90ZXh0KCknKSkKICAgICAgICAgICAgICAgIHdvcmQgPSBub2RlLnhwYXRoKCcuLy9oMi90ZXh0KCknKVswXS5nZXQoKQo=</text>
