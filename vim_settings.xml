@@ -77,6 +77,9 @@
       <file name="/JavaScript Console" timestamp="1492756521903">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" timestamp="1504518231286">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/commands/crawl.py" timestamp="1503161629043">
         <mark key="'" line="56" column="31" />
       </file>
@@ -169,8 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="28" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="2" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="30" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
@@ -269,6 +270,8 @@
       <jump line="41" column="0" filename="$USER_HOME$/github/microMsg-bot/rule.py" />
       <jump line="18" column="0" filename="$USER_HOME$/github/microMsg-bot/rule.py" />
       <jump line="29" column="0" filename="$USER_HOME$/github/microMsg-bot/rule.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
