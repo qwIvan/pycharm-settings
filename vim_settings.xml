@@ -164,6 +164,9 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/zuzuche/zuzuche/settings.py" timestamp="1504534839058">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1504463779349">
         <mark key="'" line="32" column="8" />
         <mark key="[" line="32" column="8" />
@@ -176,20 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="50" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="128" column="62" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="129" column="61" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="166" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="205" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="35" column="18" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="42" column="54" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="83" column="69" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="109" column="65" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="110" column="66" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="113" column="97" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="114" column="97" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="115" column="97" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="116" column="97" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
@@ -276,6 +265,20 @@
       <jump line="11" column="17" filename="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" />
       <jump line="17" column="38" filename="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" />
       <jump line="16" column="37" filename="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="68" column="1" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="17" column="35" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="46" column="27" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="47" column="60" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="48" column="8" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="49" column="39" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="52" column="31" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="53" column="64" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="54" column="12" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="55" column="44" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="84" column="90" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="56" column="1" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5788,7 +5791,7 @@
         <text>1611</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib2R5XD4=</text>
+        <text>proxy</text>
       </register>
       <register name="0" type="4">
         <text>date.strftime('%Y-%-m-%d'),</text>
@@ -7791,9 +7794,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib2R5XD4=</last-search>
+      <last-search>proxy</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib2R5XD4=</last-pattern>
+      <last-pattern>proxy</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -7801,11 +7804,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prefix</entry>
-        <entry>生态</entry>
-        <entry encoding="base64">XDxkZXBhcnRtZW50XD4=</entry>
-        <entry>系统工程</entry>
-        <entry>计量学</entry>
         <entry>饲料学</entry>
         <entry>无机化学</entry>
         <entry>replace</entry>
@@ -7821,6 +7819,11 @@
         <entry>物理</entry>
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
+        <entry>middle</entry>
+        <entry>HttpProxyMiddleware</entry>
+        <entry>DOWNLOADER_MIDDLEWARES_BASE</entry>
+        <entry>DOWNLOADER_MIDDLEWARES</entry>
+        <entry>proxy</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
