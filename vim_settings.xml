@@ -119,9 +119,6 @@
       <file name="/usr/lib/python3.6/site-packages/scrapy/core/engine.py" timestamp="1503314634564">
         <mark key="'" line="211" column="0" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/Dockerfile" timestamp="1504615746383">
-        <mark key="'" line="5" column="0" />
-      </file>
       <file name="/bot.py" timestamp="1501507470150">
         <mark key="'" line="71" column="0" />
       </file>
