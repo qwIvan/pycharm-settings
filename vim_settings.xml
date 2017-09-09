@@ -147,10 +147,10 @@
         <mark key="." line="37" column="18" />
         <mark key="^" line="37" column="18" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1504530430425">
-        <mark key="'" line="3" column="19" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="25" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1505000437030">
+        <mark key="'" line="203" column="39" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="28" />
         <mark key="." line="197" column="101" />
         <mark key="^" line="197" column="101" />
       </file>
@@ -177,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="25" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
       <jump line="35" column="16" filename="$USER_HOME$/github/microMsg-bot/rule.py" />
       <jump line="31" column="16" filename="$USER_HOME$/github/microMsg-bot/rule.py" />
       <jump line="2" column="15" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
@@ -239,8 +238,6 @@
       <jump line="184" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="195" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="199" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="203" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="3" column="19" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="18" column="71" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
       <jump line="25" column="20" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
       <jump line="68" column="27" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
@@ -277,6 +274,9 @@
       <jump line="5" column="20" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="6" column="15" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="7" column="10" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
+      <jump line="205" column="24" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="3" column="19" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="203" column="39" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5789,10 +5789,10 @@
         <text>from</text>
       </register>
       <register name="/" type="4">
-        <text>import</text>
+        <text encoding="base64">XDxSZXF1ZXN0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>gunicorn</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBzdGFydF9yZXF1ZXN0cyhzZWxmKToK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSAuIGltcG9ydCBtZW1lCg==</text>
@@ -7792,9 +7792,9 @@
       </register>
     </registers>
     <search>
-      <last-search>import</last-search>
+      <last-search encoding="base64">XDxSZXF1ZXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>import</last-pattern>
+      <last-pattern encoding="base64">XDxSZXF1ZXN0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -7814,7 +7814,6 @@
         <entry>print</entry>
         <entry>6</entry>
         <entry>物理</entry>
-        <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>middle</entry>
         <entry>HttpProxyMiddleware</entry>
@@ -7822,6 +7821,7 @@
         <entry>DOWNLOADER_MIDDLEWARES</entry>
         <entry>proxy</entry>
         <entry>import</entry>
+        <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
