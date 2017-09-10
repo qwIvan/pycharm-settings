@@ -48,12 +48,12 @@
       <file name="/usr/lib/python3.6/site-packages/scrapy/commands/check.py" timestamp="1499184243319">
         <mark key="'" line="72" column="24" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/meme.py" timestamp="1505033373874">
+      <file name="$USER_HOME$/github/micro_msg_bot/meme.py" timestamp="1505034917356">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="52" column="23" />
-        <mark key="]" line="52" column="26" />
+        <mark key="[" line="51" column="52" />
+        <mark key="]" line="51" column="52" />
         <mark key="^" line="52" column="26" />
-        <mark key="." line="52" column="26" />
+        <mark key="." line="51" column="52" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/puid_map.py" timestamp="1497884103368">
         <mark key="'" line="102" column="28" />
@@ -115,7 +115,7 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="5" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504463550448">
+      <file name="/Dummy.txt" timestamp="1505034938126">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/teacher-clawer/InfoExtract.py" timestamp="1502862356930">
@@ -5810,7 +5810,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, logger</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0XD4=</text>
