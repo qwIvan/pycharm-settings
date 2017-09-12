@@ -36,8 +36,11 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/console.py" timestamp="1501321563520">
         <mark key="'" line="65" column="12" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/rule.py" timestamp="1505032866268">
-        <mark key="'" line="37" column="23" />
+      <file name="$USER_HOME$/github/micro_msg_bot/rule.py" timestamp="1505221580062">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/processor/join_mp4.py" timestamp="1498060545346">
         <mark key="'" line="611" column="25" />
@@ -48,12 +51,12 @@
       <file name="/usr/lib/python3.6/site-packages/scrapy/commands/check.py" timestamp="1499184243319">
         <mark key="'" line="72" column="24" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/meme.py" timestamp="1505034917356">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="51" column="52" />
-        <mark key="]" line="51" column="52" />
-        <mark key="^" line="52" column="26" />
-        <mark key="." line="51" column="52" />
+      <file name="$USER_HOME$/github/micro_msg_bot/meme.py" timestamp="1505221632634">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="12" column="88" />
+        <mark key="]" line="12" column="105" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/puid_map.py" timestamp="1497884103368">
         <mark key="'" line="102" column="28" />
@@ -207,16 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="8" filename="$USER_HOME$/github/microMsg-bot/bot.py" />
-      <jump line="39" column="16" filename="$USER_HOME$/github/microMsg-bot/rule.py" />
-      <jump line="40" column="16" filename="$USER_HOME$/github/microMsg-bot/rule.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/github/microMsg-bot/rule.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/github/microMsg-bot/rule.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/github/microMsg-bot/rule.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/github/microMsg-bot/server.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" />
-      <jump line="9" column="7" filename="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" />
-      <jump line="2" column="28" filename="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" />
       <jump line="12" column="4" filename="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" />
       <jump line="14" column="22" filename="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" />
       <jump line="10" column="12" filename="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" />
@@ -292,13 +285,11 @@
       <jump line="3" column="19" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="203" column="39" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="29" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="36" column="23" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="32" column="4" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
       <jump line="58" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
       <jump line="24" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
       <jump line="15" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
       <jump line="6" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
       <jump line="14" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
@@ -307,6 +298,18 @@
       <jump line="36" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
       <jump line="29" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
       <jump line="48" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
+      <jump line="56" column="12" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
+      <jump line="18" column="22" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5816,37 +5819,38 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">b2dnZXIg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdGFydF9yZXF1ZXN0cyhzZWxmKToK</text>
+      <register name="0" type="4">
+        <text>img[data-original]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">bG9nZ2VyLmluZm8oc3lzLnBhdGgpCg==</text>
+      <register name="1" type="8">
+        <text>from . 
+from .l</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9nZ2VyLmluZm8oc3lzLnBhdGgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBtZW1lCg==</text>
+        <text encoding="base64">bG9nZ2VyLmluZm8oc3lzLnBhdGgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1pY3JvX21zZ19ib3QubWVtZQo=</text>
+        <text encoding="base64">bG9nZ2VyLmluZm8oc3lzLnBhdGgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IC5tZW1lCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBtZW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1pY3JvX21zZ19ib3QuCg==</text>
+        <text encoding="base64">aW1wb3J0IG1pY3JvX21zZ19ib3QubWVtZQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7301,7 +7305,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1lbWUK</text>
+        <text encoding="base64">aW1wb3J0IC5tZW1lCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7744,10 +7748,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAubG9nZ2VyIGltcG9ydCBsb2dnZXIK</text>
+        <text encoding="base64">aW1wb3J0IG1pY3JvX21zZ19ib3QuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSAuYm90IGltcG9ydCBFbW90aW9uQm90LCBTeW5jRW1vdGlvbkJvdApmcm9tIC5sb2dnZXIgaW1wb3J0IGxvZ2dlcgo=</text>
+        <text encoding="base64">aW1wb3J0IG1lbWUK</text>
       </register>
       <register name="y" type="4">
         <keys>
