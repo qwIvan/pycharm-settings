@@ -177,14 +177,14 @@
         <mark key="." line="16" column="36" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/server.py" timestamp="1505321922942">
-        <mark key="'" line="95" column="45" />
+      <file name="$USER_HOME$/github/micro_msg_bot/server.py" timestamp="1505325825839">
+        <mark key="'" line="86" column="0" />
         <mark key="[" line="95" column="14" />
         <mark key="]" line="95" column="15" />
         <mark key="." line="95" column="15" />
         <mark key="^" line="95" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505034938126">
+      <file name="/Dummy.txt" timestamp="1505325831551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/micro_msg_bot/static/index.html" timestamp="1505322593665">
@@ -285,7 +285,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="48" column="4" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="86" column="13" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="2" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="37" column="4" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="88" column="3" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
@@ -346,6 +345,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
       <jump line="8" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
       <jump line="12" column="0" filename="$USER_HOME$/github/micro_msg_bot/meme.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
