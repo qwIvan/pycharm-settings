@@ -177,12 +177,12 @@
         <mark key="." line="16" column="36" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/server.py" timestamp="1505328994789">
+      <file name="$USER_HOME$/github/micro_msg_bot/server.py" timestamp="1505330989453">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="27" />
-        <mark key="." line="7" column="27" />
-        <mark key="^" line="117" column="43" />
+        <mark key="[" line="130" column="51" />
+        <mark key="]" line="130" column="61" />
+        <mark key="." line="130" column="61" />
+        <mark key="^" line="130" column="61" />
       </file>
       <file name="$USER_HOME$/github/micro_msg_bot/static/index.html" timestamp="1505322593665">
         <mark key="'" line="82" column="0" />
@@ -5852,37 +5852,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, SyncEmotionBot</text>
+        <text>warn('test')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfbG9nb3V0X2NhbGxiYWNrX2J5X3Nlc3Npb25faWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLnNlY3JldF9rZXkgPSBvcy5lbnZpcm9uWydLRVknXQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcXJfY2FsbGJhY2sodXVpZCwgc3RhdHVzLCBxcmNvZGUpOgogICAgICAgICAgICBsb2dnZXIuaW5mbygnJXMgJXMnLCB1dWlkLCBzdGF0dXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGxvZ2luX2FsaXZlX3VzZXJzKCk6Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCclcyAlcycsIHV1aWQsIHN0YXR1cykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCclcyAlcycsIHV1aWQsIHN0YXR1cykK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbG9nb3V0X2NhbGxiYWNrKCk6CiAgICAgICAgICAgIHdpdGggYm90X3N0YXR1c19sb2NrOgogICAgICAgICAgICAgICAgd2l0aCBzaGVsdmUub3BlbignYm90X3N0YXR1cycpIGFzIGJvdF9zdGF0dXM6CiAgICAgICAgICAgICAgICAgICAgYm90X3N0YXR1c1tzZXNzaW9uSURdID0gRmFsc2UKICAgICAgICAgICAgaWYgc2Vzc2lvbklEIGluIGJvdHM6CiAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnJXMgbG9nZ2VkIG91dCEnLCBib3RzW3Nlc3Npb25JRF0uc2VsZi5uYW1lKQogICAgICAgICAgICAgICAgZGVsIGJvdHNbc2Vzc2lvbklEXQogICAgICAgICAgICBvcy5yZW1vdmUoc2Vzc2lvbklEKQogICAgICAgICAgICBzb2NrZXRpby5lbWl0KCdsb2dvdXQnLCByb29tPXNlc3Npb25JRCkKCg==</text>
+        <text encoding="base64">ICAgIGlmIHUK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5jaGVja2VkKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7337,7 +7337,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGNoYXJzZXQ9InV0Zi04Ij4KICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdzdWZmaXhfcmVwbHknKS5vbmNoYW5nZSA9IGZ1bmN0aW9uICgpIHsKICAgIGNvbnNvbGUubG9nKHRoaXMuY2hlY2tlZCk7Cn0KPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7780,10 +7780,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGRlZiBxcl9jYWxsYmFjayh1dWlkLCBzdGF0dXMsIHFyY29kZSk6CiAgICAgICAgbG9nZ2VyLmluZm8oJyVzICVzJywgdXVpZCwgc3RhdHVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+        <text encoding="base64">ICAgIGNsYXNzIAo=</text>
       </register>
       <register name="y" type="4">
         <keys>
