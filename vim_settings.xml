@@ -177,12 +177,12 @@
         <mark key="." line="16" column="36" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/server.py" timestamp="1505295151561">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="16" />
-        <mark key="." line="74" column="16" />
-        <mark key="^" line="73" column="16" />
+      <file name="$USER_HOME$/github/micro_msg_bot/server.py" timestamp="1505297009233">
+        <mark key="'" line="40" column="8" />
+        <mark key="[" line="72" column="36" />
+        <mark key="]" line="72" column="69" />
+        <mark key="." line="95" column="59" />
+        <mark key="^" line="95" column="59" />
       </file>
       <file name="/Dummy.txt" timestamp="1505034938126">
         <mark key="[" line="0" column="0" />
@@ -242,8 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="27" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
-      <jump line="47" column="60" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
       <jump line="48" column="8" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
       <jump line="49" column="39" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
       <jump line="52" column="31" filename="$USER_HOME$/zuzuche/zuzuche/settings.py" />
@@ -331,7 +329,6 @@
       <jump line="26" column="18" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="27" column="33" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="84" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="8" column="20" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="21" column="10" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="29" column="10" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
@@ -342,6 +339,9 @@
       <jump line="93" column="8" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="23" column="43" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="41" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
+      <jump line="72" column="43" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
+      <jump line="40" column="8" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5851,13 +5851,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>v2ex</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>logg</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1ZyhmbGFnKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGEgaHJlZj0iaHR0cDovL3Rlc3QuY29tIj7mn6XnnIvmlZnnqIs8L2E+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiBmbGFnOgo=</text>
