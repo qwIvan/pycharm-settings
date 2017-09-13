@@ -187,12 +187,12 @@
       <file name="/Dummy.txt" timestamp="1505034938126">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/static/index.html" timestamp="1505299112335">
+      <file name="$USER_HOME$/github/micro_msg_bot/static/index.html" timestamp="1505299838208">
         <mark key="'" line="18" column="16" />
-        <mark key="[" line="50" column="15" />
-        <mark key="]" line="50" column="16" />
-        <mark key="^" line="50" column="16" />
-        <mark key="." line="50" column="16" />
+        <mark key="[" line="52" column="14" />
+        <mark key="]" line="52" column="26" />
+        <mark key="^" line="52" column="26" />
+        <mark key="." line="52" column="26" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1504463382133">
         <mark key="'" line="33" column="0" />
