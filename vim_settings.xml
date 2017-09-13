@@ -9,7 +9,7 @@
       <file name="/a.dummy" timestamp="1503149018819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/rule.py" timestamp="1505241767438">
+      <file name="$USER_HOME$/github/micro_msg_bot/rule.py" timestamp="1505248302782">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="17" />
@@ -235,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="86" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="92" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="101" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
@@ -326,8 +324,6 @@
       <jump line="45" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="5" column="17" filename="$USER_HOME$/github/micro_msg_bot/__main__.py" />
       <jump line="2" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="48" column="4" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="25" column="12" filename="$USER_HOME$/github/micro_msg_bot/static/index.html" />
       <jump line="50" column="0" filename="$USER_HOME$/github/micro_msg_bot/static/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/static/index.html" />
@@ -335,6 +331,10 @@
       <jump line="99" column="8" filename="/bot.py" />
       <jump line="105" column="18" filename="/bot.py" />
       <jump line="64" column="22" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
