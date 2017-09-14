@@ -177,12 +177,12 @@
         <mark key="." line="16" column="36" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/server.py" timestamp="1505335311630">
+      <file name="$USER_HOME$/github/micro_msg_bot/server.py" timestamp="1505361403178">
         <mark key="'" line="74" column="12" />
-        <mark key="[" line="109" column="32" />
-        <mark key="]" line="109" column="32" />
-        <mark key="." line="109" column="32" />
-        <mark key="^" line="99" column="39" />
+        <mark key="[" line="76" column="37" />
+        <mark key="]" line="76" column="46" />
+        <mark key="." line="76" column="46" />
+        <mark key="^" line="76" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1505335933033">
         <mark key="[" line="0" column="0" />
@@ -5855,7 +5855,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">PC9hPg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdF9yZXBseV9lbmFibGVcPg==</text>
