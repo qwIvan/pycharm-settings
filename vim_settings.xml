@@ -9,12 +9,12 @@
       <file name="/a.dummy" timestamp="1505327966510">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/rule.py" timestamp="1505381316458">
+      <file name="$USER_HOME$/github/micro_msg_bot/rule.py" timestamp="1505390613173">
         <mark key="'" line="32" column="26" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="66" column="29" />
-        <mark key="." line="65" column="0" />
-        <mark key="^" line="65" column="17" />
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="36" column="30" />
+        <mark key="^" line="36" column="30" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/processor/join_mp4.py" timestamp="1498060545346">
         <mark key="'" line="611" column="25" />
@@ -5820,7 +5820,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>https://github.com/qwIvan/microMsg-bot</text>
+        <text>keyword</text>
       </register>
       <register name="/" type="4">
         <text>unso</text>
