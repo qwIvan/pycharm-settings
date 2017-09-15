@@ -59,6 +59,12 @@
       <file name="/usr/lib/python3.6/site-packages/requests/cookies.py" timestamp="1501243127521">
         <mark key="'" line="171" column="7" />
       </file>
+      <file name="$USER_HOME$/gdg-bot/main.py" timestamp="1505479025833">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/github/microMsg-bot/Dockerfile" timestamp="1504608165632">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="11" />
