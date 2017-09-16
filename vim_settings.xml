@@ -60,12 +60,11 @@
       <file name="/usr/lib/python3.6/site-packages/requests/cookies.py" timestamp="1501243127521">
         <mark key="'" line="171" column="7" />
       </file>
-      <file name="$USER_HOME$/gdg-bot/main.py" timestamp="1505554125160">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="35" column="19" />
+      <file name="$USER_HOME$/gdg-bot/main.py" timestamp="1505554736398">
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="15" />
       </file>
       <file name="$USER_HOME$/teacher-clawer/InfoExtract.py" timestamp="1502862356930">
         <mark key="'" line="6" column="14" />
@@ -224,12 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/github/micro_msg_bot/bot.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/github/micro_msg_bot/bot.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/github/micro_msg_bot/bot.py" />
-      <jump line="289" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="143" column="20" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/login.py" />
-      <jump line="75" column="20" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="16" column="8" filename="$USER_HOME$/github/micro_msg_bot/bot.py" />
       <jump line="3" column="20" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="8" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
@@ -316,14 +309,20 @@
       <jump line="77" column="0" filename="$USER_HOME$/gdg-bot/quickstart.py" />
       <jump line="83" column="0" filename="$USER_HOME$/gdg-bot/quickstart.py" />
       <jump line="21" column="29" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="30" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="16" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="25" column="46" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="31" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="41" column="4" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="24" column="21" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="22" column="21" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="37" column="26" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="42" column="7" filename="$USER_HOME$/gdg-bot/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5833,38 +5832,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>无</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOYW1lZFRlbXBvcmFyeUZpbGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIHRleHQuc3RyaXAoKSBpbiBwaG9uZXM6CiAgICAgICAgcHJpbnQoJ+aciScpCiAgICAgICAgcmV0dXJuCg==</text>
+      <register name="0" type="8">
+        <text>冇</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIGlmIGZpbmRfYnlfcGhvbmUodGV4dCk6CiAgICAgICAgcHJpbnQoJ+aciScpCiAgICAgICAgcmV0dXJuCiAgICB1cGRhdGVfcmVzdWx0cygpCiAgICBpZiBmaW5kX2J5X3Bob25lKHRleHQpOgo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHBob25lcyA9IFtwZXJbJ+aJi+acuuWPtyddIGZvciBwZXIgaW4gcGVyc29uc10K</text>
       </register>
-      <register name="4" type="4">
-        <text>for per in persons:
-    print(per['手机号'])</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIHRleHQuc3RyaXAoKSBpbiBwaG9uZXM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">cGhvbmVzID0gW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXBkYXRlX3Jlc3VsdHMoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7319,7 +7317,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXBkYXRlX3Jlc3VsdHMoKQpmb3IgcGVyIGluIHBlcnNvbnM6CiAgICBwcmludChwZXJbJ+aJi+acuuWPtyddKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7762,10 +7760,11 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">cHJpbnQocmVzdWx0cykK</text>
+      <register name="9" type="4">
+        <text>for per in persons:
+    print(per['手机号'])</text>
       </register>
       <register name="y" type="4">
         <keys>
