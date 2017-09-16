@@ -115,8 +115,8 @@
         <mark key="]" line="38" column="20" />
         <mark key="." line="38" column="20" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/server.py" timestamp="1505401147779">
-        <mark key="'" line="138" column="0" />
+      <file name="$USER_HOME$/github/micro_msg_bot/server.py" timestamp="1505572281946">
+        <mark key="'" line="18" column="43" />
         <mark key="[" line="11" column="40" />
         <mark key="]" line="11" column="54" />
         <mark key="." line="11" column="54" />
@@ -161,13 +161,6 @@
       <file name="/index.html" timestamp="1505382970506" />
     </filemarks>
     <jumps>
-      <jump line="58" column="59" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="12" column="4" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="53" column="36" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="54" column="20" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="32" column="26" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/README.md" />
       <jump line="5" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="71" column="4" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
@@ -261,6 +254,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="29" column="8" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="47" column="8" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
+      <jump line="0" column="0" filename="/usr/lib/python3.6/secrets.py" />
+      <jump line="2" column="7" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
+      <jump line="18" column="43" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5773,7 +5773,7 @@
         <text>persons Non</text>
       </register>
       <register name="/" type="4">
-        <text>exit</text>
+        <text encoding="base64">XDxzZWNyZXRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWN0X2dycCA9IE5vbmUKZm9yIGcgaW4gYm90Lmdyb3VwcygpOgogICAgaWYgZy5zZWxmLmRpc3BsYXlfbmFtZSA9PSAnMDEnOgogICAgICAgIGFjdF9ncnAgPSBnCg==</text>
@@ -7776,9 +7776,9 @@
       </register>
     </registers>
     <search>
-      <last-search>exit</last-search>
+      <last-search encoding="base64">XDxzZWNyZXRzXD4=</last-search>
       <last-offset />
-      <last-pattern>exit</last-pattern>
+      <last-pattern encoding="base64">XDxzZWNyZXRzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -7786,7 +7786,6 @@
     </search>
     <history>
       <history-search>
-        <entry>HttpProxyMiddleware</entry>
         <entry>DOWNLOADER_MIDDLEWARES_BASE</entry>
         <entry>DOWNLOADER_MIDDLEWARES</entry>
         <entry>proxy</entry>
@@ -7806,6 +7805,7 @@
         <entry encoding="base64">XDx2ZXJpZnlfY29udGVudFw+</entry>
         <entry>77</entry>
         <entry>exit</entry>
+        <entry encoding="base64">XDxzZWNyZXRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
