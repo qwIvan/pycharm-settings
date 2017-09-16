@@ -57,12 +57,11 @@
       <file name="/usr/lib/python3.6/site-packages/requests/cookies.py" timestamp="1501243127521">
         <mark key="'" line="171" column="7" />
       </file>
-      <file name="$USER_HOME$/gdg-bot/main.py" timestamp="1505558525497">
-        <mark key="'" line="60" column="23" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="60" column="58" />
+      <file name="$USER_HOME$/gdg-bot/main.py" timestamp="1505561747651">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="81" column="14" />
       </file>
       <file name="$USER_HOME$/teacher-clawer/InfoExtract.py" timestamp="1502862356930">
         <mark key="'" line="6" column="14" />
@@ -218,30 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="8" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="29" column="6" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/messages/message.py" />
-      <jump line="36" column="28" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/messages/message.py" />
-      <jump line="48" column="27" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/messages/message.py" />
-      <jump line="46" column="72" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/messages/message.py" />
-      <jump line="49" column="28" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="40" column="8" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="52" column="33" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="105" column="8" filename="/usr/lib/python3.6/concurrent/futures/thread.py" />
-      <jump line="522" column="8" filename="/usr/lib/python3.6/concurrent/futures/_base.py" />
-      <jump line="560" column="0" filename="/usr/lib/python3.6/concurrent/futures/_base.py" />
-      <jump line="520" column="0" filename="/usr/lib/python3.6/concurrent/futures/_base.py" />
-      <jump line="23" column="23" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="33" column="23" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="35" column="16" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="6" column="33" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="31" column="24" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="37" column="36" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="82" column="27" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
-      <jump line="314" column="13" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" />
-      <jump line="420" column="51" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
-      <jump line="259" column="21" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/messages.py" />
-      <jump line="70" column="4" filename="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/utils.py" />
       <jump line="30" column="21" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="42" column="33" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="321" column="12" filename="/usr/lib/python3.6/multiprocessing/pool.py" />
@@ -293,9 +268,7 @@
       <jump line="77" column="0" filename="$USER_HOME$/gdg-bot/quickstart.py" />
       <jump line="83" column="0" filename="$USER_HOME$/gdg-bot/quickstart.py" />
       <jump line="21" column="29" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="16" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="41" column="4" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="24" column="21" filename="$USER_HOME$/gdg-bot/main.py" />
@@ -312,12 +285,38 @@
       <jump line="347" column="34" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="352" column="15" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="357" column="79" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
-      <jump line="43" column="9" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="0" column="19" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="47" column="10" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="470" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="59" column="23" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="60" column="23" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="43" column="5" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="1" column="12" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="87" column="25" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="31" column="4" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="55" column="7" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="470" column="16" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
+      <jump line="100" column="35" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="478" column="46" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
+      <jump line="92" column="29" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="71" column="29" filename="$USER_HOME$/gdg-bot/main.py" />
+      <jump line="73" column="16" filename="$USER_HOME$/gdg-bot/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5827,37 +5826,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>冇</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJpZnlfY29udGVudFw+</text>
       </register>
       <register name="0" type="4">
-        <text>add_members</text>
+        <text>发送报名时填写的手机号可以加入活动群</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cucmVwbHkoJ+WGhycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cucmVwbHkoJ+aciScpCg==</text>
+        <text encoding="base64">QGJvdC5yZWdpc3Rlcihtc2dfdHlwZXM9R3JvdXApCmRlZiBoYW5kbGVfZ3JvdXAobXNnOiBNZXNzYWdlKToK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfZnJpZW5kLnNlbmQoJ+a0u+WKqOe+pCcpCg==</text>
+        <text encoding="base64">ICAgIGlmIG1zZy5pc19hdDoKICAgICAgICByYW5kaW50ID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKICAgICAgICBpZiByYW5kaW50ID09IDE6CiAgICAgICAgICAgIG1zZy5yZXBseSgn6L+Z6YeM5pivR0RH5bm/5beeJykKICAgICAgICBlbHNlOgogICAgICAgICAgICBtc2cucmVwbHkoJ+ivt+WFs+azqEdER+W5v+W3nuW+ruS/oeWFrOS8l+WPtycpCiAgICAgICAgICAgIG1zZy5yZXBseV9pbWFnZSgnbXBxci5wbmcnLCBtcHFyX21lZGlhX2lkKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXBkYXRlX3Jlc3VsdHMoKQo=</text>
+        <text encoding="base64">QGJvdC5yZWdpc3Rlcihtc2dfdHlwZXM9R3JvdXApCmRlZiBoYW5kbGVfZ3JvdXAobXNnOiBNZXNzYWdlKToKICAgIGlmIG1zZy5pc19hdDoKICAgICAgICByYW5kaW50ID0gcmFuZG9tLnJhbmRpbnQoMSwgMikKICAgICAgICBpZiByYW5kaW50ID09IDE6CiAgICAgICAgICAgIG1zZy5yZXBseSgn6L+Z6YeM5pivR0RH5bm/5beeJykKICAgICAgICBlbHNlOgogICAgICAgICAgICBtc2cucmVwbHkoJ+ivt+WFs+azqEdER+W5v+W3nuW+ruS/oeWFrOS8l+WPtycpCiAgICAgICAgICAgIG1zZy5yZXBseV9pbWFnZSgnbXBxci5wbmcnLCBtcHFyX21lZGlhX2lkKQoK</text>
       </register>
-      <register name="5" type="8">
-        <text>有</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgn5pyJJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgn5pyJJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgn5YaHJywgbXNnLnNlbmRlcikK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7312,7 +7311,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgn5YaHJykK</text>
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7754,11 +7753,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="8">
-        <text>有</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
