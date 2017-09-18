@@ -6,12 +6,12 @@
       <file name="/usr/lib/python3.6/site-packages/scrapy/crawler.py" timestamp="1503489328084">
         <mark key="'" line="171" column="22" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/rule.py" timestamp="1505624813597">
-        <mark key="'" line="48" column="44" />
-        <mark key="[" line="42" column="23" />
-        <mark key="]" line="42" column="30" />
-        <mark key="." line="42" column="30" />
-        <mark key="^" line="42" column="30" />
+      <file name="$USER_HOME$/github/micro_msg_bot/rule.py" timestamp="1505701779130">
+        <mark key="'" line="48" column="97" />
+        <mark key="[" line="48" column="92" />
+        <mark key="]" line="48" column="97" />
+        <mark key="." line="48" column="97" />
+        <mark key="^" line="48" column="97" />
       </file>
       <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/processor/join_mp4.py" timestamp="1498060545346">
         <mark key="'" line="611" column="25" />
@@ -260,7 +260,7 @@
       <jump line="25" column="26" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="42" column="51" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="48" column="44" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
+      <jump line="48" column="97" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5775,8 +5775,8 @@
       <register name="/" type="4">
         <text>jpg</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YWN0X2dycCA9IE5vbmUKZm9yIGcgaW4gYm90Lmdyb3VwcygpOgogICAgaWYgZy5zZWxmLmRpc3BsYXlfbmFtZSA9PSAnMDEnOgogICAgICAgIGFjdF9ncnAgPSBnCg==</text>
+      <register name="0" type="4">
+        <text>re.findall('(.*)\.(jpg|gif|png)\s*(x|×|X|\*)\s*(\d+)\s*$', msg.text)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZsb3cudXNlcl9hZ2VudCA9IEFQUExJQ0FUSU9OX05BTUUK</text>
