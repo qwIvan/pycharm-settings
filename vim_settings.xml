@@ -84,6 +84,12 @@
       <file name="/usr/lib/python3.6/site-packages/scrapy/core/engine.py" timestamp="1503314634564">
         <mark key="'" line="211" column="0" />
       </file>
+      <file name="$USER_HOME$/github/micro_msg_bot/Dockerfile" timestamp="1505742299821">
+        <mark key="[" line="2" column="75" />
+        <mark key="]" line="2" column="79" />
+        <mark key="^" line="2" column="79" />
+        <mark key="." line="2" column="79" />
+      </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
@@ -5836,7 +5842,7 @@
         <text>jpg</text>
       </register>
       <register name="0" type="4">
-        <text>re.findall('(.*)\.(jpg|gif|png)\s*(x|×|X|\*)\s*(\d+)\s*$', msg.text)</text>
+        <text>js2py</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHB5dGVzdAoKCg==</text>
