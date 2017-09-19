@@ -63,9 +63,9 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/Dockerfile" timestamp="1505856000738">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="28" />
+      <file name="$USER_HOME$/github/microMsg-bot/Dockerfile" timestamp="1505857253091">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="88" />
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
@@ -179,7 +179,7 @@
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1505375846385">
         <mark key="'" line="788" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505856473459">
+      <file name="/Dummy.txt" timestamp="1505857412220">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="7" />
       </file>
@@ -251,6 +251,12 @@
         <mark key="]" line="64" column="69" />
         <mark key="^" line="64" column="69" />
         <mark key="." line="64" column="69" />
+      </file>
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" timestamp="1505857392856">
+        <mark key="[" line="131" column="63" />
+        <mark key="]" line="132" column="39" />
+        <mark key="^" line="132" column="39" />
+        <mark key="." line="132" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -5863,22 +5869,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>worker-class</text>
+        <text>bo</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
       </register>
-      <register name="0" type="4">
-        <text>PYTHONPATH=.. gunicorn --worker-class eventlet -w 1 micro_msg_bot.server:app -b 0.0.0.0:80</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm90c1tzZXNzaW9uSURdID0gYm90ICAjIFRPRE8g57q/56iL5a6J5YWo6Zeu6aKY77yM55So5oi35pyJ5Y+v6IO95Zyo5q2k5YmN5bey57uPbG9nb3V0CiAgICAgICAgICAgIGJvdF9zdGF0dXNbc2Vzc2lvbklEXSA9IGJvdC5hbGl2ZQo=</text>
       </register>
-      <register name="1" type="8">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZiBibwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="2" type="8">
+        <text>.</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -5887,13 +5893,13 @@
         <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGJvdCA9IEJvdChjb25zb2xlX3FyPVRydWUsIGNhY2hlX3BhdGg9J3d4cHlfYm90LnBrbCcpCiAgICByZWdfZXZlbnQoYm90KQogICAgYm90LmpvaW4oKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoa2V5d29yZCwgbXNnKQo=</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGJvdCA9IEJvdChjb25zb2xlX3FyPVRydWUsIGNhY2hlX3BhdGg9J3d4cHlfYm90LnBrbCcpCiAgICByZWdfZXZlbnQoYm90KQogICAgYm90LmpvaW4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZXl3b3JkLCBtc2csIGJvdC5zZXR0aW5nKQogICAgICAgIHByaW50KGJvdC5zZXR0aW5nLnN1ZmZpeF9yZXBseSkKICAgICAgICBwcmludChib3Quc2V0dGluZy5hdF9yZXBseSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoa2V5d29yZCwgbXNnKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7348,7 +7354,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZXl3b3JkLCBtc2cpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChrZXl3b3JkLCBtc2csIGJvdC5zZXR0aW5nKQogICAgICAgIHByaW50KGJvdC5zZXR0aW5nLnN1ZmZpeF9yZXBseSkKICAgICAgICBwcmludChib3Quc2V0dGluZy5hdF9yZXBseSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
