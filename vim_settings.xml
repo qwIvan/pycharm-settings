@@ -6,8 +6,8 @@
       <file name="/usr/lib/python3.6/site-packages/scrapy/crawler.py" timestamp="1503489328084">
         <mark key="'" line="171" column="22" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/rule.py" timestamp="1505812890461">
-        <mark key="'" line="48" column="97" />
+      <file name="$USER_HOME$/github/micro_msg_bot/rule.py" timestamp="1505827094243">
+        <mark key="'" line="23" column="14" />
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="26" />
         <mark key="." line="18" column="26" />
@@ -227,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="12" filename="$USER_HOME$/gdg-bot/quickstart.py" />
       <jump line="60" column="0" filename="$USER_HOME$/gdg-bot/quickstart.py" />
       <jump line="76" column="0" filename="$USER_HOME$/gdg-bot/quickstart.py" />
       <jump line="68" column="0" filename="$USER_HOME$/gdg-bot/quickstart.py" />
@@ -327,6 +326,7 @@
       <jump line="42" column="51" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="48" column="97" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="3" column="10" filename="$USER_HOME$/github/micro_msg_bot/testing.py" />
+      <jump line="23" column="14" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
