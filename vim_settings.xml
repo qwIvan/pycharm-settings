@@ -63,6 +63,12 @@
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
       </file>
+      <file name="$USER_HOME$/github/microMsg-bot/Dockerfile" timestamp="1505856000738">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+      </file>
       <file name="$USER_HOME$/teacher-clawer/InfoExtract.py" timestamp="1502862356930">
         <mark key="'" line="6" column="14" />
         <mark key="[" line="2" column="4" />
@@ -173,7 +179,7 @@
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1505375846385">
         <mark key="'" line="788" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505854660411">
+      <file name="/Dummy.txt" timestamp="1505856473459">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="7" />
       </file>
@@ -239,14 +245,15 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" timestamp="1505856426694">
+        <mark key="'" line="68" column="12" />
+        <mark key="[" line="64" column="55" />
+        <mark key="]" line="64" column="69" />
+        <mark key="^" line="64" column="69" />
+        <mark key="." line="64" column="69" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="78" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="55" column="7" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="470" column="16" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
-      <jump line="100" column="35" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="478" column="46" filename="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" />
       <jump line="92" column="29" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="70" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="71" column="29" filename="$USER_HOME$/gdg-bot/main.py" />
@@ -341,6 +348,12 @@
       <jump line="1" column="19" filename="$USER_HOME$/github/micro_msg_bot/Dockerfile" />
       <jump line="6" column="0" filename="$USER_HOME$/github/micro_msg_bot/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/Dockerfile" />
+      <jump line="0" column="1" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="51" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="53" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="7" column="6" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="64" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="68" column="12" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5850,13 +5863,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXBrIHVwZGF0ZSAmJiA=</text>
+        <text>worker-class</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>logger</text>
       </register>
       <register name="0" type="4">
-        <text>micro_msg_bot</text>
+        <text>PYTHONPATH=.. gunicorn --worker-class eventlet -w 1 micro_msg_bot.server:app -b 0.0.0.0:80</text>
       </register>
       <register name="1" type="8">
         <text>.</text>
@@ -7856,9 +7869,9 @@
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>logger</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>logger</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -7866,7 +7879,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXF1ZXN0c1w+</entry>
         <entry encoding="base64">XDxwcmludF9jb29raWVzXD4=</entry>
         <entry>at_replay_enable</entry>
         <entry>at_reply_enable</entry>
@@ -7886,6 +7898,7 @@
         <entry>jpg</entry>
         <entry encoding="base64">XDxxcl9jYWxsYmFja1w+</entry>
         <entry>print</entry>
+        <entry>logger</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
