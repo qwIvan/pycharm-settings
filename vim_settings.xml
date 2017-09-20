@@ -64,10 +64,10 @@
         <mark key="^" line="43" column="30" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/Dockerfile" timestamp="1505857253091">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="88" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="28" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="88" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
       </file>
       <file name="$USER_HOME$/teacher-clawer/InfoExtract.py" timestamp="1502862356930">
         <mark key="'" line="6" column="14" />
@@ -245,12 +245,12 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" timestamp="1505856426694">
-        <mark key="'" line="68" column="12" />
-        <mark key="[" line="64" column="55" />
-        <mark key="]" line="64" column="69" />
-        <mark key="^" line="64" column="69" />
-        <mark key="." line="64" column="69" />
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" timestamp="1505893278227">
+        <mark key="'" line="65" column="21" />
+        <mark key="[" line="64" column="70" />
+        <mark key="]" line="64" column="70" />
+        <mark key="^" line="64" column="62" />
+        <mark key="." line="64" column="70" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" timestamp="1505887919172">
         <mark key="[" line="131" column="63" />
@@ -260,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="29" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="71" column="29" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="73" column="16" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="7" column="12" filename="$USER_HOME$/gdg-bot/main.py" />
@@ -360,6 +358,8 @@
       <jump line="7" column="6" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
       <jump line="64" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
       <jump line="68" column="12" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="74" column="4" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="65" column="21" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5869,7 +5869,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>logger</text>
