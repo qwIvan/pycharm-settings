@@ -219,10 +219,10 @@
       <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" timestamp="1505896025875">
         <mark key="'" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1505000437030">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1505900831870">
         <mark key="'" line="203" column="39" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="28" />
+        <mark key="[" line="196" column="58" />
+        <mark key="]" line="196" column="64" />
         <mark key="." line="197" column="101" />
         <mark key="^" line="197" column="101" />
       </file>
@@ -5877,8 +5877,8 @@
       <register name="/" type="4">
         <text>logger</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm90c1tzZXNzaW9uSURdID0gYm90ICAjIFRPRE8g57q/56iL5a6J5YWo6Zeu6aKY77yM55So5oi35pyJ5Y+v6IO95Zyo5q2k5YmN5bey57uPbG9nb3V0CiAgICAgICAgICAgIGJvdF9zdGF0dXNbc2Vzc2lvbklEXSA9IGJvdC5hbGl2ZQo=</text>
+      <register name="0" type="4">
+        <text>内蒙古民族大学</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZiBibwo=</text>
