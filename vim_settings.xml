@@ -202,6 +202,11 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/pipelines.py" timestamp="1506537899965">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+      </file>
       <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1504463382133">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="64" column="0" />
@@ -222,11 +227,12 @@
       <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" timestamp="1505896025875">
         <mark key="'" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1506535747646">
-        <mark key="'" line="337" column="0" />
-        <mark key="[" line="357" column="0" />
-        <mark key="]" line="357" column="0" />
-        <mark key="." line="357" column="0" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1506538243592">
+        <mark key="'" line="207" column="53" />
+        <mark key="[" line="212" column="10" />
+        <mark key="]" line="212" column="58" />
+        <mark key="." line="212" column="10" />
+        <mark key="^" line="211" column="123" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/messages.py" timestamp="1505371753576">
         <mark key="'" line="259" column="21" />
@@ -265,11 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="42" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="29" column="8" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="47" column="8" filename="$USER_HOME$/gdg-bot/main.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="9" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
       <jump line="13" column="0" filename="$USER_HOME$/github/micro_msg_bot/server.py" />
@@ -365,6 +366,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="39" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="58" column="24" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
+      <jump line="203" column="64" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="10" column="10" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/pipelines.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/pipelines.py" />
+      <jump line="11" column="10" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/pipelines.py" />
+      <jump line="207" column="53" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5874,37 +5880,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>list1</text>
+        <text>http://chem.ucas.ac.cn/index.php/zh-CN/szdw/skjs</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXhfcHJlZml4XD4=</text>
+        <text>详细页match不到姓名</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdGV4dCBpbiB0ZXh0czoK</text>
+        <text encoding="base64">ICAgICAgICAoJ2h0dHA6Ly9jaGVtLnVjYXMuYWMuY24vaW5kZXgucGhwL3poLUNOL3N6ZHcvc2tqcycsICfkuK3lm73np5HlrabpmaLlpKflraYnLCAn5YyW5a2m5LiO5YyW5bel5a2m6ZmiJywgJ+WMluWtpicpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtYXhfcHJlZml4Cg==</text>
+        <text encoding="base64">ICAgICAgICAoJ2h0dHA6Ly9lbmcudWNhcy5hYy5jbi9pbmRleC5waHAvemgtQ04vMjAxNC0wNi0xMy0wNi00Mi00My8yMDE0LTA2LTEzLTA2LTQ1LTE4JywgJ+S4reWbveenkeWtpumZouWkp+WtpicsICflt6XnqIvnp5HlrablrabpmaInLCAn5bel56iL5oqA5pyvJyksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsID0K</text>
+        <text encoding="base64">ICAgICAgICBpZiBzeXMuYXJndlstMV0gPT0gJy13JzoK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZiBibwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBtYXhfcHJlZml4Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZiBibwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="6" type="8">
+        <text>.</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7359,7 +7365,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGJvdCA9IEJvdChjb25zb2xlX3FyPVRydWUsIGNhY2hlX3BhdGg9J3d4cHlfYm90LnBrbCcpCiAgICByZWdfZXZlbnQoYm90KQogICAgYm90LmpvaW4oKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7802,10 +7808,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoa2V5d29yZCwgbXNnKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZXl3b3JkLCBtc2csIGJvdC5zZXR0aW5nKQogICAgICAgIHByaW50KGJvdC5zZXR0aW5nLnN1ZmZpeF9yZXBseSkKICAgICAgICBwcmludChib3Quc2V0dGluZy5hdF9yZXBseSkK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIGJvdCA9IEJvdChjb25zb2xlX3FyPVRydWUsIGNhY2hlX3BhdGg9J3d4cHlfYm90LnBrbCcpCiAgICByZWdfZXZlbnQoYm90KQogICAgYm90LmpvaW4oKQo=</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -7880,9 +7886,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXhfcHJlZml4XD4=</last-search>
+      <last-search>详细页match不到姓名</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXhfcHJlZml4XD4=</last-pattern>
+      <last-pattern>详细页match不到姓名</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -7907,9 +7913,9 @@
         <entry encoding="base64">XDxxcl9jYWxsYmFja1w+</entry>
         <entry>print</entry>
         <entry>logger</entry>
-        <entry>详细页match不到姓名</entry>
         <entry encoding="base64">XDxnZXRfbWF4X3ByZWZpeFw+</entry>
         <entry encoding="base64">XDxtYXhfcHJlZml4XD4=</entry>
+        <entry>详细页match不到姓名</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
