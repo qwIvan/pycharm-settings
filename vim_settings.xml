@@ -212,22 +212,22 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/storage.py" timestamp="1497550825121">
         <mark key="'" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1503834869955">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1506503900242">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
-        <mark key="^" line="37" column="18" />
+        <mark key="[" line="105" column="48" />
+        <mark key="]" line="105" column="54" />
+        <mark key="." line="105" column="54" />
+        <mark key="^" line="105" column="54" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" timestamp="1505896025875">
         <mark key="'" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1505900831870">
-        <mark key="'" line="203" column="39" />
-        <mark key="[" line="196" column="58" />
-        <mark key="]" line="196" column="64" />
-        <mark key="." line="197" column="101" />
-        <mark key="^" line="197" column="101" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1506504664784">
+        <mark key="'" line="202" column="81" />
+        <mark key="[" line="456" column="0" />
+        <mark key="]" line="456" column="25" />
+        <mark key="." line="202" column="78" />
+        <mark key="^" line="202" column="78" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/messages.py" timestamp="1505371753576">
         <mark key="'" line="259" column="21" />
@@ -266,7 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="12" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="10" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="11" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
       <jump line="19" column="0" filename="$USER_HOME$/gdg-bot/main.py" />
@@ -366,6 +365,7 @@
       <jump line="97" column="16" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" />
       <jump line="58" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="67" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="202" column="81" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5875,13 +5875,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>学</text>
       </register>
       <register name="/" type="4">
-        <text>logger</text>
+        <text>详细页match不到姓名</text>
       </register>
-      <register name="0" type="4">
-        <text>内蒙古民族大学</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgdGV4dCBpbiB0ZXh0czoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZiBibwo=</text>
@@ -7881,9 +7881,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logger</last-search>
+      <last-search>详细页match不到姓名</last-search>
       <last-offset />
-      <last-pattern>logger</last-pattern>
+      <last-pattern>详细页match不到姓名</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -7891,7 +7891,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmludF9jb29raWVzXD4=</entry>
         <entry>at_replay_enable</entry>
         <entry>at_reply_enable</entry>
         <entry>logg</entry>
@@ -7911,6 +7910,7 @@
         <entry encoding="base64">XDxxcl9jYWxsYmFja1w+</entry>
         <entry>print</entry>
         <entry>logger</entry>
+        <entry>详细页match不到姓名</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
