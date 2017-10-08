@@ -51,12 +51,12 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/engineio/middleware.py" timestamp="1501079101165">
         <mark key="'" line="46" column="41" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/node.py" timestamp="1506846339250">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/node.py" timestamp="1507461619174">
         <mark key="'" line="5" column="24" />
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/commands/crawl.py" timestamp="1503161629043">
         <mark key="'" line="56" column="31" />
@@ -147,10 +147,10 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/console.py" timestamp="1501321563520">
         <mark key="'" line="65" column="12" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" timestamp="1506760287012">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" timestamp="1507461175572">
         <mark key="'" line="6" column="17" />
         <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+        <mark key="]" line="12" column="64" />
         <mark key="^" line="13" column="7" />
         <mark key="." line="12" column="0" />
       </file>
@@ -251,7 +251,7 @@
       <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" timestamp="1505896025875">
         <mark key="'" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1506762115199">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1507461804295">
         <mark key="'" line="239" column="0" />
         <mark key="[" line="370" column="23" />
         <mark key="]" line="370" column="81" />
@@ -5906,8 +5906,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxCYXNlU3BpZGVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>''.join([n.get() for n in node.xpath('.//text()')]).strip()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBodHRwOi8vcGh5c2ljcy51Y2FzLmFjLmNuL2luZGV4LnBocC96aC1DTi9zcGVjaWFsaXN0L2d3anMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
