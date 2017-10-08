@@ -270,6 +270,13 @@
       <file name="$USER_HOME$/zuzuche/zuzuche/settings.py" timestamp="1504534839058">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/gdg-bot/devfest.py" timestamp="1507471774923">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="32" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="66" column="30" />
+      </file>
       <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1504463779349">
         <mark key="'" line="32" column="8" />
         <mark key="[" line="32" column="8" />
@@ -292,8 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="8" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="61" column="13" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="16" column="0" filename="$USER_HOME$/github/micro_msg_bot/testing.py" />
       <jump line="17" column="21" filename="$USER_HOME$/github/micro_msg_bot/testing.py" />
       <jump line="1" column="0" filename="$USER_HOME$/github/micro_msg_bot/testing_with_login.py" />
@@ -392,6 +397,8 @@
       <jump line="91" column="24" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="20" column="37" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="7" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/node.py" />
+      <jump line="8" column="17" filename="$USER_HOME$/gdg-bot/devfest.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/gdg-bot/devfest.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5907,31 +5914,31 @@
         <text encoding="base64">XDxpbXVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcm9vdC54cGF0aCgnLy8uJykK</text>
+        <text encoding="base64">ICAgICAgICBib3QuZ3JvdXBzKHVwZGF0ZT1UcnVlKQogICAgICAgIGJvdC5jaGF0cyh1cGRhdGU9VHJ1ZSkKICAgICAgICBib3QuZnJpZW5kcyh1cGRhdGU9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBib3QuZ3JvdXBzKHVwZGF0ZT1UcnVlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3QudXAK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3Quc2VhcmNoKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwOi8vcGh5c2ljcy51Y2FzLmFjLmNuL2luZGV4LnBocC96aC1DTi9zcGVjaWFsaXN0CiAgICAgICAgaHR0cDovL3BoeXNpY3MudWNhcy5hYy5jbi9pbmRleC5waHAvemgtQ04vc3BlY2lhbGlzdC9qcQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7386,7 +7393,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7829,10 +7836,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSAnbmV3Jwo=</text>
+        <text encoding="base64">ICAgICAgICBodHRwOi8vcGh5c2ljcy51Y2FzLmFjLmNuL2luZGV4LnBocC96aC1DTi9zcGVjaWFsaXN0CiAgICAgICAgaHR0cDovL3BoeXNpY3MudWNhcy5hYy5jbi9pbmRleC5waHAvemgtQ04vc3BlY2lhbGlzdC9qcQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBQcm9mZXNzb3JTY3JhcHkuc3BpZGVycy5zaXRlX3NwaWRlciBpbXBvcnQgU2l0ZVNwaWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <keys>
