@@ -206,7 +206,7 @@
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1505375846385">
         <mark key="'" line="788" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505857412220">
+      <file name="/Dummy.txt" timestamp="1507551644736">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="7" />
       </file>
@@ -282,12 +282,12 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" timestamp="1507549162887">
-        <mark key="'" line="65" column="21" />
-        <mark key="[" line="75" column="56" />
-        <mark key="]" line="76" column="83" />
-        <mark key="^" line="76" column="83" />
-        <mark key="." line="76" column="83" />
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" timestamp="1507551600795">
+        <mark key="'" line="75" column="38" />
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="32" column="25" />
+        <mark key="^" line="32" column="25" />
+        <mark key="." line="32" column="25" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" timestamp="1505887919172">
         <mark key="[" line="131" column="63" />
@@ -297,9 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/github/micro_msg_bot/testing.py" />
-      <jump line="17" column="21" filename="$USER_HOME$/github/micro_msg_bot/testing.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/github/micro_msg_bot/testing_with_login.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/testing.py" />
       <jump line="52" column="18" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="8" column="18" filename="$USER_HOME$/github/micro_msg_bot/testing_with_login.py" />
@@ -397,6 +394,9 @@
       <jump line="7" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/node.py" />
       <jump line="8" column="17" filename="$USER_HOME$/gdg-bot/devfest.py" />
       <jump line="38" column="0" filename="$USER_HOME$/gdg-bot/devfest.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="78" column="38" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="29" column="18" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5915,28 +5915,28 @@
         <text encoding="base64">ICAgICAgICBib3QuZ3JvdXBzKHVwZGF0ZT1UcnVlKQogICAgICAgIGJvdC5jaGF0cyh1cGRhdGU9VHJ1ZSkKICAgICAgICBib3QuZnJpZW5kcyh1cGRhdGU9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChrZXl3b3JkLCB0aSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib3QuZ3JvdXBzKHVwZGF0ZT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib3QudXAK</text>
+        <text encoding="base64">ICAgICAgICBib3QuZ3JvdXBzKHVwZGF0ZT1UcnVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib3Quc2VhcmNoKCkK</text>
+        <text encoding="base64">ICAgICAgICBib3QudXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBib3Quc2VhcmNoKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7834,10 +7834,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwOi8vcGh5c2ljcy51Y2FzLmFjLmNuL2luZGV4LnBocC96aC1DTi9zcGVjaWFsaXN0CiAgICAgICAgaHR0cDovL3BoeXNpY3MudWNhcy5hYy5jbi9pbmRleC5waHAvemgtQ04vc3BlY2lhbGlzdC9qcQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <keys>
