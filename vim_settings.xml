@@ -28,12 +28,12 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1507695256126">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1507697582278">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-        <mark key="^" line="22" column="22" />
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/rule.py" timestamp="1504463830996">
         <mark key="'" line="29" column="0" />
@@ -5912,7 +5912,7 @@
         <text encoding="base64">XDxpbXVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBib3QuZ3JvdXBzKHVwZGF0ZT1UcnVlKQogICAgICAgIGJvdC5jaGF0cyh1cGRhdGU9VHJ1ZSkKICAgICAgICBib3QuZnJpZW5kcyh1cGRhdGU9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBhbGxfZWxlbWVudHMgPSByb290LnhwYXRoKCcvLy4nKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChrZXl3b3JkLCB0aSkK</text>
