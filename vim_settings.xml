@@ -28,12 +28,12 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1507464619102">
-        <mark key="'" line="21" column="37" />
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="23" column="22" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1507695256126">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="22" column="22" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/rule.py" timestamp="1504463830996">
         <mark key="'" line="29" column="0" />
@@ -297,7 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/testing.py" />
       <jump line="52" column="18" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
       <jump line="8" column="18" filename="$USER_HOME$/github/micro_msg_bot/testing_with_login.py" />
       <jump line="76" column="37" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
@@ -397,6 +396,7 @@
       <jump line="18" column="4" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
       <jump line="78" column="38" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
       <jump line="29" column="18" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
