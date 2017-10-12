@@ -28,12 +28,12 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1507744032918">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1507810258312">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="25" column="75" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="25" />
+        <mark key="^" line="29" column="25" />
+        <mark key="." line="29" column="25" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/rule.py" timestamp="1504463830996">
         <mark key="'" line="29" column="0" />
@@ -5915,28 +5915,28 @@
         <text>replace('\xa0', '').strip()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZXl3b3JkLCB0aSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChrZXl3b3JkLCB0aSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBib3QuZ3JvdXBzKHVwZGF0ZT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib3QudXAK</text>
+        <text encoding="base64">ICAgICAgICBib3QuZ3JvdXBzKHVwZGF0ZT1UcnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib3Quc2VhcmNoKCkK</text>
+        <text encoding="base64">ICAgICAgICBib3QudXAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7391,7 +7391,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBib3Quc2VhcmNoKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7834,7 +7834,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
