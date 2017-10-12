@@ -28,12 +28,12 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1507811002691">
-        <mark key="'" line="29" column="23" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1507820578221">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="57" column="15" />
+        <mark key="]" line="57" column="32" />
+        <mark key="." line="57" column="32" />
+        <mark key="^" line="57" column="32" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/rule.py" timestamp="1504463830996">
         <mark key="'" line="29" column="0" />
@@ -251,10 +251,10 @@
       <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" timestamp="1505896025875">
         <mark key="'" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1507810986060">
-        <mark key="'" line="91" column="24" />
-        <mark key="[" line="385" column="0" />
-        <mark key="]" line="386" column="29" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1507820432607">
+        <mark key="'" line="471" column="12" />
+        <mark key="[" line="411" column="0" />
+        <mark key="]" line="412" column="42" />
         <mark key="." line="204" column="12" />
         <mark key="^" line="204" column="12" />
       </file>
@@ -297,17 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="37" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="21" column="21" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="74" column="34" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="83" column="25" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="77" column="53" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/rule.py" />
-      <jump line="96" column="13" filename="$USER_HOME$/github/micro_msg_bot/bot.py" />
-      <jump line="3" column="16" filename="$USER_HOME$/github/micro_msg_bot/Dockerfile" />
-      <jump line="1" column="19" filename="$USER_HOME$/github/micro_msg_bot/Dockerfile" />
-      <jump line="6" column="0" filename="$USER_HOME$/github/micro_msg_bot/Dockerfile" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/micro_msg_bot/Dockerfile" />
       <jump line="0" column="1" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
       <jump line="51" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
       <jump line="53" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
@@ -394,9 +383,20 @@
       <jump line="18" column="4" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
       <jump line="78" column="38" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
       <jump line="29" column="18" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="1" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="29" column="23" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="396" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="312" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="351" column="24" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="371" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="412" column="34" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="43" column="17" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="24" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="444" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="471" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5906,37 +5906,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>word.replace('\xa0', '').strip())</text>
+        <text>person_names</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29yZHMuYXBwZW5kKHdvcmQucmVwbGFjZSgnXHhhMCcsICcnKS5zdHJpcCgpKQogICAgICAgICAgICBsaW5rcy5hcHBlbmQobGluaykK</text>
+        <text encoding="base64">ICAgICAgICBsID0gbGlzdChtYXAobGFtYmRhIHA6IHBbJ2xpbmsnXSwgcGVyc29uX25hbWVzKSkKICAgICAgICBtYXhfcHJlZml4ID0gc2VsZi5nZXRfbWF4X3ByZWZpeChsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJzb25fbmFtZXMgPSBbXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfbGlua3MgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwZXJzb25fbmFtZXMuYXBwZW5kKHsnd29yZCc6IHdvcmQsICdsaW5rJzogbGlua30pCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZXl3b3JkLCB0aSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB5aWVsZCB3b3JkLCBsaW5rCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7391,7 +7391,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib3QuZ3JvdXBzKHVwZGF0ZT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxfbGlua3MgPSAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7834,10 +7834,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib3QudXAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3Quc2VhcmNoKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
