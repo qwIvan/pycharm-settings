@@ -21,12 +21,12 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1507899142119">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1507900345379">
         <mark key="'" line="146" column="0" />
-        <mark key="[" line="177" column="35" />
-        <mark key="]" line="177" column="39" />
-        <mark key="." line="177" column="39" />
-        <mark key="^" line="177" column="39" />
+        <mark key="[" line="177" column="41" />
+        <mark key="]" line="177" column="47" />
+        <mark key="." line="177" column="41" />
+        <mark key="^" line="174" column="46" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/command.py" timestamp="1503161533173">
         <mark key="'" line="6" column="16" />
@@ -5822,7 +5822,7 @@
         <text encoding="base64">XDxjYWxsYmFja1w+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cmVzcG9uc2UubWV0YS5nZXQoJ3Bob25lJykgb3Ig</text>
+        <text>, None</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBkZWYgdGl0bGVfZXh0cmFjdChzZWxmLCByZXNwb25zZTogUmVzcG9uc2UpOgo=</text>
