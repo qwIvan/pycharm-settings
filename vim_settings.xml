@@ -15,32 +15,18 @@
       <file name="/usr/lib/python3.6/site-packages/scrapy/http/response/html.py" timestamp="1506846201835">
         <mark key="'" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/meme.py" timestamp="1505483865150">
-        <mark key="'" line="64" column="30" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="106" />
-        <mark key="." line="36" column="47" />
-        <mark key="^" line="36" column="47" />
-      </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/puid_map.py" timestamp="1497884103368">
         <mark key="'" line="102" column="28" />
       </file>
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1507827578006">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1507887946018">
         <mark key="'" line="60" column="11" />
-        <mark key="[" line="51" column="38" />
-        <mark key="]" line="51" column="38" />
-        <mark key="." line="51" column="38" />
-        <mark key="^" line="51" column="38" />
-      </file>
-      <file name="$USER_HOME$/github/microMsg-bot/rule.py" timestamp="1504463830996">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="41" column="58" />
-        <mark key="]" line="47" column="13" />
-        <mark key="." line="47" column="13" />
-        <mark key="^" line="47" column="13" />
+        <mark key="[" line="114" column="59" />
+        <mark key="]" line="114" column="57" />
+        <mark key="." line="114" column="57" />
+        <mark key="^" line="114" column="57" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/command.py" timestamp="1503161533173">
         <mark key="'" line="6" column="16" />
@@ -67,32 +53,11 @@
       <file name="/usr/lib/python3.6/site-packages/requests/cookies.py" timestamp="1501243127521">
         <mark key="'" line="171" column="7" />
       </file>
-      <file name="$USER_HOME$/gdg-bot/main.py" timestamp="1505565214492">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="30" />
-        <mark key="." line="43" column="30" />
-        <mark key="^" line="43" column="30" />
-      </file>
       <file name="$USER_HOME$/github/microMsg-bot/Dockerfile" timestamp="1505857253091">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="88" />
         <mark key="^" line="10" column="28" />
         <mark key="." line="10" column="28" />
-      </file>
-      <file name="$USER_HOME$/teacher-clawer/InfoExtract.py" timestamp="1502862356930">
-        <mark key="'" line="6" column="14" />
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/bot.py" timestamp="1505853495116">
-        <mark key="'" line="98" column="13" />
-        <mark key="[" line="96" column="21" />
-        <mark key="]" line="96" column="21" />
-        <mark key="." line="96" column="21" />
-        <mark key="^" line="96" column="21" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" timestamp="1505238123873">
         <mark key="'" line="344" column="23" />
@@ -100,25 +65,11 @@
       <file name="/usr/lib/python3.6/site-packages/scrapy/core/engine.py" timestamp="1503314634564">
         <mark key="'" line="211" column="0" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/Dockerfile" timestamp="1505854332171">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="19" />
-        <mark key="^" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-      </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
       <file name="/usr/lib/python3.6/concurrent/futures/_base.py" timestamp="1505369865034">
         <mark key="'" line="560" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/testing_with_login.py" timestamp="1505852537432">
-        <mark key="'" line="8" column="18" />
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="58" />
-        <mark key="^" line="12" column="18" />
-        <mark key="." line="12" column="18" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/new_spider.py" timestamp="1506751745423">
         <mark key="[" line="4" column="4" />
@@ -160,13 +111,6 @@
       <file name="/usr/lib/python3.6/site-packages/xcffib/__init__.py" timestamp="1505552141411">
         <mark key="'" line="541" column="16" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/settings.py" timestamp="1503658035656">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="43" column="22" />
-        <mark key="]" line="43" column="27" />
-        <mark key="." line="43" column="22" />
-        <mark key="^" line="24" column="1" />
-      </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/socketio/middleware.py" timestamp="1501079080132">
         <mark key="'" line="3" column="27" />
       </file>
@@ -178,27 +122,6 @@
       </file>
       <file name="/usr/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py" timestamp="1501240514149">
         <mark key="'" line="13" column="22" />
-      </file>
-      <file name="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" timestamp="1504543626789">
-        <mark key="'" line="16" column="37" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="36" />
-        <mark key="^" line="16" column="30" />
-      </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/testing.py" timestamp="1505852190048">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="21" />
-        <mark key="^" line="17" column="21" />
-      </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/server.py" timestamp="1505624781765">
-        <mark key="'" line="53" column="55" />
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="54" />
-        <mark key="." line="11" column="54" />
-        <mark key="^" line="11" column="54" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/oauth2client/tools.py" timestamp="1505546179180">
         <mark key="'" line="98" column="23" />
@@ -213,13 +136,6 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/user.py" timestamp="1505555893922">
         <mark key="'" line="104" column="26" />
       </file>
-      <file name="$USER_HOME$/github/micro_msg_bot/static/index.html" timestamp="1505407136558">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="95" />
-        <mark key="^" line="84" column="72" />
-        <mark key="." line="85" column="0" />
-      </file>
       <file name="$USER_HOME$/github/micro_msg_bot/.gitignore" timestamp="1505853848541">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="7" column="9" />
@@ -231,12 +147,8 @@
         <mark key="]" line="11" column="8" />
         <mark key="." line="11" column="8" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/server.py" timestamp="1504463382133">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="138" />
-        <mark key="." line="39" column="44" />
-        <mark key="^" line="39" column="44" />
+      <file name="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" timestamp="1507887674110">
+        <mark key="'" line="90" column="58" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/storage.py" timestamp="1497550825121">
         <mark key="'" line="14" column="10" />
@@ -251,8 +163,8 @@
       <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" timestamp="1505896025875">
         <mark key="'" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1507822983665">
-        <mark key="'" line="425" column="27" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1507887635019">
+        <mark key="'" line="435" column="38" />
         <mark key="[" line="425" column="0" />
         <mark key="]" line="427" column="57" />
         <mark key="." line="204" column="12" />
@@ -267,6 +179,9 @@
       <file name="$USER_HOME$/coding/qqdownload-tcp/test_node.py" timestamp="1505849682114">
         <mark key="'" line="17" column="19" />
       </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/http/response/__init__.py" timestamp="1507887653890">
+        <mark key="'" line="123" column="15" />
+      </file>
       <file name="$USER_HOME$/zuzuche/zuzuche/settings.py" timestamp="1504534839058">
         <mark key="'" line="0" column="0" />
       </file>
@@ -274,13 +189,6 @@
         <mark key="[" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="30" />
-      </file>
-      <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1504463779349">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="21" />
-        <mark key="^" line="32" column="21" />
-        <mark key="." line="32" column="21" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" timestamp="1507551600795">
         <mark key="'" line="75" column="38" />
@@ -297,13 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="64" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="10" column="10" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/pipelines.py" />
-      <jump line="0" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/pipelines.py" />
-      <jump line="11" column="10" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/pipelines.py" />
-      <jump line="207" column="53" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="276" column="64" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="206" column="114" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="428" column="23" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="198" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="292" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
@@ -397,6 +298,13 @@
       <jump line="114" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="47" column="22" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="60" column="11" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="435" column="38" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="106" column="26" filename="/usr/lib/python3.6/site-packages/scrapy/http/response/__init__.py" />
+      <jump line="123" column="15" filename="/usr/lib/python3.6/site-packages/scrapy/http/response/__init__.py" />
+      <jump line="29" column="70" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
+      <jump line="30" column="24" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
+      <jump line="90" column="58" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
+      <jump line="18" column="28" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5909,7 +5817,7 @@
         <text encoding="base64">LyAxMCA=</text>
       </register>
       <register name="/" type="4">
-        <text>tag</text>
+        <text encoding="base64">XDxjYWxsYmFja1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgZ2V0X21heF9wcmVmaXgobGlua3MsIHJhdGU9Ljc1KToKICAgICAgICBtYXhfbGVuID0gMAogICAgICAgIG1heF9zdWJzdHIgPSAnJwogICAgICAgIGZvciBsaW5rIGluIGxpbmtzOgogICAgICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4obGluayksIDAsIC0xKToKICAgICAgICAgICAgICAgIHRyeV9wcmVmaXggPSBsaW5rWzppXQogICAgICAgICAgICAgICAgbWF0Y2hfY291bnQgPSAwCiAgICAgICAgICAgICAgICBmb3IgbCBpbiBsaW5rczoKICAgICAgICAgICAgICAgICAgICBpZiBsLnN0YXJ0c3dpdGgodHJ5X3ByZWZpeCk6CiAgICAgICAgICAgICAgICAgICAgICAgIG1hdGNoX2NvdW50ICs9IDEKICAgICAgICAgICAgICAgIGlmIG1hdGNoX2NvdW50ID4gbGVuKGxpbmtzKSAqIHJhdGUgYW5kIGxlbih0cnlfcHJlZml4KSA+IG1heF9sZW46CiAgICAgICAgICAgICAgICAgICAgbWF4X3N1YnN0ciA9IHRyeV9wcmVmaXgKICAgICAgICAgICAgICAgICAgICBtYXhfbGVuID0gbGVuKHRyeV9wcmVmaXgpCiAgICAgICAgcmV0dXJuIG1heF9zdWJzdHIK</text>
@@ -7912,9 +7820,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tag</last-search>
+      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
       <last-offset />
-      <last-pattern>tag</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -7922,7 +7830,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unso</entry>
         <entry encoding="base64">XDxOYW1lZFRlbXBvcmFyeUZpbGVcPg==</entry>
         <entry encoding="base64">XDx2ZXJpZnlfY29udGVudFw+</entry>
         <entry>77</entry>
@@ -7942,6 +7849,7 @@
         <entry encoding="base64">XDxjaGVtXD4=</entry>
         <entry encoding="base64">XDxpbXVcPg==</entry>
         <entry>tag</entry>
+        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
