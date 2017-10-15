@@ -156,10 +156,10 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/console.py" timestamp="1501321563520">
         <mark key="'" line="65" column="12" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" timestamp="1508072880025">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" timestamp="1508074734922">
         <mark key="'" line="87" column="4" />
-        <mark key="[" line="211" column="8" />
-        <mark key="]" line="211" column="16" />
+        <mark key="[" line="185" column="15" />
+        <mark key="]" line="185" column="19" />
         <mark key="." line="210" column="0" />
         <mark key="^" line="216" column="45" />
       </file>
@@ -5920,8 +5920,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxleGNsdWRlX3Bob25lXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbnRlcmNlcHRfcGVyc29uKHNlbGYsIHJlc3BvbnNlOiBSZXNwb25zZSwgcGVyc29uOiBQZXJzb24pOgogICAgICAgICIiIgogICAgICAgIDpyZXR1cm46IOi/lOWbniBUcnVlIOWNs+S4uuaLpuaIquW9k+WJjeeUqOaItwogICAgICAgICIiIgo=</text>
+      <register name="0" type="4">
+        <text>微电子学院</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlZiBpbnRlcmNlcHRfcGVyc29uKHNlbGYsIHBlcnNvbik6Cg==</text>
