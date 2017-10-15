@@ -156,11 +156,11 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/console.py" timestamp="1501321563520">
         <mark key="'" line="65" column="12" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" timestamp="1508094032439">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" timestamp="1508094924723">
         <mark key="'" line="40" column="32" />
-        <mark key="[" line="43" column="95" />
-        <mark key="]" line="43" column="114" />
-        <mark key="." line="43" column="114" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
         <mark key="^" line="43" column="114" />
       </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/commands/check.py" timestamp="1499184243319">
@@ -5930,22 +5930,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS51cmwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzcG9uc2UudXJsKQo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndHR0dHR0dHRlc3R0dHR0dHR0dHQhISEhISEhISEhITExMTExMTExJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS51cmwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ29uZSEhIScpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndHR0dHR0dHRlc3R0dHR0dHR0dHQhISEhISEhISEhITExMTExMTExJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IElQeXRob24KICAgICAgICAgICAgSVB5dGhvbi5lbWJlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ29uZSEhIScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndGVzdCEhISEhJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IElQeXRob24KICAgICAgICAgICAgSVB5dGhvbi5lbWJlZCgpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7400,7 +7400,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGVyc29uc18xMDApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndGVzdCEhISEhJykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7843,10 +7843,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGVyc29uc18xMDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGh0dHA6Ly9waHlzaWNzLnVjYXMuYWMuY24vaW5kZXgucGhwL3poLUNOL3NwZWNpYWxpc3QvZ3dqcwogICAgICAgICMgaHR0cDovL3BoeXNpY3MudWNhcy5hYy5jbi9pbmRleC5waHAvemgtQ04vc3BlY2lhbGlzdC93eHd6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGVyKQo=</text>
       </register>
       <register name="y" type="4">
         <keys>
