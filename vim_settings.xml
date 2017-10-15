@@ -156,8 +156,8 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/console.py" timestamp="1501321563520">
         <mark key="'" line="65" column="12" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" timestamp="1508083759692">
-        <mark key="'" line="55" column="34" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" timestamp="1508085069848">
+        <mark key="'" line="69" column="0" />
         <mark key="[" line="185" column="15" />
         <mark key="]" line="185" column="19" />
         <mark key="." line="210" column="0" />
@@ -258,10 +258,10 @@
       <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" timestamp="1505896025875">
         <mark key="'" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1508058008858">
-        <mark key="'" line="556" column="36" />
-        <mark key="[" line="225" column="12" />
-        <mark key="]" line="225" column="61" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1508086566328">
+        <mark key="'" line="203" column="12" />
+        <mark key="[" line="203" column="12" />
+        <mark key="]" line="203" column="66" />
         <mark key="^" line="204" column="12" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/messages.py" timestamp="1505371753576">
@@ -306,14 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
-      <jump line="114" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
-      <jump line="101" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
-      <jump line="90" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
-      <jump line="125" column="26" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
-      <jump line="134" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
-      <jump line="151" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
-      <jump line="111" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
       <jump line="58" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
       <jump line="146" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
       <jump line="132" column="7" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
@@ -406,6 +398,14 @@
       <jump line="241" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="55" column="34" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
       <jump line="253" column="17" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="69" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
+      <jump line="202" column="84" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="187" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="198" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="227" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="200" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="203" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5920,8 +5920,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxleGNsdWRlX3Bob25lXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICA6cmV0dXJuOiDov5Tlm54gVHJ1ZSDljbPkuLrmi6bmiKrlvZPliY3nlKjmiLcKICAgICAgICAiIiIK</text>
+      <register name="0" type="4">
+        <text>http://physics.ucas.ac.cn/index.php/zh-CN/specialist/jq</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHBlcnNvbi5uYW1lLCAn6K+m57uG6aG1bWF0Y2jkuI3liLDlp5PlkI0nLCByZXNwb25zZS51cmwpCg==</text>
