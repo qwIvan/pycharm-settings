@@ -258,8 +258,8 @@
       <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" timestamp="1505896025875">
         <mark key="'" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1509286972830">
-        <mark key="'" line="154" column="20" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1509292113900">
+        <mark key="'" line="239" column="8" />
         <mark key="[" line="239" column="0" />
         <mark key="]" line="239" column="39" />
         <mark key="^" line="204" column="12" />
@@ -306,8 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="567" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="105" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
       <jump line="176" column="54" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
       <jump line="154" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
@@ -406,6 +404,8 @@
       <jump line="40" column="32" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
       <jump line="111" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="154" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="243" column="71" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
+      <jump line="239" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
