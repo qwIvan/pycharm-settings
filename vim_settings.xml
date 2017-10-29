@@ -28,8 +28,8 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1508094226354">
-        <mark key="'" line="148" column="29" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1509286956414">
+        <mark key="'" line="111" column="12" />
         <mark key="[" line="113" column="13" />
         <mark key="]" line="113" column="13" />
         <mark key="." line="113" column="13" />
@@ -156,7 +156,7 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/console.py" timestamp="1501321563520">
         <mark key="'" line="65" column="12" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" timestamp="1508907667888">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" timestamp="1509286952121">
         <mark key="'" line="40" column="32" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -258,10 +258,10 @@
       <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" timestamp="1505896025875">
         <mark key="'" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1508091641296">
-        <mark key="'" line="227" column="0" />
-        <mark key="[" line="203" column="12" />
-        <mark key="]" line="203" column="66" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" timestamp="1509286972830">
+        <mark key="'" line="154" column="20" />
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="39" />
         <mark key="^" line="204" column="12" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/messages.py" timestamp="1505371753576">
@@ -306,8 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
-      <jump line="162" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
       <jump line="224" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="567" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="105" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
@@ -406,6 +404,8 @@
       <jump line="41" column="25" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
       <jump line="145" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="40" column="32" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
+      <jump line="111" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="154" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5921,7 +5921,7 @@
         <text encoding="base64">XDxleGNsdWRlX3Bob25lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoUGh5c2ljc1VDQVNTcGlkZXIsIHNlbGYpLnBlcnNvbnMocmVzcG9uc2UpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBwYXJzZShzZWxmLCByZXNwb25zZTogUmVzcG9uc2UpOgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVzcG9uc2UudXJsKQo=</text>
