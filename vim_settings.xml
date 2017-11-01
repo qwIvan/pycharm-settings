@@ -218,6 +218,12 @@
       <file name="/usr/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py" timestamp="1501240514149">
         <mark key="'" line="13" column="22" />
       </file>
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" timestamp="1509525422153">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" timestamp="1504543626789">
         <mark key="'" line="16" column="37" />
         <mark key="[" line="16" column="31" />
@@ -5948,7 +5954,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>教授</text>
+        <text>'foobeen@163.com'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZXJzb25zXD4=</text>
