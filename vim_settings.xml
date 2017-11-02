@@ -221,10 +221,10 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/socketio/middleware.py" timestamp="1501079080132">
         <mark key="'" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" timestamp="1509644010887">
-        <mark key="'" line="14" column="38" />
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="45" />
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" timestamp="1509644212307">
+        <mark key="'" line="14" column="40" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="26" />
         <mark key="^" line="28" column="45" />
         <mark key="." line="28" column="45" />
       </file>
@@ -475,7 +475,7 @@
       <jump line="48" column="24" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="20" column="16" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
-      <jump line="14" column="38" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="14" column="40" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5991,7 +5991,7 @@
         <text encoding="base64">XDxwYXJzZV9wZXJzb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGpzY2hsKHRhZyk6CiAgICBzbmlwcGV0LCBvYmogPSAnJywgTm9uZQogICAgZm9yIGxpbmUgaW4gdGFnLnNwbGl0bGluZXMoKToKICAgICAgICBpZiAncyx0LG8scCxiLHIsZSxhLGssaSxuLGcnIGluIGxpbmUgYW5kICcgJyBpbiBsaW5lOgogICAgICAgICAgICBkZWZpbmUgPSBsaW5lLnJzcGxpdCgnICcsIG1heHNwbGl0PTEpWy0xXQogICAgICAgICAgICBpZiAnPScgaW4gZGVmaW5lIGFuZCBkZWZpbmUuZW5kc3dpdGgoJzsnKToKICAgICAgICAgICAgICAgIG9iaiA9IGRlZmluZS5zcGxpdCgnPScpWzBdCiAgICAgICAgICAgICAgICBzbmlwcGV0ICs9IGRlZmluZQogICAgICAgIGlmICdzdWJtaXQoKScgaW4gbGluZToKICAgICAgICAgICAgYnJlYWsKICAgICAgICBpZiBvYmo6CiAgICAgICAgICAgIGZvciBzZWcgaW4gbGluZS5zcGxpdCgnOycpOgogICAgICAgICAgICAgICAgaWYgc2VnLnN0YXJ0c3dpdGgob2JqKSBhbmQgJz0nIGluIHNlZzoKICAgICAgICAgICAgICAgICAgICBzbmlwcGV0ICs9IHNlZyArICc7JwogICAgcmV0dXJuIGpzMnB5LmV2YWxfanMoc25pcHBldCkgKyBsZW4oJ3d3dy5kb3V0dWxhLmNvbScpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbnN3ZXIgPSBqc2NobCh0YWcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGVyLnVybCkK</text>
