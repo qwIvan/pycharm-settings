@@ -3,8 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/crawler.py" timestamp="1503489328084">
+        <mark key="'" line="171" column="22" />
+      </file>
       <file name="/a.dummy" timestamp="1509517793888">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GitHubProjects/you-get/src/you_get/processor/join_mp4.py" timestamp="1498060545346">
+        <mark key="'" line="611" column="25" />
+      </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/http/response/html.py" timestamp="1506846201835">
+        <mark key="'" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/github/micro_msg_bot/meme.py" timestamp="1505483865150">
         <mark key="'" line="64" column="30" />
@@ -20,8 +29,14 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1509611565988">
-        <mark key="'" line="152" column="25" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/puid_map.py" timestamp="1497884103368">
+        <mark key="'" line="102" column="28" />
+      </file>
+      <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
+        <mark key="'" line="270" column="58" />
+      </file>
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1509630186554">
+        <mark key="'" line="176" column="29" />
         <mark key="[" line="169" column="19" />
         <mark key="]" line="169" column="32" />
         <mark key="." line="169" column="19" />
@@ -33,6 +48,18 @@
         <mark key="." line="47" column="13" />
         <mark key="^" line="47" column="13" />
       </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/command.py" timestamp="1503161533173">
+        <mark key="'" line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/messages/message.py" timestamp="1505367902755">
+        <mark key="'" line="46" column="72" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/engineio/middleware.py" timestamp="1501079101165">
+        <mark key="'" line="46" column="41" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971763/builtins.py" timestamp="1507891325579">
+        <mark key="'" line="5407" column="6" />
+      </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/node.py" timestamp="1507463961104">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="0" column="0" />
@@ -40,12 +67,21 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/commands/crawl.py" timestamp="1503161629043">
+        <mark key="'" line="56" column="31" />
+      </file>
+      <file name="$USER_HOME$/github/micro_msg_bot/logger.py" timestamp="1505292189610">
+        <mark key="'" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ncut.py" timestamp="1509383249726">
         <mark key="'" line="19" column="56" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="31" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="3" />
+      </file>
+      <file name="/usr/lib/python3.6/site-packages/requests/cookies.py" timestamp="1501243127521">
+        <mark key="'" line="171" column="7" />
       </file>
       <file name="$USER_HOME$/gdg-bot/main.py" timestamp="1505565214492">
         <mark key="'" line="48" column="8" />
@@ -82,6 +118,9 @@
         <mark key="." line="96" column="21" />
         <mark key="^" line="96" column="21" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" timestamp="1505238123873">
+        <mark key="'" line="344" column="23" />
+      </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" timestamp="1509383277797">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="27" column="15" />
@@ -96,12 +135,21 @@
         <mark key="." line="20" column="24" />
         <mark key="^" line="20" column="24" />
       </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/core/engine.py" timestamp="1503314634564">
+        <mark key="'" line="211" column="0" />
+      </file>
       <file name="$USER_HOME$/github/micro_msg_bot/Dockerfile" timestamp="1505854332171">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="19" />
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
+        <mark key="'" line="110" column="38" />
+      </file>
+      <file name="/usr/lib/python3.6/concurrent/futures/_base.py" timestamp="1505369865034">
+        <mark key="'" line="560" column="0" />
       </file>
       <file name="$USER_HOME$/github/micro_msg_bot/testing_with_login.py" timestamp="1505852537432">
         <mark key="'" line="8" column="18" />
@@ -116,14 +164,32 @@
         <mark key="]" line="31" column="23" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1505849188657">
+        <mark key="'" line="63" column="15" />
+      </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cqupt.py" timestamp="1509562672204">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="18" />
         <mark key="." line="28" column="47" />
         <mark key="^" line="28" column="51" />
       </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/http/response/text.py" timestamp="1506846577380">
+        <mark key="'" line="106" column="12" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971763/_io.py" timestamp="1507904256017">
+        <mark key="'" line="1277" column="8" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" timestamp="1497604593569">
+        <mark key="'" line="561" column="36" />
+      </file>
+      <file name="/usr/lib/python3.6/site-packages/gunicorn/app/base.py" timestamp="1501242231300">
+        <mark key="'" line="20" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1507902668746">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/utils/console.py" timestamp="1501321563520">
+        <mark key="'" line="65" column="12" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bigc.py" timestamp="1509520354652">
         <mark key="'" line="17" column="28" />
@@ -139,6 +205,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="43" column="114" />
       </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/commands/check.py" timestamp="1499184243319">
+        <mark key="'" line="72" column="24" />
+      </file>
+      <file name="/usr/lib/python3.6/site-packages/xcffib/__init__.py" timestamp="1505552141411">
+        <mark key="'" line="541" column="16" />
+      </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/settings.py" timestamp="1507910364518">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="43" column="22" />
@@ -146,12 +218,26 @@
         <mark key="." line="43" column="22" />
         <mark key="^" line="24" column="1" />
       </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/socketio/middleware.py" timestamp="1501079080132">
+        <mark key="'" line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" timestamp="1509630015604">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="28" column="58" />
+      </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/yznu.py" timestamp="1509565311354">
         <mark key="'" line="38" column="23" />
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="22" />
         <mark key="." line="54" column="8" />
         <mark key="^" line="54" column="7" />
+      </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/spidermiddlewares/depth.py" timestamp="1503560740945">
+        <mark key="'" line="44" column="41" />
+      </file>
+      <file name="/usr/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py" timestamp="1501240514149">
+        <mark key="'" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" timestamp="1509560765519">
         <mark key="'" line="45" column="93" />
@@ -188,9 +274,18 @@
         <mark key="." line="11" column="54" />
         <mark key="^" line="11" column="54" />
       </file>
+      <file name="/usr/lib/python3.6/site-packages/oauth2client/tools.py" timestamp="1505546179180">
+        <mark key="'" line="98" column="23" />
+      </file>
+      <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1505375846385">
+        <mark key="'" line="788" column="18" />
+      </file>
       <file name="/Dummy.txt" timestamp="1509517754729">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/user.py" timestamp="1505555893922">
+        <mark key="'" line="104" column="26" />
       </file>
       <file name="$USER_HOME$/github/micro_msg_bot/static/index.html" timestamp="1505407136558">
         <mark key="'" line="82" column="0" />
@@ -213,12 +308,30 @@
         <mark key="." line="39" column="44" />
         <mark key="^" line="39" column="44" />
       </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" timestamp="1509630211218">
+        <mark key="'" line="42" column="8" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/storage.py" timestamp="1497550825121">
+        <mark key="'" line="14" column="10" />
+      </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" timestamp="1509607327058">
         <mark key="'" line="90" column="23" />
         <mark key="[" line="108" column="18" />
         <mark key="]" line="109" column="42" />
         <mark key="." line="109" column="42" />
         <mark key="^" line="109" column="42" />
+      </file>
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" timestamp="1505896025875">
+        <mark key="'" line="97" column="16" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/components/messages.py" timestamp="1505371753576">
+        <mark key="'" line="259" column="21" />
+      </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/spiders/__init__.py" timestamp="1506759935591">
+        <mark key="'" line="17" column="6" />
+      </file>
+      <file name="$USER_HOME$/coding/qqdownload-tcp/test_node.py" timestamp="1505849682114">
+        <mark key="'" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bucea.py" timestamp="1509389358714">
         <mark key="'" line="59" column="0" />
@@ -239,6 +352,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/usr/lib/python3.6/site-packages/scrapy/http/response/__init__.py" timestamp="1509630192818">
+        <mark key="'" line="123" column="15" />
+      </file>
+      <file name="$USER_HOME$/zuzuche/zuzuche/settings.py" timestamp="1504534839058">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/github/microMsg-bot/bot.py" timestamp="1504463779349">
         <mark key="'" line="32" column="8" />
         <mark key="[" line="32" column="8" />
@@ -255,13 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
-      <jump line="13" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
-      <jump line="121" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="138" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="40" column="125" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="3" column="35" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="5" column="14" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
       <jump line="22" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
       <jump line="8" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
       <jump line="6" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
@@ -351,10 +463,17 @@
       <jump line="167" column="67" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="169" column="19" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="254" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="176" column="49" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="256" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="175" column="25" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="152" column="25" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="46" column="21" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="20" column="16" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="176" column="29" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="123" column="15" filename="/usr/lib/python3.6/site-packages/scrapy/http/response/__init__.py" />
+      <jump line="6" column="1" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
+      <jump line="42" column="8" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5869,8 +5988,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZV9wZXJzb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>basic_persons</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIGpzY2hsKHRhZyk6CiAgICBzbmlwcGV0LCBvYmogPSAnJywgTm9uZQogICAgZm9yIGxpbmUgaW4gdGFnLnNwbGl0bGluZXMoKToKICAgICAgICBpZiAncyx0LG8scCxiLHIsZSxhLGssaSxuLGcnIGluIGxpbmUgYW5kICcgJyBpbiBsaW5lOgogICAgICAgICAgICBkZWZpbmUgPSBsaW5lLnJzcGxpdCgnICcsIG1heHNwbGl0PTEpWy0xXQogICAgICAgICAgICBpZiAnPScgaW4gZGVmaW5lIGFuZCBkZWZpbmUuZW5kc3dpdGgoJzsnKToKICAgICAgICAgICAgICAgIG9iaiA9IGRlZmluZS5zcGxpdCgnPScpWzBdCiAgICAgICAgICAgICAgICBzbmlwcGV0ICs9IGRlZmluZQogICAgICAgIGlmICdzdWJtaXQoKScgaW4gbGluZToKICAgICAgICAgICAgYnJlYWsKICAgICAgICBpZiBvYmo6CiAgICAgICAgICAgIGZvciBzZWcgaW4gbGluZS5zcGxpdCgnOycpOgogICAgICAgICAgICAgICAgaWYgc2VnLnN0YXJ0c3dpdGgob2JqKSBhbmQgJz0nIGluIHNlZzoKICAgICAgICAgICAgICAgICAgICBzbmlwcGV0ICs9IHNlZyArICc7JwogICAgcmV0dXJuIGpzMnB5LmV2YWxfanMoc25pcHBldCkgKyBsZW4oJ3d3dy5kb3V0dWxhLmNvbScpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGVyLnVybCkK</text>
