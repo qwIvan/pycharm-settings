@@ -221,10 +221,10 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/socketio/middleware.py" timestamp="1501079080132">
         <mark key="'" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" timestamp="1509653467528">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="27" />
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" timestamp="1509655720817">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="53" column="89" />
         <mark key="^" line="28" column="45" />
         <mark key="." line="28" column="45" />
       </file>
@@ -376,11 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
-      <jump line="58" column="101" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
-      <jump line="10" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" />
-      <jump line="58" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" />
-      <jump line="21" column="25" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" />
       <jump line="39" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" />
       <jump line="59" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" />
       <jump line="28" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" />
@@ -462,7 +457,6 @@
       <jump line="48" column="24" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="0" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="20" column="16" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="16" column="16" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="51" column="48" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="47" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
@@ -471,11 +465,17 @@
       <jump line="43" column="4" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
       <jump line="176" column="29" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="46" column="15" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
-      <jump line="14" column="4" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="1" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="272" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="173" column="23" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="3" column="19" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="43" column="30" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5990,8 +5990,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxqc2NobFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>jschl_answer</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzb3VwID0gQmVhdXRpZnVsU291cChyZXNwLnRleHQsICdseG1sJykKICAgICAgICB0YWcgPSBzb3VwLnNlbGVjdF9vbmUoJ3NjcmlwdCcpLnRleHQKICAgICAgICBhbnN3ZXIgPSBqc2NobCh0YWcpCiAgICAgICAgZm9ybSA9IHNvdXAuc2VsZWN0X29uZSgnZm9ybScpCiAgICAgICAgcGFyYW1zID0gZGljdChbKGlbJ25hbWUnXSwgaS5nZXQoJ3ZhbHVlJywgTm9uZSkpIGZvciBpIGluIGZvcm0uc2VsZWN0KCdpbnB1dCcpXSkKICAgICAgICBwYXJhbXNbJ2pzY2hsX2Fuc3dlciddID0gYW5zd2VyCiAgICAgICAgdGltZS5zbGVlcCg0KQogICAgICAgIHNlc3Npb24uZ2V0KCdodHRwczovL3d3dy5kb3V0dWxhLmNvbScgKyBmb3JtWydhY3Rpb24nXSwgcGFyYW1zPXBhcmFtcywgYWxsb3dfcmVkaXJlY3RzPUZhbHNlKQogICAgICAgIGxvZ2dlci5pbmZvKCd3d3cuZG91dHVsYS5jb20gbmV3IHNlc3Npb24gJXMnLCBzZXNzaW9uLmNvb2tpZXMuZ2V0X2RpY3QoKSkKICAgICAgICByZXNwID0gc2Vzc2lvbi5nZXQoJ2h0dHBzOi8vd3d3LmRvdXR1bGEuY29tL3NlYXJjaCcsIHBhcmFtcz17J2tleXdvcmQnOiBrZXl3b3JkfSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXNwb25zZS5yZXF1ZXN0Cg==</text>
