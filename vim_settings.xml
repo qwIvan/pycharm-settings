@@ -221,10 +221,12 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/socketio/middleware.py" timestamp="1501079080132">
         <mark key="'" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" timestamp="1509630015604">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="28" column="58" />
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" timestamp="1509644010887">
+        <mark key="'" line="14" column="38" />
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="45" />
+        <mark key="^" line="28" column="45" />
+        <mark key="." line="28" column="45" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/yznu.py" timestamp="1509565311354">
         <mark key="'" line="38" column="23" />
@@ -280,7 +282,7 @@
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1505375846385">
         <mark key="'" line="788" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509517754729">
+      <file name="/Dummy.txt" timestamp="1509644022322">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="7" />
       </file>
@@ -374,8 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
       <jump line="6" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
       <jump line="9" column="7" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
       <jump line="18" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" />
@@ -468,12 +468,14 @@
       <jump line="152" column="25" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="46" column="21" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="40" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
-      <jump line="20" column="16" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="176" column="29" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="123" column="15" filename="/usr/lib/python3.6/site-packages/scrapy/http/response/__init__.py" />
       <jump line="6" column="1" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
       <jump line="42" column="8" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
+      <jump line="48" column="24" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="20" column="16" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="14" column="38" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5983,7 +5985,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>persons</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZV9wZXJzb25cPg==</text>
