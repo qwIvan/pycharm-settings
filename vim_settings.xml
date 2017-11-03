@@ -35,11 +35,11 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1509654489065">
-        <mark key="'" line="3" column="19" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1509658507855">
+        <mark key="'" line="78" column="15" />
+        <mark key="[" line="169" column="19" />
+        <mark key="]" line="169" column="19" />
+        <mark key="." line="169" column="19" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/rule.py" timestamp="1504463830996">
         <mark key="'" line="29" column="0" />
@@ -376,9 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" />
-      <jump line="59" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" />
-      <jump line="28" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" />
       <jump line="0" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" />
       <jump line="30" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/tust.py" />
       <jump line="50" column="23" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
@@ -468,7 +465,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="272" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="173" column="23" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="3" column="19" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="43" column="30" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="14" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="29" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
@@ -476,6 +472,10 @@
       <jump line="54" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="42" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
       <jump line="44" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="3" column="19" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="39" column="6" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="77" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="78" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5985,10 +5985,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>persons:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqc2NobFw+</text>
+        <text>per</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzb3VwID0gQmVhdXRpZnVsU291cChyZXNwLnRleHQsICdseG1sJykKICAgICAgICB0YWcgPSBzb3VwLnNlbGVjdF9vbmUoJ3NjcmlwdCcpLnRleHQKICAgICAgICBhbnN3ZXIgPSBqc2NobCh0YWcpCiAgICAgICAgZm9ybSA9IHNvdXAuc2VsZWN0X29uZSgnZm9ybScpCiAgICAgICAgcGFyYW1zID0gZGljdChbKGlbJ25hbWUnXSwgaS5nZXQoJ3ZhbHVlJywgTm9uZSkpIGZvciBpIGluIGZvcm0uc2VsZWN0KCdpbnB1dCcpXSkKICAgICAgICBwYXJhbXNbJ2pzY2hsX2Fuc3dlciddID0gYW5zd2VyCiAgICAgICAgdGltZS5zbGVlcCg0KQogICAgICAgIHNlc3Npb24uZ2V0KCdodHRwczovL3d3dy5kb3V0dWxhLmNvbScgKyBmb3JtWydhY3Rpb24nXSwgcGFyYW1zPXBhcmFtcywgYWxsb3dfcmVkaXJlY3RzPUZhbHNlKQogICAgICAgIGxvZ2dlci5pbmZvKCd3d3cuZG91dHVsYS5jb20gbmV3IHNlc3Npb24gJXMnLCBzZXNzaW9uLmNvb2tpZXMuZ2V0X2RpY3QoKSkKICAgICAgICByZXNwID0gc2Vzc2lvbi5nZXQoJ2h0dHBzOi8vd3d3LmRvdXR1bGEuY29tL3NlYXJjaCcsIHBhcmFtcz17J2tleXdvcmQnOiBrZXl3b3JkfSkK</text>
@@ -7991,9 +7991,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqc2NobFw+</last-search>
+      <last-search>per</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqc2NobFw+</last-pattern>
+      <last-pattern>per</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -8001,7 +8001,6 @@
     </search>
     <history>
       <history-search>
-        <entry>intercept_person</entry>
         <entry encoding="base64">XDxleGNsdWRlX3Bob25lXD4=</entry>
         <entry>exclu</entry>
         <entry>college</entry>
@@ -8021,6 +8020,7 @@
         <entry encoding="base64">XDxwZXJzb25zXD4=</entry>
         <entry encoding="base64">XDxwYXJzZV9wZXJzb25cPg==</entry>
         <entry encoding="base64">XDxqc2NobFw+</entry>
+        <entry>per</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
