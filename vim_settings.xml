@@ -35,11 +35,12 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1509658507855">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1509979156212">
         <mark key="'" line="78" column="15" />
         <mark key="[" line="169" column="19" />
-        <mark key="]" line="169" column="19" />
-        <mark key="." line="169" column="19" />
+        <mark key="]" line="169" column="32" />
+        <mark key="." line="169" column="32" />
+        <mark key="^" line="169" column="32" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/rule.py" timestamp="1504463830996">
         <mark key="'" line="29" column="0" />
