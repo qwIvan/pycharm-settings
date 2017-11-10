@@ -6,7 +6,10 @@
       <file name="/usr/lib/python3.6/site-packages/scrapy/crawler.py" timestamp="1503489328084">
         <mark key="'" line="171" column="22" />
       </file>
-      <file name="/base_spider.py" timestamp="1510278427528" />
+      <file name="/base_spider.py" timestamp="1510284583340">
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="61" />
+      </file>
       <file name="/a.dummy" timestamp="1509517793888">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,12 +39,11 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1510279191618">
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1510284587643">
         <mark key="'" line="218" column="0" />
         <mark key="[" line="246" column="0" />
         <mark key="]" line="246" column="0" />
         <mark key="." line="246" column="0" />
-        <mark key="^" line="41" column="30" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/rule.py" timestamp="1504463830996">
         <mark key="'" line="29" column="0" />
@@ -123,10 +125,10 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/sessions.py" timestamp="1505238123873">
         <mark key="'" line="344" column="23" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" timestamp="1509383277797">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="27" column="19" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" timestamp="1510284787665">
+        <mark key="'" line="29" column="15" />
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="69" />
         <mark key="^" line="32" column="7" />
         <mark key="." line="32" column="8" />
       </file>
@@ -384,10 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="23" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/yznu.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/pkusz.py" />
-      <jump line="9" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/pkusz.py" />
-      <jump line="184" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="190" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="209" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="249" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
@@ -484,6 +482,10 @@
       <jump line="96" column="56" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="242" column="13" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="218" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="27" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" />
+      <jump line="29" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5999,10 +6001,10 @@
         <text encoding="base64">XDxyZVw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">KD88PVtcdTRlMDAtXHU5ZmE1XSlccysoPz1bXHU0ZTAwLVx1OWZhNV0p</text>
+        <text>http://auto.bistu.edu.cn/szdw/jsxx/201706/t20170614_43676.html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubmFtZSA9IHJlLnN1YignKD88PVtcdTRlMDAtXHU5ZmE1XSlccysoPz1bXHU0ZTAwLVx1OWZhNV0pJywgJycsIG5hbWUpLnN0cmlwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -6014,16 +6016,16 @@
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lLnN0cmlwKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYubmFtZSA9IHJlLnN1YignKD88PVtcdTRlMDAtXHU5ZmE1XSlccysoPz1bXHU0ZTAwLVx1OWZhNV0pJywgJycsIG5hbWUpLnN0cmlwKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSByZS5zdWIoJyg/PD1bXHU0ZTAwLVx1OWZhNV0pXHMrKD89W1x1NGUwMC1cdTlmYTVdKScsICcnLCBuYW1lKS5zdHJpcCgpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lLnN0cmlwKCkK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSByZS5zdWIoJyg/PD1bXHU0ZTAwLVx1OWZhNV0pXHMrKD89W1x1NGUwMC1cdTlmYTVdKScsICcnLCBuYW1lKS5zdHJpcCgpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4ocGVyc29ucykpCiAgICAgICAgcHJpbnQobGVuKG9yaWdpbl9wZXJzb25zKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lLnN0cmlwKCkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7478,7 +7480,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5fcGVyc29ucyA9IGJhc2ljX3BlcnNvbnMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4ocGVyc29ucykpCiAgICAgICAgcHJpbnQobGVuKG9yaWdpbl9wZXJzb25zKSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7921,10 +7923,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5yZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5fcGVyc29ucyA9IGJhc2ljX3BlcnNvbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5oCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZS5yZXF1ZXN0Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
