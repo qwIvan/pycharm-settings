@@ -212,8 +212,8 @@
       <file name="/usr/lib/python3.6/site-packages/xcffib/__init__.py" timestamp="1505552141411">
         <mark key="'" line="541" column="16" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/settings.py" timestamp="1507910364518">
-        <mark key="'" line="89" column="0" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/settings.py" timestamp="1510274991930">
+        <mark key="'" line="78" column="0" />
         <mark key="[" line="43" column="22" />
         <mark key="]" line="43" column="27" />
         <mark key="." line="43" column="22" />
@@ -383,10 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="42" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/yznu.py" />
-      <jump line="34" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/yznu.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/yznu.py" />
-      <jump line="44" column="38" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/yznu.py" />
       <jump line="42" column="26" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/yznu.py" />
       <jump line="45" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/yznu.py" />
       <jump line="35" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/yznu.py" />
@@ -483,6 +479,10 @@
       <jump line="376" column="32" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="384" column="27" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="42" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/settings.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/settings.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
