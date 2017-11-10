@@ -39,8 +39,8 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1510284587643">
-        <mark key="'" line="218" column="0" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1510325524429">
+        <mark key="'" line="259" column="74" />
         <mark key="[" line="246" column="0" />
         <mark key="]" line="246" column="0" />
         <mark key="." line="246" column="0" />
@@ -386,7 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="209" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="249" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="84" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
@@ -486,6 +485,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" />
       <jump line="32" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" />
       <jump line="29" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" />
+      <jump line="259" column="74" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
