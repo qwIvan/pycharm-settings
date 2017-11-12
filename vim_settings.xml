@@ -46,12 +46,12 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1510481709854">
-        <mark key="'" line="226" column="8" />
-        <mark key="[" line="260" column="94" />
-        <mark key="]" line="260" column="94" />
-        <mark key="." line="260" column="94" />
-        <mark key="^" line="260" column="94" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1510484293685">
+        <mark key="'" line="183" column="4" />
+        <mark key="[" line="198" column="18" />
+        <mark key="]" line="198" column="21" />
+        <mark key="." line="198" column="21" />
+        <mark key="^" line="198" column="21" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/rule.py" timestamp="1504463830996">
         <mark key="'" line="29" column="0" />
@@ -281,6 +281,13 @@
         <mark key="." line="45" column="93" />
         <mark key="^" line="45" column="93" />
       </file>
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bjtu.py" timestamp="1510483658595">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="29" column="9" />
+        <mark key="." line="34" column="8" />
+      </file>
       <file name="$USER_HOME$/zuzuche/zuzuche/spiders/search.py" timestamp="1504543626789">
         <mark key="'" line="16" column="37" />
         <mark key="[" line="16" column="31" />
@@ -418,19 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
-      <jump line="3" column="19" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="39" column="6" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="77" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="78" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/pkusz.py" />
-      <jump line="508" column="50" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="4" column="1" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="100" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="158" column="63" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
-      <jump line="208" column="106" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="217" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="218" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
       <jump line="219" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/site_spider.py" />
@@ -475,7 +469,6 @@
       <jump line="78" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/settings.py" />
       <jump line="96" column="56" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="242" column="13" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="218" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="27" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" />
       <jump line="0" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" />
       <jump line="32" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" />
@@ -518,6 +511,20 @@
       <jump line="6" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/muc.py" />
       <jump line="17" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/muc.py" />
       <jump line="16" column="28" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/muc.py" />
+      <jump line="17" column="28" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bjtu.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bjtu.py" />
+      <jump line="25" column="23" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bjtu.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bjtu.py" />
+      <jump line="150" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="202" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="205" column="72" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="209" column="21" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="213" column="47" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="215" column="30" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="218" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="247" column="24" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="249" column="22" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="183" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6027,37 +6034,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>京</text>
+        <text>kw</text>
       </register>
       <register name="/" type="4">
-        <text>页</text>
+        <text encoding="base64">XDxuZXh0X2tleXdvcmRzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>中国</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAnTmV4dCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgpjbGFzcyBDaGVtUnVjU3BpZGVyKGJhc2Vfc3BpZGVyLkJhc2VTcGlkZXIpOgogICAgY29sbGVnZSA9ICfljJblrabns7snCiAgICB0eXBlID0gYmFzZV9zcGlkZXIu5YyW5a2mCiAgICBuYW1lID0gdW5pdmVyc2l0eSArICcuJyArIGNvbGxlZ2UKICAgIGxpc3RfdXJscyA9ICcnJwogICAgICAgIGh0dHA6Ly9jaGVtLnJ1Yy5lZHUuY24vP2M9c2hvdyZjYXRpZD04CiAgICAnJycKICAgIHBob25lID0gWycwMTAtNjI1MTI4MjInLCAnMDEwLTYyNTE2NDQ0J10KCgpjbGFzcyBQaHlzUnVjU3BpZGVyKGJhc2Vfc3BpZGVyLkJhc2VTcGlkZXIpOgogICAgY29sbGVnZSA9ICfniannkIblrabns7snCiAgICB0eXBlID0gYmFzZV9zcGlkZXIu5pWw55CG56eR5a2mCiAgICBuYW1lID0gdW5pdmVyc2l0eSArICcuJyArIGNvbGxlZ2UKICAgIGxpc3RfdXJscyA9ICcnJwogICAgICAgIGh0dHA6Ly93d3cucGh5cy5ydWMuZWR1LmNuL3Blb3BsZS9mYWN1bHR5Lmh0bWwKICAgICcnJwogICAgcGhvbmUgPSAnKzg2LTEwLTYyNTE3OTk3JwogICAgZW1haWwgPSAnZ3JhcGh5QHJ1Yy5lZHUuY24nCgogICAgZGVmIHBlcnNvbnMoc2VsZiwgcmVzcG9uc2U6IFJlc3BvbnNlKToKICAgICAgICBmb3IgdHIgaW4gcmVzcG9uc2UuY3NzKCd0YWJsZS5qc2xiX3ptbG1ucl90YWJsZSB0cicpOgogICAgICAgICAgICBuYW1lID0gdHIuY3NzKCd0ZC5qc2xiX2MxIGE6OnRleHQnKS5nZXQoKQogICAgICAgICAgICB1cmwgPSB0ci5jc3MoJ3RkLmpzbGJfYzEgYTo6YXR0cihocmVmKScpLmdldCgpCiAgICAgICAgICAgIG1ham9yID0gdHIuY3NzKCd0ZC5qc2xiX2MyIGE6OnRleHQnKS5nZXQoKQogICAgICAgICAgICBlbWFpbCA9IHRyLmNzcygndGQuanNsYl9jMzo6dGV4dCcpLmdldCgpCiAgICAgICAgICAgIHlpZWxkIHNlbGYuZ2VuX3BlcnNvbihuYW1lPW5hbWUsIHVybD11cmwsIG1ham9yPW1ham9yLCBlbWFpbD1lbWFpbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoa3cpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwOi8vZ2VvLmJudS5lZHUuY24vc3pkdy9nY3N5eGwvaW5kZXguaHRtbAogICAgICAgIGh0dHA6Ly9nZW8uYm51LmVkdS5jbi9zemR3L3h6Z2x4bC9pbmRleC5odG1sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpjbGFzcyBTdGF0Qm51U3BpZGVyKGJhc2Vfc3BpZGVyLkJhc2VTcGlkZXIpOgogICAgY29sbGVnZSA9ICfnu5/orqHlrabpmaInCiAgICB0eXBlID0gYmFzZV9zcGlkZXIu5pWw55CG56eR5a2mCiAgICBuYW1lID0gdW5pdmVyc2l0eSArICcuJyArIGNvbGxlZ2UKICAgIGxpc3RfdXJscyA9ICcnJwogICAgICAgIGh0dHA6Ly9zdGF0LmJudS5lZHUuY24vc3p0ZC9qc2R3LwogICAgJycnCgogICAgZGVmIHBlcnNvbnMoc2VsZiwgcmVzcG9uc2U6IFJlc3BvbnNlKToKICAgICAgICBmb3IgbGkgaW4gcmVzcG9uc2UueHBhdGgoJy8vbGlbQGNsYXNzPSJpaC1pdGVtIHNxdWFyZSBjb2xvcmVkIGVmZmVjdDEyIGJvdHRvbV90b190b3AiXScpOgogICAgICAgICAgICBuYW1lID0gbGkuY3NzKCdwLnh5anBfdGl0Ojp0ZXh0JykuZ2V0KCkuc3RyaXAoKQogICAgICAgICAgICB1cmwgPSBsaS5jc3MoJ2E6OmF0dHIoaHJlZiknKVsxXQogICAgICAgICAgICB5aWVsZCBzZWxmLmdlbl9wZXJzb24obmFtZT1uYW1lLCB1cmw9dXJsKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHBlcnNvbi5uYW1lID0gcmUuc3ViKCfvvIguKu+8iScsICcnLCBwZXJzb24ubmFtZSkuc3RyaXAoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFqb3IgPSAK</text>
+        <text encoding="base64">ICAgIGVtYWlsID0gJ3NhYWRAYmp0dS5lZHUuY24nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBob25lID0gWycwMTAtNjI1MTI4MjInLCAnMDEwLTYyNTE2NDQ0J10K</text>
+        <text encoding="base64">ICAgICAgICBodHRwOi8vZmFjdWx0eS5ianR1LmVkdS5jbi90cmFucy9qc2ZsLmh0bWw/Z2lkPTIKICAgICAgICBodHRwOi8vZmFjdWx0eS5ianR1LmVkdS5jbi90cmFucy9qc2ZsLmh0bWw/Z2lkPTMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVtYWlsID0gJ2VudjFAcnVjLmVkdS5jbicK</text>
+        <text encoding="base64">ICAgIHBob25lID0gWyc4Ni0xMC02MjczNzMzMycsICc2MjczNjU0MyddCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7511,8 +7518,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBodHRwOi8vZ2VvLmJudS5lZHUuY24vc3pkdy9yY2NoeGwvaW5kZXguaHRtbAogICAgICAgIGh0dHA6Ly9nZW8uYm51LmVkdS5jbi9zemR3L2p4a3l4bC96anMvaW5kZXguaHRtbAogICAgICAgIGh0dHA6Ly9nZW8uYm51LmVkdS5jbi9zemR3L2p4a3l4bC9manMvaW5kZXguaHRtbAogICAgICAgIGh0dHA6Ly9nZW8uYm51LmVkdS5jbi9zemR3L2p4a3l4bC9qc2ovaW5kZXguaHRtbAogICAgICAgIGh0dHA6Ly9nZW8uYm51LmVkdS5jbi9zemR3L2djc3l4bC9pbmRleC5odG1sCiAgICAgICAgaHR0cDovL2dlby5ibnUuZWR1LmNuL3N6ZHcveHpnbHhsL2luZGV4Lmh0bWw=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBodHRwOi8vY29lLmNhdS5lZHUuY24vY29sL2NvbDEwNzUwL2luZGV4Lmh0bWwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7955,10 +7962,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgpjbGFzcyBTdGF0Qm51U3BpZGVyKGJhc2Vfc3BpZGVyLkJhc2VTcGlkZXIpOgogICAgY29sbGVnZSA9ICfnu5/orqHlrabpmaInCiAgICB0eXBlID0gYmFzZV9zcGlkZXIu5pWw55CG56eR5a2mCiAgICBuYW1lID0gdW5pdmVyc2l0eSArICcuJyArIGNvbGxlZ2UKICAgIGxpc3RfdXJscyA9ICcnJwogICAgICAgIGh0dHA6Ly9zdGF0LmJudS5lZHUuY24vc3p0ZC9qc2R3LwogICAgJycnCgogICAgZGVmIHBlcnNvbnMoc2VsZiwgcmVzcG9uc2U6IFJlc3BvbnNlKToKICAgICAgICBmb3IgbGkgaW4gcmVzcG9uc2UueHBhdGgoJy8vbGlbQGNsYXNzPSJpaC1pdGVtIHNxdWFyZSBjb2xvcmVkIGVmZmVjdDEyIGJvdHRvbV90b190b3AiXScpOgogICAgICAgICAgICBuYW1lID0gbGkuY3NzKCdwLnh5anBfdGl0Ojp0ZXh0JykuZ2V0KCkuc3RyaXAoKQogICAgICAgICAgICB1cmwgPSBsaS5jc3MoJ2E6OmF0dHIoaHJlZiknKVsxXQogICAgICAgICAgICB5aWVsZCBzZWxmLmdlbl9wZXJzb24obmFtZT1uYW1lLCB1cmw9dXJsKQo=</text>
+        <text encoding="base64">CgpjbGFzcyBDaGVtUnVjU3BpZGVyKGJhc2Vfc3BpZGVyLkJhc2VTcGlkZXIpOgogICAgY29sbGVnZSA9ICfljJblrabns7snCiAgICB0eXBlID0gYmFzZV9zcGlkZXIu5YyW5a2mCiAgICBuYW1lID0gdW5pdmVyc2l0eSArICcuJyArIGNvbGxlZ2UKICAgIGxpc3RfdXJscyA9ICcnJwogICAgICAgIGh0dHA6Ly9jaGVtLnJ1Yy5lZHUuY24vP2M9c2hvdyZjYXRpZD04CiAgICAnJycKICAgIHBob25lID0gWycwMTAtNjI1MTI4MjInLCAnMDEwLTYyNTE2NDQ0J10KCgpjbGFzcyBQaHlzUnVjU3BpZGVyKGJhc2Vfc3BpZGVyLkJhc2VTcGlkZXIpOgogICAgY29sbGVnZSA9ICfniannkIblrabns7snCiAgICB0eXBlID0gYmFzZV9zcGlkZXIu5pWw55CG56eR5a2mCiAgICBuYW1lID0gdW5pdmVyc2l0eSArICcuJyArIGNvbGxlZ2UKICAgIGxpc3RfdXJscyA9ICcnJwogICAgICAgIGh0dHA6Ly93d3cucGh5cy5ydWMuZWR1LmNuL3Blb3BsZS9mYWN1bHR5Lmh0bWwKICAgICcnJwogICAgcGhvbmUgPSAnKzg2LTEwLTYyNTE3OTk3JwogICAgZW1haWwgPSAnZ3JhcGh5QHJ1Yy5lZHUuY24nCgogICAgZGVmIHBlcnNvbnMoc2VsZiwgcmVzcG9uc2U6IFJlc3BvbnNlKToKICAgICAgICBmb3IgdHIgaW4gcmVzcG9uc2UuY3NzKCd0YWJsZS5qc2xiX3ptbG1ucl90YWJsZSB0cicpOgogICAgICAgICAgICBuYW1lID0gdHIuY3NzKCd0ZC5qc2xiX2MxIGE6OnRleHQnKS5nZXQoKQogICAgICAgICAgICB1cmwgPSB0ci5jc3MoJ3RkLmpzbGJfYzEgYTo6YXR0cihocmVmKScpLmdldCgpCiAgICAgICAgICAgIG1ham9yID0gdHIuY3NzKCd0ZC5qc2xiX2MyIGE6OnRleHQnKS5nZXQoKQogICAgICAgICAgICBlbWFpbCA9IHRyLmNzcygndGQuanNsYl9jMzo6dGV4dCcpLmdldCgpCiAgICAgICAgICAgIHlpZWxkIHNlbGYuZ2VuX3BlcnNvbihuYW1lPW5hbWUsIHVybD11cmwsIG1ham9yPW1ham9yLCBlbWFpbD1lbWFpbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBob25lID0gWycwMTAtNTg4MDc2NTcnLCAnMDEwLTU4ODAwNTgxJ10K</text>
+        <text encoding="base64">ICAgICAgICBodHRwOi8vZ2VvLmJudS5lZHUuY24vc3pkdy9nY3N5eGwvaW5kZXguaHRtbAogICAgICAgIGh0dHA6Ly9nZW8uYm51LmVkdS5jbi9zemR3L3h6Z2x4bC9pbmRleC5odG1sCg==</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -8033,19 +8040,16 @@
       </register>
     </registers>
     <search>
-      <last-search>页</last-search>
+      <last-search encoding="base64">XDxuZXh0X2tleXdvcmRzXD4=</last-search>
       <last-offset />
-      <last-pattern>页</last-pattern>
+      <last-pattern encoding="base64">XDxuZXh0X2tleXdvcmRzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>list_urls</entry>
-        <entry>phone</entry>
-        <entry encoding="base64">XDxzdWZmaXhzXD4=</entry>
         <entry encoding="base64">XDx0aXRsZXNcPg==</entry>
         <entry>basic</entry>
         <entry>Person</entry>
@@ -8059,10 +8063,13 @@
         <entry encoding="base64">XDxwYXJzZV9wZXJzb25cPg==</entry>
         <entry encoding="base64">XDxqc2NobFw+</entry>
         <entry>per</entry>
-        <entry>re</entry>
-        <entry>re.</entry>
         <entry encoding="base64">XDxyZVw+</entry>
         <entry>页</entry>
+        <entry>re</entry>
+        <entry>re.</entry>
+        <entry>re\.</entry>
+        <entry>Next</entry>
+        <entry encoding="base64">XDxuZXh0X2tleXdvcmRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
