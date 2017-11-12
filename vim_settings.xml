@@ -39,11 +39,12 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1510331693791">
-        <mark key="'" line="259" column="74" />
-        <mark key="[" line="246" column="0" />
-        <mark key="]" line="246" column="0" />
-        <mark key="." line="246" column="0" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1510460916811">
+        <mark key="'" line="9" column="11" />
+        <mark key="[" line="186" column="14" />
+        <mark key="]" line="186" column="14" />
+        <mark key="." line="186" column="14" />
+        <mark key="^" line="186" column="14" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/rule.py" timestamp="1504463830996">
         <mark key="'" line="29" column="0" />
@@ -242,6 +243,13 @@
       <file name="/usr/lib/python3.6/site-packages/scrapy/spidermiddlewares/depth.py" timestamp="1503560740945">
         <mark key="'" line="44" column="41" />
       </file>
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/buaa.py" timestamp="1510461789867">
+        <mark key="'" line="9" column="15" />
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="25" column="48" />
+        <mark key="." line="25" column="48" />
+        <mark key="^" line="25" column="48" />
+      </file>
       <file name="/usr/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py" timestamp="1501240514149">
         <mark key="'" line="13" column="22" />
       </file>
@@ -386,9 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="249" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="84" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="104" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="124" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="151" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
@@ -486,6 +491,9 @@
       <jump line="32" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" />
       <jump line="29" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" />
       <jump line="259" column="74" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="9" column="11" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/buaa.py" />
+      <jump line="9" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/buaa.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -5995,22 +6003,22 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>（.*）</text>
+        <text>http://cly.bift.edu.cn/szdw/yjsds/index.htm</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZVw+</text>
+        <text>页</text>
       </register>
       <register name="0" type="4">
-        <text>http://auto.bistu.edu.cn/szdw/jsxx/201706/t20170614_43676.html</text>
+        <text>可靠性与系统工程学院</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgcGVyc29ucyhzZWxmLCByZXNwb25zZTogUmVzcG9uc2UpOgogICAgICAgIGlmIHJlc3BvbnNlLnVybCA9PSAnaHR0cDovL2NseS5iaWZ0LmVkdS5jbi9zemR3L2pzZHcvaW5kZXguaHRtJzoKICAgICAgICAgICAgZm9yIHRyIGluIHJlc3BvbnNlLmNzcygndGFibGUuTXNvTm9ybWFsVGFibGUgdHInKVs6LTFdOgogICAgICAgICAgICAgICAgeWllbGQgc2VsZi5nZW5fcGVyc29uKAogICAgICAgICAgICAgICAgICAgIG5hbWU9cmUuc3ViKCdccycsICcnLCAnJy5qb2luKHRyLnhwYXRoKCd0ZFsyXS8vdGV4dCgpJykuZ2V0YWxsKCkpKSwKICAgICAgICAgICAgICAgICAgICB1cmw9dHIueHBhdGgoJ3RkWzJdLy9hL0BocmVmJykuZ2V0KCksCiAgICAgICAgICAgICAgICAgICAgdGl0bGU9dHIueHBhdGgoJ3RkWzRdLy9zcGFuL3RleHQoKScpLmdldCgpLAogICAgICAgICAgICAgICAgICAgIG1ham9yPXRyLnhwYXRoKCd0ZFs2XS8vc3Bhbi90ZXh0KCknKS5nZXQoKSwKICAgICAgICAgICAgICAgICkKICAgICAgICBlbHNlOgogICAgICAgICAgICAjIHlpZWxkIGZyb20gc3VwZXIoKS5wZXJzb25zKHJlc3BvbnNlKQogICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYubmFtZSA9IHJlLnN1YignKD88PVtcdTRlMDAtXHU5ZmE1XSlccysoPz1bXHU0ZTAwLVx1OWZhNV0pJywgJycsIG5hbWUpLnN0cmlwKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -6019,13 +6027,13 @@
         <text encoding="base64">ICAgICAgICAjIHNlbGYubmFtZSA9IHJlLnN1YignKD88PVtcdTRlMDAtXHU5ZmE1XSlccysoPz1bXHU0ZTAwLVx1OWZhNV0pJywgJycsIG5hbWUpLnN0cmlwKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lLnN0cmlwKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYubmFtZSA9IHJlLnN1YignKD88PVtcdTRlMDAtXHU5ZmE1XSlccysoPz1bXHU0ZTAwLVx1OWZhNV0pJywgJycsIG5hbWUpLnN0cmlwKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSByZS5zdWIoJyg/PD1bXHU0ZTAwLVx1OWZhNV0pXHMrKD89W1x1NGUwMC1cdTlmYTVdKScsICcnLCBuYW1lKS5zdHJpcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lLnN0cmlwKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lLnN0cmlwKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSByZS5zdWIoJyg/PD1bXHU0ZTAwLVx1OWZhNV0pXHMrKD89W1x1NGUwMC1cdTlmYTVdKScsICcnLCBuYW1lKS5zdHJpcCgpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7480,7 +7488,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsZW4ocGVyc29ucykpCiAgICAgICAgcHJpbnQobGVuKG9yaWdpbl9wZXJzb25zKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUgPSBuYW1lLnN0cmlwKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7923,10 +7931,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5fcGVyc29ucyA9IGJhc2ljX3BlcnNvbnMK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsZW4ocGVyc29ucykpCiAgICAgICAgcHJpbnQobGVuKG9yaWdpbl9wZXJzb25zKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZS5yZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5fcGVyc29ucyA9IGJhc2ljX3BlcnNvbnMK</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -8001,9 +8009,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZVw+</last-search>
+      <last-search>页</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZVw+</last-pattern>
+      <last-pattern>页</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -8011,7 +8019,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.excl</entry>
         <entry>list_urls</entry>
         <entry>phone</entry>
         <entry encoding="base64">XDxzdWZmaXhzXD4=</entry>
@@ -8031,6 +8038,7 @@
         <entry>re</entry>
         <entry>re.</entry>
         <entry encoding="base64">XDxyZVw+</entry>
+        <entry>页</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
