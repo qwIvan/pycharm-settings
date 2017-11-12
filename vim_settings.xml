@@ -50,8 +50,8 @@
       <file name="/usr/lib/python3.6/threading.py" timestamp="1499236654180">
         <mark key="'" line="270" column="58" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1510497298567">
-        <mark key="'" line="276" column="8" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" timestamp="1510504980699">
+        <mark key="'" line="100" column="16" />
         <mark key="[" line="166" column="0" />
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
@@ -219,7 +219,7 @@
       <file name="/usr/lib/python3.6/site-packages/gunicorn/app/base.py" timestamp="1501242231300">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1510504183762">
+      <file name="/Python Console" timestamp="1510505012136">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1510496434751">
@@ -423,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bnu.py" />
       <jump line="22" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ruc.py" />
       <jump line="9" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ruc.py" />
       <jump line="6" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ruc.py" />
@@ -523,6 +522,7 @@
       <jump line="222" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
       <jump line="0" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
       <jump line="32" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
+      <jump line="100" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
