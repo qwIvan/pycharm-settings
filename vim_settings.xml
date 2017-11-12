@@ -27,10 +27,10 @@
         <mark key="." line="36" column="47" />
         <mark key="^" line="36" column="47" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cque.py" timestamp="1509564378833">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="23" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cque.py" timestamp="1510502262627">
+        <mark key="'" line="9" column="15" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="53" />
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
@@ -198,12 +198,6 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/bot.py" timestamp="1505849188657">
         <mark key="'" line="63" column="15" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cqupt.py" timestamp="1510278782341">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="78" />
-        <mark key="." line="28" column="47" />
-        <mark key="^" line="28" column="51" />
-      </file>
       <file name="/usr/lib/python3.6/site-packages/scrapy/http/response/text.py" timestamp="1510496480358">
         <mark key="'" line="57" column="22" />
         <mark key="[" line="75" column="23" />
@@ -211,6 +205,13 @@
       </file>
       <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971763/_io.py" timestamp="1507904256017">
         <mark key="'" line="1277" column="8" />
+      </file>
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cumtb.py" timestamp="1510502843074">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="52" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/requests/models.py" timestamp="1497604593569">
         <mark key="'" line="561" column="36" />
@@ -422,10 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/buaa.py" />
-      <jump line="44" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/buaa.py" />
-      <jump line="9" column="20" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bnu.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bnu.py" />
       <jump line="27" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bnu.py" />
       <jump line="17" column="41" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bnu.py" />
       <jump line="6" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bnu.py" />
@@ -522,6 +519,10 @@
       <jump line="284" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="15" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bjfu.py" />
       <jump line="277" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
+      <jump line="13" column="26" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cumtb.py" />
+      <jump line="15" column="7" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cumtb.py" />
+      <jump line="9" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cque.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cumtb.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6031,37 +6032,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>BaseSpider</text>
+        <text>http://clxy.bjfu.edu.cn/xkjsnew/szdwnew/2012-05-09/98393.htm</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZV9wZXJzb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmVuY29kaW5nOgogICAgICAgICAgICByZXNwb25zZV9lbmNvZGluZyhyZXNwb25zZSwgc2VsZi5lbmNvZGluZykK</text>
+      <register name="0" type="4">
+        <text>http://zyxy.cumtb.edu.cn/szdw/szgk/index.html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQod29yZCkK</text>
+        <text encoding="base64">ICAgIHBob25lID0gJygwMTApNjIzMzgzNTgnCiAgICByYXRlID0gLjgKICAgIGVuY29kaW5nID0gJ0dCSycK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBkZWYgcGFyc2Uoc2VsZiwgcmVzcG9uc2U6IFJlc3BvbnNlKToKICAgICAgICByZXNwb25zZS5fZW5jb2RpbmcgPSAnR0JLJwogICAgICAgIHJlc3BvbnNlLl9jYWNoZWRfdWJvZHkgPSBOb25lCiAgICAgICAgcmV0dXJuIHN1cGVyKCkucGFyc2UocmVzcG9uc2UpCgogICAgZGVmIHBhcnNlX3BlcnNvbihzZWxmLCByZXNwb25zZTogUmVzcG9uc2UpOgogICAgICAgIHJlc3BvbnNlLl9lbmNvZGluZyA9ICdHQksnCiAgICAgICAgcmVzcG9uc2UuX2NhY2hlZF91Ym9keSA9IE5vbmUKICAgICAgICByZXR1cm4gc3VwZXIoKS5wYXJzZV9wZXJzb24ocmVzcG9uc2Up</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQod29yZCkK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBuYW1lLCBsaW5rIGluIHNlbGYubmFtZXNfbGlua3MocmVzcG9uc2UpOgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBkZWYgcGFyc2Uoc2VsZiwgcmVzcG9uc2U6IFJlc3BvbnNlKToKICAgICAgICByZXNwb25zZS5fZW5jb2RpbmcgPSAnR0JLJwogICAgICAgIHJlc3BvbnNlLl9jYWNoZWRfdWJvZHkgPSBOb25lCiAgICAgICAgcmV0dXJuIHN1cGVyKCkucGFyc2UocmVzcG9uc2UpCgogICAgZGVmIHBhcnNlX3BlcnNvbihzZWxmLCByZXNwb25zZTogUmVzcG9uc2UpOgogICAgICAgIHJlc3BvbnNlLl9lbmNvZGluZyA9ICdHQksnCiAgICAgICAgcmVzcG9uc2UuX2NhY2hlZF91Ym9keSA9IE5vbmUKICAgICAgICByZXR1cm4gc3VwZXIoKS5wYXJzZV9wZXJzb24ocmVzcG9uc2Up</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAn5a2ZJyBpbiBwZXJzb24ubmFtZToKICAgICAgICAgICAgcHJpbnQoJyEnKjEwMCkKICAgICAgICAgICAgcHJpbnQocGVyc29uKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBuYW1lLCBsaW5rIGluIHNlbGYubmFtZXNfbGlua3MocmVzcG9uc2UpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAn5a2ZJyBpbiBwZXJzb24ubmFtZToKICAgICAgICAgICAgcHJpbnQoJyEnKjEwMCkKICAgICAgICAgICAgcHJpbnQocGVyc29uKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ+WtmScgaW4gcGVyLm5hbWU6CiAgICAgICAgICAgICAgICBwcmludCgnIScqMTAwKQogICAgICAgICAgICAgICAgcHJpbnQocGVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -7516,7 +7517,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdtYXQhISEhIScqMTApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ+WtmScgaW4gcGVyLm5hbWU6CiAgICAgICAgICAgICAgICBwcmludCgnIScqMTAwKQogICAgICAgICAgICAgICAgcHJpbnQocGVyKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -7959,10 +7960,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ+WtmScgaW4gcGVyLm5hbWU6CiAgICAgICAgICAgICAgICBwcmludCgnIScqMTAwKQogICAgICAgICAgICAgICAgcHJpbnQocGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdtYXQhISEhIScqMTApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgJ+WtmScgaW4gcGVyLm5hbWU6CiAgICAgICAgICAgICAgICBwcmludCgnIScqMTAwKQogICAgICAgICAgICAgICAgcHJpbnQocGVyKQo=</text>
       </register>
       <register name="y" type="4">
         <keys>
