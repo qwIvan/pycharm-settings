@@ -189,6 +189,12 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" timestamp="1511953373159">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/chat.py" timestamp="1497883833301">
         <mark key="'" line="110" column="38" />
       </file>
@@ -344,6 +350,9 @@
       <file name="/usr/lib/python3.6/multiprocessing/pool.py" timestamp="1505375846385">
         <mark key="'" line="788" column="18" />
       </file>
+      <file name="/Dummy.txt" timestamp="1511953367393">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/wxpy/api/chats/user.py" timestamp="1505555893922">
         <mark key="'" line="104" column="26" />
       </file>
@@ -420,29 +429,24 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" timestamp="1507551600795">
-        <mark key="'" line="75" column="38" />
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="32" column="25" />
-        <mark key="^" line="32" column="25" />
-        <mark key="." line="32" column="25" />
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" timestamp="1511953189832">
+        <mark key="'" line="109" column="8" />
+        <mark key="[" line="76" column="31" />
+        <mark key="]" line="76" column="35" />
+        <mark key="." line="76" column="35" />
+        <mark key="^" line="76" column="35" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bnu.py" timestamp="1510478635930">
         <mark key="'" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" timestamp="1511953352860">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="76" column="31" />
+        <mark key="]" line="76" column="31" />
+        <mark key="." line="76" column="31" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="27" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bjtu.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bjtu.py" />
-      <jump line="106" column="8" filename="/usr/lib/python3.6/site-packages/scrapy/http/response/__init__.py" />
-      <jump line="205" column="39" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="85" column="23" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="3" column="19" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="76" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="86" column="24" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="93" column="0" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
-      <jump line="80" column="0" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
       <jump line="84" column="0" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
       <jump line="68" column="31" filename="/usr/lib/python3.6/site-packages/scrapy/http/request/__init__.py" />
       <jump line="185" column="4" filename="/usr/lib/python3.6/site-packages/w3lib/encoding.py" />
@@ -532,6 +536,17 @@
       <jump line="74" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cup.py" />
       <jump line="54" column="21" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cup.py" />
       <jump line="26" column="21" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cup.py" />
+      <jump line="73" column="9" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="116" column="23" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="107" column="17" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="119" column="22" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="4" column="14" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
+      <jump line="80" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="118" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
+      <jump line="122" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -6041,37 +6056,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://www.cup.edu.cn/fcg/train/tintro/index.htm</text>
+        <text>\n使用教程 git.io/v59Xt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmNvZGluZ1w+</text>
+        <text>git</text>
       </register>
       <register name="0" type="4">
-        <text>中国能源战略研究院</text>
+        <text>李菁菁的机器人</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgcGVyc29ucyhzZWxmLCByZXNwb25zZTogUmVzcG9uc2UpOgogICAgICAgIGZvciB0ciBpbiByZXNwb25zZS5jc3MoJ3Rib2R5IHRyJylbMTpdOgogICAgICAgICAgICBuYW1lID0gdHIuY3NzKCdhICo6OnRleHQnKS5nZXQoKQogICAgICAgICAgICB1cmwgPSB0ci5jc3MoJ2EgKjo6YXR0cihocmVmKScpLmdldCgpCiAgICAgICAgICAgIHRkcyA9IHRyLnhwYXRoKCcuLy90ZFtub3QoQHJvd3NwYW4pXScpCiAgICAgICAgICAgIHRpdGxlID0gJycuam9pbihbZC5nZXQoKS5zdHJpcCgpIGZvciBkIGluIHRkc1sxXS54cGF0aCgnLi8vdGV4dCgpW25vcm1hbGl6ZS1zcGFjZSgpXScpXSkucmVwbGFjZSgnICcsICcnKQogICAgICAgICAgICBwaG9uZSA9IHRkc1s0XS54cGF0aCgnLi8vdGV4dCgpW25vcm1hbGl6ZS1zcGFjZSgpXScpLmdldCgpCiAgICAgICAgICAgIHlpZWxkIHNlbGYuZ2VuX3BlcnNvbigKICAgICAgICAgICAgICAgIG5hbWU9bmFtZSwKICAgICAgICAgICAgICAgIHVybD11cmwsCiAgICAgICAgICAgICAgICB0aXRsZT10aXRsZSwKICAgICAgICAgICAgICAgIHBob25lPXBob25lLAogICAgICAgICAgICApCg==</text>
+        <text encoding="base64">PGEgdGFyZ2V0PSJfYmxhbmsiIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9xd0l2YW4vbWljcm9Nc2ctYm90L2Jsb2IvbWFzdGVyL1JFQURNRS5tZCI+5L2/55So5pWZ56iLPC9hPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxwPgogICAgICAgIOeZu+W9leaIkOWKnwogICAgPC9wPgo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxwPgogICAgICAgIDxsYWJlbD4uanBnIC5naWblkI7nvIDlj5Hooajmg4U8L2xhYmVsPgogICAgICAgIDxsYWJlbCBpZD0ic3VmZml4X3JlcGx5X2xhYmVsIj5b5bey5byA5ZCvXTwvbGFiZWw+CiAgICAgICAgPGxhYmVsPgogICAgICAgICAgICA8aW5wdXQgaWQ9InN1ZmZpeF9yZXBseSIgdHlwZT0iY2hlY2tib3giIGNoZWNrZWQ+CiAgICAgICAgPC9sYWJlbD4KICAgIDwvcD4KICAgIDxwPgogICAgICAgIDxsYWJlbD7ooqtA5Zue5aSN6KGo5oOFPC9sYWJlbD4KICAgICAgICA8bGFiZWwgaWQ9ImF0X3JlcGx5X2xhYmVsIj5b5bey5YWz6ZetXTwvbGFiZWw+CiAgICAgICAgPGxhYmVsPgogICAgICAgICAgICA8aW5wdXQgaWQ9ImF0X3JlcGx5IiB0eXBlPSJjaGVja2JveCI+CiAgICAgICAgPC9sYWJlbD4KICAgIDwvcD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpc3RfdXJscyA9ICcnJwogICAgICAgIGh0dHA6Ly9lb3IuY3VwLmVkdS5jbi9BcnRpY2Fscy9JbmRleC84P3R5cGVpZD04CiAgICAnJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwOi8vY2lpLmN1cC5lZHUuY24vanN0ZC1xenpnLmh0bWwKICAgICAgICBodHRwOi8vY2lpLmN1cC5lZHUuY24vanN0ZC1xemZnLmh0bWwKICAgICAgICBodHRwOi8vY2lpLmN1cC5lZHUuY24vanN0ZC16ai5odG1sCg==</text>
+        <text encoding="base64">ICAgIEBib3QucmVnaXN0ZXIobXNnX3R5cGVzPVRFWFQsIGV4Y2VwdF9zZWxmPUZhbHNlKQogICAgZGVmIHJlcGx5KG1zZzogTWVzc2FnZSk6CiAgICAgICAga2V5d29yZCwgdGltZXMgPSBOb25lLCAwCiAgICAgICAgaWYgYm90LnNldHRpbmcuc3VmZml4X3JlcGx5OgogICAgICAgICAgICBrZXl3b3JkLCB0aW1lcyA9IGtleXdvcmRfYnlfc3VmZml4KG1zZy50ZXh0KQogICAgICAgIGlmIG5vdCBrZXl3b3JkIGFuZCBib3Quc2V0dGluZy5hdF9yZXBseSBhbmQgbXNnLmlzX2F0IGFuZCBpc2luc3RhbmNlKG1zZy5zZW5kZXIsIEdyb3VwKToKICAgICAgICAgICAga2V5d29yZCwgdGltZXMgPSBrZXl3b3JkX2J5X2F0KG1zZy50ZXh0LCBtc2cuc2VuZGVyLnNlbGYubmFtZSkKCiAgICAgICAgZm9yIG1lZGlhX2lkIGluIHBvb2wubWFwKG1lZGlhX2lkX2J5LCBba2V5d29yZF0gKiB0aW1lcywgY2h1bmtzaXplPXRpbWVzKToKICAgICAgICAgICAgbXNnLnJlcGx5X2ltYWdlKCcuZ2lmJywgbWVkaWFfaWQ9bWVkaWFfaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpc3RfdXJscyA9ICcnJwogICAgICAgIGh0dHA6Ly9jaWkuY3VwLmVkdS5jbi9qc3RkLXF6emcuaHRtbAogICAgICAgIGh0dHA6Ly9jaWkuY3VwLmVkdS5jbi9qc3RkLXF6ZmcuaHRtbAogICAgICAgIGh0dHA6Ly9jaWkuY3VwLmVkdS5jbi9qc3RkLXpqLmh0bWwKICAgICAgICBodHRwOi8vY2lpLmN1cC5lZHUuY24vanN0ZC10cC5odG1sCiAgICAnJycK</text>
+        <text encoding="base64">CiAgICBkZWYgcGVyc29ucyhzZWxmLCByZXNwb25zZTogUmVzcG9uc2UpOgogICAgICAgIGZvciB0ciBpbiByZXNwb25zZS5jc3MoJ3Rib2R5IHRyJylbMTpdOgogICAgICAgICAgICBuYW1lID0gdHIuY3NzKCdhICo6OnRleHQnKS5nZXQoKQogICAgICAgICAgICB1cmwgPSB0ci5jc3MoJ2EgKjo6YXR0cihocmVmKScpLmdldCgpCiAgICAgICAgICAgIHRkcyA9IHRyLnhwYXRoKCcuLy90ZFtub3QoQHJvd3NwYW4pXScpCiAgICAgICAgICAgIHRpdGxlID0gJycuam9pbihbZC5nZXQoKS5zdHJpcCgpIGZvciBkIGluIHRkc1sxXS54cGF0aCgnLi8vdGV4dCgpW25vcm1hbGl6ZS1zcGFjZSgpXScpXSkucmVwbGFjZSgnICcsICcnKQogICAgICAgICAgICBwaG9uZSA9IHRkc1s0XS54cGF0aCgnLi8vdGV4dCgpW25vcm1hbGl6ZS1zcGFjZSgpXScpLmdldCgpCiAgICAgICAgICAgIHlpZWxkIHNlbGYuZ2VuX3BlcnNvbigKICAgICAgICAgICAgICAgIG5hbWU9bmFtZSwKICAgICAgICAgICAgICAgIHVybD11cmwsCiAgICAgICAgICAgICAgICB0aXRsZT10aXRsZSwKICAgICAgICAgICAgICAgIHBob25lPXBob25lLAogICAgICAgICAgICApCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -6501,7 +6516,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgX19pbml0X18oc2VsZiwgKiprd2FyZ3MpOgogICAgICAgIHNlbGYubmV4dF9rZXl3b3Jkcy5hcHBlbmQoJ8K7JykKICAgICAgICBzdXBlcigpLl9faW5pdF9fKHNlbGYsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -6944,10 +6959,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCkubmV4dF9rZXl3b3Jkcy5hcHBlbmQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGxpc3RfdXJscyA9ICcnJwogICAgICAgIGh0dHA6Ly9lb3IuY3VwLmVkdS5jbi9BcnRpY2Fscy9JbmRleC84P3R5cGVpZD04CiAgICAnJycK</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -7022,9 +7037,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbmNvZGluZ1w+</last-search>
+      <last-search>git</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmNvZGluZ1w+</last-pattern>
+      <last-pattern>git</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -7032,7 +7047,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXh0X2tleXdvcmRzXD4=</entry>
         <entry encoding="base64">XDxmb2xsb3dcPg==</entry>
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0X2t3YXJnc1w+</entry>
@@ -7052,6 +7066,7 @@
         <entry>retry</entry>
         <entry>RETRY</entry>
         <entry encoding="base64">XDxlbmNvZGluZ1w+</entry>
+        <entry>git</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
