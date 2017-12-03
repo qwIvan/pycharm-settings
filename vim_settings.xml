@@ -194,8 +194,8 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" timestamp="1510503543825">
-        <mark key="'" line="32" column="16" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" timestamp="1512303369415">
+        <mark key="'" line="182" column="16" />
         <mark key="[" line="30" column="13" />
         <mark key="]" line="30" column="33" />
         <mark key="." line="44" column="0" />
@@ -373,7 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cugb.py" />
       <jump line="38" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cugb.py" />
       <jump line="14" column="73" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cugb.py" />
       <jump line="20" column="47" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/cugb.py" />
@@ -473,6 +472,7 @@
       <jump line="29" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bjut.py" />
       <jump line="39" column="37" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bjut.py" />
       <jump line="45" column="12" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bjut.py" />
+      <jump line="182" column="16" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ucas.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
