@@ -4,10 +4,9 @@
     <property name="created">2017-02-13T04:37:45</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-12-30T19:20:09</property>
+    <property name="modified">2017-12-30T21:23:22</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="0.9" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
