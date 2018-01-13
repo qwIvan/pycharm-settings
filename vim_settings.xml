@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1509517793888">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/github/micro_msg_bot/meme.py" timestamp="1505483865150">
         <mark key="'" line="64" column="30" />
         <mark key="[" line="95" column="0" />
@@ -178,9 +175,6 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="41" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1514718328584">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1512457362977">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -311,9 +305,7 @@
         <mark key="." line="11" column="54" />
         <mark key="^" line="11" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514719419460">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1515845019937" />
       <file name="$USER_HOME$/github/micro_msg_bot/static/index.html" timestamp="1505407136558">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="85" column="0" />
@@ -370,12 +362,12 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" timestamp="1514719239527">
-        <mark key="'" line="65" column="14" />
-        <mark key="[" line="80" column="75" />
-        <mark key="]" line="80" column="81" />
-        <mark key="." line="80" column="81" />
-        <mark key="^" line="80" column="81" />
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" timestamp="1515845010571">
+        <mark key="'" line="19" column="54" />
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="51" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="23" column="51" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bnu.py" timestamp="1512128051626">
         <mark key="'" line="24" column="6" />
@@ -393,12 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="31" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="62" column="26" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="67" column="66" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="245" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="207" column="23" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="81" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="250" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="293" column="8" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
       <jump line="72" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ncepu.py" />
@@ -493,6 +479,12 @@
       <jump line="223" column="4" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/util.py" />
       <jump line="129" column="4" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
       <jump line="65" column="14" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="82" column="33" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="66" column="20" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="74" column="9" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/meme.py" />
+      <jump line="76" column="36" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="23" column="44" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
+      <jump line="19" column="54" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3715,10 +3707,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ext</text>
+        <text>times</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text encoding="base64">XDxwbmdcPg==</text>
       </register>
       <register name="0" type="4">
         <text>材料科学与工程学院</text>
@@ -4696,9 +4688,9 @@
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search encoding="base64">XDxwbmdcPg==</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern encoding="base64">XDxwbmdcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -4706,7 +4698,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pring</entry>
         <entry encoding="base64">XDxnZW5fcGVyc29uXD4=</entry>
         <entry>7.5</entry>
         <entry>rate</entry>
@@ -4726,6 +4717,7 @@
         <entry encoding="base64">XDxwaG9uZVw+</entry>
         <entry encoding="base64">XDxsaXN0X3VybHNcPg==</entry>
         <entry>url</entry>
+        <entry encoding="base64">XDxwbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
