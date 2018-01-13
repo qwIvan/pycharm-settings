@@ -162,6 +162,7 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/testing.py" timestamp="1515851683149" />
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sjtu.py" timestamp="1512457143535">
         <mark key="'" line="30" column="7" />
         <mark key="[" line="89" column="0" />
@@ -362,7 +363,7 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" timestamp="1515845010571">
+      <file name="$USER_HOME$/github/microMsg-bot/micro_msg_bot/rule.py" timestamp="1515851660925">
         <mark key="'" line="19" column="54" />
         <mark key="[" line="23" column="47" />
         <mark key="]" line="23" column="51" />
