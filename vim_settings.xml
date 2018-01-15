@@ -55,12 +55,11 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/github/Js2Py/examples/importing_node_module.py" timestamp="1515992423519">
-        <mark key="'" line="8" column="10" />
+      <file name="$USER_HOME$/github/Js2Py/examples/importing_node_module.py" timestamp="1515996427066">
+        <mark key="'" line="8" column="4" />
         <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="8" column="9" />
-        <mark key="." line="8" column="9" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bupt.py" timestamp="1512134583194">
         <mark key="'" line="88" column="6" />
@@ -525,12 +524,12 @@
       <jump line="61" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
       <jump line="71" column="29" filename="$USER_HOME$/github/Js2Py/js2py/__init__.py" />
       <jump line="4" column="0" filename="$USER_HOME$/github/Js2Py/examples/importing_node_module.py" />
-      <jump line="9" column="10" filename="$USER_HOME$/github/Js2Py/examples/importing_node_module.py" />
       <jump line="2" column="1" filename="$USER_HOME$/github/Js2Py/js2py/tmp0in439341018923js2py.js" />
       <jump line="0" column="0" filename="$USER_HOME$/github/Js2Py/js2py/tmp0in439341018923js2py.js" />
       <jump line="11" column="7" filename="$USER_HOME$/github/Js2Py/js2py/tmp0in439341018923js2py.js" />
       <jump line="73" column="27" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
       <jump line="54" column="17" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
+      <jump line="9" column="4" filename="$USER_HOME$/github/Js2Py/examples/importing_node_module.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3753,7 +3752,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJvbWlzZSA9IA==</text>
+        <text>partition()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2RlXD4=</text>
@@ -3762,13 +3761,13 @@
         <text>representation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJvdF9pZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJvdF9pZDsK</text>
+        <text encoding="base64">Jycuc3BsaXQoKQo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -3777,13 +3776,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncXInKS5zZXRBdHRyaWJ1dGUoJ3NyYycsICcnKTsKICAgICAgICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgndGlwcycpLmlubmVyVGV4dCA9ICfkuoznu7TnoIHov4fmnJ/vvIznrYnlvoXliLfmlrAnOwogICAgICAgICAgICAgICAgICAgIHNvY2tldC5lbWl0KCdsb2dpbicpOwo=</text>
+        <text encoding="base64">JycucGFydGl0aW9uKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvZGUgPSBjb2RlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJvdF9pZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgaWYgJ2JvdElEJyBub3QgaW4gc2Vzc2lvbjoKICAgICMgICAgIHNlc3Npb25bJ2JvdElEJ10gPSBzdHIoc2VjcmV0cy5yYW5kYml0cygyNTYpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJvdF9pZDsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4213,7 +4212,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4656,10 +4655,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0Lm9uKCdzZXR0aW5nJywgZnVuY3Rpb24gKHNldHRpbmcpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncXInKS5zZXRBdHRyaWJ1dGUoJ3NyYycsICcnKTsKICAgICAgICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgndGlwcycpLmlubmVyVGV4dCA9ICfkuoznu7TnoIHov4fmnJ/vvIznrYnlvoXliLfmlrAnOwogICAgICAgICAgICAgICAgICAgIHNvY2tldC5lbWl0KCdsb2dpbicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0Lm9uKCdzZXR0aW5nJywgZnVuY3Rpb24gKHNldHRpbmcpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvZGUgPSBjb2RlOwo=</text>
       </register>
       <register name="y" type="4">
         <keys>
