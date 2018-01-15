@@ -55,6 +55,13 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/github/Js2Py/examples/importing_node_module.py" timestamp="1515992423519">
+        <mark key="'" line="8" column="10" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="8" column="9" />
+      </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bupt.py" timestamp="1512134583194">
         <mark key="'" line="88" column="6" />
         <mark key="[" line="9" column="15" />
@@ -82,6 +89,9 @@
         <mark key="]" line="18" column="21" />
         <mark key="." line="22" column="8" />
         <mark key="^" line="19" column="26" />
+      </file>
+      <file name="$USER_HOME$/github/Js2Py/js2py/node_import.py" timestamp="1515993350912">
+        <mark key="'" line="54" column="17" />
       </file>
       <file name="$USER_HOME$/gdg-bot/main.py" timestamp="1505565214492">
         <mark key="'" line="48" column="8" />
@@ -190,7 +200,7 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="41" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1515991613943">
+      <file name="/Python Console" timestamp="1515993007755">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1512457362977">
@@ -212,6 +222,11 @@
         <mark key="]" line="30" column="33" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="43" column="114" />
+      </file>
+      <file name="$USER_HOME$/github/Js2Py/js2py/tmp0in439341018923js2py.js" timestamp="1515993222052">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bit.py" timestamp="1512134907895">
         <mark key="'" line="15" column="0" />
@@ -288,6 +303,10 @@
         <mark key="]" line="16" column="30" />
         <mark key="." line="16" column="36" />
         <mark key="^" line="16" column="30" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1247971763/builtins.py" timestamp="1515993384724">
+        <mark key="[" line="495" column="32" />
+        <mark key="]" line="495" column="45" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sit.py" timestamp="1509522941408">
         <mark key="'" line="58" column="101" />
@@ -412,13 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="27" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="93" column="34" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/base_spider.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sjtu.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sjtu.py" />
-      <jump line="41" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sjtu.py" />
-      <jump line="37" column="6" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sjtu.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sjtu.py" />
       <jump line="59" column="25" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sjtu.py" />
       <jump line="11" column="0" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sjtu.py" />
       <jump line="8" column="13" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/sjtu.py" />
@@ -512,6 +524,13 @@
       <jump line="26" column="23" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
       <jump line="61" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
       <jump line="71" column="29" filename="$USER_HOME$/github/Js2Py/js2py/__init__.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/github/Js2Py/examples/importing_node_module.py" />
+      <jump line="9" column="10" filename="$USER_HOME$/github/Js2Py/examples/importing_node_module.py" />
+      <jump line="2" column="1" filename="$USER_HOME$/github/Js2Py/js2py/tmp0in439341018923js2py.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/Js2Py/js2py/tmp0in439341018923js2py.js" />
+      <jump line="11" column="7" filename="$USER_HOME$/github/Js2Py/js2py/tmp0in439341018923js2py.js" />
+      <jump line="73" column="27" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
+      <jump line="54" column="17" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3734,13 +3753,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">cHJvbWlzZSA9IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2RlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>success</text>
+        <text>representation</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGJvdF9pZDsK</text>
