@@ -27,10 +27,10 @@
         <mark key="." line="45" column="77" />
         <mark key="^" line="45" column="77" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" timestamp="1516070600703">
-        <mark key="'" line="50" column="12" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="238" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" timestamp="1516072824879">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="85" column="25" />
       </file>
       <file name="$USER_HOME$/github/microMsg-bot/rule.py" timestamp="1504463830996">
         <mark key="'" line="29" column="0" />
@@ -434,9 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="56" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
-      <jump line="21" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
-      <jump line="75" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
       <jump line="16" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" />
       <jump line="24" column="25" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" />
       <jump line="28" column="48" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/bot.py" />
@@ -534,6 +531,9 @@
       <jump line="63" column="185" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
       <jump line="48" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
       <jump line="50" column="12" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
+      <jump line="73" column="38" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3762,7 +3762,7 @@
         <text encoding="base64">XDxjb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycnbm9kZSAtZSAiKHJlcXVpcmUoJ2Jyb3dzZXJpZnknKSgnLi8lcycpLmJ1bmRsZShmdW5jdGlvbiAoZXJyLGRhdGEpIHtmcy53cml0ZUZpbGUoJyVzJywgcmVxdWlyZSgnYmFiZWwtY29yZScpLnRyYW5zZm9ybShkYXRhLCB7J3ByZXNldHMnOiByZXF1aXJlKCdiYWJlbC1wcmVzZXQtZXMyMDE1Jyl9KS5jb2RlLCAoKT0+e30pO30pKSInJycgJSAoaW5fZmlsZV9uYW1lLCBvdXRfZmlsZV9uYW1lKSwK</text>
+        <text encoding="base64">ICAgIGNvbnRleHQgPSB7fQogICAgZXhlYyhweV9jb2RlLCBjb250ZXh0KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG9sZGN3ZCA9IG9zLmdldGN3ZCgpCiAgICBvcy5jaGRpcihQWV9OT0RFX01PRFVMRVNfUEFUSCkKICAgIGNhY2hlZF9weV9ucG1fbW9kdWxlcyA9IGdsb2IuZ2xvYignKionLCByZWN1cnNpdmU9VHJ1ZSkKICAgIG9zLmNoZGlyKG9sZGN3ZCkK</text>
