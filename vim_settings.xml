@@ -145,6 +145,9 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
+      <file name="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" timestamp="1516064057554">
+        <mark key="'" line="43" column="42" />
+      </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bistu.py" timestamp="1510284787665">
         <mark key="'" line="29" column="15" />
         <mark key="[" line="31" column="8" />
@@ -427,13 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="6" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
-      <jump line="76" column="9" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/github/microMsg-bot/Dockerfile" />
-      <jump line="1" column="23" filename="$USER_HOME$/github/microMsg-bot/Dockerfile" />
-      <jump line="115" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
-      <jump line="43" column="17" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
       <jump line="88" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
       <jump line="100" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
       <jump line="20" column="70" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
@@ -527,6 +523,13 @@
       <jump line="44" column="29" filename="$USER_HOME$/github/Js2Py/simple_test.py" />
       <jump line="46" column="4" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
       <jump line="48" column="30" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
+      <jump line="118" column="15" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
+      <jump line="128" column="0" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
+      <jump line="127" column="36" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
+      <jump line="76" column="50" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
+      <jump line="74" column="59" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
+      <jump line="73" column="89" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
+      <jump line="43" column="42" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3752,7 +3755,7 @@
         <text>module_filename not in cached_py_npm_modules</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWNoZWRfcHlfbnBtX21vZHVsZXNcPg==</text>
+        <text>stringify</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXNzZXJ0IGRlY3J5cHRlZERhdGEgPT0gZGF0YQo=</text>
@@ -4730,17 +4733,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWNoZWRfcHlfbnBtX21vZHVsZXNcPg==</last-search>
+      <last-search>stringify</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWNoZWRfcHlfbnBtX21vZHVsZXNcPg==</last-pattern>
+      <last-pattern>stringify</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
         <entry encoding="base64">XDxwbmdcPg==</entry>
         <entry encoding="base64">XDxnZXRfbG9nb3V0X2NhbGxiYWNrX2J5X2JvdF9pZFw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
@@ -4760,6 +4762,7 @@
         <entry>crypto</entry>
         <entry encoding="base64">XDxnbG9iXD4=</entry>
         <entry encoding="base64">XDxjYWNoZWRfcHlfbnBtX21vZHVsZXNcPg==</entry>
+        <entry>stringify</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
