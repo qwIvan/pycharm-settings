@@ -27,7 +27,11 @@
         <mark key="." line="45" column="77" />
         <mark key="^" line="45" column="77" />
       </file>
-      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" timestamp="1516002284021" />
+      <file name="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" timestamp="1516070600703">
+        <mark key="'" line="50" column="12" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="238" />
+      </file>
       <file name="$USER_HOME$/github/microMsg-bot/rule.py" timestamp="1504463830996">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="41" column="58" />
@@ -84,7 +88,7 @@
         <mark key="." line="22" column="8" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/github/Js2Py/js2py/node_import.py" timestamp="1516006497634">
+      <file name="$USER_HOME$/github/Js2Py/js2py/node_import.py" timestamp="1516070094480">
         <mark key="'" line="48" column="30" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -198,7 +202,7 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="41" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1516002287900">
+      <file name="/Python Console" timestamp="1516070102005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bigc.py" timestamp="1509520354652">
@@ -430,11 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
-      <jump line="100" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
-      <jump line="20" column="70" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
-      <jump line="27" column="63" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
-      <jump line="29" column="22" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
       <jump line="57" column="56" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
       <jump line="21" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
       <jump line="75" column="8" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/server.py" />
@@ -530,6 +529,11 @@
       <jump line="74" column="59" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
       <jump line="73" column="89" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
       <jump line="43" column="42" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
+      <jump line="51" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
+      <jump line="56" column="57" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
+      <jump line="63" column="185" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
+      <jump line="48" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
+      <jump line="50" column="12" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3755,10 +3759,10 @@
         <text>module_filename not in cached_py_npm_modules</text>
       </register>
       <register name="/" type="4">
-        <text>stringify</text>
+        <text encoding="base64">XDxjb2RlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXNzZXJ0IGRlY3J5cHRlZERhdGEgPT0gZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycnbm9kZSAtZSAiKHJlcXVpcmUoJ2Jyb3dzZXJpZnknKSgnLi8lcycpLmJ1bmRsZShmdW5jdGlvbiAoZXJyLGRhdGEpIHtmcy53cml0ZUZpbGUoJyVzJywgcmVxdWlyZSgnYmFiZWwtY29yZScpLnRyYW5zZm9ybShkYXRhLCB7J3ByZXNldHMnOiByZXF1aXJlKCdiYWJlbC1wcmVzZXQtZXMyMDE1Jyl9KS5jb2RlLCAoKT0+e30pO30pKSInJycgJSAoaW5fZmlsZV9uYW1lLCBvdXRfZmlsZV9uYW1lKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG9sZGN3ZCA9IG9zLmdldGN3ZCgpCiAgICBvcy5jaGRpcihQWV9OT0RFX01PRFVMRVNfUEFUSCkKICAgIGNhY2hlZF9weV9ucG1fbW9kdWxlcyA9IGdsb2IuZ2xvYignKionLCByZWN1cnNpdmU9VHJ1ZSkKICAgIG9zLmNoZGlyKG9sZGN3ZCkK</text>
@@ -4733,12 +4737,12 @@
       </register>
     </registers>
     <search>
-      <last-search>stringify</last-search>
+      <last-search encoding="base64">XDxjb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern>stringify</last-pattern>
+      <last-pattern encoding="base64">XDxjb2RlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -4754,7 +4758,6 @@
         <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
         <entry>timeout</entry>
         <entry encoding="base64">XDxlbWl0XD4=</entry>
-        <entry encoding="base64">XDxjb2RlXD4=</entry>
         <entry encoding="base64">XDxweV9uYW1lXD4=</entry>
         <entry>mkdir</entry>
         <entry encoding="base64">XDxyZXF1aXJlXD4=</entry>
@@ -4763,6 +4766,7 @@
         <entry encoding="base64">XDxnbG9iXD4=</entry>
         <entry encoding="base64">XDxjYWNoZWRfcHlfbnBtX21vZHVsZXNcPg==</entry>
         <entry>stringify</entry>
+        <entry encoding="base64">XDxjb2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
