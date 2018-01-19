@@ -305,8 +305,8 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/github/Js2Py/js2py/base.py" timestamp="1516349418172">
-        <mark key="'" line="2390" column="44" />
+      <file name="$USER_HOME$/github/Js2Py/js2py/base.py" timestamp="1516358481419">
+        <mark key="'" line="1335" column="20" />
         <mark key="[" line="1159" column="170" />
         <mark key="]" line="1159" column="170" />
         <mark key="^" line="1151" column="31" />
@@ -428,9 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="110" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
-      <jump line="36" column="56" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
-      <jump line="23" column="40" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
       <jump line="26" column="23" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
       <jump line="61" column="0" filename="$USER_HOME$/github/microMsg-bot/micro_msg_bot/static/index.html" />
       <jump line="71" column="29" filename="$USER_HOME$/github/Js2Py/js2py/__init__.py" />
@@ -512,7 +509,6 @@
       <jump line="147" column="20" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="148" column="15" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="2" column="1" filename="$USER_HOME$/github/Js2Py/js2py/host/console.py" />
-      <jump line="1151" column="8" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="1155" column="0" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="1162" column="0" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="1165" column="0" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
@@ -528,6 +524,10 @@
       <jump line="8" column="26" filename="$USER_HOME$/github/Js2Py/js2py/host/console.py" />
       <jump line="2390" column="44" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="1271" column="0" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1151" column="0" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="2372" column="6" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1335" column="20" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3753,7 +3753,7 @@
         <text>to_list</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxcPg==</text>
+        <text encoding="base64">XDxQeUpzQXJndW1lbnRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KGFyZ3VtZW50cy50b19saXN0KCkpCg==</text>
@@ -4731,9 +4731,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxcPg==</last-search>
+      <last-search encoding="base64">XDxQeUpzQXJndW1lbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQeUpzQXJndW1lbnRzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -4741,8 +4741,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfbG9nb3V0X2NhbGxiYWNrX2J5X2JvdF9pZFw+</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry>emit</entry>
         <entry encoding="base64">XDxzZXNzaW9uSURcPg==</entry>
         <entry>sessionID</entry>
@@ -4761,6 +4759,8 @@
         <entry>stringify</entry>
         <entry encoding="base64">XDxjb2RlXD4=</entry>
         <entry encoding="base64">XDx2YWxcPg==</entry>
+        <entry>PyJsArguments</entry>
+        <entry encoding="base64">XDxQeUpzQXJndW1lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
