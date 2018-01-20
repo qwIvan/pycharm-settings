@@ -70,8 +70,12 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/github/Js2Py/js2py/host/console.py" timestamp="1516439080963">
-        <mark key="'" line="8" column="8" />
+      <file name="$USER_HOME$/github/Js2Py/js2py/host/console.py" timestamp="1516441950934">
+        <mark key="'" line="8" column="25" />
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ncut.py" timestamp="1510278965788">
         <mark key="'" line="19" column="56" />
@@ -184,6 +188,9 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
+      <file name="/base.py" timestamp="1516442614239">
+        <mark key="'" line="943" column="16" />
+      </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bjut.py" timestamp="1512457240750">
         <mark key="'" line="45" column="12" />
         <mark key="[" line="29" column="15" />
@@ -191,11 +198,13 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="41" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1516440190760">
+      <file name="/Python Console" timestamp="1516441076104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1516437697670">
+      <file name="/fragment.py" timestamp="1516441359636">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bigc.py" timestamp="1509520354652">
         <mark key="'" line="17" column="28" />
@@ -216,11 +225,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/github/Js2Py/examples/test.py" timestamp="1516440188721">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="30" />
+      <file name="$USER_HOME$/github/Js2Py/examples/test.py" timestamp="1516441920263">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bit.py" timestamp="1512134907895">
         <mark key="'" line="15" column="0" />
@@ -310,11 +319,11 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/github/Js2Py/js2py/base.py" timestamp="1516440043369">
-        <mark key="'" line="912" column="32" />
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="28" column="14" />
+      <file name="$USER_HOME$/github/Js2Py/js2py/base.py" timestamp="1516441555893">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="909" column="8" />
+        <mark key="]" line="909" column="8" />
+        <mark key="." line="909" column="8" />
         <mark key="^" line="28" column="14" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/buct.py" timestamp="1512135348383">
@@ -345,8 +354,9 @@
         <mark key="." line="11" column="54" />
         <mark key="^" line="11" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516436771498">
+      <file name="/Dummy.txt" timestamp="1516442175282">
         <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/github/micro_msg_bot/static/index.html" timestamp="1505407136558">
         <mark key="'" line="82" column="0" />
@@ -433,26 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="9" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="1" column="34" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="44" column="38" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="49" column="11" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="7" column="4" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="78" column="56" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="42" column="30" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="38" column="6" filename="/usr/lib/python3.6/genericpath.py" />
-      <jump line="82" column="24" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="41" column="17" filename="/usr/lib/python3.6/genericpath.py" />
-      <jump line="1068" column="6" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1247971763/posix.py" />
-      <jump line="672" column="6" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1247971763/posix.py" />
-      <jump line="84" column="24" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="15" column="6" filename="/usr/lib/python3.6/genericpath.py" />
-      <jump line="80" column="38" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/github/Js2Py/examples/importing_node_module.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/github/Js2Py/simple_test.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/github/Js2Py/simple_test.py" />
-      <jump line="47" column="16" filename="$USER_HOME$/github/Js2Py/simple_test.py" />
       <jump line="48" column="18" filename="$USER_HOME$/github/Js2Py/simple_test.py" />
       <jump line="73" column="14" filename="$USER_HOME$/github/Js2Py/simple_test.py" />
       <jump line="119" column="0" filename="$USER_HOME$/github/Js2Py/simple_test.py" />
@@ -515,8 +505,6 @@
       <jump line="1161" column="17" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="2390" column="44" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="1271" column="0" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
-      <jump line="1151" column="0" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="2372" column="6" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="1335" column="20" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="4616" column="8" filename="$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1247971763/builtins.py" />
@@ -528,11 +516,33 @@
       <jump line="0" column="0" filename="$USER_HOME$/github/Js2Py/examples/test.py" />
       <jump line="6" column="1" filename="$USER_HOME$/github/Js2Py/js2py/host/console.py" />
       <jump line="2583" column="5" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
-      <jump line="8" column="8" filename="$USER_HOME$/github/Js2Py/js2py/host/console.py" />
       <jump line="51" column="19" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="922" column="18" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="912" column="32" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="8" column="25" filename="$USER_HOME$/github/Js2Py/js2py/host/console.py" />
+      <jump line="1322" column="28" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1324" column="18" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1325" column="38" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1327" column="51" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1329" column="47" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1330" column="10" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="908" column="22" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1257" column="12" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="68" column="34" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="96" column="39" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="234" column="11" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1151" column="30" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="909" column="19" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1258" column="4" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="235" column="4" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="677" column="18" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="910" column="19" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="917" column="18" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="24" column="4" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="2372" column="21" filename="/base.py" />
+      <jump line="948" column="27" filename="/base.py" />
+      <jump line="943" column="16" filename="/base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3755,37 +3765,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{key:'123'}</text>
+        <text>.__repr__()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQeUpzQXJndW1lbnRzXD4=</text>
+        <text encoding="base64">XDxzdHJfcmVwclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">anMycHkuZXZhbF9qcygiY29uc29sZS5sb2coe2tleTonMTIzJ30pIikK</text>
+      <register name="0" type="4">
+        <text>'Object'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBqczJweS5iYXNlIGltcG9ydCBQeUpzU3RyaW5nCgpqCg==</text>
+        <text encoding="base64">anMycHkuZXZhbF9qcygiY29uc29sZS5sb2coJzM0JykiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoUHlKc1N0cmluZygnMjMnKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLkNsYXNzPT0nT2JqZWN0JzoKICAgICAgICAgICAgcmVzID0gW10KICAgICAgICAgICAgZm9yIGUgaW4gc2VsZjoKICAgICAgICAgICAgICAgIHJlcy5hcHBlbmQoc3RyX3JlcHIoZS52YWx1ZSkrJzogJytzdHJfcmVwcihzZWxmLmdldChlKSkpCiAgICAgICAgICAgIHJldHVybiAneyVzfSclJywgJy5qb2luKHJlcykK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGpzMnB5CgpqcyA9IGpzMnB5LnRyYW5zbGF0ZV9qcygiY29uc29sZS5sb2coJzIzJykiKQo=</text>
+        <text encoding="base64">ZnJvbSBqczJweS5iYXNlIGltcG9ydCBQeUpzU3RyaW5nCgpqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoanMpCg==</text>
+        <text encoding="base64">cHJpbnQoUHlKc1N0cmluZygnMjMnKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">anMycHkuZXZhbF9qcygpCg==</text>
+        <text encoding="base64">aW1wb3J0IGpzMnB5CgpqcyA9IGpzMnB5LnRyYW5zbGF0ZV9qcygiY29uc29sZS5sb2coJzIzJykiKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>['_obj']</text>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQoanMpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4215,7 +4225,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFyZ3VtZW50c1sxXSkK</text>
+        <text encoding="base64">anMycHkuZXZhbF9qcygpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4657,11 +4667,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG9sZGN3ZCA9IG9zLmdldGN3ZCgpCiAgICBvcy5jaGRpcihQWV9OT0RFX01PRFVMRVNfUEFUSCkKICAgIGNhY2hlZF9weV9ucG1fbW9kdWxlcyA9IGdsb2IuZ2xvYignKionLCByZWN1cnNpdmU9VHJ1ZSkKICAgIG9zLmNoZGlyKG9sZGN3ZCkK</text>
+      <register name="8" type="4">
+        <text>['_obj']</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhhc19ucG1fbW9kdWxlID0gb3MucGF0aAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3VtZW50c1sxXSkK</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -4736,9 +4746,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQeUpzQXJndW1lbnRzXD4=</last-search>
+      <last-search encoding="base64">XDxzdHJfcmVwclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQeUpzQXJndW1lbnRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdHJfcmVwclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -4746,11 +4756,6 @@
     </search>
     <history>
       <history-search>
-        <entry>emit</entry>
-        <entry encoding="base64">XDxzZXNzaW9uSURcPg==</entry>
-        <entry>sessionID</entry>
-        <entry>success</entry>
-        <entry>uuid</entry>
         <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
         <entry>timeout</entry>
         <entry encoding="base64">XDxlbWl0XD4=</entry>
@@ -4766,6 +4771,11 @@
         <entry encoding="base64">XDx2YWxcPg==</entry>
         <entry>PyJsArguments</entry>
         <entry encoding="base64">XDxQeUpzQXJndW1lbnRzXD4=</entry>
+        <entry encoding="base64">XDxPYmplY3RcPg==</entry>
+        <entry encoding="base64">XDxvYmplY3RcPg==</entry>
+        <entry>\W'Object'\W</entry>
+        <entry>'Object'</entry>
+        <entry encoding="base64">XDxzdHJfcmVwclw+</entry>
       </history-search>
       <history-cmd>
         <entry>qa1</entry>
