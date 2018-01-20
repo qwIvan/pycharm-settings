@@ -321,8 +321,8 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/github/Js2Py/js2py/base.py" timestamp="1516445961888">
-        <mark key="'" line="24" column="4" />
+      <file name="$USER_HOME$/github/Js2Py/js2py/base.py" timestamp="1516447014673">
+        <mark key="'" line="1115" column="36" />
         <mark key="[" line="2384" column="96" />
         <mark key="]" line="2384" column="96" />
         <mark key="." line="2384" column="96" />
@@ -445,17 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="2" filename="$USER_HOME$/github/Js2Py/simple_test.py" />
-      <jump line="44" column="29" filename="$USER_HOME$/github/Js2Py/simple_test.py" />
-      <jump line="46" column="4" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="48" column="30" filename="$USER_HOME$/github/Js2Py/js2py/node_import.py" />
-      <jump line="118" column="15" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
-      <jump line="128" column="0" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
-      <jump line="127" column="36" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
-      <jump line="76" column="50" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
-      <jump line="74" column="59" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
-      <jump line="73" column="89" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
-      <jump line="43" column="42" filename="$USER_HOME$/github/Js2Py/js2py/py_node_modules/babel_runtime/core_js/json/stringify.py" />
       <jump line="51" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
       <jump line="56" column="57" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
       <jump line="63" column="185" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
@@ -545,6 +534,17 @@
       <jump line="172" column="27" filename="/base.py" />
       <jump line="2383" column="19" filename="/base.py" />
       <jump line="352" column="20" filename="/base.py" />
+      <jump line="938" column="17" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="53" column="33" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="232" column="6" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1443" column="17" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1173" column="7" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1243" column="7" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="2367" column="21" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="935" column="8" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1109" column="23" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1115" column="36" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
