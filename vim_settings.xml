@@ -72,10 +72,6 @@
       </file>
       <file name="$USER_HOME$/github/Js2Py/js2py/host/console.py" timestamp="1516349353684">
         <mark key="'" line="8" column="26" />
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="26" />
-        <mark key="^" line="10" column="26" />
-        <mark key="." line="10" column="26" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ncut.py" timestamp="1510278965788">
         <mark key="'" line="19" column="56" />
@@ -195,7 +191,7 @@
         <mark key="." line="41" column="44" />
         <mark key="^" line="41" column="44" />
       </file>
-      <file name="/Python Console" timestamp="1516348050514">
+      <file name="/Python Console" timestamp="1516436266970">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bigc.py" timestamp="1509520354652">
@@ -216,6 +212,12 @@
         <mark key="'" line="11" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/github/Js2Py/examples/test.py" timestamp="1516435831709">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="33" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/bit.py" timestamp="1512134907895">
         <mark key="'" line="15" column="0" />
@@ -305,7 +307,7 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/github/Js2Py/js2py/base.py" timestamp="1516358481419">
+      <file name="$USER_HOME$/github/Js2Py/js2py/base.py" timestamp="1516436225165">
         <mark key="'" line="1335" column="20" />
         <mark key="[" line="1159" column="170" />
         <mark key="]" line="1159" column="170" />
@@ -340,7 +342,7 @@
         <mark key="." line="11" column="54" />
         <mark key="^" line="11" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516005208287">
+      <file name="/Dummy.txt" timestamp="1516435998590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/micro_msg_bot/static/index.html" timestamp="1505407136558">
