@@ -70,12 +70,12 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/github/Js2Py/js2py/host/console.py" timestamp="1516446091580">
+      <file name="$USER_HOME$/github/Js2Py/js2py/host/console.py" timestamp="1516448922583">
         <mark key="'" line="8" column="25" />
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="27" />
-        <mark key="^" line="8" column="27" />
-        <mark key="." line="8" column="27" />
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
       </file>
       <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ncut.py" timestamp="1510278965788">
         <mark key="'" line="19" column="56" />
@@ -3767,7 +3767,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dict</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>_obj</text>
