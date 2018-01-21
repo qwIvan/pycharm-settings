@@ -321,8 +321,8 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/github/Js2Py/js2py/base.py" timestamp="1516447014673">
-        <mark key="'" line="1115" column="36" />
+      <file name="$USER_HOME$/github/Js2Py/js2py/base.py" timestamp="1516536103011">
+        <mark key="'" line="1103" column="14" />
         <mark key="[" line="2384" column="96" />
         <mark key="]" line="2384" column="96" />
         <mark key="." line="2384" column="96" />
@@ -445,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
       <jump line="56" column="57" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
       <jump line="63" column="185" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
       <jump line="48" column="8" filename="$USER_HOME$/.local/lib/python3.6/site-packages/js2py/node_import.py" />
@@ -545,6 +544,7 @@
       <jump line="935" column="8" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="1109" column="23" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
       <jump line="1115" column="36" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
+      <jump line="1103" column="14" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
