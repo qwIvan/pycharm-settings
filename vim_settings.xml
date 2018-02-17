@@ -134,12 +134,12 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="41" />
       </file>
-      <file name="$USER_HOME$/github/microMsg-bot/Dockerfile" timestamp="1518614447068">
+      <file name="$USER_HOME$/github/microMsg-bot/Dockerfile" timestamp="1518899702505">
         <mark key="'" line="0" column="17" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="9" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="9" column="15" />
+        <mark key="[" line="11" column="88" />
+        <mark key="]" line="11" column="88" />
+        <mark key="." line="11" column="88" />
+        <mark key="^" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/teacher-clawer/InfoExtract.py" timestamp="1502862356930">
         <mark key="'" line="6" column="14" />
@@ -378,7 +378,7 @@
       <file name="$USER_HOME$/.local/lib/python3.6/site-packages/itchat/core.py" timestamp="1518893323441">
         <mark key="'" line="26" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516442175282">
+      <file name="/Dummy.txt" timestamp="1518899734941">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="38" />
       </file>
@@ -3795,7 +3795,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym90ID0g</text>
+        <text>&quot;]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfZG93bmxvYWRfZm5cPg==</text>
@@ -3804,28 +3804,28 @@
         <text>.raw.get('Text')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ym90Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V09SS0RJUiAvZGF0YQo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">anNvZgo=</text>
+        <text encoding="base64">Ym90Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgYm90ID0gRW1vdGlvbkJvdChjb25zb2xlX3FyPVRydWUsIGNhY2hlX3BhdGg9J3d4cHlfYm90LnBrbCcpCiAgICBib3Quam9pbigpCg==</text>
+        <text encoding="base64">anNvZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RVhQT1NFIDgwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -4255,7 +4255,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V09SS0RJUiAvZGF0YQo=</text>
+        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgYm90ID0gRW1vdGlvbkJvdChjb25zb2xlX3FyPVRydWUsIGNhY2hlX3BhdGg9J3d4cHlfYm90LnBrbCcpCiAgICBib3Quam9pbigpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4698,10 +4698,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWyhzdHIoZSksIHNlbGYuZ2V0KHN0cihlKSkpIGZvciBlIGluIHhyYW5nZShzZWxmLmdldCgnbGVuZ3RoJykudG9fdWludDMyKCkpXQo=</text>
+        <text encoding="base64">RVhQT1NFIDgwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">anMycHkuZXZhbF9qcygiY29uc29sZS5sb2coJzM0JykiKQo=</text>
+        <text encoding="base64">V09SS0RJUiAvZGF0YQo=</text>
       </register>
       <register name="y" type="4">
         <keys>
