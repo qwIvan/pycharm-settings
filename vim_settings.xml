@@ -463,12 +463,12 @@
         <mark key="." line="20" column="48" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/swufe.py" timestamp="1519934018447">
-        <mark key="'" line="113" column="18" />
-        <mark key="[" line="115" column="23" />
-        <mark key="]" line="115" column="24" />
-        <mark key="." line="115" column="24" />
-        <mark key="^" line="115" column="23" />
+      <file name="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/swufe.py" timestamp="1520262787729">
+        <mark key="'" line="112" column="126" />
+        <mark key="[" line="112" column="119" />
+        <mark key="]" line="112" column="133" />
+        <mark key="." line="112" column="133" />
+        <mark key="^" line="112" column="133" />
       </file>
       <file name="$USER_HOME$/github/Js2Py/js2py/__init__.py" timestamp="1515991662145">
         <mark key="'" line="71" column="29" />
@@ -489,7 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="27" filename="/base.py" />
       <jump line="2383" column="19" filename="/base.py" />
       <jump line="352" column="20" filename="/base.py" />
       <jump line="938" column="17" filename="$USER_HOME$/github/Js2Py/js2py/base.py" />
@@ -589,6 +588,7 @@
       <jump line="115" column="19" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/swufe.py" />
       <jump line="113" column="18" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/swufe.py" />
       <jump line="10" column="15" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/ruc.py" />
+      <jump line="112" column="126" filename="$USER_HOME$/ProfessorScrapy/ProfessorScrapy/spiders/swufe.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3814,7 +3814,7 @@
         <text>0.5</text>
       </register>
       <register name="/" type="4">
-        <text>match</text>
+        <text encoding="base64">XDw4NzM1Mjc4NFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I0RPV05MT0FEX0RFTEFZID0gMwo=</text>
@@ -4792,17 +4792,16 @@
       </register>
     </registers>
     <search>
-      <last-search>match</last-search>
+      <last-search encoding="base64">XDw4NzM1Mjc4NFw+</last-search>
       <last-offset />
-      <last-pattern>match</last-pattern>
+      <last-pattern encoding="base64">XDw4NzM1Mjc4NFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx1cmxzXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>PyJsArguments</entry>
         <entry encoding="base64">XDxQeUpzQXJndW1lbnRzXD4=</entry>
         <entry encoding="base64">XDxPYmplY3RcPg==</entry>
         <entry encoding="base64">XDxvYmplY3RcPg==</entry>
@@ -4822,6 +4821,7 @@
         <entry encoding="base64">XDxwaG9uZVw+</entry>
         <entry>匹配</entry>
         <entry>match</entry>
+        <entry encoding="base64">XDw4NzM1Mjc4NFw+</entry>
       </history-search>
       <history-cmd>
         <entry>YcmCompleter GoTo</entry>
